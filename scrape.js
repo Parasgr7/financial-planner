@@ -101,12 +101,12 @@ async function exportToJSON(data, fileName) {
 
 async function run() {
   try {
-    const email = 'parasgaur316@gmail.com';
-    const password = 'evegaur40@';
+    const email = '*******';
+    const password = '*****';
 
     const { browser, page } = await loginScreener(email, password);
     let detailsData = [];
-    for (let i = 9701; i <= 10000; i++) {
+    for (let i = 1; i <= 10000; i++) {
       const url = `https://www.screener.in/people/${i}/quant-mutual-fund-quant-small-cap-fund/`;
       const {query} = await crawlAndScrape(page, url);
       query.id = i;
