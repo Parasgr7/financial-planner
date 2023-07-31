@@ -1,0 +1,5813 @@
+[
+  {
+    "name": "Borosil Glass Works Limited",
+    "bulkDealsData": [
+      {
+        "date": "Hind.Composites\n15 Mar, 2016",
+        "orderType": "Sell",
+        "quantity": "78,652",
+        "price": "972"
+      },
+      {
+        "date": "Hind.Composites\n21 Oct, 2015",
+        "orderType": "Sell",
+        "quantity": "1,52,975",
+        "price": "1,040"
+      },
+      {
+        "date": "Hind.Composites\n25 Mar, 2015",
+        "orderType": "Buy",
+        "quantity": "1,81,800",
+        "price": "1,100"
+      },
+      {
+        "date": "Hind.Composites\n25 Mar, 2015",
+        "orderType": "BUY",
+        "quantity": "49,827",
+        "price": "1,100"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Guj. Borosil",
+        "result": [
+          {
+            "Dec 2019": 25.25,
+            "Sep 2019": 25.25,
+            "Jun 2019": 25.25,
+            "Mar 2019": 25.25,
+            "Dec 2018": 25.25,
+            "Sep 2018": 25.25,
+            "Jun 2018": 25.25,
+            "Mar 2018": 25.25,
+            "Dec 2017": 25.25,
+            "Sep 2017": 25.25,
+            "Jun 2017": 25.25,
+            "Mar 2017": 25.25,
+            "Dec 2016": 25.25,
+            "Sep 2016": 25.25,
+            "Jun 2016": 25.25
+          }
+        ]
+      }
+    ],
+    "id": 8001
+  },
+  {
+    "name": "Broadfield Holdings Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Guj. Borosil",
+        "result": [
+          {
+            "Dec 2016": 16.57,
+            "Sep 2016": 16.57,
+            "Jun 2016": 16.57
+          }
+        ]
+      }
+    ],
+    "id": 8002
+  },
+  {
+    "name": "Gems Flora Pvt.Ltd.,",
+    "shareHoldings": [
+      {
+        "companyName": "Guj. Borosil",
+        "result": [
+          {
+            "Dec 2018": 1.48,
+            "Sep 2018": 1.48,
+            "Jun 2018": 1.48,
+            "Mar 2018": 1.48,
+            "Dec 2017": 1.48,
+            "Sep 2017": 1.48,
+            "Jun 2017": 1.48,
+            "Mar 2017": 1.48,
+            "Dec 2016": 1.48,
+            "Sep 2016": 1.48,
+            "Jun 2016": 1.48
+          }
+        ]
+      }
+    ],
+    "id": 8003
+  },
+  {
+    "name": "Chandra Kumar Rajgarhia",
+    "shareHoldings": [
+      {
+        "companyName": "Guj. Borosil",
+        "result": [
+          {
+            "Dec 2017": 1.25,
+            "Sep 2017": 1.25,
+            "Jun 2017": 1.25,
+            "Mar 2017": 1.25,
+            "Dec 2016": 1.25,
+            "Sep 2016": 1.25,
+            "Jun 2016": 1.25
+          }
+        ]
+      }
+    ],
+    "id": 8004
+  },
+  {
+    "name": "Shresth Enterprises Pvt.Ltd.",
+    "shareHoldings": [
+      {
+        "companyName": "Guj. Borosil",
+        "result": [
+          {
+            "Dec 2019": 1.06,
+            "Sep 2019": 1.06,
+            "Jun 2019": 1.04,
+            "Mar 2019": 1.04,
+            "Dec 2018": 1.04,
+            "Sep 2018": 1.04,
+            "Jun 2018": 1.04,
+            "Mar 2018": 1.04,
+            "Dec 2017": 1.04,
+            "Sep 2017": 1.04,
+            "Jun 2017": 1.04,
+            "Mar 2017": 1.04,
+            "Dec 2016": 1.04,
+            "Sep 2016": 1.04,
+            "Jun 2016": 1.04
+          }
+        ]
+      }
+    ],
+    "id": 8005
+  },
+  {
+    "name": "Croton Trading Private Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Borosil",
+        "result": [
+          {
+            "Jun 2023": 11.44,
+            "Mar 2023": 11.44,
+            "Dec 2022": 11.44,
+            "Sep 2022": 11.45,
+            "Jun 2022": 11.46,
+            "Mar 2022": 11.46,
+            "Dec 2021": 11.46,
+            "Sep 2021": 11.47,
+            "Jun 2021": 11.47,
+            "Mar 2021": 11.47,
+            "Dec 2020": 11.47,
+            "Sep 2020": 11.47
+          }
+        ]
+      },
+      {
+        "companyName": "Borosil Renew.",
+        "result": [
+          {
+            "Jun 2023": 10.03,
+            "Mar 2023": 10.03,
+            "Dec 2022": 10.03,
+            "Sep 2022": 10.03,
+            "Jun 2022": 10.03,
+            "Mar 2022": 10.04,
+            "Dec 2021": 10.05,
+            "Sep 2021": 10.05,
+            "Jun 2021": 10.05,
+            "Mar 2021": 10.06,
+            "Dec 2020": 10.07,
+            "Sep 2020": 11.47,
+            "Jun 2020": 11.47,
+            "Mar 2020": 11.47,
+            "Dec 2019": 13.13,
+            "Sep 2019": 13.13,
+            "Jun 2019": 13.13,
+            "Mar 2019": 13.13,
+            "Dec 2018": 10.86,
+            "Sep 2018": 10.86,
+            "Jun 2018": 10.86,
+            "Mar 2018": 10.86,
+            "Dec 2017": 10.86,
+            "Sep 2017": 10.86,
+            "Jun 2017": 10.86,
+            "Mar 2017": 10.86,
+            "Dec 2016": 10.86,
+            "Sep 2016": 10.86,
+            "Jun 2016": 10.86
+          }
+        ]
+      },
+      {
+        "companyName": "Guj. Borosil",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 8006
+  },
+  {
+    "name": "Pradeep Kumar Kheruka",
+    "bulkDealsData": [
+      {
+        "date": "Hind.Composites\n15 Mar, 2016",
+        "orderType": "Buy",
+        "quantity": "78,652",
+        "price": "972"
+      },
+      {
+        "date": "Borosil Renew.\n18 Feb, 2016",
+        "orderType": "Buy",
+        "quantity": "1,55,560",
+        "price": "2,512"
+      },
+      {
+        "date": "Borosil Renew.\n26 Feb, 2015",
+        "orderType": "Buy",
+        "quantity": "31,990",
+        "price": "1,673"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Borosil",
+        "result": [
+          {
+            "Jun 2023": 11.57,
+            "Mar 2023": 11.57,
+            "Dec 2022": 11.57,
+            "Sep 2022": 11.57,
+            "Jun 2022": 11.59,
+            "Mar 2022": 11.59,
+            "Dec 2021": 11.59,
+            "Sep 2021": 11.6,
+            "Jun 2021": 11.6,
+            "Mar 2021": 11.6,
+            "Dec 2020": 11.6,
+            "Sep 2020": 11.6
+          }
+        ]
+      },
+      {
+        "companyName": "Borosil Renew.",
+        "result": [
+          {
+            "Jun 2023": 1.43,
+            "Mar 2023": 1.43,
+            "Dec 2022": 1.43,
+            "Sep 2022": 1.43,
+            "Jun 2022": 1.43,
+            "Mar 2022": 1.43,
+            "Dec 2021": 1.44,
+            "Sep 2021": 1.44,
+            "Jun 2021": 1.44,
+            "Mar 2021": 1.44,
+            "Dec 2020": 1.44,
+            "Sep 2020": 2.34,
+            "Jun 2020": 11.6,
+            "Mar 2020": 11.6,
+            "Dec 2019": 11.43,
+            "Sep 2019": 11.43,
+            "Jun 2019": 11.43,
+            "Mar 2019": 11.43,
+            "Dec 2018": 11.43,
+            "Sep 2018": 11.43,
+            "Jun 2018": 11.43,
+            "Mar 2018": 11.43,
+            "Dec 2017": 11.43,
+            "Sep 2017": 11.43,
+            "Jun 2017": 11.43,
+            "Mar 2017": 11.43,
+            "Dec 2016": 11.43,
+            "Sep 2016": 11.43,
+            "Jun 2016": 11.43
+          }
+        ]
+      },
+      {
+        "companyName": "Guj. Borosil",
+        "result": [
+          {
+            "Dec 2019": 5.52,
+            "Sep 2019": 5.52,
+            "Jun 2019": 5.52,
+            "Mar 2019": 5.52,
+            "Dec 2018": 5.52,
+            "Sep 2018": 5.52,
+            "Jun 2018": 16.57,
+            "Mar 2018": 16.57,
+            "Dec 2017": 16.57,
+            "Sep 2017": 16.57,
+            "Jun 2017": 16.57,
+            "Mar 2017": 16.57
+          }
+        ]
+      },
+      {
+        "companyName": "Hind.Composites",
+        "result": [
+          {
+            "Dec 2016": 1.6,
+            "Sep 2016": 1.6,
+            "Jun 2016": 1.6
+          }
+        ]
+      }
+    ],
+    "id": 8007
+  },
+  {
+    "name": "Bajranglal Kheruka",
+    "bulkDealsData": [
+      {
+        "date": "Borosil Renew.\n18 Feb, 2016",
+        "orderType": "Buy",
+        "quantity": "1,75,560",
+        "price": "2,455"
+      },
+      {
+        "date": "Borosil Renew.\n26 Feb, 2015",
+        "orderType": "Buy",
+        "quantity": "31,990",
+        "price": "1,673"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Borosil",
+        "result": [
+          {
+            "Dec 2021": 12.15,
+            "Sep 2021": 12.15,
+            "Jun 2021": 12.15,
+            "Mar 2021": 12.15,
+            "Dec 2020": 12.16,
+            "Sep 2020": 12.16
+          }
+        ]
+      },
+      {
+        "companyName": "Borosil Renew.",
+        "result": [
+          {
+            "Dec 2021": 1.92,
+            "Sep 2021": 1.92,
+            "Jun 2021": 1.92,
+            "Mar 2021": 1.93,
+            "Dec 2020": 1.93,
+            "Sep 2020": 2.2,
+            "Jun 2020": 12.16,
+            "Mar 2020": 12.16,
+            "Dec 2019": 12.3,
+            "Sep 2019": 12.3,
+            "Jun 2019": 12.3,
+            "Mar 2019": 12.3,
+            "Dec 2018": 12.3,
+            "Sep 2018": 12.3,
+            "Jun 2018": 12.3,
+            "Mar 2018": 12.3,
+            "Dec 2017": 12.3,
+            "Sep 2017": 12.3,
+            "Jun 2017": 12.3,
+            "Mar 2017": 12.3,
+            "Dec 2016": 12.29,
+            "Sep 2016": 12.29,
+            "Jun 2016": 12.29
+          }
+        ]
+      },
+      {
+        "companyName": "Guj. Borosil",
+        "result": [
+          {
+            "Dec 2019": 5.52,
+            "Sep 2019": 5.52,
+            "Jun 2019": 5.52,
+            "Mar 2019": 5.52,
+            "Dec 2018": 5.52,
+            "Sep 2018": 5.52
+          }
+        ]
+      }
+    ],
+    "id": 8008
+  },
+  {
+    "name": "Shreevar Kheruka",
+    "shareHoldings": [
+      {
+        "companyName": "Borosil",
+        "result": [
+          {
+            "Jun 2023": 1.71,
+            "Mar 2023": 1.71,
+            "Dec 2022": 1.71,
+            "Sep 2022": 1.71,
+            "Jun 2022": 1.71,
+            "Mar 2022": 1.71,
+            "Dec 2021": 1.71,
+            "Sep 2021": 1.71,
+            "Jun 2021": 1.71,
+            "Mar 2021": 1.71,
+            "Dec 2020": 1.71,
+            "Sep 2020": 1.71
+          }
+        ]
+      },
+      {
+        "companyName": "Borosil Renew.",
+        "result": [
+          {
+            "Jun 2023": 1.5,
+            "Mar 2023": 1.5,
+            "Dec 2022": 1.5,
+            "Sep 2022": 1.5,
+            "Jun 2022": 1.5,
+            "Mar 2022": 1.5,
+            "Dec 2021": 1.5,
+            "Sep 2021": 1.5,
+            "Jun 2021": 1.5,
+            "Mar 2021": 1.5,
+            "Dec 2020": 1.5,
+            "Sep 2020": 1.71,
+            "Jun 2020": 1.71,
+            "Mar 2020": 1.71,
+            "Sep 2017": 0.3,
+            "Jun 2017": 1.08,
+            "Mar 2017": 1.08,
+            "Dec 2016": 1.08,
+            "Sep 2016": 1.08,
+            "Jun 2016": 1.08
+          }
+        ]
+      },
+      {
+        "companyName": "Guj. Borosil",
+        "result": [
+          {
+            "Dec 2019": 5.52,
+            "Sep 2019": 5.52,
+            "Jun 2019": 5.52,
+            "Mar 2019": 5.52,
+            "Dec 2018": 5.52,
+            "Sep 2018": 5.52
+          }
+        ]
+      }
+    ],
+    "id": 8009
+  },
+  {
+    "name": "Dhunseri Investments Ltd.",
+    "bulkDealsData": [
+      {
+        "date": "Oil Country\n21 Mar, 2018",
+        "orderType": "SELL",
+        "quantity": "2,34,874",
+        "price": "35.2"
+      },
+      {
+        "date": "Oil Country\n10 Aug, 2017",
+        "orderType": "BUY",
+        "quantity": "2,34,874",
+        "price": "43.8"
+      },
+      {
+        "date": "Dhunseri Tea\n06 Apr, 2016",
+        "orderType": "BUY",
+        "quantity": "83,541",
+        "price": "245"
+      },
+      {
+        "date": "Dhunseri Vent.\n30 Jun, 2015",
+        "orderType": "Buy",
+        "quantity": "31,95,767",
+        "price": "72.0"
+      },
+      {
+        "date": "Dhunseri Tea\n30 Jun, 2015",
+        "orderType": "Buy",
+        "quantity": "3,29,010",
+        "price": "211"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Jun 2023": 45.77,
+            "Mar 2023": 45.77,
+            "Dec 2022": 45.77,
+            "Sep 2022": 45.77,
+            "Jun 2022": 45.77,
+            "Mar 2022": 45.77,
+            "Dec 2021": 45.77,
+            "Sep 2021": 45.77,
+            "Jun 2021": 45.77,
+            "Mar 2021": 45.77,
+            "Dec 2020": 45.77,
+            "Sep 2020": 45.77,
+            "Jun 2020": 45.77,
+            "Mar 2020": 45.77,
+            "Dec 2019": 45.77,
+            "Sep 2019": 45.77,
+            "Jun 2019": 45.77,
+            "Mar 2019": 45.77,
+            "Dec 2018": 45.77,
+            "Sep 2018": 45.77,
+            "Jun 2018": 45.77,
+            "Mar 2018": 45.77,
+            "Dec 2017": 45.77,
+            "Sep 2017": 45.77,
+            "Jun 2017": 45.77,
+            "Mar 2017": 45.77,
+            "Dec 2016": 45.77,
+            "Sep 2016": 45.77,
+            "Jun 2016": 45.77
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Vent.",
+        "result": [
+          {
+            "Jun 2023": 56.44,
+            "Mar 2023": 56.44,
+            "Dec 2022": 56.44,
+            "Sep 2022": 56.44,
+            "Jun 2022": 56.44,
+            "Mar 2022": 56.44,
+            "Dec 2021": 56.44,
+            "Sep 2021": 56.44,
+            "Jun 2021": 56.44,
+            "Mar 2021": 56.44,
+            "Dec 2020": 56.44,
+            "Sep 2020": 56.44,
+            "Jun 2020": 56.44,
+            "Mar 2020": 56.44,
+            "Dec 2019": 56.3,
+            "Sep 2019": 56.26,
+            "Jun 2019": 56.26,
+            "Mar 2019": 56.26,
+            "Dec 2018": 56.26,
+            "Sep 2018": 56.06,
+            "Jun 2018": 55.93,
+            "Mar 2018": 55.79,
+            "Dec 2017": 55.79,
+            "Sep 2017": 55.64,
+            "Jun 2017": 54.3,
+            "Mar 2017": 53.88,
+            "Dec 2016": 53.88,
+            "Sep 2016": 53.88,
+            "Jun 2016": 50.01
+          }
+        ]
+      }
+    ],
+    "id": 8010
+  },
+  {
+    "name": "Naga Dhunseri Group Ltd",
+    "bulkDealsData": [
+      {
+        "date": "Easun Reyrolle\n22 Jul, 2021",
+        "orderType": "Sell",
+        "quantity": "4,39,498",
+        "price": "2.80"
+      },
+      {
+        "date": "Bhagiradha Chem.\n28 Jan, 2021",
+        "orderType": "Sell",
+        "quantity": "68,654",
+        "price": "313"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Invest.",
+        "result": [
+          {
+            "Jun 2023": 21.59,
+            "Mar 2023": 21.59,
+            "Dec 2022": 21.59,
+            "Sep 2022": 21.59,
+            "Jun 2022": 21.59,
+            "Mar 2022": 21.59,
+            "Dec 2021": 21.59,
+            "Sep 2021": 21.59,
+            "Jun 2021": 21.59,
+            "Mar 2021": 21.59,
+            "Dec 2020": 21.59,
+            "Sep 2020": 21.59,
+            "Jun 2020": 21.59,
+            "Mar 2020": 21.59,
+            "Dec 2019": 21.59,
+            "Sep 2019": 21.59,
+            "Jun 2019": 21.59,
+            "Mar 2019": 21.59,
+            "Dec 2018": 21.59,
+            "Sep 2018": 21.59,
+            "Jun 2018": 21.59,
+            "Mar 2018": 21.59,
+            "Dec 2017": 21.59,
+            "Sep 2017": 21.59,
+            "Jun 2017": 21.59,
+            "Mar 2017": 21.59,
+            "Dec 2016": 21.59,
+            "Sep 2016": 21.59,
+            "Jun 2016": 21.59
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Jun 2023": 8.79,
+            "Mar 2023": 8.79,
+            "Dec 2022": 8.79,
+            "Sep 2022": 8.79,
+            "Jun 2022": 8.79,
+            "Mar 2022": 8.79,
+            "Dec 2021": 8.79,
+            "Sep 2021": 8.79,
+            "Jun 2021": 8.79,
+            "Mar 2021": 8.79,
+            "Dec 2020": 8.79,
+            "Sep 2020": 8.79,
+            "Jun 2020": 8.79,
+            "Mar 2020": 8.79,
+            "Dec 2019": 8.79,
+            "Sep 2019": 8.79,
+            "Jun 2019": 8.79,
+            "Mar 2019": 8.79,
+            "Dec 2018": 8.79,
+            "Sep 2018": 8.79,
+            "Jun 2018": 8.79,
+            "Mar 2018": 8.79,
+            "Dec 2017": 8.79,
+            "Sep 2017": 8.79,
+            "Jun 2017": 8.79,
+            "Mar 2017": 8.79,
+            "Dec 2016": 8.79,
+            "Sep 2016": 8.79,
+            "Jun 2016": 8.79
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Vent.",
+        "result": [
+          {
+            "Jun 2023": 8.79,
+            "Mar 2023": 8.79,
+            "Dec 2022": 8.79,
+            "Sep 2022": 8.79,
+            "Jun 2022": 8.79,
+            "Mar 2022": 8.79,
+            "Dec 2021": 8.79,
+            "Sep 2021": 8.79,
+            "Jun 2021": 8.79,
+            "Mar 2021": 8.79,
+            "Dec 2020": 8.79,
+            "Sep 2020": 8.79,
+            "Jun 2020": 8.79,
+            "Mar 2020": 8.79,
+            "Dec 2019": 8.79,
+            "Sep 2019": 8.79,
+            "Jun 2019": 8.79,
+            "Mar 2019": 8.79,
+            "Dec 2018": 8.79,
+            "Sep 2018": 8.79,
+            "Jun 2018": 8.79,
+            "Mar 2018": 8.79,
+            "Dec 2017": 8.79,
+            "Sep 2017": 8.79,
+            "Jun 2017": 8.79,
+            "Mar 2017": 8.79,
+            "Dec 2016": 8.79,
+            "Sep 2016": 8.79,
+            "Jun 2016": 8.79
+          }
+        ]
+      },
+      {
+        "companyName": "Easun Reyrolle",
+        "result": [
+          {
+            "Jun 2021": 1.98,
+            "Mar 2021": 2.53,
+            "Dec 2020": 2.53,
+            "Sep 2020": 2.53,
+            "Jun 2020": 2.53,
+            "Mar 2020": 2.53,
+            "Dec 2019": 2.53,
+            "Sep 2019": 2.53,
+            "Jun 2019": 2.32,
+            "Mar 2019": 2.32,
+            "Dec 2018": 2.32,
+            "Sep 2018": 2.32,
+            "Jun 2018": 2.27
+          }
+        ]
+      }
+    ],
+    "id": 8011
+  },
+  {
+    "name": "Pan Emami Cosmed Limited",
+    "bulkDealsData": [
+      {
+        "date": "Star Paper Mills\n08 Dec, 2017",
+        "orderType": "SELL",
+        "quantity": "22,970",
+        "price": "236"
+      },
+      {
+        "date": "Star Paper Mills\n08 Dec, 2017",
+        "orderType": "BUY",
+        "quantity": "82,970",
+        "price": "229"
+      },
+      {
+        "date": "Dhunseri Tea\n17 Oct, 2016",
+        "orderType": "SELL",
+        "quantity": "3,40,000",
+        "price": "288"
+      },
+      {
+        "date": "Singer India\n21 Jul, 2015",
+        "orderType": "Sell",
+        "quantity": "57,220",
+        "price": "201"
+      },
+      {
+        "date": "Singer India\n03 Jul, 2015",
+        "orderType": "Buy",
+        "quantity": "1,50,000",
+        "price": "217"
+      },
+      {
+        "date": "Dhunseri Tea\n02 Jul, 2015",
+        "orderType": "Buy",
+        "quantity": "1,70,000",
+        "price": "216"
+      },
+      {
+        "date": "Dhunseri Tea\n30 Jun, 2015",
+        "orderType": "Buy",
+        "quantity": "1,70,000",
+        "price": "211"
+      },
+      {
+        "date": "K S Oils\n23 Mar, 2015",
+        "orderType": "Sell",
+        "quantity": "25,00,000",
+        "price": "0.92"
+      },
+      {
+        "date": "K S Oils\n05 Nov, 2014",
+        "orderType": "Buy",
+        "quantity": "25,00,000",
+        "price": "1.69"
+      },
+      {
+        "date": "GEE\n02 May, 2013",
+        "orderType": "Sell",
+        "quantity": "11,00,000",
+        "price": "22.8"
+      },
+      {
+        "date": "GEE\n30 Apr, 2013",
+        "orderType": "Sell",
+        "quantity": "11,50,000",
+        "price": "25.2"
+      },
+      {
+        "date": "Intrasoft Tech.\n27 Apr, 2010",
+        "orderType": "BUY",
+        "quantity": "1,00,000",
+        "price": "126"
+      },
+      {
+        "date": "Intrasoft Tech.\n26 Apr, 2010",
+        "orderType": "BUY",
+        "quantity": "1,00,000",
+        "price": "132"
+      },
+      {
+        "date": "Sakthi Sugars\n17 Aug, 2009",
+        "orderType": "BUY",
+        "quantity": "1,75,683",
+        "price": "89.7"
+      },
+      {
+        "date": "Gokul Refoils\n04 Jun, 2008",
+        "orderType": "BUY",
+        "quantity": "1,71,362",
+        "price": "199"
+      },
+      {
+        "date": "Gokul Refoils\n04 Jun, 2008",
+        "orderType": "SELL",
+        "quantity": "50,000",
+        "price": "182"
+      },
+      {
+        "date": "Sh. Rama Multi.\n26 Nov, 2007",
+        "orderType": "SELL",
+        "quantity": "24,50,000",
+        "price": "6.36"
+      },
+      {
+        "date": "Sh. Rama Multi.\n26 Nov, 2007",
+        "orderType": "SELL",
+        "quantity": "5,00,000",
+        "price": "6.40"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Jun 2016": 4.85
+          }
+        ]
+      },
+      {
+        "companyName": "Emami Realty Ltd",
+        "result": [
+          {}
+        ]
+      },
+      {
+        "companyName": "Kiran Vyapar",
+        "result": [
+          {
+            "Sep 2021": 4.86,
+            "Jun 2021": 4.86,
+            "Mar 2021": 4.86,
+            "Dec 2020": 4.86,
+            "Sep 2020": 4.86,
+            "Jun 2020": 4.86,
+            "Mar 2020": 4.86,
+            "Dec 2019": 4.86,
+            "Sep 2019": 4.68,
+            "Jun 2019": 4.68,
+            "Mar 2019": 4.68,
+            "Mar 2017": 4.92,
+            "Dec 2016": 4.92,
+            "Sep 2016": 4.92,
+            "Jun 2016": 4.92
+          }
+        ]
+      },
+      {
+        "companyName": "Polo Queen Ind.",
+        "result": [
+          {
+            "Sep 2021": 6.11,
+            "Jun 2021": 6.11,
+            "Mar 2021": 6.11,
+            "Dec 2020": 6.11,
+            "Sep 2020": 6.11,
+            "Jun 2020": 6.11,
+            "Mar 2020": 6.11,
+            "Dec 2019": 6.11,
+            "Sep 2019": 6.11,
+            "Jun 2019": 6.11,
+            "Mar 2019": 6.11,
+            "Dec 2018": 6.11,
+            "Sep 2018": 6.11,
+            "Jun 2018": 6.11,
+            "Mar 2018": 6.11,
+            "Dec 2017": 6.11,
+            "Sep 2017": 6.11
+          }
+        ]
+      },
+      {
+        "companyName": "Singer India",
+        "result": [
+          {
+            "Dec 2017": 1.47,
+            "Sep 2017": 1.47,
+            "Jun 2017": 1.47,
+            "Mar 2017": 1.67,
+            "Dec 2016": 1.67,
+            "Sep 2016": 1.92,
+            "Jun 2016": 1.92
+          }
+        ]
+      }
+    ],
+    "id": 8012
+  },
+  {
+    "name": "Mint Investments Ltd",
+    "bulkDealsData": [
+      {
+        "date": "Dhunseri Invest.\n08 Sep, 2015",
+        "orderType": "BUY",
+        "quantity": "3,00,071",
+        "price": "136"
+      },
+      {
+        "date": "Dhunseri Vent.\n30 Jun, 2015",
+        "orderType": "Buy",
+        "quantity": "5,99,287",
+        "price": "72.0"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Invest.",
+        "result": [
+          {
+            "Jun 2023": 45.16,
+            "Mar 2023": 45.16,
+            "Dec 2022": 45.16,
+            "Sep 2022": 45.16,
+            "Jun 2022": 45.16,
+            "Mar 2022": 45.16,
+            "Dec 2021": 45.16,
+            "Sep 2021": 45.16,
+            "Jun 2021": 45.16,
+            "Mar 2021": 45.16,
+            "Dec 2020": 45.16,
+            "Sep 2020": 45.16,
+            "Jun 2020": 45.16,
+            "Mar 2020": 45.16,
+            "Dec 2019": 45.16,
+            "Sep 2019": 45.16,
+            "Jun 2019": 45.16,
+            "Mar 2019": 45.16,
+            "Dec 2018": 45.16,
+            "Sep 2018": 45.16,
+            "Jun 2018": 45.16,
+            "Mar 2018": 45.16,
+            "Dec 2017": 45.16,
+            "Sep 2017": 45.16,
+            "Jun 2017": 45.16,
+            "Mar 2017": 45.16,
+            "Dec 2016": 45.16,
+            "Sep 2016": 45.16,
+            "Jun 2016": 45.16
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Jun 2023": 4.23,
+            "Mar 2023": 4.23,
+            "Dec 2022": 4.23,
+            "Sep 2022": 4.23,
+            "Jun 2022": 4.23,
+            "Mar 2022": 4.23,
+            "Dec 2021": 4.23,
+            "Sep 2021": 4.23,
+            "Jun 2021": 4.23,
+            "Mar 2021": 4.23,
+            "Dec 2020": 4.23,
+            "Sep 2020": 4.23,
+            "Jun 2020": 4.23,
+            "Mar 2020": 4.23,
+            "Dec 2019": 4.23,
+            "Sep 2019": 4.23,
+            "Jun 2019": 4.23,
+            "Mar 2019": 4.23,
+            "Dec 2018": 4.23,
+            "Sep 2018": 4.23,
+            "Jun 2018": 4.23,
+            "Mar 2018": 4.23,
+            "Dec 2017": 4.23,
+            "Sep 2017": 4.23,
+            "Jun 2017": 4.23,
+            "Mar 2017": 4.23,
+            "Dec 2016": 4.23,
+            "Sep 2016": 4.23,
+            "Jun 2016": 4.23
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Vent.",
+        "result": [
+          {
+            "Jun 2023": 5.94,
+            "Mar 2023": 5.94,
+            "Dec 2022": 5.94,
+            "Sep 2022": 5.94,
+            "Jun 2022": 5.94,
+            "Mar 2022": 5.94,
+            "Dec 2021": 5.94,
+            "Sep 2021": 5.94,
+            "Jun 2021": 5.94,
+            "Mar 2021": 5.94,
+            "Dec 2020": 5.94,
+            "Sep 2020": 5.94,
+            "Jun 2020": 5.94,
+            "Mar 2020": 5.94,
+            "Dec 2019": 5.94,
+            "Sep 2019": 5.94,
+            "Jun 2019": 5.94,
+            "Mar 2019": 5.94,
+            "Dec 2018": 5.94,
+            "Sep 2018": 5.94,
+            "Jun 2018": 5.94,
+            "Mar 2018": 5.94,
+            "Dec 2017": 5.94,
+            "Sep 2017": 5.94,
+            "Jun 2017": 5.94,
+            "Mar 2017": 5.94,
+            "Dec 2016": 5.94,
+            "Sep 2016": 5.94,
+            "Jun 2016": 5.81
+          }
+        ]
+      }
+    ],
+    "id": 8013
+  },
+  {
+    "name": "West Bengal Industrial Development Corporation Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Jun 2023": 2.61,
+            "Mar 2023": 2.61,
+            "Dec 2022": 2.61,
+            "Sep 2022": 2.61,
+            "Jun 2022": 2.61,
+            "Mar 2022": 2.61,
+            "Dec 2021": 2.61,
+            "Sep 2021": 2.61,
+            "Jun 2021": 2.61,
+            "Mar 2021": 2.61,
+            "Dec 2020": 2.61,
+            "Sep 2020": 2.61,
+            "Jun 2020": 2.61,
+            "Mar 2020": 2.61,
+            "Dec 2019": 2.61,
+            "Sep 2019": 2.61,
+            "Jun 2019": 2.61,
+            "Mar 2019": 2.61,
+            "Dec 2018": 2.61,
+            "Sep 2018": 2.61,
+            "Jun 2018": 2.61,
+            "Mar 2018": 2.61,
+            "Dec 2017": 2.61,
+            "Sep 2017": 2.61,
+            "Jun 2017": 2.61,
+            "Mar 2017": 2.61,
+            "Dec 2016": 2.61,
+            "Jun 2016": 2.61
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Vent.",
+        "result": [
+          {
+            "Jun 2023": 2.61,
+            "Mar 2023": 2.61,
+            "Dec 2022": 2.61,
+            "Sep 2022": 2.61,
+            "Jun 2022": 2.61,
+            "Mar 2022": 2.61,
+            "Dec 2021": 2.61,
+            "Sep 2021": 2.61,
+            "Jun 2021": 2.61,
+            "Mar 2021": 2.61,
+            "Dec 2020": 2.61,
+            "Sep 2020": 2.61,
+            "Jun 2020": 2.61,
+            "Mar 2020": 2.61,
+            "Dec 2019": 2.61,
+            "Sep 2019": 2.61,
+            "Jun 2019": 2.61,
+            "Mar 2019": 2.61,
+            "Dec 2018": 2.61,
+            "Sep 2018": 2.61,
+            "Jun 2018": 2.61,
+            "Mar 2018": 2.61,
+            "Dec 2017": 2.61,
+            "Sep 2017": 2.61,
+            "Jun 2017": 2.61,
+            "Mar 2017": 2.61,
+            "Dec 2016": 2.61,
+            "Sep 2016": 2.61,
+            "Jun 2016": 2.61
+          }
+        ]
+      },
+      {
+        "companyName": "Nicco Parks",
+        "result": [
+          {
+            "Jun 2023": 12.93,
+            "Mar 2023": 12.93,
+            "Dec 2022": 12.93,
+            "Sep 2022": 12.93,
+            "Jun 2022": 12.93,
+            "Mar 2022": 12.93,
+            "Dec 2021": 12.93,
+            "Sep 2021": 12.93,
+            "Jun 2021": 12.93,
+            "Mar 2021": 12.93,
+            "Dec 2020": 12.93,
+            "Sep 2020": 12.93,
+            "Jun 2020": 12.93,
+            "Mar 2020": 12.93,
+            "Dec 2019": 12.93,
+            "Sep 2019": 12.93,
+            "Jun 2019": 12.93,
+            "Mar 2019": 12.93,
+            "Dec 2018": 12.93,
+            "Sep 2018": 12.93,
+            "Jun 2018": 12.93,
+            "Mar 2018": 12.93,
+            "Dec 2017": 12.93,
+            "Sep 2017": 12.93,
+            "Jun 2017": 12.93,
+            "Mar 2017": 12.93,
+            "Dec 2016": 12.93,
+            "Sep 2016": 12.93,
+            "Jun 2016": 12.93
+          }
+        ]
+      }
+    ],
+    "id": 8014
+  },
+  {
+    "name": "L And T Mutual Fund Trustee Ltd-L And T Dynamic Equity Fund",
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Sep 2017": 1.9,
+            "Jun 2017": 2.67,
+            "Mar 2017": 2.72,
+            "Dec 2016": 2.51,
+            "Sep 2016": 2.38,
+            "Jun 2016": 2.32
+          }
+        ]
+      },
+      {
+        "companyName": "Emami Paper",
+        "result": [
+          {
+            "Mar 2019": 6.94,
+            "Dec 2018": 6.94,
+            "Sep 2018": 6.94,
+            "Jun 2018": 6.89,
+            "Mar 2018": 6.83
+          }
+        ]
+      }
+    ],
+    "id": 8015
+  },
+  {
+    "name": "Chandra Kumar Dhanuka Karta Of Shankarlal Chandra Kumar (Huf)",
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Invest.",
+        "result": [
+          {
+            "Jun 2023": 3.28,
+            "Mar 2023": 3.28,
+            "Dec 2022": 3.28,
+            "Sep 2022": 3.28,
+            "Jun 2022": 3.28,
+            "Mar 2022": 3.28,
+            "Dec 2021": 3.28,
+            "Sep 2021": 3.28,
+            "Jun 2021": 3.28,
+            "Mar 2021": 3.28,
+            "Dec 2020": 3.28,
+            "Sep 2020": 3.28,
+            "Jun 2020": 3.28,
+            "Mar 2020": 3.28,
+            "Dec 2019": 3.28,
+            "Sep 2019": 3.28,
+            "Jun 2019": 3.28,
+            "Mar 2019": 3.28,
+            "Dec 2018": 3.28,
+            "Sep 2018": 3.28,
+            "Jun 2018": 3.28,
+            "Mar 2018": 3.28,
+            "Dec 2017": 3.28,
+            "Sep 2017": 3.28,
+            "Jun 2017": 3.28,
+            "Mar 2017": 3.28,
+            "Dec 2016": 3.28,
+            "Sep 2016": 3.28,
+            "Jun 2016": 3.28
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Jun 2023": 1.14,
+            "Mar 2023": 1.14,
+            "Dec 2022": 1.14,
+            "Sep 2022": 1.14,
+            "Jun 2022": 1.14,
+            "Mar 2022": 1.14,
+            "Dec 2021": 1.14,
+            "Sep 2021": 1.14,
+            "Jun 2021": 1.14,
+            "Mar 2021": 1.14,
+            "Dec 2020": 1.14,
+            "Sep 2020": 1.14,
+            "Jun 2020": 1.14,
+            "Mar 2020": 1.14,
+            "Dec 2019": 1.14,
+            "Sep 2019": 1.14,
+            "Jun 2019": 1.14,
+            "Mar 2019": 1.14,
+            "Dec 2018": 1.14,
+            "Sep 2018": 1.14,
+            "Jun 2018": 1.14,
+            "Mar 2018": 1.14,
+            "Dec 2017": 1.14,
+            "Sep 2017": 1.14,
+            "Jun 2017": 1.14,
+            "Mar 2017": 1.14,
+            "Dec 2016": 1.14,
+            "Sep 2016": 1.14,
+            "Jun 2016": 1.14
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Vent.",
+        "result": [
+          {
+            "Jun 2023": 1.16,
+            "Mar 2023": 1.16,
+            "Dec 2022": 1.16,
+            "Sep 2022": 1.16,
+            "Jun 2022": 1.16,
+            "Mar 2022": 1.16,
+            "Dec 2021": 1.16,
+            "Sep 2021": 1.16,
+            "Jun 2021": 1.16,
+            "Mar 2021": 1.16,
+            "Dec 2020": 1.16,
+            "Sep 2020": 1.16,
+            "Jun 2020": 1.16,
+            "Mar 2020": 1.16,
+            "Dec 2019": 1.16,
+            "Sep 2019": 1.16,
+            "Jun 2019": 1.16,
+            "Mar 2019": 1.16,
+            "Dec 2018": 1.16,
+            "Sep 2018": 1.16,
+            "Jun 2018": 1.16,
+            "Mar 2018": 1.16,
+            "Dec 2017": 1.16,
+            "Sep 2017": 1.16,
+            "Jun 2017": 1.16,
+            "Mar 2017": 1.16,
+            "Dec 2016": 1.16,
+            "Sep 2016": 1.16,
+            "Jun 2016": 1.16
+          }
+        ]
+      }
+    ],
+    "id": 8016
+  },
+  {
+    "name": "Trimplex Investments Ltd.",
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Jun 2023": 0.82,
+            "Mar 2023": 0.82,
+            "Dec 2022": 0.82,
+            "Sep 2022": 0.82,
+            "Jun 2022": 0.82,
+            "Mar 2022": 0.82,
+            "Dec 2021": 0.82,
+            "Sep 2021": 0.82,
+            "Jun 2021": 0.82,
+            "Mar 2021": 0.82,
+            "Dec 2020": 0.82,
+            "Sep 2020": 0.82,
+            "Jun 2020": 0.82,
+            "Mar 2020": 0.82,
+            "Dec 2019": 0.82,
+            "Sep 2019": 0.82,
+            "Jun 2019": 0.82,
+            "Mar 2019": 0.82,
+            "Dec 2018": 0.82,
+            "Sep 2018": 0.82,
+            "Jun 2018": 0.82,
+            "Mar 2018": 0.82,
+            "Dec 2017": 0.82,
+            "Sep 2017": 0.82,
+            "Jun 2017": 0.82,
+            "Mar 2017": 0.82,
+            "Dec 2016": 0.82,
+            "Sep 2016": 0.82,
+            "Jun 2016": 0.82
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Vent.",
+        "result": [
+          {
+            "Jun 2023": 0.82,
+            "Mar 2023": 0.82,
+            "Dec 2022": 0.82,
+            "Sep 2022": 0.82,
+            "Jun 2022": 0.82,
+            "Mar 2022": 0.82,
+            "Dec 2021": 0.82,
+            "Sep 2021": 0.82,
+            "Jun 2021": 0.82,
+            "Mar 2021": 0.82,
+            "Dec 2020": 0.82,
+            "Sep 2020": 0.82,
+            "Jun 2020": 0.82,
+            "Mar 2020": 0.82,
+            "Dec 2019": 0.82,
+            "Sep 2019": 0.82,
+            "Jun 2019": 0.82,
+            "Mar 2019": 0.82,
+            "Dec 2018": 0.82,
+            "Sep 2018": 0.82,
+            "Jun 2018": 0.82,
+            "Mar 2018": 0.82,
+            "Dec 2017": 0.82,
+            "Sep 2017": 0.82,
+            "Jun 2017": 0.82,
+            "Mar 2017": 0.82,
+            "Dec 2016": 0.82,
+            "Sep 2016": 0.82,
+            "Jun 2016": 0.82
+          }
+        ]
+      }
+    ],
+    "id": 8017
+  },
+  {
+    "name": "Mrigank Dhanuka",
+    "bulkDealsData": [
+      {
+        "date": "Oil Country\n10 Aug, 2017",
+        "orderType": "SELL",
+        "quantity": "2,34,874",
+        "price": "43.8"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Invest.",
+        "result": [
+          {
+            "Jun 2023": 1.12,
+            "Mar 2023": 1.12,
+            "Dec 2022": 1.12,
+            "Sep 2022": 1.12,
+            "Jun 2022": 1.12,
+            "Mar 2022": 1.12,
+            "Dec 2021": 1.12,
+            "Sep 2021": 1.12,
+            "Jun 2021": 1.12,
+            "Mar 2021": 1.12,
+            "Dec 2020": 1.12,
+            "Sep 2020": 1.12,
+            "Jun 2020": 1.12,
+            "Mar 2020": 1.12,
+            "Dec 2019": 1.12,
+            "Sep 2019": 1.12,
+            "Jun 2019": 1.12,
+            "Mar 2019": 1.12,
+            "Dec 2018": 1.12,
+            "Sep 2018": 1.12,
+            "Jun 2018": 1.12,
+            "Mar 2018": 1.12,
+            "Dec 2017": 1.12,
+            "Sep 2017": 1.12,
+            "Jun 2017": 1.12,
+            "Mar 2017": 1.12,
+            "Dec 2016": 1.12,
+            "Sep 2016": 1.12,
+            "Jun 2016": 1.12
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Jun 2023": 0.33,
+            "Mar 2023": 0.33,
+            "Dec 2022": 0.33,
+            "Sep 2022": 0.33,
+            "Jun 2022": 0.33,
+            "Mar 2022": 0.33,
+            "Dec 2021": 0.33,
+            "Sep 2021": 0.33,
+            "Jun 2021": 0.33,
+            "Mar 2021": 0.33,
+            "Dec 2020": 0.33,
+            "Sep 2020": 0.33,
+            "Jun 2020": 0.33,
+            "Mar 2020": 0.33,
+            "Dec 2019": 0.33,
+            "Sep 2019": 0.33,
+            "Jun 2019": 0.33,
+            "Mar 2019": 0.33,
+            "Dec 2018": 0.33,
+            "Sep 2018": 0.33,
+            "Jun 2018": 0.33,
+            "Mar 2018": 0.33,
+            "Dec 2017": 0.33,
+            "Sep 2017": 0.33,
+            "Jun 2017": 0.33,
+            "Mar 2017": 0.33,
+            "Dec 2016": 0.33,
+            "Sep 2016": 0.33,
+            "Jun 2016": 0.33
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Vent.",
+        "result": [
+          {
+            "Jun 2023": 0.33,
+            "Mar 2023": 0.33,
+            "Dec 2022": 0.33,
+            "Sep 2022": 0.33,
+            "Jun 2022": 0.33,
+            "Mar 2022": 0.33,
+            "Dec 2021": 0.33,
+            "Sep 2021": 0.33,
+            "Jun 2021": 0.33,
+            "Mar 2021": 0.33,
+            "Dec 2020": 0.33,
+            "Sep 2020": 0.33,
+            "Jun 2020": 0.33,
+            "Mar 2020": 0.33,
+            "Dec 2019": 0.33,
+            "Sep 2019": 0.33,
+            "Jun 2019": 0.33,
+            "Mar 2019": 0.33,
+            "Dec 2018": 0.33,
+            "Sep 2018": 0.33,
+            "Jun 2018": 0.33,
+            "Mar 2018": 0.33,
+            "Dec 2017": 0.33,
+            "Sep 2017": 0.33,
+            "Jun 2017": 0.33,
+            "Mar 2017": 0.33,
+            "Dec 2016": 0.33,
+            "Sep 2016": 0.33,
+            "Jun 2016": 0.33
+          }
+        ]
+      }
+    ],
+    "id": 8018
+  },
+  {
+    "name": "Mrigank Dhanuka C/O Aman Dhanuka Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Invest.",
+        "result": [
+          {
+            "Sep 2020": 0.57,
+            "Jun 2020": 0.57,
+            "Mar 2020": 0.57,
+            "Dec 2019": 0.57,
+            "Sep 2019": 0.57,
+            "Jun 2019": 0.57,
+            "Mar 2019": 0.57,
+            "Dec 2018": 0.57,
+            "Sep 2018": 0.57,
+            "Jun 2018": 0.57,
+            "Mar 2018": 0.57,
+            "Dec 2017": 0.57,
+            "Sep 2017": 0.57,
+            "Jun 2017": 0.57,
+            "Mar 2017": 0.57,
+            "Dec 2016": 0.57,
+            "Sep 2016": 0.57,
+            "Jun 2016": 0.57
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Mar 2018": 0.26,
+            "Dec 2017": 0.26,
+            "Sep 2017": 0.26,
+            "Jun 2017": 0.26,
+            "Mar 2017": 0.26,
+            "Dec 2016": 0.26,
+            "Sep 2016": 0.26,
+            "Jun 2016": 0.26
+          }
+        ]
+      }
+    ],
+    "id": 8019
+  },
+  {
+    "name": "Mrigank Dhanuka (C/O Ayaan Dhanuka Trust)",
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Invest.",
+        "result": [
+          {
+            "Sep 2020": 0.57,
+            "Jun 2020": 0.57,
+            "Mar 2020": 0.57,
+            "Dec 2019": 0.57,
+            "Sep 2019": 0.57,
+            "Jun 2019": 0.57,
+            "Mar 2019": 0.57,
+            "Dec 2018": 0.57,
+            "Sep 2018": 0.57,
+            "Jun 2018": 0.57,
+            "Mar 2018": 0.57,
+            "Dec 2017": 0.57,
+            "Sep 2017": 0.57,
+            "Jun 2017": 0.57,
+            "Mar 2017": 0.57,
+            "Dec 2016": 0.57,
+            "Sep 2016": 0.57,
+            "Jun 2016": 0.57
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Mar 2018": 0.26,
+            "Dec 2017": 0.26,
+            "Sep 2017": 0.26,
+            "Jun 2017": 0.26,
+            "Mar 2017": 0.26,
+            "Dec 2016": 0.26,
+            "Sep 2016": 0.26,
+            "Jun 2016": 0.26
+          }
+        ]
+      }
+    ],
+    "id": 8020
+  },
+  {
+    "name": "Madhuting Tea Private Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Invest.",
+        "result": [
+          {
+            "Jun 2023": 0.75,
+            "Mar 2023": 0.75,
+            "Dec 2022": 0.75,
+            "Sep 2022": 0.75,
+            "Jun 2022": 0.75,
+            "Mar 2022": 0.75,
+            "Dec 2021": 0.75,
+            "Sep 2021": 0.75,
+            "Jun 2021": 0.75,
+            "Mar 2021": 0.75,
+            "Dec 2020": 0.75,
+            "Sep 2020": 0.75,
+            "Jun 2020": 0.75,
+            "Mar 2020": 0.75,
+            "Dec 2019": 0.75,
+            "Sep 2019": 0.75,
+            "Jun 2019": 0.75,
+            "Mar 2019": 0.75,
+            "Dec 2018": 0.75,
+            "Sep 2018": 0.75,
+            "Jun 2018": 0.75,
+            "Mar 2018": 0.75,
+            "Dec 2017": 0.75,
+            "Sep 2017": 0.75,
+            "Jun 2017": 0.75,
+            "Mar 2017": 0.75,
+            "Dec 2016": 0.75,
+            "Sep 2016": 0.75,
+            "Jun 2016": 0.75
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Jun 2023": 0.26,
+            "Mar 2023": 0.26,
+            "Dec 2022": 0.26,
+            "Sep 2022": 0.26,
+            "Jun 2022": 0.26,
+            "Mar 2022": 0.26,
+            "Dec 2021": 0.26,
+            "Sep 2021": 0.26,
+            "Jun 2021": 0.26,
+            "Mar 2021": 0.26,
+            "Dec 2020": 0.26,
+            "Sep 2020": 0.26,
+            "Jun 2020": 0.26,
+            "Mar 2020": 0.26,
+            "Dec 2019": 0.26,
+            "Sep 2019": 0.26,
+            "Jun 2019": 0.26,
+            "Mar 2019": 0.26,
+            "Dec 2018": 0.26,
+            "Sep 2018": 0.26,
+            "Jun 2018": 0.26,
+            "Mar 2018": 0.26,
+            "Dec 2017": 0.26,
+            "Sep 2017": 0.26,
+            "Jun 2017": 0.26,
+            "Mar 2017": 0.26,
+            "Dec 2016": 0.26,
+            "Sep 2016": 0.26,
+            "Jun 2016": 0.26
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Vent.",
+        "result": [
+          {
+            "Jun 2023": 0.26,
+            "Mar 2023": 0.26,
+            "Dec 2022": 0.26,
+            "Sep 2022": 0.26,
+            "Jun 2022": 0.26,
+            "Mar 2022": 0.26,
+            "Dec 2021": 0.26,
+            "Sep 2021": 0.26,
+            "Jun 2021": 0.26,
+            "Mar 2021": 0.26,
+            "Dec 2020": 0.26,
+            "Sep 2020": 0.26,
+            "Jun 2020": 0.26,
+            "Mar 2020": 0.26,
+            "Dec 2019": 0.26,
+            "Sep 2019": 0.26,
+            "Jun 2019": 0.26,
+            "Mar 2019": 0.26,
+            "Dec 2018": 0.26,
+            "Sep 2018": 0.26,
+            "Jun 2018": 0.26,
+            "Mar 2018": 0.26,
+            "Dec 2017": 0.26,
+            "Sep 2017": 0.26,
+            "Jun 2017": 0.26,
+            "Mar 2017": 0.26,
+            "Dec 2016": 0.26,
+            "Sep 2016": 0.26,
+            "Jun 2016": 0.26
+          }
+        ]
+      }
+    ],
+    "id": 8021
+  },
+  {
+    "name": "Aruna Dhanuka",
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Invest.",
+        "result": [
+          {
+            "Jun 2023": 0.76,
+            "Mar 2023": 0.76,
+            "Dec 2022": 0.76,
+            "Sep 2022": 0.76,
+            "Jun 2022": 0.76,
+            "Mar 2022": 0.76,
+            "Dec 2021": 0.76,
+            "Sep 2021": 0.76,
+            "Jun 2021": 0.76,
+            "Mar 2021": 0.76,
+            "Dec 2020": 0.76,
+            "Sep 2020": 0.76,
+            "Jun 2020": 0.76,
+            "Mar 2020": 0.76,
+            "Dec 2019": 0.76,
+            "Sep 2019": 0.76,
+            "Jun 2019": 0.76,
+            "Mar 2019": 0.76,
+            "Dec 2018": 0.76,
+            "Sep 2018": 0.76,
+            "Jun 2018": 0.76,
+            "Mar 2018": 0.76,
+            "Dec 2017": 0.76,
+            "Sep 2017": 0.76,
+            "Jun 2017": 0.76,
+            "Mar 2017": 0.76,
+            "Dec 2016": 0.76,
+            "Sep 2016": 0.76,
+            "Jun 2016": 0.76
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Jun 2023": 0.24,
+            "Mar 2023": 0.24,
+            "Dec 2022": 0.24,
+            "Sep 2022": 0.24,
+            "Jun 2022": 0.24,
+            "Mar 2022": 0.24,
+            "Dec 2021": 0.24,
+            "Sep 2021": 0.24,
+            "Jun 2021": 0.24,
+            "Mar 2021": 0.24,
+            "Dec 2020": 0.24,
+            "Sep 2020": 0.24,
+            "Jun 2020": 0.24,
+            "Mar 2020": 0.24,
+            "Dec 2019": 0.24,
+            "Sep 2019": 0.24,
+            "Jun 2019": 0.24,
+            "Mar 2019": 0.24,
+            "Dec 2018": 0.24,
+            "Sep 2018": 0.24,
+            "Jun 2018": 0.24,
+            "Mar 2018": 0.24,
+            "Dec 2017": 0.24,
+            "Sep 2017": 0.24,
+            "Jun 2017": 0.24,
+            "Mar 2017": 0.24,
+            "Dec 2016": 0.24,
+            "Sep 2016": 0.24,
+            "Jun 2016": 0.24
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Vent.",
+        "result": [
+          {
+            "Jun 2023": 0.24,
+            "Mar 2023": 0.24,
+            "Dec 2022": 0.24,
+            "Sep 2022": 0.24,
+            "Jun 2022": 0.24,
+            "Mar 2022": 0.24,
+            "Dec 2021": 0.24,
+            "Sep 2021": 0.24,
+            "Jun 2021": 0.24,
+            "Mar 2021": 0.24,
+            "Dec 2020": 0.24,
+            "Sep 2020": 0.24,
+            "Jun 2020": 0.24,
+            "Mar 2020": 0.24,
+            "Dec 2019": 0.24,
+            "Sep 2019": 0.24,
+            "Jun 2019": 0.24,
+            "Mar 2019": 0.24,
+            "Dec 2018": 0.24,
+            "Sep 2018": 0.24,
+            "Jun 2018": 0.24,
+            "Mar 2018": 0.24,
+            "Dec 2017": 0.24,
+            "Sep 2017": 0.24,
+            "Jun 2017": 0.24,
+            "Mar 2017": 0.24,
+            "Dec 2016": 0.24,
+            "Sep 2016": 0.24,
+            "Jun 2016": 0.24
+          }
+        ]
+      }
+    ],
+    "id": 8022
+  },
+  {
+    "name": "Chandra Kumar Dhanuka",
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Jun 2023": 0.13,
+            "Mar 2023": 0.13,
+            "Dec 2022": 0.13,
+            "Sep 2022": 0.13,
+            "Jun 2022": 0.13,
+            "Mar 2022": 0.13,
+            "Dec 2021": 0.13,
+            "Sep 2021": 0.13,
+            "Jun 2021": 0.13,
+            "Mar 2021": 0.13,
+            "Dec 2020": 0.13,
+            "Sep 2020": 0.13,
+            "Jun 2020": 0.13,
+            "Mar 2020": 0.13,
+            "Dec 2019": 0.13,
+            "Sep 2019": 0.13,
+            "Jun 2019": 0.13,
+            "Mar 2019": 0.13,
+            "Dec 2018": 0.13,
+            "Sep 2018": 0.13,
+            "Jun 2018": 0.13,
+            "Mar 2018": 0.13,
+            "Dec 2017": 0.13,
+            "Sep 2017": 0.13,
+            "Jun 2017": 0.13,
+            "Mar 2017": 0.13,
+            "Dec 2016": 0.13,
+            "Sep 2016": 0.13,
+            "Jun 2016": 0.13
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Vent.",
+        "result": [
+          {
+            "Jun 2023": 0.27,
+            "Mar 2023": 0.27,
+            "Dec 2022": 0.27,
+            "Sep 2022": 0.27,
+            "Jun 2022": 0.27,
+            "Mar 2022": 0.27,
+            "Dec 2021": 0.27,
+            "Sep 2021": 0.27,
+            "Jun 2021": 0.27,
+            "Mar 2021": 0.27,
+            "Dec 2020": 0.27,
+            "Sep 2020": 0.27,
+            "Jun 2020": 0.27,
+            "Mar 2020": 0.27,
+            "Dec 2019": 0.27,
+            "Sep 2019": 0.27,
+            "Jun 2019": 0.27,
+            "Mar 2019": 0.27,
+            "Dec 2018": 0.25,
+            "Sep 2018": 0.13,
+            "Jun 2018": 0.13,
+            "Mar 2018": 0.13,
+            "Dec 2017": 0.13,
+            "Sep 2017": 0.13,
+            "Jun 2017": 0.13,
+            "Mar 2017": 0.13,
+            "Dec 2016": 0.13,
+            "Sep 2016": 0.13,
+            "Jun 2016": 0.13
+          }
+        ]
+      },
+      {
+        "companyName": "Warren Tea",
+        "result": [
+          {
+            "Dec 2016": 11.85
+          }
+        ]
+      }
+    ],
+    "id": 8023
+  },
+  {
+    "name": "Chandra Kumar Dhanuka Trustee, Shree Shaligram Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Jun 2023": 0.13,
+            "Mar 2023": 0.13,
+            "Dec 2022": 0.13,
+            "Sep 2022": 0.13,
+            "Jun 2022": 0.13,
+            "Mar 2022": 0.13,
+            "Dec 2021": 0.13,
+            "Sep 2021": 0.13,
+            "Jun 2021": 0.13,
+            "Mar 2021": 0.13,
+            "Dec 2020": 0.13,
+            "Sep 2020": 0.13,
+            "Jun 2020": 0.13,
+            "Mar 2020": 0.13,
+            "Dec 2019": 0.13,
+            "Sep 2019": 0.13,
+            "Jun 2019": 0.13,
+            "Mar 2019": 0.13,
+            "Dec 2018": 0.13,
+            "Sep 2018": 0.13,
+            "Jun 2018": 0.13,
+            "Mar 2018": 0.13,
+            "Dec 2017": 0.13,
+            "Sep 2017": 0.13,
+            "Jun 2017": 0.13,
+            "Mar 2017": 0.13,
+            "Dec 2016": 0.13,
+            "Sep 2016": 0.13,
+            "Jun 2016": 0.13
+          }
+        ]
+      }
+    ],
+    "id": 8024
+  },
+  {
+    "name": "Tarulika Khaitan C/O Tarugreve Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Invest.",
+        "result": [
+          {
+            "Dec 2020": 0.08,
+            "Sep 2020": 0.08,
+            "Jun 2020": 0.08,
+            "Mar 2020": 0.08,
+            "Dec 2019": 0.16,
+            "Sep 2019": 0.16,
+            "Jun 2019": 0.16,
+            "Mar 2019": 0.16,
+            "Dec 2018": 0.16,
+            "Sep 2018": 0.16,
+            "Jun 2018": 0.16,
+            "Mar 2018": 0.16,
+            "Dec 2017": 0.16,
+            "Sep 2017": 0.16,
+            "Jun 2017": 0.16,
+            "Mar 2017": 0.16,
+            "Dec 2016": 0.16,
+            "Sep 2016": 0.16,
+            "Jun 2016": 0.16
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Mar 2018": 0.06,
+            "Dec 2017": 0.06,
+            "Sep 2017": 0.06,
+            "Jun 2017": 0.06,
+            "Mar 2017": 0.06,
+            "Dec 2016": 0.06,
+            "Sep 2016": 0.06,
+            "Jun 2016": 0.06
+          }
+        ]
+      }
+    ],
+    "id": 8025
+  },
+  {
+    "name": "Tarulika Khaitan",
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Invest.",
+        "result": [
+          {
+            "Jun 2023": 0.1,
+            "Mar 2023": 0.1,
+            "Dec 2022": 0.1,
+            "Sep 2022": 0.1,
+            "Jun 2022": 0.1,
+            "Mar 2022": 0.1,
+            "Dec 2021": 0.1,
+            "Sep 2021": 0.1,
+            "Jun 2021": 0.1,
+            "Mar 2021": 0.1,
+            "Dec 2020": 0.1,
+            "Sep 2020": 0.1,
+            "Jun 2020": 0.1,
+            "Mar 2020": 0.1,
+            "Dec 2019": 0.1,
+            "Sep 2019": 0.1,
+            "Jun 2019": 0.1,
+            "Mar 2019": 0.1,
+            "Dec 2018": 0.1,
+            "Sep 2018": 0.1,
+            "Jun 2018": 0.1,
+            "Mar 2018": 0.1,
+            "Dec 2017": 0.1,
+            "Sep 2017": 0.1,
+            "Jun 2017": 0.1,
+            "Mar 2017": 0.1,
+            "Dec 2016": 0.1,
+            "Sep 2016": 0.1,
+            "Jun 2016": 0.1
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Jun 2023": 0.03,
+            "Mar 2023": 0.03,
+            "Dec 2022": 0.03,
+            "Sep 2022": 0.03,
+            "Jun 2022": 0.03,
+            "Mar 2022": 0.03,
+            "Dec 2021": 0.03,
+            "Sep 2021": 0.03,
+            "Jun 2021": 0.03,
+            "Mar 2021": 0.03,
+            "Dec 2020": 0.03,
+            "Sep 2020": 0.03,
+            "Jun 2020": 0.03,
+            "Mar 2020": 0.03,
+            "Dec 2019": 0.03,
+            "Sep 2019": 0.03,
+            "Jun 2019": 0.03,
+            "Mar 2019": 0.03,
+            "Dec 2018": 0.03,
+            "Jun 2018": 0.03,
+            "Mar 2018": 0.03,
+            "Dec 2017": 0.03,
+            "Sep 2017": 0.03,
+            "Jun 2017": 0.03,
+            "Mar 2017": 0.03,
+            "Dec 2016": 0.03,
+            "Sep 2016": 0.03,
+            "Jun 2016": 0.03
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Vent.",
+        "result": [
+          {
+            "Jun 2023": 0.03,
+            "Mar 2023": 0.03,
+            "Dec 2022": 0.03,
+            "Sep 2022": 0.03,
+            "Jun 2022": 0.03,
+            "Mar 2022": 0.03,
+            "Dec 2021": 0.03,
+            "Sep 2021": 0.03,
+            "Jun 2021": 0.03,
+            "Mar 2021": 0.03,
+            "Dec 2020": 0.03,
+            "Sep 2020": 0.03,
+            "Jun 2020": 0.03,
+            "Mar 2020": 0.03,
+            "Dec 2019": 0.03,
+            "Sep 2019": 0.03,
+            "Jun 2019": 0.03,
+            "Mar 2019": 0.03,
+            "Dec 2018": 0.03,
+            "Sep 2018": 0.03,
+            "Jun 2018": 0.03,
+            "Mar 2018": 0.03,
+            "Dec 2017": 0.03,
+            "Sep 2017": 0.03,
+            "Jun 2017": 0.03,
+            "Mar 2017": 0.03,
+            "Dec 2016": 0.03,
+            "Sep 2016": 0.03,
+            "Jun 2016": 0.03
+          }
+        ]
+      }
+    ],
+    "id": 8026
+  },
+  {
+    "name": "Chandra Kumar Dhanuka C/O Sew Bhagwan & Sons",
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Invest.",
+        "result": [
+          {
+            "Jun 2023": 0.04,
+            "Mar 2023": 0.04,
+            "Dec 2022": 0.04,
+            "Sep 2022": 0.04,
+            "Jun 2022": 0.04,
+            "Mar 2022": 0.04,
+            "Dec 2021": 0.04,
+            "Sep 2021": 0.04,
+            "Jun 2021": 0.04,
+            "Mar 2021": 0.04,
+            "Dec 2020": 0.04,
+            "Sep 2020": 0.04,
+            "Jun 2020": 0.04,
+            "Mar 2020": 0.04,
+            "Dec 2019": 0.04,
+            "Sep 2019": 0.04,
+            "Jun 2019": 0.04,
+            "Mar 2019": 0.04,
+            "Dec 2018": 0.04,
+            "Sep 2018": 0.04,
+            "Jun 2018": 0.04,
+            "Mar 2018": 0.04,
+            "Dec 2017": 0.04,
+            "Sep 2017": 0.04,
+            "Jun 2017": 0.04,
+            "Mar 2017": 0.04,
+            "Dec 2016": 0.04,
+            "Sep 2016": 0.04,
+            "Jun 2016": 0.04
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Mar 2018": 0.01,
+            "Dec 2017": 0.01,
+            "Sep 2017": 0.01,
+            "Jun 2017": 0.01,
+            "Mar 2017": 0.01,
+            "Dec 2016": 0.01,
+            "Sep 2016": 0.01,
+            "Jun 2016": 0.01
+          }
+        ]
+      }
+    ],
+    "id": 8027
+  },
+  {
+    "name": "Dhunser Petrochem Limited",
+    "bulkDealsData": [
+      {
+        "date": "Dhunseri Tea\n17 Oct, 2016",
+        "orderType": "BUY",
+        "quantity": "2,65,000",
+        "price": "288"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Sep 2018": 4.66,
+            "Jun 2018": 4.6,
+            "Mar 2018": 4.32,
+            "Dec 2017": 3.78,
+            "Sep 2017": 3.78,
+            "Jun 2017": 3.78,
+            "Mar 2017": 3.78,
+            "Dec 2016": 3.78
+          }
+        ]
+      }
+    ],
+    "id": 8028
+  },
+  {
+    "name": "Gyan Traders Ltd.",
+    "bulkDealsData": [
+      {
+        "date": "Asian Hotels (N)\n27 Mar, 2023",
+        "orderType": "SELL",
+        "quantity": "1,46,330",
+        "price": "71.5"
+      },
+      {
+        "date": "Asian Hotels (N)\n06 Oct, 2022",
+        "orderType": "SELL",
+        "quantity": "99,204",
+        "price": "91.8"
+      },
+      {
+        "date": "Asian Hotels (N)\n29 Aug, 2022",
+        "orderType": "Buy",
+        "quantity": "98,000",
+        "price": "90.2"
+      },
+      {
+        "date": "ABC India\n22 Jun, 2021",
+        "orderType": "Buy",
+        "quantity": "38,561",
+        "price": "87.2"
+      },
+      {
+        "date": "ABC India\n01 Mar, 2021",
+        "orderType": "Buy",
+        "quantity": "29,400",
+        "price": "66.6"
+      },
+      {
+        "date": "Dhunseri Tea\n15 Sep, 2020",
+        "orderType": "SELL",
+        "quantity": "75,000",
+        "price": "247"
+      },
+      {
+        "date": "Dhunseri Tea\n24 Feb, 2020",
+        "orderType": "Buy",
+        "quantity": "77,373",
+        "price": "150"
+      },
+      {
+        "date": "Energy Devl.Co.\n27 Mar, 2019",
+        "orderType": "Sell",
+        "quantity": "7,22,450",
+        "price": "7.05"
+      },
+      {
+        "date": "GKB Ophthalmics\n16 Jan, 2019",
+        "orderType": "Sell",
+        "quantity": "25,000",
+        "price": "130"
+      },
+      {
+        "date": "Dhunseri Tea\n05 Oct, 2018",
+        "orderType": "Sell",
+        "quantity": "76,576",
+        "price": "228"
+      },
+      {
+        "date": "Hindustan Wires\n10 Jul, 2018",
+        "orderType": "Sell",
+        "quantity": "3,95,000",
+        "price": "38.4"
+      },
+      {
+        "date": "Polylink Poly.\n04 Jul, 2018",
+        "orderType": "Sell",
+        "quantity": "2,95,665",
+        "price": "15.3"
+      },
+      {
+        "date": "Polylink Poly.\n29 Jun, 2018",
+        "orderType": "Buy",
+        "quantity": "1,48,812",
+        "price": "15.9"
+      },
+      {
+        "date": "GKB Ophthalmics\n07 May, 2018",
+        "orderType": "Buy",
+        "quantity": "25,000",
+        "price": "197"
+      },
+      {
+        "date": "Warren Tea\n26 Mar, 2018",
+        "orderType": "Sell",
+        "quantity": "1,18,000",
+        "price": "105"
+      },
+      {
+        "date": "Warren Tea\n16 Mar, 2018",
+        "orderType": "Buy",
+        "quantity": "1,18,160",
+        "price": "118"
+      },
+      {
+        "date": "Dhunseri Invest.\n23 May, 2017",
+        "orderType": "BUY",
+        "quantity": "48,480",
+        "price": "270"
+      },
+      {
+        "date": "Dhunseri Invest.\n19 May, 2017",
+        "orderType": "Buy",
+        "quantity": "49,000",
+        "price": "261"
+      },
+      {
+        "date": "Dhunseri Tea\n21 Mar, 2017",
+        "orderType": "Buy",
+        "quantity": "74,498",
+        "price": "278"
+      },
+      {
+        "date": "Dhunseri Tea\n06 Apr, 2016",
+        "orderType": "SELL",
+        "quantity": "83,537",
+        "price": "245"
+      },
+      {
+        "date": "Dhunseri Tea\n30 Jun, 2015",
+        "orderType": "Buy",
+        "quantity": "83,537",
+        "price": "215"
+      },
+      {
+        "date": "Elder Pharma\n18 Mar, 2014",
+        "orderType": "SELL",
+        "quantity": "1,66,499",
+        "price": "197"
+      },
+      {
+        "date": "Elder Pharma\n18 Mar, 2014",
+        "orderType": "BUY",
+        "quantity": "45,000",
+        "price": "199"
+      },
+      {
+        "date": "Elder Pharma\n09 Aug, 2010",
+        "orderType": "SELL",
+        "quantity": "2,84,000",
+        "price": "361"
+      },
+      {
+        "date": "Elder Pharma\n09 Aug, 2010",
+        "orderType": "BUY",
+        "quantity": "1,46,835",
+        "price": "378"
+      },
+      {
+        "date": "Dhunseri Tea\n14 Sep, 2009",
+        "orderType": "SELL",
+        "quantity": "1,34,204",
+        "price": "166"
+      },
+      {
+        "date": "Dhunseri Tea\n14 Sep, 2009",
+        "orderType": "BUY",
+        "quantity": "2,100",
+        "price": "166"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "ABC India",
+        "result": [
+          {
+            "Jun 2023": 1.9,
+            "Mar 2023": 1.9,
+            "Dec 2022": 1.9,
+            "Sep 2022": 1.9,
+            "Jun 2022": 1.9,
+            "Dec 2021": 1.92,
+            "Sep 2021": 1.65,
+            "Jun 2021": 1.64
+          }
+        ]
+      },
+      {
+        "companyName": "Bengal Tea & Fab",
+        "result": [
+          {
+            "Jun 2023": 1.5,
+            "Mar 2023": 1.32,
+            "Dec 2022": 1.32,
+            "Sep 2022": 1.3,
+            "Jun 2022": 1.01
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Invest.",
+        "result": [
+          {
+            "Sep 2017": 1.59
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Jun 2020": 1.12,
+            "Mar 2020": 1.12,
+            "Sep 2018": 1.09,
+            "Jun 2018": 1.09,
+            "Mar 2018": 1.09,
+            "Dec 2017": 1.07,
+            "Sep 2017": 1.07,
+            "Jun 2017": 1.06,
+            "Mar 2017": 1.06
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Vent.",
+        "result": [
+          {
+            "Jun 2016": 1.13
+          }
+        ]
+      }
+    ],
+    "id": 8029
+  },
+  {
+    "name": "MRIGANK DHANUKA Trustee, Aman Dhanuka Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Sep 2020": 0.26,
+            "Jun 2020": 0.26,
+            "Mar 2020": 0.26,
+            "Dec 2019": 0.26,
+            "Sep 2019": 0.26,
+            "Jun 2019": 0.26,
+            "Mar 2019": 0.26,
+            "Dec 2018": 0.26,
+            "Sep 2018": 0.26,
+            "Jun 2018": 0.26
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Vent.",
+        "result": [
+          {
+            "Sep 2020": 0.26,
+            "Jun 2020": 0.26,
+            "Mar 2020": 0.26,
+            "Dec 2019": 0.26,
+            "Sep 2019": 0.26,
+            "Jun 2019": 0.26,
+            "Mar 2019": 0.26,
+            "Dec 2018": 0.26,
+            "Sep 2018": 0.26,
+            "Jun 2018": 0.26,
+            "Mar 2018": 0.26,
+            "Dec 2017": 0.26,
+            "Sep 2017": 0.26,
+            "Jun 2017": 0.26,
+            "Mar 2017": 0.26,
+            "Dec 2016": 0.26,
+            "Sep 2016": 0.26,
+            "Jun 2016": 0.26
+          }
+        ]
+      }
+    ],
+    "id": 8030
+  },
+  {
+    "name": "Mrigank Dhanuka, Trustee, Ayaan Dhanuka Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Sep 2020": 0.26,
+            "Jun 2020": 0.26,
+            "Mar 2020": 0.26,
+            "Dec 2019": 0.26,
+            "Sep 2019": 0.26,
+            "Jun 2019": 0.26,
+            "Mar 2019": 0.26,
+            "Dec 2018": 0.26,
+            "Sep 2018": 0.26,
+            "Jun 2018": 0.26
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Vent.",
+        "result": [
+          {
+            "Sep 2020": 0.26,
+            "Jun 2020": 0.26,
+            "Mar 2020": 0.26,
+            "Dec 2019": 0.26,
+            "Sep 2019": 0.26,
+            "Jun 2019": 0.26,
+            "Mar 2019": 0.26,
+            "Dec 2018": 0.26,
+            "Sep 2018": 0.26,
+            "Jun 2018": 0.26,
+            "Mar 2018": 0.26,
+            "Dec 2017": 0.26,
+            "Sep 2017": 0.26,
+            "Jun 2017": 0.26,
+            "Mar 2017": 0.26,
+            "Dec 2016": 0.26,
+            "Sep 2016": 0.26,
+            "Jun 2016": 0.26
+          }
+        ]
+      }
+    ],
+    "id": 8031
+  },
+  {
+    "name": "TARULIKA KHAITAN Trustee, Tarugreve Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Dec 2020": 0.03,
+            "Sep 2020": 0.03,
+            "Jun 2020": 0.03,
+            "Mar 2020": 0.03,
+            "Dec 2019": 0.06,
+            "Sep 2019": 0.06,
+            "Jun 2019": 0.06,
+            "Mar 2019": 0.06,
+            "Dec 2018": 0.06,
+            "Sep 2018": 0.06,
+            "Jun 2018": 0.06
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Vent.",
+        "result": [
+          {
+            "Dec 2020": 0.03,
+            "Sep 2020": 0.03,
+            "Jun 2020": 0.03,
+            "Mar 2020": 0.03,
+            "Dec 2019": 0.06,
+            "Sep 2019": 0.06,
+            "Jun 2019": 0.06,
+            "Mar 2019": 0.06,
+            "Dec 2018": 0.06,
+            "Sep 2018": 0.06,
+            "Jun 2018": 0.06,
+            "Mar 2018": 0.06,
+            "Dec 2017": 0.06,
+            "Sep 2017": 0.06,
+            "Jun 2017": 0.06,
+            "Mar 2017": 0.06,
+            "Dec 2016": 0.06,
+            "Sep 2016": 0.06,
+            "Jun 2016": 0.06
+          }
+        ]
+      }
+    ],
+    "id": 8032
+  },
+  {
+    "name": "CHANDRA KUMAR DHANUKA Partner, Sew Bhagwan & Sons",
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Jun 2023": 0.01,
+            "Mar 2023": 0.01,
+            "Dec 2022": 0.01,
+            "Sep 2022": 0.01,
+            "Jun 2022": 0.01,
+            "Mar 2022": 0.01,
+            "Dec 2021": 0.01,
+            "Sep 2021": 0.01,
+            "Jun 2021": 0.01,
+            "Mar 2021": 0.01,
+            "Dec 2020": 0.01,
+            "Sep 2020": 0.01,
+            "Jun 2020": 0.01,
+            "Mar 2020": 0.01,
+            "Dec 2019": 0.01,
+            "Sep 2019": 0.01,
+            "Jun 2019": 0.01,
+            "Mar 2019": 0.01,
+            "Dec 2018": 0.01,
+            "Sep 2018": 0.01,
+            "Jun 2018": 0.01
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Vent.",
+        "result": [
+          {
+            "Jun 2023": 0.01,
+            "Mar 2023": 0.01,
+            "Dec 2022": 0.01,
+            "Sep 2022": 0.01,
+            "Jun 2022": 0.01,
+            "Mar 2022": 0.01,
+            "Dec 2021": 0.01,
+            "Sep 2021": 0.01,
+            "Jun 2021": 0.01,
+            "Mar 2021": 0.01,
+            "Dec 2020": 0.01,
+            "Sep 2020": 0.01,
+            "Jun 2020": 0.01,
+            "Mar 2020": 0.01,
+            "Dec 2019": 0.01,
+            "Sep 2019": 0.01,
+            "Jun 2019": 0.01,
+            "Mar 2019": 0.01,
+            "Dec 2018": 0.01,
+            "Sep 2018": 0.01,
+            "Jun 2018": 0.01,
+            "Mar 2018": 0.01,
+            "Dec 2017": 0.01,
+            "Sep 2017": 0.01,
+            "Jun 2017": 0.01,
+            "Mar 2017": 0.01,
+            "Dec 2016": 0.01,
+            "Sep 2016": 0.01,
+            "Jun 2016": 0.01
+          }
+        ]
+      }
+    ],
+    "id": 8033
+  },
+  {
+    "name": "Dhunseri Ventures Limited",
+    "bulkDealsData": [
+      {
+        "date": "Dhunseri Tea\n15 Sep, 2020",
+        "orderType": "BUY",
+        "quantity": "83,151",
+        "price": "247"
+      },
+      {
+        "date": "Future Supply\n08 Sep, 2020",
+        "orderType": "SELL",
+        "quantity": "2,27,744",
+        "price": "129"
+      },
+      {
+        "date": "Future Supply\n30 Jul, 2020",
+        "orderType": "BUY",
+        "quantity": "2,40,548",
+        "price": "158"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Jun 2023": 6.43,
+            "Mar 2023": 6.43,
+            "Dec 2022": 6.43,
+            "Sep 2022": 6.43,
+            "Jun 2022": 6.43,
+            "Mar 2022": 6.43,
+            "Dec 2021": 6.43,
+            "Sep 2021": 6.43,
+            "Jun 2021": 6.43,
+            "Mar 2021": 6.43,
+            "Dec 2020": 6.43,
+            "Sep 2020": 5.92,
+            "Jun 2020": 4.66,
+            "Mar 2020": 4.66,
+            "Dec 2019": 4.66,
+            "Sep 2019": 4.66,
+            "Jun 2019": 4.66,
+            "Mar 2019": 4.66,
+            "Dec 2018": 4.66
+          }
+        ]
+      },
+      {
+        "companyName": "Punjab Chemicals",
+        "result": [
+          {
+            "Dec 2022": 1.05
+          }
+        ]
+      },
+      {
+        "companyName": "Spencer's Retail",
+        "result": [
+          {
+            "Sep 2019": 1.26,
+            "Jun 2019": 1.02
+          }
+        ]
+      },
+      {
+        "companyName": "Uniply Industrie",
+        "result": [
+          {
+            "Dec 2021": 1.11,
+            "Sep 2021": 1.11,
+            "Jun 2021": 1.11,
+            "Mar 2021": 1.11,
+            "Dec 2020": 1.11,
+            "Sep 2020": 1.11,
+            "Jun 2020": 1.11,
+            "Mar 2020": 1.11
+          }
+        ]
+      }
+    ],
+    "id": 8034
+  },
+  {
+    "name": "Lilly Exporters Private Limited",
+    "bulkDealsData": [
+      {
+        "date": "Dhunseri Tea\n24 Feb, 2020",
+        "orderType": "Sell",
+        "quantity": "77,373",
+        "price": "150"
+      },
+      {
+        "date": "Dhunseri Tea\n15 Nov, 2019",
+        "orderType": "Buy",
+        "quantity": "77,373",
+        "price": "208"
+      },
+      {
+        "date": "GKB Ophthalmics\n25 Mar, 2019",
+        "orderType": "Sell",
+        "quantity": "24,900",
+        "price": "105"
+      },
+      {
+        "date": "Dhunseri Tea\n22 Feb, 2019",
+        "orderType": "Sell",
+        "quantity": "36,868",
+        "price": "208"
+      },
+      {
+        "date": "Dhunseri Tea\n21 Feb, 2019",
+        "orderType": "SELL",
+        "quantity": "40,000",
+        "price": "203"
+      },
+      {
+        "date": "GKB Ophthalmics\n16 Jan, 2019",
+        "orderType": "Buy",
+        "quantity": "25,000",
+        "price": "130"
+      },
+      {
+        "date": "Warren Tea\n14 Jan, 2019",
+        "orderType": "Sell",
+        "quantity": "1,18,000",
+        "price": "77.0"
+      },
+      {
+        "date": "Dhunseri Tea\n10 Jan, 2019",
+        "orderType": "Buy",
+        "quantity": "76,868",
+        "price": "272"
+      },
+      {
+        "date": "Warren Tea\n26 Mar, 2018",
+        "orderType": "Buy",
+        "quantity": "1,18,000",
+        "price": "105"
+      },
+      {
+        "date": "Pressman Adv.\n11 Apr, 2017",
+        "orderType": "BUY",
+        "quantity": "50",
+        "price": "62.8"
+      },
+      {
+        "date": "Pressman Adv.\n11 Apr, 2017",
+        "orderType": "SELL",
+        "quantity": "1,52,684",
+        "price": "64.4"
+      },
+      {
+        "date": "Pressman Adv.\n30 Mar, 2017",
+        "orderType": "BUY",
+        "quantity": "3,50,000",
+        "price": "61.5"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Dec 2019": 1.1
+          }
+        ]
+      }
+    ],
+    "id": 8035
+  },
+  {
+    "name": "Pavitra Khaitan",
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Invest.",
+        "result": [
+          {
+            "Jun 2023": 0.08,
+            "Mar 2023": 0.08,
+            "Dec 2022": 0.08,
+            "Sep 2022": 0.08,
+            "Jun 2022": 0.08,
+            "Mar 2022": 0.08,
+            "Dec 2021": 0.08,
+            "Sep 2021": 0.08,
+            "Jun 2021": 0.08,
+            "Mar 2021": 0.08,
+            "Dec 2020": 0.08,
+            "Sep 2020": 0.08,
+            "Jun 2020": 0.08,
+            "Mar 2020": 0.08
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Jun 2023": 0.03,
+            "Mar 2023": 0.03,
+            "Dec 2022": 0.03,
+            "Sep 2022": 0.03,
+            "Jun 2022": 0.03,
+            "Mar 2022": 0.03,
+            "Dec 2021": 0.03,
+            "Sep 2021": 0.03,
+            "Jun 2021": 0.03,
+            "Mar 2021": 0.03,
+            "Dec 2020": 0.03,
+            "Sep 2020": 0.03,
+            "Jun 2020": 0.03,
+            "Mar 2020": 0.03
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Vent.",
+        "result": [
+          {
+            "Jun 2023": 0.03,
+            "Mar 2023": 0.03,
+            "Dec 2022": 0.03,
+            "Sep 2022": 0.03,
+            "Jun 2022": 0.03,
+            "Mar 2022": 0.03,
+            "Dec 2021": 0.03,
+            "Sep 2021": 0.03,
+            "Jun 2021": 0.03,
+            "Mar 2021": 0.03,
+            "Dec 2020": 0.03,
+            "Sep 2020": 0.03,
+            "Jun 2020": 0.03,
+            "Mar 2020": 0.03
+          }
+        ]
+      }
+    ],
+    "id": 8036
+  },
+  {
+    "name": "Chandra Kumar Dhanuka, Trustee, Aman Dhanuka Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Jun 2023": 0.26,
+            "Mar 2023": 0.26,
+            "Dec 2022": 0.26,
+            "Sep 2022": 0.26,
+            "Jun 2022": 0.26,
+            "Mar 2022": 0.26,
+            "Dec 2021": 0.26,
+            "Sep 2021": 0.26,
+            "Jun 2021": 0.26,
+            "Mar 2021": 0.26,
+            "Dec 2020": 0.26
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Vent.",
+        "result": [
+          {
+            "Jun 2023": 0.26,
+            "Mar 2023": 0.26,
+            "Dec 2022": 0.26,
+            "Sep 2022": 0.26,
+            "Jun 2022": 0.26,
+            "Mar 2022": 0.26,
+            "Dec 2021": 0.26,
+            "Sep 2021": 0.26,
+            "Jun 2021": 0.26,
+            "Mar 2021": 0.26,
+            "Dec 2020": 0.26
+          }
+        ]
+      }
+    ],
+    "id": 8037
+  },
+  {
+    "name": "Chandra Kumar Dhanuka, Trustee, Ayaan Dhanuka Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Jun 2023": 0.26,
+            "Mar 2023": 0.26,
+            "Dec 2022": 0.26,
+            "Sep 2022": 0.26,
+            "Jun 2022": 0.26,
+            "Mar 2022": 0.26,
+            "Dec 2021": 0.26,
+            "Sep 2021": 0.26,
+            "Jun 2021": 0.26,
+            "Mar 2021": 0.26,
+            "Dec 2020": 0.26
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Vent.",
+        "result": [
+          {
+            "Jun 2023": 0.26,
+            "Mar 2023": 0.26,
+            "Dec 2022": 0.26,
+            "Sep 2022": 0.26,
+            "Jun 2022": 0.26,
+            "Mar 2022": 0.26,
+            "Dec 2021": 0.26,
+            "Sep 2021": 0.26,
+            "Jun 2021": 0.26,
+            "Mar 2021": 0.26,
+            "Dec 2020": 0.26
+          }
+        ]
+      }
+    ],
+    "id": 8038
+  },
+  {
+    "name": "Mitali Khaitan (Minor) Represented By Mr. Haigreve Khaitan Father & Natural Guardian",
+    "shareHoldings": [
+      {
+        "companyName": "Dhunseri Invest.",
+        "result": [
+          {
+            "Jun 2023": 0.08,
+            "Mar 2023": 0.08,
+            "Dec 2022": 0.08,
+            "Sep 2022": 0.08,
+            "Jun 2022": 0.08,
+            "Mar 2022": 0.08,
+            "Dec 2021": 0.08,
+            "Sep 2021": 0.08,
+            "Jun 2021": 0.08,
+            "Mar 2021": 0.08
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Tea",
+        "result": [
+          {
+            "Jun 2023": 0.03,
+            "Mar 2023": 0.03,
+            "Dec 2022": 0.03,
+            "Sep 2022": 0.03,
+            "Jun 2022": 0.03,
+            "Mar 2022": 0.03,
+            "Dec 2021": 0.03,
+            "Sep 2021": 0.03,
+            "Jun 2021": 0.03,
+            "Mar 2021": 0.03
+          }
+        ]
+      },
+      {
+        "companyName": "Dhunseri Vent.",
+        "result": [
+          {
+            "Jun 2023": 0.03,
+            "Mar 2023": 0.03,
+            "Dec 2022": 0.03,
+            "Sep 2022": 0.03,
+            "Jun 2022": 0.03,
+            "Mar 2022": 0.03,
+            "Dec 2021": 0.03,
+            "Sep 2021": 0.03,
+            "Jun 2021": 0.03,
+            "Mar 2021": 0.03
+          }
+        ]
+      }
+    ],
+    "id": 8039
+  },
+  {
+    "name": "Agr Investments Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Jun 2023": 2.49,
+            "Mar 2023": 2.49,
+            "Dec 2022": 2.49,
+            "Sep 2022": 2.58,
+            "Jun 2022": 2.58,
+            "Mar 2022": 2.58,
+            "Dec 2021": 2.58,
+            "Sep 2021": 2.58,
+            "Jun 2021": 2.58,
+            "Mar 2021": 8.29,
+            "Dec 2020": 8.29,
+            "Sep 2020": 8.29,
+            "Mar 2020": 8.29,
+            "Dec 2019": 8.29,
+            "Sep 2019": 8.29,
+            "Jun 2019": 8.29,
+            "Mar 2019": 8.29,
+            "Dec 2018": 24.63,
+            "Sep 2018": 24.63,
+            "Jun 2018": 24.63,
+            "Mar 2018": 24.63,
+            "Dec 2017": 24.63,
+            "Sep 2017": 24.63,
+            "Jun 2017": 24.63,
+            "Mar 2017": 24.63,
+            "Dec 2016": 24.63,
+            "Sep 2016": 24.63,
+            "Jun 2016": 24.63
+          }
+        ]
+      }
+    ],
+    "id": 8040
+  },
+  {
+    "name": "Ram Swaroop Agarwal",
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Jun 2023": 5.74,
+            "Mar 2023": 5.74,
+            "Dec 2022": 5.74,
+            "Sep 2022": 5.96,
+            "Jun 2022": 5.96,
+            "Mar 2022": 5.96,
+            "Dec 2021": 5.96,
+            "Sep 2021": 5.96,
+            "Jun 2021": 5.96,
+            "Mar 2021": 19.13,
+            "Dec 2020": 19.13,
+            "Sep 2020": 19.13,
+            "Jun 2020": 19.13,
+            "Mar 2020": 19.13,
+            "Dec 2019": 19.13,
+            "Sep 2019": 19.13,
+            "Jun 2019": 19.13,
+            "Mar 2019": 19.13,
+            "Dec 2018": 19.05,
+            "Sep 2018": 19.05,
+            "Jun 2018": 19.05,
+            "Mar 2018": 19.05,
+            "Dec 2017": 19.05,
+            "Sep 2017": 11.49,
+            "Jun 2017": 11.49,
+            "Mar 2017": 11.49,
+            "Dec 2016": 11.49,
+            "Sep 2016": 11.49,
+            "Jun 2016": 11.49
+          }
+        ]
+      }
+    ],
+    "id": 8041
+  },
+  {
+    "name": "Kiran Aggarwal",
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Sep 2017": 7.55,
+            "Jun 2017": 7.55,
+            "Mar 2017": 7.55,
+            "Dec 2016": 7.55,
+            "Sep 2016": 7.55,
+            "Jun 2016": 7.55
+          }
+        ]
+      },
+      {
+        "companyName": "SPL Industries",
+        "result": [
+          {
+            "Jun 2023": 3.06,
+            "Mar 2023": 3.06,
+            "Dec 2022": 3.06,
+            "Sep 2022": 3.06,
+            "Jun 2022": 3.06,
+            "Mar 2022": 3.06,
+            "Dec 2021": 3.06,
+            "Sep 2021": 3.06,
+            "Jun 2021": 3.06,
+            "Mar 2021": 3.06,
+            "Dec 2020": 3.06,
+            "Sep 2020": 3.06,
+            "Jun 2020": 3.06,
+            "Mar 2020": 3.06,
+            "Dec 2019": 3.06,
+            "Sep 2019": 3.06,
+            "Jun 2019": 3.06,
+            "Mar 2019": 3.06,
+            "Dec 2018": 3.06,
+            "Sep 2018": 3.06,
+            "Jun 2018": 3.06,
+            "Mar 2018": 3.01,
+            "Dec 2017": 2.8,
+            "Sep 2017": 2.8,
+            "Jun 2017": 2.8,
+            "Mar 2017": 2.8,
+            "Dec 2016": 1.86,
+            "Sep 2016": 1.86,
+            "Jun 2016": 1.86
+          }
+        ]
+      }
+    ],
+    "id": 8042
+  },
+  {
+    "name": "Urmila Rani",
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Sep 2018": 4.93,
+            "Jun 2018": 4.93,
+            "Mar 2018": 4.93,
+            "Dec 2017": 4.93,
+            "Sep 2017": 4.93,
+            "Jun 2017": 4.93,
+            "Mar 2017": 4.93,
+            "Dec 2016": 4.93,
+            "Sep 2016": 4.93,
+            "Jun 2016": 4.93
+          }
+        ]
+      }
+    ],
+    "id": 8043
+  },
+  {
+    "name": "Anu Aggarwal",
+    "bulkDealsData": [
+      {
+        "date": "Emerald Finance\n28 Jun, 2022",
+        "orderType": "Sell",
+        "quantity": "1,94,760",
+        "price": "16.1"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Jun 2023": 4.74,
+            "Mar 2023": 4.74,
+            "Dec 2022": 4.74,
+            "Sep 2022": 4.92,
+            "Jun 2022": 4.92,
+            "Mar 2022": 4.92,
+            "Dec 2021": 4.92,
+            "Sep 2021": 4.92,
+            "Jun 2021": 4.92,
+            "Mar 2021": 4.93,
+            "Dec 2020": 4.93,
+            "Sep 2020": 4.93,
+            "Jun 2020": 4.93,
+            "Mar 2020": 4.93,
+            "Dec 2019": 4.93,
+            "Sep 2019": 4.93,
+            "Jun 2019": 4.93,
+            "Mar 2019": 4.93,
+            "Dec 2018": 4.93,
+            "Sep 2018": 4.93,
+            "Jun 2018": 4.93,
+            "Mar 2018": 4.93,
+            "Dec 2017": 4.93,
+            "Sep 2017": 4.93,
+            "Jun 2017": 4.93,
+            "Mar 2017": 4.93,
+            "Dec 2016": 4.93,
+            "Sep 2016": 4.93,
+            "Jun 2016": 4.93
+          }
+        ]
+      }
+    ],
+    "id": 8044
+  },
+  {
+    "name": "Navneet Kaur",
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Mar 2019": 1.55,
+            "Dec 2018": 4.6,
+            "Sep 2018": 4.6,
+            "Jun 2018": 4.6,
+            "Mar 2018": 4.6,
+            "Dec 2017": 4.6,
+            "Sep 2017": 4.6,
+            "Jun 2017": 4.6,
+            "Mar 2017": 4.6,
+            "Dec 2016": 4.6,
+            "Sep 2016": 4.6,
+            "Jun 2016": 4.6
+          }
+        ]
+      }
+    ],
+    "id": 8045
+  },
+  {
+    "name": "Shweta Ahluwalia",
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Mar 2021": 1.22,
+            "Dec 2020": 1.22,
+            "Sep 2020": 1.22,
+            "Jun 2020": 1.22,
+            "Mar 2020": 1.22,
+            "Dec 2019": 1.22,
+            "Sep 2019": 1.22,
+            "Jun 2019": 1.22,
+            "Mar 2019": 1.22,
+            "Dec 2018": 3.61,
+            "Sep 2018": 3.61,
+            "Jun 2018": 3.61,
+            "Mar 2018": 3.61,
+            "Dec 2017": 3.61,
+            "Sep 2017": 3.61,
+            "Jun 2017": 3.61,
+            "Mar 2017": 3.61,
+            "Dec 2016": 3.61,
+            "Sep 2016": 3.61,
+            "Jun 2016": 3.61
+          }
+        ]
+      }
+    ],
+    "id": 8046
+  },
+  {
+    "name": "Narinder Kumar Bansal",
+    "bulkDealsData": [
+      {
+        "date": "Emerald Finance\n17 May, 2017",
+        "orderType": "Sell",
+        "quantity": "27,900",
+        "price": "44.8"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Mar 2017": 1.64,
+            "Dec 2016": 3.28,
+            "Sep 2016": 3.28,
+            "Jun 2016": 3.28
+          }
+        ]
+      },
+      {
+        "companyName": "Risa Internatio.",
+        "result": [
+          {
+            "Jun 2023": 1.09,
+            "Mar 2023": 1.09,
+            "Dec 2022": 1.09,
+            "Sep 2022": 1.09,
+            "Jun 2022": 1.09,
+            "Mar 2022": 1.09,
+            "Dec 2021": 1.09,
+            "Sep 2021": 1.09,
+            "Jun 2021": 1.09,
+            "Mar 2021": 1.09,
+            "Dec 2020": 1.09,
+            "Sep 2020": 1.09,
+            "Jun 2020": 1.09,
+            "Mar 2020": 1.09,
+            "Dec 2019": 1.09,
+            "Sep 2019": 1.09,
+            "Jun 2019": 1.09,
+            "Mar 2019": 1.09,
+            "Dec 2018": 1.09,
+            "Sep 2018": 1.09,
+            "Jun 2018": 1.09,
+            "Mar 2018": 1.09,
+            "Dec 2017": 1.09,
+            "Sep 2017": 1.09,
+            "Jun 2017": 1.09,
+            "Mar 2017": 1.09,
+            "Dec 2016": 1.09,
+            "Sep 2016": 1.09,
+            "Jun 2016": 1.09
+          }
+        ]
+      }
+    ],
+    "id": 8047
+  },
+  {
+    "name": "Atul Arora",
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Mar 2021": 1.11,
+            "Dec 2020": 1.11,
+            "Sep 2020": 1.11,
+            "Jun 2020": 1.11,
+            "Mar 2020": 1.11,
+            "Dec 2019": 1.11,
+            "Sep 2019": 1.11,
+            "Jun 2019": 1.11,
+            "Mar 2019": 1.11,
+            "Dec 2018": 3.28,
+            "Sep 2018": 3.28,
+            "Jun 2018": 3.28,
+            "Mar 2018": 3.28,
+            "Dec 2017": 3.28,
+            "Sep 2017": 3.28,
+            "Jun 2017": 3.28,
+            "Mar 2017": 3.28,
+            "Dec 2016": 3.28,
+            "Sep 2016": 3.28,
+            "Jun 2016": 3.28
+          }
+        ]
+      }
+    ],
+    "id": 8048
+  },
+  {
+    "name": "Pga Professionals Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Jun 2023": 1.16,
+            "Mar 2023": 1.08,
+            "Dec 2016": 3.28,
+            "Sep 2016": 3.28,
+            "Jun 2016": 3.28
+          }
+        ]
+      }
+    ],
+    "id": 8049
+  },
+  {
+    "name": "Akshay Agarwal",
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Dec 2018": 1.64,
+            "Sep 2018": 1.64,
+            "Jun 2018": 1.64,
+            "Mar 2018": 1.64,
+            "Dec 2017": 1.64,
+            "Sep 2017": 1.64,
+            "Jun 2017": 1.64,
+            "Mar 2017": 1.64,
+            "Dec 2016": 1.64,
+            "Sep 2016": 1.64,
+            "Jun 2016": 1.64
+          }
+        ]
+      }
+    ],
+    "id": 8050
+  },
+  {
+    "name": "Lavish Aggarwal",
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Dec 2018": 1.64,
+            "Sep 2018": 1.64,
+            "Jun 2018": 1.64,
+            "Mar 2018": 1.64,
+            "Dec 2017": 1.64,
+            "Sep 2017": 1.64,
+            "Jun 2017": 1.64,
+            "Mar 2017": 1.64,
+            "Dec 2016": 1.64,
+            "Sep 2016": 1.64,
+            "Jun 2016": 1.64
+          }
+        ]
+      }
+    ],
+    "id": 8051
+  },
+  {
+    "name": "Saurabh Gupta",
+    "bulkDealsData": [
+      {
+        "date": "Tirupati Tyres\n21 Dec, 2022",
+        "orderType": "Buy",
+        "quantity": "3,041",
+        "price": "23.0"
+      },
+      {
+        "date": "Tirupati Tyres\n21 Dec, 2022",
+        "orderType": "Sell",
+        "quantity": "42,033",
+        "price": "22.2"
+      },
+      {
+        "date": "Tirupati Tyres\n20 Dec, 2022",
+        "orderType": "Buy",
+        "quantity": "32,186",
+        "price": "22.2"
+      },
+      {
+        "date": "Tirupati Tyres\n19 Dec, 2022",
+        "orderType": "Sell",
+        "quantity": "32,817",
+        "price": "22.9"
+      },
+      {
+        "date": "Tirupati Tyres\n16 Dec, 2022",
+        "orderType": "Buy",
+        "quantity": "20,584",
+        "price": "23.8"
+      },
+      {
+        "date": "Tirupati Tyres\n14 Dec, 2022",
+        "orderType": "Buy",
+        "quantity": "28,885",
+        "price": "22.8"
+      },
+      {
+        "date": "Tirupati Tyres\n07 Dec, 2022",
+        "orderType": "Sell",
+        "quantity": "19,864",
+        "price": "23.4"
+      },
+      {
+        "date": "Tirupati Tyres\n06 Dec, 2022",
+        "orderType": "Sell",
+        "quantity": "31,921",
+        "price": "23.9"
+      },
+      {
+        "date": "Tirupati Tyres\n05 Dec, 2022",
+        "orderType": "Sell",
+        "quantity": "27,789",
+        "price": "25.1"
+      },
+      {
+        "date": "Tirupati Tyres\n08 Sep, 2022",
+        "orderType": "Buy",
+        "quantity": "99,605",
+        "price": "25.0"
+      },
+      {
+        "date": "Madhusudan Sec.\n14 Mar, 2022",
+        "orderType": "Sell",
+        "quantity": "54,000",
+        "price": "4.13"
+      },
+      {
+        "date": "Madhusudan Sec.\n04 Feb, 2022",
+        "orderType": "Buy",
+        "quantity": "54,000",
+        "price": "4.85"
+      },
+      {
+        "date": "New Light Appare\n27 Jul, 2021",
+        "orderType": "Sell",
+        "quantity": "47,994",
+        "price": "39.8"
+      },
+      {
+        "date": "New Light Appare\n13 Jul, 2021",
+        "orderType": "Buy",
+        "quantity": "49,000",
+        "price": "32.4"
+      },
+      {
+        "date": "Vistar Amar\n03 Dec, 2019",
+        "orderType": "Sell",
+        "quantity": "30,000",
+        "price": "14.8"
+      },
+      {
+        "date": "Abhishek Infra.\n21 Oct, 2016",
+        "orderType": "Sell",
+        "quantity": "17,500",
+        "price": "50.3"
+      },
+      {
+        "date": "Abhishek Infra.\n21 Oct, 2016",
+        "orderType": "Buy",
+        "quantity": "17,500",
+        "price": "50.3"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Divinus Fabrics",
+        "result": [
+          {
+            "Mar 2019": 2.15,
+            "Dec 2018": 2.15,
+            "Sep 2018": 2.15,
+            "Jun 2018": 2.15,
+            "Mar 2018": 2.15,
+            "Dec 2017": 2.15,
+            "Sep 2017": 2.15,
+            "Jun 2017": 2.13,
+            "Mar 2017": 1.03,
+            "Dec 2016": 1.03,
+            "Sep 2016": 1.03
+          }
+        ]
+      },
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Dec 2018": 1.64,
+            "Sep 2018": 1.64,
+            "Jun 2018": 1.64,
+            "Mar 2018": 1.64,
+            "Dec 2017": 1.64,
+            "Sep 2017": 1.64,
+            "Jun 2017": 1.64,
+            "Mar 2017": 1.64,
+            "Dec 2016": 1.64,
+            "Sep 2016": 1.64,
+            "Jun 2016": 1.64
+          }
+        ]
+      },
+      {
+        "companyName": "Hind Securities",
+        "result": [
+          {
+            "Dec 2020": 4.62,
+            "Sep 2020": 4.62,
+            "Jun 2020": 1.37,
+            "Mar 2020": 1.37
+          }
+        ]
+      },
+      {
+        "companyName": "Kalyan Capitals",
+        "result": [
+          {
+            "Jun 2023": 3.36,
+            "Mar 2023": 3.36,
+            "Dec 2022": 3.36,
+            "Sep 2022": 3.36,
+            "Jun 2022": 4.15,
+            "Mar 2022": 4.15,
+            "Dec 2021": 4.15,
+            "Sep 2021": 4.15,
+            "Jun 2021": 4.15,
+            "Mar 2021": 4.15,
+            "Dec 2020": 4.15,
+            "Sep 2020": 4.15,
+            "Jun 2020": 4.15,
+            "Mar 2020": 4.15,
+            "Dec 2019": 4.15,
+            "Sep 2019": 4.15,
+            "Jun 2019": 4.15,
+            "Mar 2019": 4.15,
+            "Dec 2018": 4.15,
+            "Sep 2018": 4.15,
+            "Jun 2018": 4.15,
+            "Mar 2018": 4.15
+          }
+        ]
+      },
+      {
+        "companyName": "Sadhna Broadcast",
+        "result": [
+          {
+            "Jun 2022": 2.57,
+            "Mar 2022": 2.57,
+            "Dec 2021": 2.57,
+            "Sep 2021": 2.57,
+            "Jun 2021": 2.57,
+            "Mar 2021": 2.57,
+            "Dec 2020": 2.57,
+            "Sep 2020": 2.57,
+            "Jun 2020": 2.57,
+            "Mar 2020": 2.57,
+            "Dec 2019": 2.57,
+            "Sep 2019": 2.57,
+            "Jun 2019": 2.57,
+            "Mar 2019": 2.57,
+            "Dec 2018": 2.57,
+            "Sep 2018": 2.57,
+            "Jun 2018": 2.57,
+            "Mar 2018": 2.57,
+            "Dec 2017": 2.57
+          }
+        ]
+      },
+      {
+        "companyName": "Share India Sec.",
+        "result": [
+          {
+            "Jun 2023": 4.18,
+            "Mar 2023": 4.19,
+            "Dec 2022": 4.28,
+            "Sep 2022": 4.28,
+            "Jun 2022": 4.28,
+            "Mar 2022": 4.28,
+            "Dec 2021": 4.28,
+            "Sep 2021": 4.28,
+            "Jun 2021": 4.28,
+            "Mar 2021": 4.28,
+            "Dec 2020": 4.28,
+            "Sep 2020": 4.28,
+            "Jun 2020": 4.28,
+            "Mar 2020": 4.28,
+            "Dec 2019": 4.28,
+            "Sep 2019": 5.59,
+            "Mar 2019": 5.59,
+            "Sep 2018": 5.59,
+            "Mar 2018": 5.59,
+            "Sep 2017": 5.59
+          }
+        ]
+      },
+      {
+        "companyName": "Tirupati Tyres",
+        "result": [
+          {
+            "Sep 2022": 2.89
+          }
+        ]
+      }
+    ],
+    "id": 8052
+  },
+  {
+    "name": "Kultar Singh",
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Dec 2018": 1.64,
+            "Sep 2018": 1.64,
+            "Jun 2018": 1.64,
+            "Mar 2018": 1.64,
+            "Dec 2017": 1.64,
+            "Sep 2017": 1.64,
+            "Jun 2017": 1.64,
+            "Mar 2017": 1.64,
+            "Dec 2016": 1.64,
+            "Sep 2016": 1.64,
+            "Jun 2016": 1.64
+          }
+        ]
+      }
+    ],
+    "id": 8053
+  },
+  {
+    "name": "Dr. Aman Garg",
+    "bulkDealsData": [
+      {
+        "date": "Rajas. Tube Mfg\n20 Oct, 2021",
+        "orderType": "Buy",
+        "quantity": "24,000",
+        "price": "20.8"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Sep 2017": 1.64,
+            "Jun 2017": 1.64,
+            "Mar 2017": 1.64,
+            "Dec 2016": 1.64,
+            "Sep 2016": 1.64,
+            "Jun 2016": 1.64
+          }
+        ]
+      },
+      {
+        "companyName": "Rajas. Tube Mfg",
+        "result": [
+          {
+            "Jun 2023": 1.28,
+            "Mar 2023": 1.28,
+            "Dec 2022": 1.28
+          }
+        ]
+      }
+    ],
+    "id": 8054
+  },
+  {
+    "name": "Rakesh Kumar",
+    "bulkDealsData": [
+      {
+        "date": "ICL Organic Dair\n13 Apr, 2023",
+        "orderType": "Buy",
+        "quantity": "72,000",
+        "price": "64.5"
+      },
+      {
+        "date": "Envair Electrody\n29 Mar, 2023",
+        "orderType": "Sell",
+        "quantity": "1,84,500",
+        "price": "56.0"
+      },
+      {
+        "date": "Vitesse Agro\n01 Jun, 2022",
+        "orderType": "Sell",
+        "quantity": "32,830",
+        "price": "115"
+      },
+      {
+        "date": "Omansh Enterpri.\n22 Dec, 2021",
+        "orderType": "Sell",
+        "quantity": "1,00,000",
+        "price": "1.12"
+      },
+      {
+        "date": "Regency Fincorp\n14 Jul, 2020",
+        "orderType": "Buy",
+        "quantity": "18,962",
+        "price": "22.1"
+      },
+      {
+        "date": "Regency Fincorp\n14 Jul, 2020",
+        "orderType": "Sell",
+        "quantity": "16,317",
+        "price": "19.3"
+      },
+      {
+        "date": "CKP Products\n16 Oct, 2017",
+        "orderType": "BUY",
+        "quantity": "21,000",
+        "price": "50.2"
+      },
+      {
+        "date": "Shree Hanuman Sg\n16 Feb, 2015",
+        "orderType": "Buy",
+        "quantity": "2,32,703",
+        "price": "1.42"
+      },
+      {
+        "date": "Shree Hanuman Sg\n16 Feb, 2015",
+        "orderType": "Sell",
+        "quantity": "15,000",
+        "price": "1.30"
+      },
+      {
+        "date": "Shree Hanuman Sg\n10 Feb, 2015",
+        "orderType": "Sell",
+        "quantity": "1,35,000",
+        "price": "1.81"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "D.K. Enterprises",
+        "result": [
+          {
+            "Mar 2023": 9.65,
+            "Sep 2022": 9.65,
+            "Mar 2022": 9.65,
+            "Dec 2021": 9.65
+          }
+        ]
+      },
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Dec 2018": 1.64,
+            "Sep 2018": 1.64,
+            "Jun 2018": 1.64,
+            "Mar 2018": 1.64,
+            "Dec 2017": 1.64,
+            "Sep 2017": 1.64,
+            "Jun 2017": 1.64,
+            "Mar 2017": 1.64,
+            "Dec 2016": 1.64,
+            "Sep 2016": 1.64,
+            "Jun 2016": 1.64
+          }
+        ]
+      },
+      {
+        "companyName": "Intercorp Inds.",
+        "result": [
+          {
+            "Mar 2016": 0.06
+          }
+        ]
+      },
+      {
+        "companyName": "Olympic Oil Ind.",
+        "result": [
+          {
+            "Jun 2023": 1.75,
+            "Mar 2023": 1.75,
+            "Dec 2022": 1.75,
+            "Sep 2022": 1.75,
+            "Jun 2022": 1.75,
+            "Mar 2022": 1.75,
+            "Dec 2021": 1.75,
+            "Sep 2021": 1.75,
+            "Jun 2021": 1.75,
+            "Mar 2021": 1.75,
+            "Dec 2020": 1.75,
+            "Sep 2020": 1.75,
+            "Jun 2020": 1.75,
+            "Mar 2020": 1.75,
+            "Dec 2019": 1.75,
+            "Sep 2019": 1.75,
+            "Jun 2019": 1.75,
+            "Mar 2019": 1.75,
+            "Dec 2018": 1.75,
+            "Sep 2018": 1.75,
+            "Jun 2018": 1.75,
+            "Mar 2018": 1.75,
+            "Dec 2017": 1.75,
+            "Sep 2017": 1.75,
+            "Jun 2017": 1.75,
+            "Mar 2017": 1.75,
+            "Dec 2016": 1.75,
+            "Sep 2016": 1.75,
+            "Jun 2016": 1.75,
+            "Mar 2016": 1.75,
+            "Dec 2015": 1.75
+          }
+        ]
+      },
+      {
+        "companyName": "Padam Cotton",
+        "result": [
+          {
+            "Jun 2023": 1.58,
+            "Mar 2023": 1.58,
+            "Dec 2022": 1.58,
+            "Sep 2022": 1.58,
+            "Jun 2022": 1.58,
+            "Mar 2022": 1.58,
+            "Dec 2021": 1.58,
+            "Sep 2021": 1.58,
+            "Jun 2021": 1.58,
+            "Mar 2021": 1.58,
+            "Dec 2020": 1.58,
+            "Sep 2020": 1.58,
+            "Jun 2020": 1.58,
+            "Mar 2020": 1.58,
+            "Dec 2019": 1.58,
+            "Sep 2019": 1.58,
+            "Jun 2019": 1.58,
+            "Mar 2019": 1.58,
+            "Dec 2018": 1.58,
+            "Sep 2018": 1.58,
+            "Jun 2018": 1.58,
+            "Mar 2018": 1.58,
+            "Dec 2017": 1.58,
+            "Sep 2017": 1.58,
+            "Jun 2017": 1.58,
+            "Mar 2017": 1.58,
+            "Dec 2016": 1.58,
+            "Sep 2016": 1.58,
+            "Jun 2016": 1.58
+          }
+        ]
+      },
+      {
+        "companyName": "PNB Housing",
+        "result": [
+          {}
+        ]
+      },
+      {
+        "companyName": "Regency Fincorp",
+        "result": [
+          {
+            "Jun 2020": 1.66,
+            "Mar 2020": 1.66,
+            "Dec 2019": 2.91,
+            "Sep 2019": 3.07,
+            "Jun 2019": 3.39,
+            "Mar 2019": 3.39,
+            "Dec 2018": 3.39,
+            "Sep 2018": 3.39,
+            "Jun 2018": 3.52
+          }
+        ]
+      },
+      {
+        "companyName": "Sadhna Broadcast",
+        "result": [
+          {
+            "Mar 2018": 2,
+            "Dec 2017": 2
+          }
+        ]
+      },
+      {
+        "companyName": "Worldwide Alumi.",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 8055
+  },
+  {
+    "name": "Nidhi Arora",
+    "bulkDealsData": [
+      {
+        "date": "Emerald Finance\n22 Jan, 2021",
+        "orderType": "Sell",
+        "quantity": "50,000",
+        "price": "14.5"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Dec 2020": 1.64,
+            "Sep 2020": 1.64,
+            "Jun 2020": 1.64,
+            "Mar 2020": 1.64,
+            "Dec 2019": 1.64,
+            "Sep 2019": 1.64,
+            "Jun 2019": 1.64,
+            "Mar 2019": 1.64,
+            "Dec 2018": 1.64,
+            "Sep 2018": 1.64,
+            "Jun 2018": 1.64,
+            "Mar 2018": 1.64,
+            "Dec 2017": 1.64,
+            "Sep 2017": 1.64,
+            "Jun 2017": 1.64,
+            "Mar 2017": 1.64,
+            "Dec 2016": 1.64,
+            "Sep 2016": 1.64,
+            "Jun 2016": 1.64
+          }
+        ]
+      },
+      {
+        "companyName": "Mankind Pharma",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 8056
+  },
+  {
+    "name": "Harsharan Bhullar",
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Dec 2016": 1.64,
+            "Sep 2016": 1.64,
+            "Jun 2016": 1.64
+          }
+        ]
+      }
+    ],
+    "id": 8057
+  },
+  {
+    "name": "Raj Rani Aggarwal",
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Dec 2016": 1.64,
+            "Sep 2016": 1.64,
+            "Jun 2016": 1.64
+          }
+        ]
+      }
+    ],
+    "id": 8058
+  },
+  {
+    "name": "Rudraksh Engineers Private Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Dec 2018": 1.64,
+            "Sep 2018": 1.64,
+            "Jun 2018": 1.64,
+            "Mar 2018": 1.64,
+            "Dec 2017": 1.64,
+            "Sep 2017": 1.64,
+            "Jun 2017": 1.64,
+            "Mar 2017": 1.64,
+            "Dec 2016": 1.64,
+            "Sep 2016": 1.64,
+            "Jun 2016": 1.64
+          }
+        ]
+      }
+    ],
+    "id": 8059
+  },
+  {
+    "name": "Lokesh Aggarwal",
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Dec 2018": 1.28,
+            "Sep 2018": 1.29,
+            "Jun 2018": 1.29,
+            "Mar 2018": 1.29,
+            "Dec 2017": 1.29,
+            "Sep 2017": 1.29,
+            "Jun 2017": 1.29,
+            "Mar 2017": 1.36,
+            "Dec 2016": 1.36,
+            "Sep 2016": 1.36,
+            "Jun 2016": 1.48
+          }
+        ]
+      }
+    ],
+    "id": 8060
+  },
+  {
+    "name": "Rahul Sondhi",
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Dec 2018": 1.31,
+            "Sep 2018": 1.31,
+            "Jun 2018": 1.31,
+            "Mar 2018": 1.31,
+            "Dec 2017": 1.31,
+            "Sep 2017": 1.31,
+            "Jun 2017": 1.31,
+            "Mar 2017": 1.31,
+            "Dec 2016": 1.31,
+            "Sep 2016": 1.31,
+            "Jun 2016": 1.31
+          }
+        ]
+      }
+    ],
+    "id": 8061
+  },
+  {
+    "name": "Sanjay Aggarwal",
+    "bulkDealsData": [
+      {
+        "date": "New Light Appare\n02 Mar, 2022",
+        "orderType": "Buy",
+        "quantity": "30,000",
+        "price": "19.6"
+      },
+      {
+        "date": "ITI\n20 Jul, 2005",
+        "orderType": "BUY",
+        "quantity": "1,30,000",
+        "price": "83.7"
+      },
+      {
+        "date": "ITI\n20 Jul, 2005",
+        "orderType": "SELL",
+        "quantity": "1,30,000",
+        "price": "83.6"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Jun 2023": 32.36,
+            "Mar 2023": 32.36,
+            "Dec 2022": 32.36,
+            "Sep 2022": 33.58,
+            "Jun 2022": 33.58,
+            "Mar 2022": 35.01,
+            "Dec 2021": 35.01,
+            "Sep 2021": 35.01,
+            "Jun 2021": 35.01,
+            "Mar 2021": 21.32,
+            "Dec 2020": 21.32,
+            "Sep 2020": 21.32,
+            "Jun 2020": 21.32,
+            "Mar 2020": 21.32,
+            "Dec 2019": 21.32,
+            "Sep 2019": 21.32,
+            "Jun 2019": 21.32,
+            "Mar 2019": 21.32,
+            "Dec 2018": 9.15,
+            "Sep 2018": 9.15,
+            "Jun 2018": 9.15,
+            "Mar 2018": 9.15,
+            "Dec 2017": 9.15,
+            "Sep 2017": 9.15,
+            "Jun 2017": 9.15,
+            "Mar 2017": 9.15,
+            "Dec 2016": 0.94,
+            "Sep 2016": 0.94,
+            "Jun 2016": 0.94
+          }
+        ]
+      },
+      {
+        "companyName": "New Light Appare",
+        "result": [
+          {
+            "Jun 2023": 1.28,
+            "Mar 2023": 1.63,
+            "Dec 2022": 1.63,
+            "Sep 2022": 1.63,
+            "Jun 2022": 1.73,
+            "Mar 2022": 1.78
+          }
+        ]
+      },
+      {
+        "companyName": "Paramount Comm.",
+        "result": [
+          {
+            "Jun 2023": 6,
+            "Mar 2023": 7.24,
+            "Sep 2022": 7.24,
+            "Mar 2022": 7.24,
+            "Sep 2021": 7.24,
+            "Mar 2021": 7.24,
+            "Dec 2020": 5.3,
+            "Jun 2020": 5.3,
+            "Mar 2020": 1.61,
+            "Dec 2019": 5.44,
+            "Sep 2019": 5.44,
+            "Jun 2019": 5.44,
+            "Mar 2019": 5.44,
+            "Dec 2018": 5.44,
+            "Sep 2018": 0.88,
+            "Jun 2018": 4.08,
+            "Mar 2018": 4.08,
+            "Dec 2017": 4.08,
+            "Sep 2017": 4.65,
+            "Jun 2017": 4.65,
+            "Mar 2017": 4.65,
+            "Dec 2016": 4.65,
+            "Sep 2016": 4.65,
+            "Jun 2016": 4.65
+          }
+        ]
+      },
+      {
+        "companyName": "Unifinz Capital",
+        "result": [
+          {
+            "Jun 2023": 3.18,
+            "Mar 2023": 3.18,
+            "Dec 2022": 3.18,
+            "Sep 2022": 3.18,
+            "Jun 2022": 3.18,
+            "Mar 2022": 3.18,
+            "Dec 2021": 3.18,
+            "Sep 2021": 3.18,
+            "Jun 2021": 3.18,
+            "Mar 2021": 3.18,
+            "Dec 2020": 3.18,
+            "Sep 2020": 3.18,
+            "Jun 2020": 3.18,
+            "Mar 2020": 3.18,
+            "Dec 2019": 3.18,
+            "Sep 2019": 3.18,
+            "Jun 2019": 3.18,
+            "Mar 2019": 3.18,
+            "Dec 2018": 3.18,
+            "Sep 2018": 3.18,
+            "Jun 2018": 3.18
+          }
+        ]
+      }
+    ],
+    "id": 8062
+  },
+  {
+    "name": "Dimple Singla",
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Mar 2021": 1.11,
+            "Dec 2020": 1.11,
+            "Sep 2020": 1.11,
+            "Jun 2020": 1.11,
+            "Mar 2020": 1.11,
+            "Dec 2019": 1.11,
+            "Sep 2019": 1.11,
+            "Jun 2019": 1.11,
+            "Dec 2018": 1.64,
+            "Sep 2018": 1.64,
+            "Jun 2018": 1.64,
+            "Mar 2018": 1.64,
+            "Dec 2017": 1.64
+          }
+        ]
+      }
+    ],
+    "id": 8063
+  },
+  {
+    "name": "Radha Krishna Agarwal",
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Mar 2021": 1.66,
+            "Dec 2020": 1.66,
+            "Sep 2020": 1.66,
+            "Jun 2020": 1.66,
+            "Mar 2020": 1.66,
+            "Dec 2019": 1.66,
+            "Sep 2019": 1.66,
+            "Jun 2019": 1.66,
+            "Mar 2019": 1.66,
+            "Dec 2018": 4.93
+          }
+        ]
+      }
+    ],
+    "id": 8064
+  },
+  {
+    "name": "Anubha Aggarwal",
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Jun 2023": 24.95,
+            "Mar 2023": 24.95,
+            "Dec 2022": 24.95,
+            "Sep 2022": 25.9,
+            "Jun 2022": 25.9,
+            "Mar 2022": 26.62,
+            "Dec 2021": 27.37,
+            "Sep 2021": 27.37,
+            "Jun 2021": 27.37,
+            "Mar 2021": 21.04,
+            "Dec 2020": 21.04,
+            "Sep 2020": 21.04,
+            "Jun 2020": 21.04,
+            "Mar 2020": 21.04,
+            "Dec 2019": 21.04,
+            "Sep 2019": 21.04,
+            "Jun 2019": 21.04,
+            "Mar 2019": 21.04
+          }
+        ]
+      }
+    ],
+    "id": 8065
+  },
+  {
+    "name": "Emily Bosco Menezes",
+    "bulkDealsData": [
+      {
+        "date": "Madhusudan Sec.\n26 Sep, 2022",
+        "orderType": "Buy",
+        "quantity": "86,000",
+        "price": "8.86"
+      },
+      {
+        "date": "Interactive Fin\n17 Mar, 2021",
+        "orderType": "Buy",
+        "quantity": "54,000",
+        "price": "6.39"
+      },
+      {
+        "date": "Modulex Const.\n20 Feb, 2018",
+        "orderType": "Buy",
+        "quantity": "15,000",
+        "price": "75.9"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Avasara Finance",
+        "result": [
+          {
+            "Mar 2023": 1.26,
+            "Dec 2022": 1.26,
+            "Sep 2022": 1.26,
+            "Jun 2022": 1.26,
+            "Mar 2022": 1.26,
+            "Dec 2021": 1.26,
+            "Sep 2021": 1.26
+          }
+        ]
+      },
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Dec 2020": 1.94,
+            "Sep 2020": 2.22,
+            "Jun 2020": 2.22,
+            "Mar 2020": 2.22,
+            "Dec 2019": 2.22,
+            "Sep 2019": 2.22,
+            "Jun 2019": 2.22,
+            "Mar 2019": 2.22
+          }
+        ]
+      },
+      {
+        "companyName": "Golkonda Alumin.",
+        "result": [
+          {
+            "Jun 2023": 3.54,
+            "Mar 2023": 3.48,
+            "Dec 2022": 3.3,
+            "Sep 2022": 2.5,
+            "Jun 2022": 2.4,
+            "Mar 2022": 1.9,
+            "Dec 2021": 1.8,
+            "Sep 2021": 1.04
+          }
+        ]
+      },
+      {
+        "companyName": "I Power Solution",
+        "result": [
+          {
+            "Jun 2023": 2.34,
+            "Mar 2023": 2.34,
+            "Dec 2022": 2.34,
+            "Sep 2022": 2.34,
+            "Jun 2022": 2.34,
+            "Mar 2022": 2.33,
+            "Dec 2021": 1.77,
+            "Sep 2021": 1.73,
+            "Jun 2021": 1.54,
+            "Mar 2021": 1.3,
+            "Dec 2020": 1.24
+          }
+        ]
+      },
+      {
+        "companyName": "Interactive Fin",
+        "result": [
+          {
+            "Jun 2023": 1.33,
+            "Mar 2023": 1.33,
+            "Dec 2022": 1.33,
+            "Sep 2022": 1.33,
+            "Jun 2022": 1.33,
+            "Mar 2022": 1.45,
+            "Dec 2021": 2.44,
+            "Sep 2021": 2.44,
+            "Jun 2021": 2.44,
+            "Mar 2021": 2.39
+          }
+        ]
+      },
+      {
+        "companyName": "Kilpest India",
+        "result": [
+          {
+            "Jun 2019": 1.05,
+            "Mar 2019": 1.23,
+            "Dec 2018": 1.23,
+            "Sep 2018": 1.3,
+            "Jun 2018": 1.23,
+            "Mar 2018": 1.23,
+            "Dec 2017": 1.23,
+            "Sep 2017": 1.23,
+            "Jun 2017": 1.23,
+            "Mar 2017": 1.23,
+            "Dec 2016": 1.23,
+            "Sep 2016": 1.23,
+            "Jun 2016": 1.23
+          }
+        ]
+      },
+      {
+        "companyName": "Krishna Vent.",
+        "result": [
+          {
+            "Jun 2023": 1.34
+          }
+        ]
+      },
+      {
+        "companyName": "Madhusudan Sec.",
+        "result": [
+          {
+            "Jun 2023": 2.07,
+            "Mar 2023": 2.02,
+            "Dec 2022": 1.73
+          }
+        ]
+      },
+      {
+        "companyName": "Modulex Const.",
+        "result": [
+          {
+            "Sep 2018": 1.24,
+            "Jun 2018": 1.24,
+            "Mar 2018": 1.24
+          }
+        ]
+      },
+      {
+        "companyName": "NIBE",
+        "result": [
+          {
+            "Jun 2023": 1.1,
+            "Mar 2023": 1.1,
+            "Dec 2022": 1.25,
+            "Sep 2022": 1.25,
+            "Jun 2022": 1.25
+          }
+        ]
+      },
+      {
+        "companyName": "Oceanaa Biotek",
+        "result": [
+          {
+            "Mar 2018": 1.11,
+            "Dec 2017": 1.11,
+            "Sep 2017": 1.14,
+            "Jun 2017": 1.14,
+            "Mar 2017": 1.51,
+            "Dec 2016": 1.8,
+            "Sep 2016": 2
+          }
+        ]
+      },
+      {
+        "companyName": "Radhagobind Comm",
+        "result": [
+          {
+            "Dec 2022": 2.47,
+            "Sep 2022": 1.48
+          }
+        ]
+      },
+      {
+        "companyName": "Vistar Amar",
+        "result": [
+          {
+            "Jun 2021": 1.28
+          }
+        ]
+      }
+    ],
+    "id": 8066
+  },
+  {
+    "name": "Navneet Kaur Ahluwalia",
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Mar 2021": 1.55,
+            "Dec 2020": 1.55,
+            "Sep 2020": 1.55,
+            "Jun 2020": 1.55,
+            "Mar 2020": 1.55,
+            "Dec 2019": 1.55,
+            "Sep 2019": 1.55,
+            "Jun 2019": 1.55
+          }
+        ]
+      }
+    ],
+    "id": 8067
+  },
+  {
+    "name": "Prerit Jaysukhlal Doshi",
+    "bulkDealsData": [
+      {
+        "date": "Systematix Sec.\n19 Oct, 2021",
+        "orderType": "Buy",
+        "quantity": "29,000",
+        "price": "7.51"
+      },
+      {
+        "date": "Catvision Ltd\n11 Dec, 2020",
+        "orderType": "Sell",
+        "quantity": "34,660",
+        "price": "7.39"
+      },
+      {
+        "date": "Thirdwave Fin.\n30 Jul, 2020",
+        "orderType": "Buy",
+        "quantity": "12,350",
+        "price": "27.7"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Catvision Ltd",
+        "result": [
+          {
+            "Sep 2019": 1.29
+          }
+        ]
+      },
+      {
+        "companyName": "Disha Resources",
+        "result": [
+          {
+            "Jun 2023": 1.04
+          }
+        ]
+      },
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Sep 2020": 1.2
+          }
+        ]
+      },
+      {
+        "companyName": "Franklin Indust.",
+        "result": [
+          {
+            "Sep 2022": 1.11
+          }
+        ]
+      },
+      {
+        "companyName": "Kotia Enterprise",
+        "result": [
+          {
+            "Sep 2020": 1.2
+          }
+        ]
+      },
+      {
+        "companyName": "Mathew Easow Res",
+        "result": [
+          {
+            "Jun 2022": 1.19
+          }
+        ]
+      },
+      {
+        "companyName": "Thirdwave Fin.",
+        "result": [
+          {
+            "Mar 2021": 2.31,
+            "Dec 2020": 1.8,
+            "Sep 2020": 1.92
+          }
+        ]
+      },
+      {
+        "companyName": "Unick Fix-A-Form",
+        "result": [
+          {
+            "Mar 2021": 1.22
+          }
+        ]
+      },
+      {
+        "companyName": "Utique Enterp.",
+        "result": [
+          {
+            "Sep 2022": 1.34
+          }
+        ]
+      }
+    ],
+    "id": 8068
+  },
+  {
+    "name": "Kamal Kamal Mehta",
+    "bulkDealsData": [
+      {
+        "date": "Emerald Finance\n31 Dec, 2020",
+        "orderType": "Buy",
+        "quantity": "69,551",
+        "price": "16.8"
+      },
+      {
+        "date": "Emerald Finance\n31 Dec, 2020",
+        "orderType": "Sell",
+        "quantity": "10",
+        "price": "16.0"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Mar 2021": 1.85
+          }
+        ]
+      }
+    ],
+    "id": 8069
+  },
+  {
+    "name": "Pankaj Mehta",
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Jun 2023": 2.82,
+            "Mar 2023": 2.82,
+            "Dec 2022": 2.82,
+            "Sep 2022": 2.92,
+            "Jun 2022": 2.92,
+            "Mar 2022": 2.92,
+            "Dec 2021": 2.92,
+            "Sep 2021": 2.75,
+            "Jun 2021": 2.75
+          }
+        ]
+      }
+    ],
+    "id": 8070
+  },
+  {
+    "name": "Money Growth Investment Consultants Pvt Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Jun 2023": 1.66,
+            "Mar 2023": 1.66,
+            "Dec 2022": 1.66,
+            "Sep 2022": 1.72,
+            "Jun 2022": 1.72,
+            "Mar 2022": 1.72,
+            "Dec 2021": 1.72,
+            "Sep 2021": 1.72,
+            "Jun 2021": 1.72
+          }
+        ]
+      }
+    ],
+    "id": 8071
+  },
+  {
+    "name": "Monika Mehta",
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Jun 2023": 1.11,
+            "Mar 2023": 1.11,
+            "Dec 2022": 1.11,
+            "Sep 2022": 1.15,
+            "Jun 2022": 1.15,
+            "Mar 2022": 1.15,
+            "Dec 2021": 1.15,
+            "Sep 2021": 1.15,
+            "Jun 2021": 1.14
+          }
+        ]
+      }
+    ],
+    "id": 8072
+  },
+  {
+    "name": "Harinder Kumar Sahu",
+    "shareHoldings": [
+      {
+        "companyName": "Emerald Finance",
+        "result": [
+          {
+            "Jun 2023": 1.67,
+            "Mar 2023": 1.67,
+            "Dec 2022": 1.64,
+            "Sep 2022": 1.66,
+            "Jun 2022": 1.24,
+            "Mar 2022": 1.24,
+            "Dec 2021": 1.23,
+            "Sep 2021": 1.03
+          }
+        ]
+      }
+    ],
+    "id": 8073
+  },
+  {
+    "name": "Galada Housing Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Galada Finance",
+        "result": [
+          {
+            "Jun 2023": 12.15,
+            "Mar 2023": 12.15,
+            "Dec 2022": 12.15,
+            "Sep 2022": 12.15,
+            "Jun 2022": 12.15,
+            "Mar 2022": 12.15,
+            "Dec 2021": 12.15,
+            "Sep 2021": 12.15,
+            "Jun 2021": 12.15,
+            "Mar 2021": 12.15,
+            "Dec 2020": 12.15,
+            "Sep 2020": 12.15,
+            "Jun 2020": 12.15,
+            "Mar 2020": 12.15,
+            "Dec 2019": 12.15,
+            "Sep 2019": 12.15,
+            "Jun 2019": 12.15,
+            "Mar 2019": 12.15,
+            "Dec 2018": 12.15,
+            "Sep 2018": 12.15,
+            "Jun 2018": 12.15,
+            "Mar 2018": 12.15,
+            "Dec 2017": 12.15,
+            "Sep 2017": 12.15,
+            "Jun 2017": 12.15,
+            "Mar 2017": 12.15,
+            "Dec 2016": 12.15,
+            "Sep 2016": 12.15,
+            "Jun 2016": 12.15,
+            "Mar 2016": 12.15
+          }
+        ]
+      }
+    ],
+    "id": 8074
+  },
+  {
+    "name": "Shanthi Devi Galada",
+    "shareHoldings": [
+      {
+        "companyName": "Galada Finance",
+        "result": [
+          {
+            "Sep 2021": 11.59,
+            "Jun 2021": 8.93,
+            "Mar 2021": 8.93,
+            "Dec 2020": 8.93,
+            "Sep 2020": 8.93,
+            "Jun 2020": 7.34,
+            "Mar 2020": 7.34,
+            "Dec 2019": 7.34,
+            "Sep 2019": 7.34,
+            "Jun 2019": 7.34,
+            "Mar 2019": 7.34,
+            "Dec 2018": 7.34,
+            "Sep 2018": 7.34,
+            "Jun 2018": 7.34,
+            "Mar 2018": 7.34,
+            "Dec 2017": 7.34,
+            "Sep 2017": 7.34,
+            "Jun 2017": 7.34,
+            "Mar 2017": 7.34,
+            "Dec 2016": 7.34,
+            "Sep 2016": 7.34,
+            "Jun 2016": 7.34,
+            "Mar 2016": 7.34
+          }
+        ]
+      }
+    ],
+    "id": 8075
+  },
+  {
+    "name": "Galada Traders Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Galada Finance",
+        "result": [
+          {
+            "Jun 2023": 6.64,
+            "Mar 2023": 6.64,
+            "Dec 2022": 6.64,
+            "Sep 2022": 6.64,
+            "Jun 2022": 6.64,
+            "Mar 2022": 6.64,
+            "Dec 2021": 6.64,
+            "Sep 2021": 6.64,
+            "Jun 2021": 6.64,
+            "Mar 2021": 6.64,
+            "Dec 2020": 6.64,
+            "Sep 2020": 6.64,
+            "Jun 2020": 6.64,
+            "Mar 2020": 6.64,
+            "Dec 2019": 6.64,
+            "Sep 2019": 6.64,
+            "Jun 2019": 6.64,
+            "Mar 2019": 6.64,
+            "Dec 2018": 6.64,
+            "Sep 2018": 6.64,
+            "Jun 2018": 6.64,
+            "Mar 2018": 6.64,
+            "Dec 2017": 6.64,
+            "Sep 2017": 6.64,
+            "Jun 2017": 6.64,
+            "Mar 2017": 6.64,
+            "Dec 2016": 6.64,
+            "Sep 2016": 6.64,
+            "Jun 2016": 6.64,
+            "Mar 2016": 6.64
+          }
+        ]
+      }
+    ],
+    "id": 8076
+  },
+  {
+    "name": "J. Ashok Kumar Galada (Huf)",
+    "shareHoldings": [
+      {
+        "companyName": "Galada Finance",
+        "result": [
+          {
+            "Jun 2023": 5.82,
+            "Mar 2023": 5.82,
+            "Dec 2022": 5.82,
+            "Sep 2022": 5.82,
+            "Jun 2022": 5.82,
+            "Mar 2022": 5.82,
+            "Dec 2021": 5.82,
+            "Sep 2021": 5.82,
+            "Jun 2021": 5.82,
+            "Mar 2021": 5.82,
+            "Dec 2020": 5.82,
+            "Sep 2020": 5.82,
+            "Jun 2020": 5.82,
+            "Mar 2020": 5.82,
+            "Dec 2019": 5.82,
+            "Sep 2019": 5.82,
+            "Jun 2019": 5.82,
+            "Mar 2019": 5.82,
+            "Dec 2018": 5.82,
+            "Sep 2018": 5.82,
+            "Jun 2018": 5.82,
+            "Mar 2018": 5.82,
+            "Dec 2017": 5.82,
+            "Sep 2017": 5.82,
+            "Jun 2017": 5.82,
+            "Mar 2017": 5.82,
+            "Dec 2016": 5.82,
+            "Sep 2016": 5.82,
+            "Jun 2016": 5.82,
+            "Mar 2016": 5.82
+          }
+        ]
+      }
+    ],
+    "id": 8077
+  },
+  {
+    "name": "Ashok Galada J",
+    "shareHoldings": [
+      {
+        "companyName": "Galada Finance",
+        "result": [
+          {
+            "Jun 2023": 7.06,
+            "Mar 2023": 7.06,
+            "Dec 2022": 7.06,
+            "Sep 2022": 7.06,
+            "Jun 2022": 7.06,
+            "Mar 2022": 7.06,
+            "Dec 2021": 6.4,
+            "Sep 2021": 5.73,
+            "Jun 2021": 5.73,
+            "Mar 2021": 5.73,
+            "Dec 2020": 5.73,
+            "Sep 2020": 5.73,
+            "Jun 2020": 5.73,
+            "Mar 2020": 5.73,
+            "Dec 2019": 5.73,
+            "Sep 2019": 5.73,
+            "Jun 2019": 5.73,
+            "Mar 2019": 5.73,
+            "Dec 2018": 5.73,
+            "Sep 2018": 5.73,
+            "Jun 2018": 4.73,
+            "Mar 2018": 4.73,
+            "Dec 2017": 4.73,
+            "Sep 2017": 4.73,
+            "Jun 2017": 4.73,
+            "Mar 2017": 4.73,
+            "Dec 2016": 4.73,
+            "Sep 2016": 4.73,
+            "Jun 2016": 4.73,
+            "Mar 2016": 4.73
+          }
+        ]
+      }
+    ],
+    "id": 8078
+  },
+  {
+    "name": "Naveen Galada Huf",
+    "shareHoldings": [
+      {
+        "companyName": "Galada Finance",
+        "result": [
+          {
+            "Jun 2023": 7,
+            "Mar 2023": 7,
+            "Dec 2022": 7,
+            "Sep 2022": 7,
+            "Jun 2022": 7,
+            "Mar 2022": 7,
+            "Dec 2021": 4.75,
+            "Sep 2021": 4.75,
+            "Jun 2021": 3.75,
+            "Mar 2021": 3.75,
+            "Dec 2020": 3.75,
+            "Sep 2020": 3.75,
+            "Jun 2020": 3.75,
+            "Mar 2020": 3.75,
+            "Dec 2019": 3.75,
+            "Sep 2019": 3.75,
+            "Jun 2019": 3.75,
+            "Mar 2019": 3.75,
+            "Dec 2018": 3.75,
+            "Sep 2018": 3.75,
+            "Jun 2018": 3.74,
+            "Mar 2018": 3.74,
+            "Dec 2017": 3.73,
+            "Sep 2017": 3.73,
+            "Jun 2017": 3.73,
+            "Mar 2017": 3.73,
+            "Dec 2016": 3.73,
+            "Sep 2016": 3.73,
+            "Jun 2016": 3.73,
+            "Mar 2016": 3.73
+          }
+        ]
+      }
+    ],
+    "id": 8079
+  },
+  {
+    "name": "Naveen Galada",
+    "bulkDealsData": [
+      {
+        "date": "Galada Finance\n03 Nov, 2020",
+        "orderType": "Buy",
+        "quantity": "2,04,800",
+        "price": "10.9"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Galada Finance",
+        "result": [
+          {
+            "Jun 2023": 12.69,
+            "Mar 2023": 12.69,
+            "Dec 2022": 12.69,
+            "Sep 2022": 12.69,
+            "Jun 2022": 12.69,
+            "Mar 2022": 12.69,
+            "Dec 2021": 11.94,
+            "Sep 2021": 10,
+            "Jun 2021": 10,
+            "Mar 2021": 10,
+            "Dec 2020": 10,
+            "Sep 2020": 3.02,
+            "Jun 2020": 3.02,
+            "Mar 2020": 3.02,
+            "Dec 2019": 3.02,
+            "Sep 2019": 3.02,
+            "Jun 2019": 3.02,
+            "Mar 2019": 3.02,
+            "Dec 2018": 3.02,
+            "Sep 2018": 3.02,
+            "Jun 2018": 3.02,
+            "Mar 2018": 3.02,
+            "Dec 2017": 3.02,
+            "Sep 2017": 3.02,
+            "Jun 2017": 3.02,
+            "Mar 2017": 3.02,
+            "Dec 2016": 3.02,
+            "Sep 2016": 3.02,
+            "Jun 2016": 3.02,
+            "Mar 2016": 3.02
+          }
+        ]
+      }
+    ],
+    "id": 8080
+  },
+  {
+    "name": "Preeti Bala Jain",
+    "bulkDealsData": [
+      {
+        "date": "Galada Finance\n15 Mar, 2018",
+        "orderType": "Sell",
+        "quantity": "59,400",
+        "price": "20.0"
+      },
+      {
+        "date": "Galada Finance\n05 Jan, 2018",
+        "orderType": "Sell",
+        "quantity": "20,000",
+        "price": "19.4"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Galada Finance",
+        "result": [
+          {
+            "Dec 2017": 2.65,
+            "Sep 2017": 2.65,
+            "Jun 2017": 2.65,
+            "Mar 2017": 2.65,
+            "Dec 2016": 2.65,
+            "Sep 2016": 2.65,
+            "Jun 2016": 2.65,
+            "Mar 2016": 2.65
+          }
+        ]
+      }
+    ],
+    "id": 8081
+  },
+  {
+    "name": "Vinitha Galada",
+    "shareHoldings": [
+      {
+        "companyName": "Galada Finance",
+        "result": [
+          {
+            "Jun 2020": 1.58,
+            "Mar 2020": 1.58,
+            "Dec 2019": 1.58,
+            "Sep 2019": 1.58,
+            "Jun 2019": 1.58,
+            "Mar 2019": 1.58,
+            "Dec 2018": 1.58,
+            "Sep 2018": 1.58,
+            "Jun 2018": 1.58,
+            "Mar 2018": 1.58,
+            "Dec 2017": 1.58,
+            "Sep 2017": 1.58,
+            "Jun 2017": 1.58,
+            "Mar 2017": 1.58,
+            "Dec 2016": 1.58,
+            "Sep 2016": 1.58,
+            "Jun 2016": 1.58,
+            "Mar 2016": 1.58
+          }
+        ]
+      }
+    ],
+    "id": 8082
+  },
+  {
+    "name": "Uramila Kanwar Kankariya .",
+    "shareHoldings": [
+      {
+        "companyName": "Galada Finance",
+        "result": [
+          {
+            "Sep 2021": 1.94,
+            "Jun 2021": 1.94,
+            "Mar 2021": 1.94,
+            "Dec 2020": 1.94,
+            "Sep 2020": 1.94,
+            "Mar 2020": 1.94,
+            "Dec 2019": 1.94,
+            "Sep 2019": 1.94,
+            "Mar 2019": 1.94,
+            "Dec 2018": 1.94,
+            "Sep 2018": 1.94,
+            "Jun 2018": 1.94,
+            "Dec 2017": 1.94,
+            "Sep 2017": 1.94,
+            "Jun 2017": 1.94,
+            "Mar 2017": 1.94,
+            "Dec 2016": 1.94,
+            "Sep 2016": 1.94,
+            "Jun 2016": 1.65,
+            "Mar 2016": 1.49
+          }
+        ]
+      }
+    ],
+    "id": 8083
+  },
+  {
+    "name": "Sayar Devi",
+    "shareHoldings": [
+      {
+        "companyName": "Galada Finance",
+        "result": [
+          {
+            "Jun 2017": 2.48,
+            "Mar 2017": 2.48,
+            "Dec 2016": 2.48,
+            "Sep 2016": 2.48,
+            "Jun 2016": 2.18,
+            "Mar 2016": 1.48
+          }
+        ]
+      }
+    ],
+    "id": 8084
+  },
+  {
+    "name": "Amitha Jain .",
+    "shareHoldings": [
+      {
+        "companyName": "COSCO (India)",
+        "result": [
+          {
+            "Jun 2023": 2.68,
+            "Mar 2023": 2.68,
+            "Dec 2022": 2.68,
+            "Sep 2022": 2.68,
+            "Jun 2022": 2.68,
+            "Mar 2022": 2.68,
+            "Dec 2021": 2.68,
+            "Sep 2021": 2.68,
+            "Jun 2021": 2.68,
+            "Mar 2021": 2.68,
+            "Dec 2020": 2.68,
+            "Sep 2020": 2.68,
+            "Jun 2020": 2.68,
+            "Mar 2020": 2.68,
+            "Dec 2019": 2.68,
+            "Sep 2019": 2.68,
+            "Jun 2019": 2.01,
+            "Mar 2019": 2.01,
+            "Dec 2018": 2.01,
+            "Sep 2018": 2.01,
+            "Jun 2018": 2.01,
+            "Mar 2018": 2.01,
+            "Dec 2017": 2.01,
+            "Sep 2017": 2.01,
+            "Jun 2017": 2.01,
+            "Mar 2017": 2.01,
+            "Dec 2016": 2.01,
+            "Sep 2016": 2.01,
+            "Jun 2016": 2.01
+          }
+        ]
+      },
+      {
+        "companyName": "Galada Finance",
+        "result": [
+          {
+            "Jun 2023": 1.48,
+            "Mar 2023": 1.48,
+            "Dec 2022": 1.47,
+            "Sep 2022": 1.47,
+            "Jun 2022": 1.47,
+            "Mar 2022": 1.47,
+            "Dec 2021": 1.47,
+            "Sep 2021": 1.47,
+            "Jun 2021": 1.47,
+            "Mar 2021": 1.47,
+            "Dec 2020": 1.47,
+            "Sep 2020": 1.4,
+            "Mar 2020": 1.47,
+            "Dec 2019": 1.47,
+            "Sep 2019": 1.47,
+            "Jun 2019": 1.47,
+            "Mar 2019": 1.47,
+            "Dec 2018": 1.47,
+            "Sep 2018": 1.47,
+            "Jun 2018": 1.47,
+            "Dec 2017": 1.47,
+            "Sep 2017": 1.47,
+            "Jun 2017": 1.47,
+            "Mar 2017": 1.47,
+            "Dec 2016": 1.47,
+            "Sep 2016": 1.47,
+            "Jun 2016": 1.47,
+            "Mar 2016": 1.47
+          }
+        ]
+      },
+      {
+        "companyName": "Titan Securities",
+        "result": [
+          {
+            "Jun 2016": 0.4
+          }
+        ]
+      }
+    ],
+    "id": 8085
+  },
+  {
+    "name": "Sandeep J. Aswal",
+    "bulkDealsData": [
+      {
+        "date": "Galada Finance\n06 Oct, 2016",
+        "orderType": "Sell",
+        "quantity": "20,000",
+        "price": "20.9"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Galada Finance",
+        "result": [
+          {
+            "Jun 2017": 1.4,
+            "Mar 2017": 1.4,
+            "Dec 2016": 1.4,
+            "Sep 2016": 1.4,
+            "Jun 2016": 1.4,
+            "Mar 2016": 1.4
+          }
+        ]
+      }
+    ],
+    "id": 8086
+  },
+  {
+    "name": "Amrit Lal Jain",
+    "bulkDealsData": [
+      {
+        "date": "Galada Finance\n19 Dec, 2022",
+        "orderType": "Sell",
+        "quantity": "40,000",
+        "price": "14.2"
+      },
+      {
+        "date": "Galada Finance\n14 Dec, 2022",
+        "orderType": "Sell",
+        "quantity": "25,050",
+        "price": "13.8"
+      },
+      {
+        "date": "SKM Egg Prod.\n28 May, 2009",
+        "orderType": "BUY",
+        "quantity": "1,42,433",
+        "price": "24.2"
+      },
+      {
+        "date": "SKM Egg Prod.\n28 May, 2009",
+        "orderType": "SELL",
+        "quantity": "79,492",
+        "price": "24.4"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Galada Finance",
+        "result": [
+          {
+            "Sep 2022": 1.37,
+            "Jun 2022": 1.37,
+            "Mar 2022": 1.37,
+            "Dec 2021": 1.37,
+            "Sep 2021": 1.37,
+            "Jun 2021": 1.37,
+            "Mar 2021": 1.37,
+            "Dec 2020": 1.37,
+            "Sep 2020": 1.37,
+            "Mar 2020": 1.37,
+            "Dec 2019": 1.37,
+            "Sep 2019": 1.37,
+            "Jun 2019": 1.37,
+            "Mar 2019": 1.37,
+            "Dec 2018": 1.37,
+            "Sep 2018": 1.37,
+            "Jun 2018": 1.39,
+            "Dec 2017": 1.39,
+            "Sep 2017": 1.39,
+            "Jun 2017": 1.39,
+            "Mar 2017": 1.39,
+            "Dec 2016": 1.39,
+            "Sep 2016": 1.39,
+            "Jun 2016": 1.39,
+            "Mar 2016": 1.39
+          }
+        ]
+      }
+    ],
+    "id": 8087
+  },
+  {
+    "name": "P.Gajendra Kumar Jain",
+    "shareHoldings": [
+      {
+        "companyName": "Galada Finance",
+        "result": [
+          {
+            "Dec 2017": 1.63,
+            "Sep 2017": 1.63,
+            "Jun 2017": 1.36,
+            "Mar 2017": 1.36,
+            "Dec 2016": 1.36,
+            "Sep 2016": 1.36,
+            "Jun 2016": 1.36,
+            "Mar 2016": 1.36
+          }
+        ]
+      }
+    ],
+    "id": 8088
+  },
+  {
+    "name": "Preeti Devi P Jain",
+    "shareHoldings": [
+      {
+        "companyName": "Galada Finance",
+        "result": [
+          {
+            "Jun 2023": 1.33,
+            "Mar 2023": 1.33,
+            "Dec 2022": 1.33,
+            "Sep 2022": 1.33,
+            "Jun 2022": 1.33,
+            "Mar 2022": 1.33,
+            "Dec 2021": 1.33,
+            "Sep 2021": 1.33,
+            "Jun 2021": 1.33,
+            "Mar 2021": 1.33,
+            "Dec 2020": 1.33,
+            "Sep 2020": 1.33,
+            "Mar 2020": 1.33,
+            "Dec 2019": 1.33,
+            "Sep 2019": 1.33,
+            "Jun 2019": 1.33,
+            "Mar 2019": 1.33,
+            "Dec 2018": 1.33,
+            "Sep 2018": 1.33,
+            "Jun 2018": 1.33,
+            "Dec 2017": 1.33,
+            "Sep 2017": 1.33,
+            "Jun 2017": 1.33,
+            "Mar 2017": 1.33,
+            "Dec 2016": 1.33,
+            "Sep 2016": 1.33,
+            "Jun 2016": 1.33,
+            "Mar 2016": 1.33
+          }
+        ]
+      }
+    ],
+    "id": 8089
+  },
+  {
+    "name": "P.Lalit Kumar Jain",
+    "shareHoldings": [
+      {
+        "companyName": "Galada Finance",
+        "result": [
+          {
+            "Jun 2023": 1.36,
+            "Mar 2023": 1.33,
+            "Dec 2022": 1.31,
+            "Sep 2022": 1.31,
+            "Jun 2022": 1.31,
+            "Mar 2022": 1.31,
+            "Dec 2021": 1.31,
+            "Sep 2021": 1.31,
+            "Jun 2021": 1.31,
+            "Mar 2021": 1.31,
+            "Dec 2020": 1.31,
+            "Sep 2020": 1.31,
+            "Mar 2020": 1.31,
+            "Dec 2019": 1.31,
+            "Sep 2019": 1.31,
+            "Jun 2019": 1.31,
+            "Mar 2019": 1.31,
+            "Dec 2018": 1.31,
+            "Sep 2018": 1.31,
+            "Jun 2018": 1.31,
+            "Dec 2017": 1.31,
+            "Sep 2017": 1.31,
+            "Jun 2017": 1.26,
+            "Mar 2017": 1.26,
+            "Dec 2016": 1.26,
+            "Sep 2016": 1.26,
+            "Jun 2016": 1.26,
+            "Mar 2016": 1.26
+          }
+        ]
+      }
+    ],
+    "id": 8090
+  },
+  {
+    "name": "Ashish Jain Huf",
+    "shareHoldings": [
+      {
+        "companyName": "Galada Finance",
+        "result": [
+          {
+            "Jun 2023": 1.17,
+            "Mar 2023": 1.17,
+            "Dec 2022": 1.17,
+            "Sep 2022": 1.17,
+            "Jun 2022": 1.17,
+            "Mar 2022": 1.17,
+            "Dec 2021": 1.17,
+            "Sep 2021": 1.17,
+            "Jun 2021": 1.17,
+            "Mar 2021": 1.17,
+            "Dec 2020": 1.17,
+            "Sep 2020": 1.17,
+            "Mar 2020": 1.17,
+            "Dec 2019": 1.17,
+            "Sep 2019": 1.17,
+            "Jun 2019": 1.17,
+            "Mar 2019": 1.17,
+            "Dec 2018": 1.17,
+            "Sep 2018": 1.17,
+            "Jun 2018": 1.17,
+            "Dec 2017": 1.17,
+            "Sep 2017": 1.17,
+            "Jun 2017": 1.17,
+            "Mar 2017": 1.17,
+            "Dec 2016": 1.17,
+            "Sep 2016": 1.17,
+            "Jun 2016": 1.17,
+            "Mar 2016": 1.17
+          }
+        ]
+      },
+      {
+        "companyName": "Star Housing Fin",
+        "result": [
+          {
+            "Jun 2023": 1.61,
+            "Mar 2023": 1.61,
+            "Dec 2022": 1.64,
+            "Sep 2022": 1.62,
+            "Jun 2022": 1.85,
+            "Mar 2022": 1.85,
+            "Dec 2021": 1.95,
+            "Sep 2021": 1.95,
+            "Jun 2021": 1.95,
+            "Mar 2021": 1.95,
+            "Dec 2020": 1.95,
+            "Sep 2020": 0.27,
+            "Jun 2020": 0.27,
+            "Mar 2020": 0.27,
+            "Dec 2019": 0.27,
+            "Sep 2019": 0.36,
+            "Jun 2019": 0.36,
+            "Mar 2019": 0.36,
+            "Dec 2018": 0.36,
+            "Sep 2018": 0.36,
+            "Jun 2018": 0.29,
+            "Mar 2018": 0.22,
+            "Dec 2017": 0.23,
+            "Sep 2017": 0.17,
+            "Jun 2017": 0.17,
+            "Mar 2017": 0.07
+          }
+        ]
+      }
+    ],
+    "id": 8091
+  },
+  {
+    "name": "Gorilal Ganeshmalji Jain",
+    "shareHoldings": [
+      {
+        "companyName": "Galada Finance",
+        "result": [
+          {
+            "Jun 2023": 1.12,
+            "Mar 2023": 1.12,
+            "Dec 2022": 1.12,
+            "Sep 2022": 1.12,
+            "Jun 2022": 1.12,
+            "Mar 2022": 1.12,
+            "Dec 2021": 1.12,
+            "Sep 2021": 1.12,
+            "Jun 2021": 1.12,
+            "Mar 2021": 1.12,
+            "Dec 2020": 1.12,
+            "Sep 2020": 1.12,
+            "Mar 2020": 1.12,
+            "Dec 2019": 1.12,
+            "Sep 2019": 1.12,
+            "Jun 2019": 1.12,
+            "Mar 2019": 1.12,
+            "Dec 2018": 1.12,
+            "Sep 2018": 1.12,
+            "Jun 2018": 1.12,
+            "Dec 2017": 1.12,
+            "Sep 2017": 1.12,
+            "Jun 2017": 1.12,
+            "Mar 2017": 1.12,
+            "Dec 2016": 1.12,
+            "Sep 2016": 1.12,
+            "Jun 2016": 1.12,
+            "Mar 2016": 1.12
+          }
+        ]
+      }
+    ],
+    "id": 8092
+  },
+  {
+    "name": "P. Mahavir Raj Charudhari",
+    "bulkDealsData": [
+      {
+        "date": "Galada Finance\n10 Mar, 2017",
+        "orderType": "Sell",
+        "quantity": "39,975",
+        "price": "19.5"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Galada Finance",
+        "result": [
+          {
+            "Dec 2017": 1.33,
+            "Sep 2017": 1.33,
+            "Jun 2017": 1.33,
+            "Mar 2017": 1.33,
+            "Dec 2016": 1.33,
+            "Sep 2016": 1.33,
+            "Jun 2016": 1.08,
+            "Mar 2016": 1.08
+          }
+        ]
+      }
+    ],
+    "id": 8093
+  },
+  {
+    "name": "Praveen Kumar G. Jain",
+    "shareHoldings": [
+      {
+        "companyName": "Galada Finance",
+        "result": [
+          {
+            "Jun 2023": 1.03,
+            "Mar 2023": 1.03,
+            "Dec 2022": 1.03,
+            "Sep 2022": 1.03,
+            "Jun 2022": 1.03,
+            "Mar 2022": 1.03,
+            "Dec 2021": 1.03,
+            "Sep 2021": 1.03,
+            "Jun 2021": 1.03,
+            "Mar 2021": 1.03,
+            "Dec 2020": 1.03,
+            "Sep 2020": 1.03,
+            "Mar 2020": 1.03,
+            "Dec 2019": 1.03,
+            "Sep 2019": 1.03,
+            "Jun 2019": 1.03,
+            "Mar 2019": 1.03,
+            "Dec 2018": 1.03,
+            "Sep 2018": 1.03,
+            "Jun 2018": 1.03,
+            "Dec 2017": 1.03,
+            "Sep 2017": 1.03,
+            "Jun 2017": 1.03,
+            "Mar 2017": 1.03,
+            "Dec 2016": 1.03,
+            "Sep 2016": 1.03,
+            "Jun 2016": 1.03,
+            "Mar 2016": 1.03
+          }
+        ]
+      }
+    ],
+    "id": 8094
+  },
+  {
+    "name": "Sunitha Galada",
+    "shareHoldings": [
+      {
+        "companyName": "Galada Finance",
+        "result": [
+          {
+            "Jun 2018": 1,
+            "Mar 2018": 1,
+            "Dec 2017": 1,
+            "Sep 2017": 1,
+            "Jun 2017": 1,
+            "Mar 2017": 1,
+            "Dec 2016": 1,
+            "Sep 2016": 1,
+            "Jun 2016": 1,
+            "Mar 2016": 1
+          }
+        ]
+      }
+    ],
+    "id": 8095
+  },
+  {
+    "name": "Harshika Galada",
+    "shareHoldings": [
+      {
+        "companyName": "Galada Finance",
+        "result": [
+          {
+            "Jun 2023": 0.02,
+            "Mar 2023": 0.02,
+            "Dec 2022": 0.02,
+            "Sep 2022": 0.02,
+            "Jun 2022": 0.02,
+            "Mar 2022": 0.02,
+            "Dec 2021": 0.02,
+            "Sep 2021": 0.02,
+            "Jun 2021": 0.02,
+            "Mar 2021": 0.02,
+            "Dec 2020": 0.02,
+            "Sep 2020": 0.02,
+            "Jun 2020": 0.02,
+            "Mar 2020": 0.02,
+            "Dec 2019": 0.02,
+            "Sep 2019": 0.02,
+            "Jun 2019": 0.02,
+            "Mar 2019": 0.02,
+            "Dec 2018": 0.02,
+            "Sep 2018": 0.02,
+            "Jun 2018": 0.02,
+            "Mar 2018": 0.02,
+            "Dec 2017": 0.02,
+            "Sep 2017": 0.02,
+            "Jun 2017": 0.02,
+            "Mar 2017": 0.02,
+            "Dec 2016": 0.02,
+            "Sep 2016": 0.02,
+            "Jun 2016": 0.02,
+            "Mar 2016": 0.02
+          }
+        ]
+      }
+    ],
+    "id": 8096
+  },
+  {
+    "name": "Jasu Devi",
+    "bulkDealsData": [
+      {
+        "date": "Galada Finance\n15 Mar, 2018",
+        "orderType": "Sell",
+        "quantity": "65,449",
+        "price": "20.0"
+      },
+      {
+        "date": "Galada Finance\n09 May, 2016",
+        "orderType": "Buy",
+        "quantity": "24,000",
+        "price": "20.6"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Galada Finance",
+        "result": [
+          {
+            "Dec 2017": 2.35,
+            "Sep 2017": 2.35,
+            "Jun 2017": 1.93,
+            "Mar 2017": 1.93,
+            "Dec 2016": 1.93,
+            "Sep 2016": 1.93,
+            "Jun 2016": 1.26
+          }
+        ]
+      }
+    ],
+    "id": 8097
+  },
+  {
+    "name": "Prithivi Softtech Limiyrf",
+    "shareHoldings": [
+      {
+        "companyName": "Galada Finance",
+        "result": [
+          {
+            "Dec 2017": 7.5,
+            "Sep 2017": 7.5,
+            "Jun 2017": 7.5,
+            "Mar 2017": 7.5,
+            "Dec 2016": 7.5,
+            "Sep 2016": 7.5
+          }
+        ]
+      }
+    ],
+    "id": 8098
+  },
+  {
+    "name": "Mukesh Kumar Chaudhari",
+    "bulkDealsData": [
+      {
+        "date": "Galada Finance\n23 Feb, 2017",
+        "orderType": "Sell",
+        "quantity": "24,900",
+        "price": "20.7"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Galada Finance",
+        "result": [
+          {
+            "Dec 2017": 1.33,
+            "Sep 2017": 1.33,
+            "Jun 2017": 1.33,
+            "Mar 2017": 1.33,
+            "Dec 2016": 1.33,
+            "Sep 2016": 1.33
+          }
+        ]
+      }
+    ],
+    "id": 8099
+  },
+  {
+    "name": "Mahavir Chaydhari P",
+    "shareHoldings": [
+      {
+        "companyName": "Galada Finance",
+        "result": [
+          {
+            "Jun 2017": 1.08,
+            "Mar 2017": 1.08,
+            "Dec 2016": 1.08,
+            "Sep 2016": 1.08
+          }
+        ]
+      }
+    ],
+    "id": 8100
+  }
+]

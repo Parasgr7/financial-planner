@@ -1,0 +1,4417 @@
+[
+  {
+    "name": "Haresh Mehta",
+    "shareHoldings": [
+      {
+        "companyName": "Alfa Ica (I)",
+        "result": [
+          {
+            "Dec 2016": 6.25,
+            "Sep 2016": 6.25,
+            "Jun 2016": 6.25
+          }
+        ]
+      }
+    ],
+    "id": 7701
+  },
+  {
+    "name": "Vasant Rana",
+    "shareHoldings": [
+      {
+        "companyName": "Alfa Ica (I)",
+        "result": [
+          {
+            "Dec 2016": 5.69,
+            "Sep 2016": 5.69,
+            "Jun 2016": 5.69
+          }
+        ]
+      }
+    ],
+    "id": 7702
+  },
+  {
+    "name": "Indu Nandkishor Bhandari",
+    "shareHoldings": [
+      {
+        "companyName": "Alfa Ica (I)",
+        "result": [
+          {
+            "Dec 2016": 4.95,
+            "Sep 2016": 4.95,
+            "Jun 2016": 4.95
+          }
+        ]
+      },
+      {
+        "companyName": "Rel. Chemotex",
+        "result": [
+          {
+            "Jun 2021": 1.84,
+            "Mar 2021": 2.32,
+            "Dec 2020": 2.32,
+            "Sep 2020": 2.32,
+            "Jun 2020": 2.32,
+            "Mar 2020": 2.32,
+            "Dec 2019": 2.32,
+            "Sep 2019": 2.32,
+            "Jun 2019": 4.4,
+            "Mar 2019": 4.4,
+            "Dec 2018": 4.4,
+            "Sep 2018": 4.4,
+            "Jun 2018": 4.4,
+            "Mar 2018": 4.4,
+            "Dec 2017": 4.37,
+            "Sep 2017": 4.37,
+            "Jun 2017": 4.37,
+            "Mar 2017": 4.37,
+            "Dec 2016": 4.37,
+            "Sep 2016": 4.37,
+            "Jun 2016": 4.37
+          }
+        ]
+      }
+    ],
+    "id": 7703
+  },
+  {
+    "name": "Ankit Financial Services Ltd",
+    "bulkDealsData": [
+      {
+        "date": "Decolight Cera.\n19 Jun, 2007",
+        "orderType": "BUY",
+        "quantity": "1,15,805",
+        "price": "48.3"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Alfa Ica (I)",
+        "result": [
+          {
+            "Dec 2016": 4.95,
+            "Sep 2016": 4.95,
+            "Jun 2016": 4.95
+          }
+        ]
+      }
+    ],
+    "id": 7704
+  },
+  {
+    "name": "Karishma Finvest Pvt Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "Alfa Ica (I)",
+        "result": [
+          {
+            "Dec 2016": 4.94,
+            "Sep 2016": 4.94,
+            "Jun 2016": 4.94
+          }
+        ]
+      }
+    ],
+    "id": 7705
+  },
+  {
+    "name": "Saroj Jugal Maheshwari",
+    "shareHoldings": [
+      {
+        "companyName": "Alfa Ica (I)",
+        "result": [
+          {
+            "Jun 2023": 1.27,
+            "Mar 2023": 1.27,
+            "Dec 2022": 1.27,
+            "Sep 2022": 1.27,
+            "Jun 2022": 1.27,
+            "Mar 2022": 1.27,
+            "Dec 2021": 1.27,
+            "Sep 2021": 1.27,
+            "Jun 2021": 1.27,
+            "Mar 2021": 1.27,
+            "Dec 2020": 1.27,
+            "Sep 2020": 1.27,
+            "Jun 2020": 1.27,
+            "Mar 2020": 1.27,
+            "Dec 2019": 1.27,
+            "Sep 2019": 1.27,
+            "Jun 2019": 1.27,
+            "Mar 2019": 1.27,
+            "Dec 2018": 1.27,
+            "Sep 2018": 1.27,
+            "Jun 2018": 1.27,
+            "Mar 2018": 1.27,
+            "Dec 2017": 1.27,
+            "Sep 2017": 1.27,
+            "Jun 2017": 1.27,
+            "Mar 2017": 1.27,
+            "Dec 2016": 1.27,
+            "Sep 2016": 1.27,
+            "Jun 2016": 1.27
+          }
+        ]
+      },
+      {
+        "companyName": "Balkrishna Paper",
+        "result": [
+          {
+            "Dec 2016": 1.23,
+            "Sep 2016": 1.21,
+            "Jun 2016": 1.11
+          }
+        ]
+      },
+      {
+        "companyName": "Maestros Medi.",
+        "result": [
+          {
+            "Sep 2016": 1.22,
+            "Jun 2016": 1.22
+          }
+        ]
+      },
+      {
+        "companyName": "MMS Infra.",
+        "result": [
+          {
+            "Sep 2016": 1.22,
+            "Jun 2016": 1.22
+          }
+        ]
+      }
+    ],
+    "id": 7706
+  },
+  {
+    "name": "Pramod Kumar Gupta",
+    "shareHoldings": [
+      {
+        "companyName": "Alfa Ica (I)",
+        "result": [
+          {
+            "Jun 2016": 1
+          }
+        ]
+      },
+      {
+        "companyName": "Dollar Industrie",
+        "result": [
+          {
+            "Dec 2019": 0.06,
+            "Sep 2019": 0.06,
+            "Jun 2019": 0.06,
+            "Mar 2019": 0.06,
+            "Dec 2018": 0.06,
+            "Sep 2018": 0.06,
+            "Jun 2018": 0.06
+          }
+        ]
+      },
+      {
+        "companyName": "United Drilling",
+        "result": [
+          {
+            "Jun 2023": 70.75,
+            "Mar 2023": 70.75,
+            "Dec 2022": 70.75,
+            "Sep 2022": 70.75,
+            "Jun 2022": 70.75,
+            "Mar 2022": 70.75,
+            "Dec 2021": 70.75,
+            "Sep 2021": 70.75,
+            "Jun 2021": 70.75,
+            "Mar 2021": 70.75,
+            "Dec 2020": 70.75,
+            "Sep 2020": 70.75,
+            "Jun 2020": 70.75,
+            "Mar 2020": 70.75,
+            "Dec 2019": 70.75,
+            "Sep 2019": 70.75,
+            "Jun 2019": 70.75,
+            "Mar 2019": 70.75,
+            "Dec 2018": 70.75,
+            "Sep 2018": 70.75,
+            "Jun 2018": 70.75,
+            "Mar 2018": 70.75,
+            "Dec 2017": 70.22,
+            "Sep 2017": 70.22,
+            "Jun 2017": 70.22,
+            "Mar 2017": 70.22,
+            "Dec 2016": 70.22,
+            "Sep 2016": 70.22,
+            "Jun 2016": 70.22
+          }
+        ]
+      }
+    ],
+    "id": 7707
+  },
+  {
+    "name": "Pooja Rajendra Tikmani",
+    "shareHoldings": [
+      {
+        "companyName": "Alfa Ica (I)",
+        "result": [
+          {
+            "Jun 2023": 10.88,
+            "Mar 2023": 10.88,
+            "Dec 2022": 10.88,
+            "Sep 2022": 10.88,
+            "Jun 2022": 10.88,
+            "Mar 2022": 10.88,
+            "Dec 2021": 10.88,
+            "Sep 2021": 10.88,
+            "Jun 2021": 10.88,
+            "Mar 2021": 10.88,
+            "Dec 2020": 10.88,
+            "Sep 2020": 10.88,
+            "Jun 2020": 10.88,
+            "Mar 2020": 10.88,
+            "Dec 2019": 10.88,
+            "Sep 2019": 10.88,
+            "Jun 2019": 10.88,
+            "Mar 2019": 10.88,
+            "Dec 2018": 10.88,
+            "Sep 2018": 10.88,
+            "Jun 2018": 10.88,
+            "Mar 2018": 10.88,
+            "Dec 2017": 10.88,
+            "Sep 2017": 10.88,
+            "Jun 2017": 10.88,
+            "Mar 2017": 10.88,
+            "Dec 2016": 0.99,
+            "Sep 2016": 0.99,
+            "Jun 2016": 0.99
+          }
+        ]
+      }
+    ],
+    "id": 7708
+  },
+  {
+    "name": "Rishi Rajendra Tikmani",
+    "shareHoldings": [
+      {
+        "companyName": "Alfa Ica (I)",
+        "result": [
+          {
+            "Mar 2019": 24.74,
+            "Sep 2018": 24.74,
+            "Jun 2018": 24.74,
+            "Mar 2018": 24.74,
+            "Dec 2017": 24.74,
+            "Sep 2017": 24.74,
+            "Jun 2017": 24.74,
+            "Mar 2017": 24.74,
+            "Dec 2016": 24.74
+          }
+        ]
+      }
+    ],
+    "id": 7709
+  },
+  {
+    "name": "Tikmani Rajendra Hemraj HUF",
+    "shareHoldings": [
+      {
+        "companyName": "Alfa Ica (I)",
+        "result": [
+          {
+            "Jun 2023": 24.74,
+            "Mar 2023": 24.74,
+            "Dec 2022": 24.74,
+            "Sep 2022": 24.74,
+            "Jun 2022": 24.74,
+            "Mar 2022": 24.74,
+            "Dec 2021": 24.74,
+            "Sep 2021": 24.74,
+            "Jun 2021": 24.74,
+            "Mar 2021": 24.74,
+            "Dec 2020": 24.74,
+            "Sep 2020": 24.74,
+            "Jun 2020": 24.74,
+            "Mar 2020": 24.74,
+            "Dec 2019": 24.74,
+            "Sep 2019": 24.74,
+            "Jun 2019": 24.74,
+            "Dec 2018": 24.74
+          }
+        ]
+      }
+    ],
+    "id": 7710
+  },
+  {
+    "name": "Mr. Manoj G Tirodkar",
+    "shareHoldings": [
+      {
+        "companyName": "GTL",
+        "result": [
+          {
+            "Dec 2018": 11.82,
+            "Sep 2018": 11.82,
+            "Jun 2018": 11.82,
+            "Mar 2018": 11.82,
+            "Dec 2017": 11.82,
+            "Sep 2017": 11.82,
+            "Jun 2017": 11.82,
+            "Mar 2017": 11.82,
+            "Dec 2016": 11.82,
+            "Sep 2016": 11.82,
+            "Jun 2016": 11.82
+          }
+        ]
+      }
+    ],
+    "id": 7711
+  },
+  {
+    "name": "Vijaya Bank",
+    "shareHoldings": [
+      {
+        "companyName": "GTL",
+        "result": [
+          {
+            "Jun 2016": 1.63
+          }
+        ]
+      }
+    ],
+    "id": 7712
+  },
+  {
+    "name": "Small Industries Bank of India",
+    "shareHoldings": [
+      {
+        "companyName": "Bharat Financial",
+        "result": [
+          {
+            "Jun 2018": 1.04,
+            "Mar 2018": 1.06,
+            "Dec 2017": 1.06,
+            "Sep 2017": 1.06,
+            "Jun 2017": 1.07,
+            "Mar 2017": 1.07,
+            "Dec 2016": 1.07,
+            "Sep 2016": 1.07,
+            "Jun 2016": 1.15
+          }
+        ]
+      },
+      {
+        "companyName": "Equitas Holdings",
+        "result": [
+          {
+            "Jun 2019": 1.81,
+            "Mar 2019": 1.81,
+            "Sep 2018": 1.81,
+            "Jun 2018": 1.81,
+            "Mar 2018": 1.81,
+            "Dec 2017": 1.82,
+            "Sep 2017": 1.82,
+            "Jun 2017": 1.83,
+            "Mar 2017": 1.83,
+            "Dec 2016": 1.83,
+            "Sep 2016": 1.83,
+            "Jun 2016": 1.84
+          }
+        ]
+      },
+      {
+        "companyName": "GTL",
+        "result": [
+          {
+            "Mar 2022": 1.01,
+            "Dec 2021": 1.05,
+            "Sep 2021": 1.05,
+            "Jun 2021": 1.05,
+            "Mar 2021": 1.05,
+            "Dec 2020": 1.05,
+            "Sep 2020": 1.05,
+            "Jun 2020": 1.05,
+            "Mar 2020": 1.05,
+            "Dec 2019": 1.05,
+            "Sep 2019": 1.05,
+            "Jun 2019": 1.05,
+            "Mar 2019": 1.05,
+            "Dec 2018": 1.05,
+            "Sep 2018": 1.05,
+            "Jun 2018": 1.05,
+            "Mar 2018": 1.05,
+            "Dec 2017": 1.05,
+            "Sep 2017": 1.05,
+            "Jun 2017": 1.05,
+            "Mar 2017": 1.05,
+            "Dec 2016": 1.05,
+            "Sep 2016": 1.05,
+            "Jun 2016": 1.05
+          }
+        ]
+      },
+      {
+        "companyName": "Guj. State Fin.",
+        "result": [
+          {
+            "Jun 2023": 28.41,
+            "Mar 2023": 28.41,
+            "Dec 2022": 28.41,
+            "Sep 2022": 28.41,
+            "Jun 2022": 28.41,
+            "Mar 2022": 28.41,
+            "Dec 2021": 28.41,
+            "Sep 2021": 28.41,
+            "Jun 2021": 28.41,
+            "Mar 2021": 28.41,
+            "Dec 2020": 28.41,
+            "Sep 2020": 28.41,
+            "Jun 2020": 28.41,
+            "Mar 2020": 28.41,
+            "Dec 2019": 28.41,
+            "Sep 2019": 28.41,
+            "Jun 2019": 28.41,
+            "Mar 2019": 28.41,
+            "Dec 2018": 28.41,
+            "Sep 2018": 28.41,
+            "Jun 2018": 28.41,
+            "Mar 2018": 28.41,
+            "Dec 2017": 28.41,
+            "Sep 2017": 28.41,
+            "Jun 2017": 28.41,
+            "Mar 2017": 28.41,
+            "Dec 2016": 28.41,
+            "Sep 2016": 28.41,
+            "Jun 2016": 28.41
+          }
+        ]
+      },
+      {
+        "companyName": "Haryana Fin. Co.",
+        "result": [
+          {
+            "Sep 2019": 2.08,
+            "Mar 2019": 2.08,
+            "Dec 2018": 2.08
+          }
+        ]
+      }
+    ],
+    "id": 7713
+  },
+  {
+    "name": "Idbi Capital Markets & Securities Limited",
+    "bulkDealsData": [
+      {
+        "date": "Thejo Engg.\n17 Oct, 2017",
+        "orderType": "SELL",
+        "quantity": "18,600",
+        "price": "396"
+      },
+      {
+        "date": "Thejo Engg.\n07 Sep, 2017",
+        "orderType": "SELL",
+        "quantity": "22,800",
+        "price": "397"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Coffee Day Enter",
+        "result": [
+          {
+            "Jun 2022": 4.56,
+            "Mar 2022": 4.6
+          }
+        ]
+      },
+      {
+        "companyName": "Future Retail",
+        "result": [
+          {
+            "Mar 2021": 1.27,
+            "Mar 2020": 3.87
+          }
+        ]
+      },
+      {
+        "companyName": "Gayatri Sugars",
+        "result": [
+          {
+            "Sep 2022": 2.4
+          }
+        ]
+      },
+      {
+        "companyName": "GTL",
+        "result": [
+          {
+            "Mar 2022": 11.43
+          }
+        ]
+      },
+      {
+        "companyName": "Heads UP Venture",
+        "result": [
+          {
+            "Jun 2020": 1.05
+          }
+        ]
+      },
+      {
+        "companyName": "Hind.Construct.",
+        "result": [
+          {
+            "Sep 2022": 2.28,
+            "Jun 2022": 1.1
+          }
+        ]
+      },
+      {
+        "companyName": "Thejo Engg.",
+        "result": [
+          {
+            "Sep 2020": 0.3,
+            "Mar 2020": 0.75,
+            "Sep 2019": 1.85,
+            "Mar 2019": 2.03,
+            "Sep 2018": 2.28,
+            "Sep 2016": 5.78
+          }
+        ]
+      }
+    ],
+    "id": 7714
+  },
+  {
+    "name": "Jel Finance And Investments Limited",
+    "shareHoldings": [
+      {
+        "companyName": "GTN Industries",
+        "result": [
+          {
+            "Sep 2018": 18.23,
+            "Jun 2018": 18.23,
+            "Dec 2017": 32.78,
+            "Sep 2017": 32.78,
+            "Sep 2016": 32.78,
+            "Jun 2016": 32.78
+          }
+        ]
+      }
+    ],
+    "id": 7715
+  },
+  {
+    "name": "Emkaypee Investments Private Limited",
+    "shareHoldings": [
+      {
+        "companyName": "GTN Industries",
+        "result": [
+          {
+            "Mar 2018": 15,
+            "Dec 2017": 15,
+            "Sep 2017": 15,
+            "Jun 2017": 15,
+            "Mar 2017": 15,
+            "Dec 2016": 15,
+            "Sep 2016": 15,
+            "Jun 2016": 15
+          }
+        ]
+      }
+    ],
+    "id": 7716
+  },
+  {
+    "name": "Mahendra Kumar Patodia",
+    "shareHoldings": [
+      {
+        "companyName": "GTN Industries",
+        "result": [
+          {
+            "Jun 2023": 15.55,
+            "Mar 2023": 15.55,
+            "Dec 2022": 15.55,
+            "Sep 2022": 15.55,
+            "Jun 2022": 15.55,
+            "Mar 2022": 15.55,
+            "Dec 2021": 15.55,
+            "Sep 2021": 15.55,
+            "Jun 2021": 15.55,
+            "Mar 2021": 15.55,
+            "Dec 2020": 15.55,
+            "Sep 2020": 15.55,
+            "Jun 2020": 15.55,
+            "Mar 2020": 6.34,
+            "Dec 2019": 15.55,
+            "Sep 2019": 15.55,
+            "Jun 2019": 15.55,
+            "Mar 2019": 15.55,
+            "Dec 2018": 15.55,
+            "Sep 2018": 11.33,
+            "Jun 2018": 11.33,
+            "Mar 2018": 11.33,
+            "Dec 2017": 11.33,
+            "Sep 2017": 11.33,
+            "Jun 2017": 11.33,
+            "Mar 2017": 11.33,
+            "Dec 2016": 11.33,
+            "Sep 2016": 11.33,
+            "Jun 2016": 11.33
+          }
+        ]
+      }
+    ],
+    "id": 7717
+  },
+  {
+    "name": "Mahendra Patodia[Huf]",
+    "shareHoldings": [
+      {
+        "companyName": "GTN Industries",
+        "result": [
+          {
+            "Jun 2023": 6.34,
+            "Mar 2023": 6.34,
+            "Dec 2022": 6.34,
+            "Sep 2022": 6.34,
+            "Jun 2022": 6.34,
+            "Mar 2022": 6.34,
+            "Dec 2021": 6.34,
+            "Sep 2021": 6.34,
+            "Jun 2021": 6.34,
+            "Mar 2021": 6.34,
+            "Dec 2020": 6.34,
+            "Sep 2020": 6.34,
+            "Jun 2020": 6.34,
+            "Mar 2020": 15.55,
+            "Dec 2019": 6.34,
+            "Sep 2019": 6.34,
+            "Jun 2019": 6.34,
+            "Mar 2019": 6.34,
+            "Dec 2018": 6.34,
+            "Sep 2018": 6.34,
+            "Jun 2018": 6.34,
+            "Mar 2018": 6.34,
+            "Dec 2017": 6.34,
+            "Sep 2017": 6.34,
+            "Jun 2017": 6.34,
+            "Mar 2017": 6.34,
+            "Dec 2016": 6.34,
+            "Sep 2016": 6.34,
+            "Jun 2016": 6.34
+          }
+        ]
+      }
+    ],
+    "id": 7718
+  },
+  {
+    "name": "Megha Investments Private Limited",
+    "shareHoldings": [
+      {
+        "companyName": "GTN Industries",
+        "result": [
+          {
+            "Mar 2018": 3.59,
+            "Dec 2017": 3.59,
+            "Sep 2017": 3.59,
+            "Jun 2017": 3.59,
+            "Mar 2017": 3.59,
+            "Dec 2016": 3.59,
+            "Sep 2016": 3.59,
+            "Jun 2016": 3.59
+          }
+        ]
+      }
+    ],
+    "id": 7719
+  },
+  {
+    "name": "Anjana Patodia",
+    "shareHoldings": [
+      {
+        "companyName": "GTN Industries",
+        "result": [
+          {
+            "Jun 2023": 2.93,
+            "Mar 2023": 2.93,
+            "Dec 2022": 2.93,
+            "Sep 2022": 2.93,
+            "Jun 2022": 2.93,
+            "Mar 2022": 2.93,
+            "Dec 2021": 2.93,
+            "Sep 2021": 2.93,
+            "Jun 2021": 2.93,
+            "Mar 2021": 2.93,
+            "Dec 2020": 2.93,
+            "Sep 2020": 2.93,
+            "Jun 2020": 2.93,
+            "Mar 2020": 2.93,
+            "Dec 2019": 2.93,
+            "Sep 2019": 2.93,
+            "Jun 2019": 2.93,
+            "Mar 2019": 2.93,
+            "Dec 2018": 2.93,
+            "Sep 2018": 2.93,
+            "Jun 2018": 2.93,
+            "Mar 2018": 2.93,
+            "Dec 2017": 2.93,
+            "Sep 2017": 2.93,
+            "Jun 2017": 2.93,
+            "Mar 2017": 2.93,
+            "Dec 2016": 2.93,
+            "Sep 2016": 2.93,
+            "Jun 2016": 2.93
+          }
+        ]
+      }
+    ],
+    "id": 7720
+  },
+  {
+    "name": "Gtn Engineering (India) Limited",
+    "shareHoldings": [
+      {
+        "companyName": "GTN Industries",
+        "result": [
+          {
+            "Jun 2023": 49.51,
+            "Mar 2023": 49.51,
+            "Dec 2022": 49.51,
+            "Sep 2022": 49.51,
+            "Jun 2022": 49.51,
+            "Mar 2022": 49.51,
+            "Dec 2021": 49.51,
+            "Sep 2021": 49.51,
+            "Jun 2021": 49.51,
+            "Mar 2021": 49.51,
+            "Dec 2020": 49.51,
+            "Sep 2020": 49.51,
+            "Mar 2020": 49.51,
+            "Dec 2019": 49.51,
+            "Sep 2019": 49.51,
+            "Jun 2019": 49.51,
+            "Mar 2019": 49.51,
+            "Dec 2018": 49.51,
+            "Sep 2018": 35.51,
+            "Jun 2018": 35.51,
+            "Mar 2018": 2.37,
+            "Dec 2017": 2.37,
+            "Sep 2017": 2.37,
+            "Jun 2017": 2.37,
+            "Mar 2017": 2.37,
+            "Dec 2016": 2.37,
+            "Sep 2016": 2.37,
+            "Jun 2016": 2.37
+          }
+        ]
+      }
+    ],
+    "id": 7721
+  },
+  {
+    "name": "Dinesh Chand Jain",
+    "shareHoldings": [
+      {
+        "companyName": "GTN Industries",
+        "result": [
+          {
+            "Jun 2016": 1.15
+          }
+        ]
+      }
+    ],
+    "id": 7722
+  },
+  {
+    "name": "Jel Finance & Investments Limited",
+    "shareHoldings": [
+      {
+        "companyName": "GTN Industries",
+        "result": [
+          {
+            "Mar 2018": 32.78,
+            "Jun 2017": 32.78,
+            "Mar 2017": 32.78,
+            "Dec 2016": 32.78
+          }
+        ]
+      }
+    ],
+    "id": 7723
+  },
+  {
+    "name": "Gtn Engineering[India]Limited",
+    "shareHoldings": [
+      {
+        "companyName": "GTN Industries",
+        "result": [
+          {
+            "Jun 2020": 49.51
+          }
+        ]
+      }
+    ],
+    "id": 7724
+  },
+  {
+    "name": "Binod Kumar Patodia",
+    "shareHoldings": [
+      {
+        "companyName": "GTN Textiles",
+        "result": [
+          {
+            "Jun 2023": 10.27,
+            "Mar 2023": 10.27,
+            "Dec 2022": 10.27,
+            "Sep 2022": 10.27,
+            "Jun 2022": 10.27,
+            "Mar 2022": 10.27,
+            "Dec 2021": 10.27,
+            "Sep 2021": 10.27,
+            "Jun 2021": 10.27,
+            "Mar 2021": 10.27,
+            "Dec 2020": 10.27,
+            "Sep 2020": 10.27,
+            "Jun 2020": 10.27,
+            "Mar 2020": 10.27,
+            "Dec 2019": 10.27,
+            "Sep 2019": 10.27,
+            "Jun 2019": 10.27,
+            "Mar 2019": 10.27,
+            "Dec 2018": 10.27,
+            "Sep 2018": 10.27,
+            "Jun 2018": 10.27,
+            "Mar 2018": 10.27,
+            "Dec 2017": 10.27,
+            "Sep 2017": 10.27,
+            "Jun 2017": 10.27,
+            "Mar 2017": 10.27,
+            "Dec 2016": 10.27,
+            "Sep 2016": 10.27,
+            "Jun 2016": 10.27
+          }
+        ]
+      },
+      {
+        "companyName": "Patspin India",
+        "result": [
+          {
+            "Jun 2023": 0.11,
+            "Mar 2023": 0.11,
+            "Dec 2022": 0.11,
+            "Sep 2022": 0.11,
+            "Jun 2022": 0.11,
+            "Mar 2022": 0.11,
+            "Dec 2021": 0.11,
+            "Sep 2021": 0.11,
+            "Jun 2021": 0.11,
+            "Mar 2021": 0.11,
+            "Dec 2020": 0.11,
+            "Sep 2020": 0.11,
+            "Jun 2020": 0.11,
+            "Mar 2020": 0.11,
+            "Dec 2019": 0.11,
+            "Sep 2019": 0.11,
+            "Jun 2019": 0.11,
+            "Mar 2019": 0.11,
+            "Dec 2018": 0.11,
+            "Sep 2018": 0.11,
+            "Jun 2018": 0.11,
+            "Mar 2018": 0.11,
+            "Dec 2017": 0.11,
+            "Sep 2017": 0.11,
+            "Jun 2017": 0.11,
+            "Mar 2017": 0.11,
+            "Dec 2016": 0.11,
+            "Sep 2016": 0.11,
+            "Jun 2016": 0.11
+          }
+        ]
+      }
+    ],
+    "id": 7725
+  },
+  {
+    "name": "Binod Kumar Patodia Huf",
+    "shareHoldings": [
+      {
+        "companyName": "GTN Textiles",
+        "result": [
+          {
+            "Jun 2023": 9.96,
+            "Mar 2023": 9.96,
+            "Dec 2022": 9.96,
+            "Sep 2022": 9.96,
+            "Jun 2022": 9.96,
+            "Mar 2022": 9.96,
+            "Dec 2021": 9.96,
+            "Sep 2021": 9.96,
+            "Jun 2021": 9.96,
+            "Mar 2021": 9.96,
+            "Dec 2020": 9.96,
+            "Sep 2020": 9.96,
+            "Jun 2020": 9.96,
+            "Mar 2020": 9.96,
+            "Dec 2019": 9.96,
+            "Sep 2019": 9.96,
+            "Jun 2019": 9.96,
+            "Mar 2019": 9.96,
+            "Dec 2018": 9.96,
+            "Sep 2018": 9.96,
+            "Jun 2018": 9.96,
+            "Mar 2018": 9.96,
+            "Dec 2017": 9.96,
+            "Sep 2017": 9.96,
+            "Jun 2017": 9.96,
+            "Mar 2017": 9.96,
+            "Dec 2016": 9.96,
+            "Sep 2016": 9.96,
+            "Jun 2016": 9.96
+          }
+        ]
+      },
+      {
+        "companyName": "Patspin India",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 7726
+  },
+  {
+    "name": "Umang Patodia",
+    "shareHoldings": [
+      {
+        "companyName": "GTN Textiles",
+        "result": [
+          {
+            "Jun 2023": 7.17,
+            "Mar 2023": 7.17,
+            "Dec 2022": 7.17,
+            "Sep 2022": 7.17,
+            "Jun 2022": 7.17,
+            "Mar 2022": 7.17,
+            "Dec 2021": 7.17,
+            "Sep 2021": 7.17,
+            "Jun 2021": 7.17,
+            "Mar 2021": 7.17,
+            "Dec 2020": 7.17,
+            "Sep 2020": 7.17,
+            "Jun 2020": 7.17,
+            "Mar 2020": 7.17,
+            "Dec 2019": 7.17,
+            "Sep 2019": 7.17,
+            "Jun 2019": 7.17,
+            "Mar 2019": 7.17,
+            "Dec 2018": 7.17,
+            "Sep 2018": 7.17,
+            "Jun 2018": 7.17,
+            "Mar 2018": 7.17,
+            "Dec 2017": 7.17,
+            "Sep 2017": 7.17,
+            "Jun 2017": 7.17,
+            "Mar 2017": 7.17,
+            "Dec 2016": 7.17,
+            "Sep 2016": 7.17,
+            "Jun 2016": 7.17
+          }
+        ]
+      },
+      {
+        "companyName": "Patspin India",
+        "result": [
+          {
+            "Jun 2023": 0.04,
+            "Mar 2023": 0.04,
+            "Dec 2022": 0.04,
+            "Sep 2022": 0.04,
+            "Jun 2022": 0.04,
+            "Mar 2022": 0.04,
+            "Dec 2021": 0.04,
+            "Sep 2021": 0.04,
+            "Jun 2021": 0.04,
+            "Mar 2021": 0.04,
+            "Dec 2020": 0.04,
+            "Sep 2020": 0.04,
+            "Jun 2020": 0.04,
+            "Mar 2020": 0.04,
+            "Dec 2019": 0.04,
+            "Sep 2019": 0.04,
+            "Jun 2019": 0.04,
+            "Mar 2019": 0.04,
+            "Dec 2018": 0.04,
+            "Sep 2018": 0.04,
+            "Jun 2018": 0.04,
+            "Mar 2018": 0.04,
+            "Dec 2017": 0.04,
+            "Sep 2017": 0.04,
+            "Jun 2017": 0.04,
+            "Mar 2017": 0.04,
+            "Dec 2016": 0.04,
+            "Sep 2016": 0.04,
+            "Jun 2016": 0.04
+          }
+        ]
+      }
+    ],
+    "id": 7727
+  },
+  {
+    "name": "Beekaypee Credit Pvt Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "GTN Textiles",
+        "result": [
+          {
+            "Jun 2023": 7.06,
+            "Mar 2023": 7.06,
+            "Dec 2022": 7.06,
+            "Sep 2022": 7.06,
+            "Jun 2022": 7.06,
+            "Mar 2022": 7.06,
+            "Dec 2021": 7.06,
+            "Sep 2021": 7.06,
+            "Jun 2021": 7.06,
+            "Mar 2021": 7.06,
+            "Dec 2020": 7.06,
+            "Sep 2020": 7.06,
+            "Jun 2020": 7.06,
+            "Mar 2020": 7.06,
+            "Dec 2019": 7.06,
+            "Sep 2019": 7.06,
+            "Jun 2019": 7.06,
+            "Mar 2019": 7.06,
+            "Dec 2018": 7.06,
+            "Sep 2018": 7.06,
+            "Jun 2018": 7.06,
+            "Mar 2018": 7.06,
+            "Dec 2017": 7.06,
+            "Sep 2017": 7.06,
+            "Jun 2017": 7.06,
+            "Mar 2017": 7.06,
+            "Dec 2016": 7.06,
+            "Sep 2016": 7.06,
+            "Jun 2016": 7.06
+          }
+        ]
+      },
+      {
+        "companyName": "Patspin India",
+        "result": [
+          {
+            "Jun 2023": 4.42,
+            "Mar 2023": 4.42,
+            "Dec 2022": 4.42,
+            "Sep 2022": 4.42,
+            "Jun 2022": 4.42,
+            "Mar 2022": 4.42,
+            "Dec 2021": 4.42,
+            "Sep 2021": 4.42,
+            "Jun 2021": 4.42,
+            "Mar 2021": 4.42,
+            "Dec 2020": 4.42,
+            "Sep 2020": 4.42,
+            "Jun 2020": 4.42,
+            "Mar 2020": 4.42,
+            "Dec 2019": 4.42,
+            "Sep 2019": 4.42,
+            "Jun 2019": 4.42,
+            "Mar 2019": 4.42,
+            "Dec 2018": 4.42,
+            "Sep 2018": 4.42,
+            "Jun 2018": 4.42,
+            "Mar 2018": 4.42,
+            "Dec 2017": 4.42,
+            "Sep 2017": 4.42,
+            "Jun 2017": 4.42,
+            "Mar 2017": 4.42,
+            "Dec 2016": 4.42,
+            "Sep 2016": 4.42,
+            "Jun 2016": 4.42
+          }
+        ]
+      }
+    ],
+    "id": 7728
+  },
+  {
+    "name": "Umang Finance Pvt Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "GTN Textiles",
+        "result": [
+          {
+            "Jun 2023": 6.3,
+            "Mar 2023": 6.3,
+            "Dec 2022": 6.3,
+            "Sep 2022": 6.3,
+            "Jun 2022": 6.3,
+            "Mar 2022": 6.3,
+            "Dec 2021": 6.3,
+            "Sep 2021": 6.3,
+            "Jun 2021": 6.3,
+            "Mar 2021": 6.3,
+            "Dec 2020": 6.3,
+            "Sep 2020": 6.3,
+            "Jun 2020": 6.3,
+            "Mar 2020": 6.3,
+            "Dec 2019": 6.3,
+            "Sep 2019": 6.3,
+            "Jun 2019": 6.3,
+            "Mar 2019": 6.3,
+            "Dec 2018": 6.3,
+            "Sep 2018": 6.3,
+            "Jun 2018": 6.3,
+            "Mar 2018": 6.3,
+            "Dec 2017": 6.3,
+            "Sep 2017": 6.3,
+            "Jun 2017": 6.3,
+            "Mar 2017": 6.3,
+            "Dec 2016": 6.3,
+            "Sep 2016": 6.3,
+            "Jun 2016": 6.3
+          }
+        ]
+      },
+      {
+        "companyName": "Patspin India",
+        "result": [
+          {
+            "Jun 2023": 1.24,
+            "Mar 2023": 1.24,
+            "Dec 2022": 1.24,
+            "Sep 2022": 1.24,
+            "Jun 2022": 1.24,
+            "Mar 2022": 1.24,
+            "Dec 2021": 1.24,
+            "Sep 2021": 1.24,
+            "Jun 2021": 1.24,
+            "Mar 2021": 1.24,
+            "Dec 2020": 1.24,
+            "Sep 2020": 1.24,
+            "Jun 2020": 1.24,
+            "Mar 2020": 1.24,
+            "Dec 2019": 1.24,
+            "Sep 2019": 1.24,
+            "Jun 2019": 1.24,
+            "Mar 2019": 1.24,
+            "Dec 2018": 1.24,
+            "Sep 2018": 1.24,
+            "Jun 2018": 1.24,
+            "Mar 2018": 1.24,
+            "Dec 2017": 1.24,
+            "Sep 2017": 1.24,
+            "Jun 2017": 1.24,
+            "Mar 2017": 1.24,
+            "Dec 2016": 1.24,
+            "Sep 2016": 1.24
+          }
+        ]
+      }
+    ],
+    "id": 7729
+  },
+  {
+    "name": "Ankur Patodia",
+    "shareHoldings": [
+      {
+        "companyName": "GTN Textiles",
+        "result": [
+          {
+            "Jun 2023": 6.29,
+            "Mar 2023": 6.29,
+            "Dec 2022": 6.29,
+            "Sep 2022": 6.29,
+            "Jun 2022": 6.29,
+            "Mar 2022": 6.29,
+            "Dec 2021": 6.29,
+            "Sep 2021": 6.29,
+            "Jun 2021": 6.29,
+            "Mar 2021": 6.29,
+            "Dec 2020": 6.29,
+            "Sep 2020": 6.29,
+            "Jun 2020": 6.29,
+            "Mar 2020": 6.29,
+            "Dec 2019": 6.29,
+            "Sep 2019": 6.29,
+            "Jun 2019": 6.29,
+            "Mar 2019": 6.29,
+            "Dec 2018": 6.29,
+            "Sep 2018": 6.29,
+            "Jun 2018": 6.29,
+            "Mar 2018": 6.29,
+            "Dec 2017": 6.29,
+            "Sep 2017": 6.29,
+            "Jun 2017": 6.29,
+            "Mar 2017": 6.29,
+            "Dec 2016": 6.29,
+            "Sep 2016": 6.29,
+            "Jun 2016": 6.29
+          }
+        ]
+      },
+      {
+        "companyName": "Patspin India",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 7730
+  },
+  {
+    "name": "Prabha Patodia",
+    "bulkDealsData": [
+      {
+        "date": "GTN Textiles\n22 Dec, 2006",
+        "orderType": "BUY",
+        "quantity": "2,97,458",
+        "price": "19.5"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "GTN Textiles",
+        "result": [
+          {
+            "Jun 2023": 5.86,
+            "Mar 2023": 5.86,
+            "Dec 2022": 5.86,
+            "Sep 2022": 5.86,
+            "Jun 2022": 5.86,
+            "Mar 2022": 5.86,
+            "Dec 2021": 5.86,
+            "Sep 2021": 5.86,
+            "Jun 2021": 5.86,
+            "Mar 2021": 5.86,
+            "Dec 2020": 5.86,
+            "Sep 2020": 5.86,
+            "Jun 2020": 5.86,
+            "Mar 2020": 5.86,
+            "Dec 2019": 5.86,
+            "Sep 2019": 5.86,
+            "Jun 2019": 5.86,
+            "Mar 2019": 5.86,
+            "Dec 2018": 5.86,
+            "Sep 2018": 5.86,
+            "Jun 2018": 5.86,
+            "Mar 2018": 5.86,
+            "Dec 2017": 5.86,
+            "Sep 2017": 5.86,
+            "Jun 2017": 5.86,
+            "Mar 2017": 5.86,
+            "Dec 2016": 5.86,
+            "Sep 2016": 5.86,
+            "Jun 2016": 5.86
+          }
+        ]
+      },
+      {
+        "companyName": "Patspin India",
+        "result": [
+          {
+            "Jun 2023": 0.11,
+            "Mar 2023": 0.11,
+            "Dec 2022": 0.11,
+            "Sep 2022": 0.11,
+            "Jun 2022": 0.11,
+            "Mar 2022": 0.11,
+            "Dec 2021": 0.11,
+            "Sep 2021": 0.11,
+            "Jun 2021": 0.11,
+            "Mar 2021": 0.11,
+            "Dec 2020": 0.11,
+            "Sep 2020": 0.11,
+            "Jun 2020": 0.11,
+            "Mar 2020": 0.11,
+            "Dec 2019": 0.11,
+            "Sep 2019": 0.11,
+            "Jun 2019": 0.11,
+            "Mar 2019": 0.11,
+            "Dec 2018": 0.11,
+            "Sep 2018": 0.11,
+            "Jun 2018": 0.11,
+            "Mar 2018": 0.11,
+            "Dec 2017": 0.11,
+            "Sep 2017": 0.11,
+            "Jun 2017": 0.11,
+            "Mar 2017": 0.11,
+            "Dec 2016": 0.11,
+            "Sep 2016": 0.11,
+            "Jun 2016": 0.11
+          }
+        ]
+      }
+    ],
+    "id": 7731
+  },
+  {
+    "name": "Patodia Exports And Investments Pvt Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "GTN Textiles",
+        "result": [
+          {
+            "Jun 2023": 6.65,
+            "Mar 2023": 6.65,
+            "Dec 2022": 6.65,
+            "Sep 2022": 6.65,
+            "Jun 2020": 6.65,
+            "Mar 2020": 6.65,
+            "Dec 2019": 6.65,
+            "Sep 2019": 6.65,
+            "Jun 2019": 6.65,
+            "Mar 2019": 6.65,
+            "Dec 2018": 6.65,
+            "Sep 2018": 6.65,
+            "Jun 2018": 6.65,
+            "Mar 2018": 6.65,
+            "Dec 2017": 6.65,
+            "Sep 2017": 6.65,
+            "Jun 2017": 6.65,
+            "Mar 2017": 6.65,
+            "Dec 2016": 5.78,
+            "Sep 2016": 5.78,
+            "Jun 2016": 5.78
+          }
+        ]
+      },
+      {
+        "companyName": "Patspin India",
+        "result": [
+          {
+            "Jun 2023": 4.81,
+            "Mar 2023": 4.81,
+            "Dec 2022": 4.81,
+            "Sep 2022": 4.81,
+            "Jun 2020": 4.81,
+            "Mar 2020": 4.81,
+            "Dec 2019": 4.81,
+            "Sep 2019": 4.81,
+            "Jun 2019": 4.81,
+            "Mar 2019": 4.81,
+            "Dec 2018": 4.81,
+            "Sep 2018": 4.81,
+            "Jun 2018": 4.81,
+            "Mar 2018": 4.81,
+            "Dec 2017": 4.81,
+            "Sep 2017": 4.81,
+            "Jun 2017": 4.81,
+            "Mar 2017": 4.81,
+            "Dec 2016": 4.81,
+            "Sep 2016": 4.81,
+            "Jun 2016": 4.81
+          }
+        ]
+      }
+    ],
+    "id": 7732
+  },
+  {
+    "name": "Swati Patodia",
+    "shareHoldings": [
+      {
+        "companyName": "GTN Textiles",
+        "result": [
+          {
+            "Jun 2023": 2.34,
+            "Mar 2023": 2.34,
+            "Dec 2022": 2.34,
+            "Sep 2022": 2.34,
+            "Jun 2022": 2.34,
+            "Mar 2022": 2.34,
+            "Dec 2021": 2.34,
+            "Sep 2021": 2.34,
+            "Jun 2021": 2.34,
+            "Mar 2021": 2.34,
+            "Dec 2020": 2.34,
+            "Sep 2020": 2.34,
+            "Jun 2020": 2.34,
+            "Mar 2020": 2.34,
+            "Dec 2019": 2.34,
+            "Sep 2019": 2.34,
+            "Jun 2019": 2.34,
+            "Mar 2019": 2.34,
+            "Dec 2018": 2.34,
+            "Sep 2018": 2.34,
+            "Jun 2018": 2.34,
+            "Mar 2018": 2.34,
+            "Dec 2017": 2.23,
+            "Sep 2017": 2.23,
+            "Jun 2017": 2.23,
+            "Mar 2017": 2.23,
+            "Dec 2016": 2.23,
+            "Sep 2016": 2.23,
+            "Jun 2016": 2.23
+          }
+        ]
+      }
+    ],
+    "id": 7733
+  },
+  {
+    "name": "Mala Patodia",
+    "shareHoldings": [
+      {
+        "companyName": "GTN Textiles",
+        "result": [
+          {
+            "Jun 2023": 1.46,
+            "Mar 2023": 1.46,
+            "Dec 2022": 1.46,
+            "Sep 2022": 1.46,
+            "Jun 2022": 1.46,
+            "Mar 2022": 1.46,
+            "Dec 2021": 1.46,
+            "Sep 2021": 1.46,
+            "Jun 2021": 1.46,
+            "Mar 2021": 1.46,
+            "Dec 2020": 1.46,
+            "Sep 2020": 1.46,
+            "Jun 2020": 1.46,
+            "Mar 2020": 1.46,
+            "Dec 2019": 1.46,
+            "Sep 2019": 1.46,
+            "Jun 2019": 1.46,
+            "Mar 2019": 1.46,
+            "Dec 2018": 1.46,
+            "Sep 2018": 1.46,
+            "Jun 2018": 1.46,
+            "Mar 2018": 1.46,
+            "Dec 2017": 1.36,
+            "Sep 2017": 1.36,
+            "Jun 2017": 1.36,
+            "Mar 2017": 1.36,
+            "Dec 2016": 1.36,
+            "Sep 2016": 1.36,
+            "Jun 2016": 1.36
+          }
+        ]
+      },
+      {
+        "companyName": "Patspin India",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 7734
+  },
+  {
+    "name": "jyoti pandhi",
+    "shareHoldings": [
+      {
+        "companyName": "GTN Textiles",
+        "result": [
+          {
+            "Sep 2016": 1.01
+          }
+        ]
+      }
+    ],
+    "id": 7735
+  },
+  {
+    "name": "Patodia Exports & Investments Pvt Ltd",
+    "bulkDealsData": [
+      {
+        "date": "GTN Textiles\n22 Feb, 2017",
+        "orderType": "BUY",
+        "quantity": "1,01,501",
+        "price": "14.5"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "GTN Textiles",
+        "result": [
+          {
+            "Jun 2022": 6.65,
+            "Mar 2022": 6.65,
+            "Dec 2021": 6.65,
+            "Sep 2021": 6.65,
+            "Jun 2021": 6.65,
+            "Mar 2021": 6.65,
+            "Dec 2020": 6.65,
+            "Sep 2020": 6.65
+          }
+        ]
+      },
+      {
+        "companyName": "Patspin India",
+        "result": [
+          {
+            "Jun 2022": 4.81,
+            "Mar 2022": 4.81,
+            "Dec 2021": 4.81,
+            "Sep 2021": 4.81,
+            "Jun 2021": 4.81,
+            "Mar 2021": 4.81,
+            "Dec 2020": 4.81,
+            "Sep 2020": 4.81
+          }
+        ]
+      }
+    ],
+    "id": 7736
+  },
+  {
+    "name": "Uniquetechno Associates Pvt Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Petroleums",
+        "result": [
+          {
+            "Mar 2017": 2.36,
+            "Dec 2016": 2.36,
+            "Sep 2016": 2.36,
+            "Jun 2016": 2.36
+          }
+        ]
+      },
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2018": 5.23,
+            "Mar 2018": 5.23,
+            "Dec 2017": 5.23,
+            "Sep 2017": 5.23,
+            "Jun 2017": 5.23,
+            "Mar 2017": 5.23,
+            "Dec 2016": 5.23,
+            "Sep 2016": 5.23,
+            "Jun 2016": 5.23
+          }
+        ]
+      }
+    ],
+    "id": 7737
+  },
+  {
+    "name": "Hemlata Khandelwal",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Petroleums",
+        "result": [
+          {
+            "Sep 2018": 0.01,
+            "Jun 2018": 0.01,
+            "Mar 2018": 0.01,
+            "Dec 2017": 0.01,
+            "Sep 2017": 0.01,
+            "Jun 2017": 0.01,
+            "Mar 2017": 0.67,
+            "Dec 2016": 0.67,
+            "Sep 2016": 0.67,
+            "Jun 2016": 0.67
+          }
+        ]
+      },
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2018": 4.69,
+            "Mar 2018": 4.69,
+            "Dec 2017": 4.69,
+            "Sep 2017": 4.69,
+            "Jun 2017": 4.69,
+            "Mar 2017": 4.69,
+            "Dec 2016": 4.69,
+            "Sep 2016": 4.69,
+            "Jun 2016": 4.69
+          }
+        ]
+      }
+    ],
+    "id": 7738
+  },
+  {
+    "name": "Raj Khuteta",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2023": 3.26,
+            "Mar 2023": 3.26,
+            "Dec 2022": 3.26,
+            "Sep 2022": 3.26,
+            "Jun 2022": 3.26,
+            "Mar 2022": 3.26,
+            "Dec 2021": 3.26,
+            "Sep 2021": 3.26,
+            "Jun 2021": 3.26,
+            "Mar 2021": 3.26,
+            "Dec 2020": 3.26,
+            "Sep 2020": 3.26,
+            "Jun 2020": 4.26,
+            "Mar 2020": 4.26,
+            "Dec 2019": 4.26,
+            "Sep 2019": 4.26,
+            "Jun 2019": 4.26,
+            "Mar 2019": 4.26,
+            "Dec 2018": 4.26,
+            "Sep 2018": 4.26,
+            "Jun 2018": 4.26,
+            "Mar 2018": 4.26,
+            "Dec 2017": 4.26,
+            "Sep 2017": 4.26,
+            "Jun 2017": 4.26,
+            "Mar 2017": 4.26,
+            "Dec 2016": 4.26,
+            "Sep 2016": 4.26,
+            "Jun 2016": 4.26
+          }
+        ]
+      }
+    ],
+    "id": 7739
+  },
+  {
+    "name": "Orchid Securities Private Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2023": 3.77,
+            "Mar 2023": 3.77,
+            "Dec 2022": 3.77,
+            "Sep 2022": 3.77,
+            "Jun 2022": 3.77,
+            "Mar 2022": 3.77,
+            "Dec 2021": 3.77,
+            "Sep 2021": 3.77,
+            "Jun 2021": 3.77,
+            "Mar 2021": 3.77,
+            "Dec 2020": 3.77,
+            "Sep 2020": 3.77,
+            "Jun 2020": 4.93,
+            "Mar 2020": 4.93,
+            "Dec 2019": 4.93,
+            "Sep 2019": 4.93,
+            "Jun 2019": 4.93,
+            "Mar 2019": 4.93,
+            "Dec 2018": 4.93,
+            "Sep 2018": 4.93,
+            "Jun 2018": 4.93,
+            "Mar 2018": 4.93,
+            "Dec 2017": 4.93,
+            "Sep 2017": 4.93,
+            "Jun 2017": 2.81,
+            "Mar 2017": 2.81,
+            "Dec 2016": 2.81,
+            "Jun 2016": 2.81
+          }
+        ]
+      }
+    ],
+    "id": 7740
+  },
+  {
+    "name": "Vikrant Khandelwal",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Petroleums",
+        "result": [
+          {
+            "Jun 2023": 9.79,
+            "Mar 2023": 9.79,
+            "Dec 2022": 9.79,
+            "Sep 2022": 9.79,
+            "Jun 2022": 9.79,
+            "Mar 2022": 9.79,
+            "Dec 2021": 9.79,
+            "Sep 2021": 9.79,
+            "Jun 2021": 9.79,
+            "Mar 2021": 9.79,
+            "Dec 2020": 9.79,
+            "Sep 2020": 9.79,
+            "Jun 2020": 9.79,
+            "Mar 2020": 9.79,
+            "Dec 2019": 9.79,
+            "Sep 2019": 9.79,
+            "Jun 2019": 9.79,
+            "Mar 2019": 9.79,
+            "Dec 2018": 9.79,
+            "Sep 2018": 9.47,
+            "Jun 2018": 9.47,
+            "Mar 2018": 9.47,
+            "Dec 2017": 9.47,
+            "Sep 2017": 9.47,
+            "Jun 2017": 9.47,
+            "Mar 2017": 3.68,
+            "Dec 2016": 3.68,
+            "Sep 2016": 3.68,
+            "Jun 2016": 3.68
+          }
+        ]
+      },
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2023": 3.01,
+            "Mar 2023": 3.01,
+            "Dec 2022": 3.01,
+            "Sep 2022": 3.01,
+            "Jun 2022": 3.01,
+            "Mar 2022": 3.01,
+            "Dec 2021": 3.01,
+            "Sep 2021": 3.01,
+            "Jun 2021": 3.01,
+            "Mar 2021": 3.01,
+            "Dec 2020": 3.01,
+            "Sep 2020": 3.01,
+            "Jun 2020": 3.94,
+            "Mar 2020": 3.94,
+            "Dec 2019": 3.94,
+            "Sep 2019": 3.94,
+            "Jun 2019": 3.94,
+            "Mar 2019": 3.94,
+            "Dec 2018": 3.94,
+            "Sep 2018": 3.94,
+            "Jun 2018": 2.45,
+            "Mar 2018": 2.45,
+            "Dec 2017": 2.45,
+            "Sep 2017": 2.45,
+            "Jun 2017": 2.45,
+            "Mar 2017": 2.45,
+            "Dec 2016": 2.45,
+            "Sep 2016": 2.45,
+            "Jun 2016": 2.45
+          }
+        ]
+      }
+    ],
+    "id": 7741
+  },
+  {
+    "name": "Madan Lal Khandelwal",
+    "shareHoldings": [
+      {
+        "companyName": "Bansisons Tea",
+        "result": [
+          {
+            "Dec 2018": 0.32,
+            "Sep 2018": 0.32,
+            "Jun 2018": 0.32,
+            "Mar 2018": 0.32,
+            "Dec 2017": 0.32,
+            "Sep 2017": 0.32,
+            "Jun 2017": 0.32,
+            "Mar 2017": 0.32,
+            "Dec 2016": 0.32,
+            "Sep 2016": 0.32,
+            "Jun 2016": 0.32,
+            "Mar 2016": 0.32
+          }
+        ]
+      },
+      {
+        "companyName": "Cont. Petroleums",
+        "result": [
+          {
+            "Jun 2023": 4.78,
+            "Mar 2023": 4.78,
+            "Dec 2022": 4.78,
+            "Sep 2022": 4.78,
+            "Jun 2022": 4.78,
+            "Mar 2022": 4.78,
+            "Dec 2021": 4.78,
+            "Sep 2021": 4.78,
+            "Jun 2021": 4.78,
+            "Mar 2021": 4.78,
+            "Dec 2020": 4.78,
+            "Sep 2020": 4.78,
+            "Jun 2020": 4.78,
+            "Mar 2020": 4.78,
+            "Dec 2019": 4.78,
+            "Sep 2019": 4.78,
+            "Jun 2019": 4.78,
+            "Mar 2019": 4.78,
+            "Dec 2018": 4.78,
+            "Sep 2018": 4.78,
+            "Jun 2018": 4.78,
+            "Mar 2018": 4.78,
+            "Dec 2017": 4.78,
+            "Sep 2017": 4.78,
+            "Jun 2017": 4.78,
+            "Mar 2017": 4.78,
+            "Dec 2016": 4.78,
+            "Sep 2016": 4.78,
+            "Jun 2016": 4.78
+          }
+        ]
+      },
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2023": 1.66,
+            "Mar 2023": 1.66,
+            "Dec 2022": 1.66,
+            "Sep 2022": 1.66,
+            "Jun 2022": 1.66,
+            "Mar 2022": 1.66,
+            "Dec 2021": 1.66,
+            "Sep 2021": 1.66,
+            "Jun 2021": 1.66,
+            "Mar 2021": 1.66,
+            "Dec 2020": 1.66,
+            "Sep 2020": 1.66,
+            "Jun 2020": 2.17,
+            "Mar 2020": 2.17,
+            "Dec 2019": 2.17,
+            "Sep 2019": 2.17,
+            "Jun 2019": 2.17,
+            "Mar 2019": 2.17,
+            "Dec 2018": 2.17,
+            "Sep 2018": 2.17,
+            "Jun 2018": 2.17,
+            "Mar 2018": 2.17,
+            "Dec 2017": 2.17,
+            "Sep 2017": 2.17,
+            "Jun 2017": 2.17,
+            "Mar 2017": 2.17,
+            "Dec 2016": 2.17,
+            "Sep 2016": 2.17,
+            "Jun 2016": 2.17
+          }
+        ]
+      }
+    ],
+    "id": 7742
+  },
+  {
+    "name": "Hemant Gupta",
+    "bulkDealsData": [
+      {
+        "date": "Prakash Pipes\n15 Apr, 2020",
+        "orderType": "BUY",
+        "quantity": "1,79,055",
+        "price": "30.8"
+      },
+      {
+        "date": "PG Electroplast\n06 Feb, 2020",
+        "orderType": "BUY",
+        "quantity": "1",
+        "price": "63.2"
+      },
+      {
+        "date": "PG Electroplast\n06 Feb, 2020",
+        "orderType": "SELL",
+        "quantity": "1,41,726",
+        "price": "61.3"
+      },
+      {
+        "date": "Indian Sucrose\n09 Nov, 2016",
+        "orderType": "Buy",
+        "quantity": "1,17,338",
+        "price": "27.6"
+      },
+      {
+        "date": "Walchand People\n08 Nov, 2016",
+        "orderType": "Buy",
+        "quantity": "21,237",
+        "price": "202"
+      },
+      {
+        "date": "Jyoti Resins\n30 Aug, 2016",
+        "orderType": "Sell",
+        "quantity": "23,704",
+        "price": "96.6"
+      },
+      {
+        "date": "Jauss Polymers\n26 Aug, 2016",
+        "orderType": "Sell",
+        "quantity": "50,000",
+        "price": "36.0"
+      },
+      {
+        "date": "Jauss Polymers\n31 May, 2016",
+        "orderType": "Buy",
+        "quantity": "33,745",
+        "price": "35.8"
+      },
+      {
+        "date": "Jyoti Resins\n02 Dec, 2015",
+        "orderType": "Sell",
+        "quantity": "25,693",
+        "price": "39.2"
+      },
+      {
+        "date": "Jyoti Resins\n10 Nov, 2015",
+        "orderType": "Buy",
+        "quantity": "30,303",
+        "price": "57.2"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2023": 2.47,
+            "Mar 2023": 2.47,
+            "Dec 2022": 2.47,
+            "Sep 2022": 2.47,
+            "Jun 2022": 2.47,
+            "Mar 2022": 2.47,
+            "Dec 2021": 2.47,
+            "Sep 2021": 2.47,
+            "Jun 2021": 2.47,
+            "Mar 2021": 2.47,
+            "Dec 2020": 2.47,
+            "Sep 2020": 2.47,
+            "Jun 2020": 4.77,
+            "Mar 2020": 4.77,
+            "Dec 2019": 4.77,
+            "Sep 2019": 4.77,
+            "Jun 2019": 4.77,
+            "Mar 2019": 4.77,
+            "Dec 2018": 4.77,
+            "Sep 2018": 4.77,
+            "Jun 2018": 1.51,
+            "Mar 2018": 1.51,
+            "Dec 2017": 3.97,
+            "Sep 2017": 3.97,
+            "Jun 2017": 2.12,
+            "Mar 2017": 2.12,
+            "Dec 2016": 2.12,
+            "Sep 2016": 2.12,
+            "Jun 2016": 2.12
+          }
+        ]
+      },
+      {
+        "companyName": "Dhanvantri Jeev.",
+        "result": [
+          {
+            "Jun 2016": 1.12
+          }
+        ]
+      },
+      {
+        "companyName": "Jauss Polymers",
+        "result": [
+          {
+            "Jun 2016": 1.08
+          }
+        ]
+      },
+      {
+        "companyName": "Jyoti Resins",
+        "result": [
+          {
+            "Jun 2016": 2.5
+          }
+        ]
+      },
+      {
+        "companyName": "Kilpest India",
+        "result": [
+          {
+            "Jun 2018": 2.46,
+            "Mar 2018": 2.51,
+            "Dec 2017": 1.72,
+            "Sep 2017": 1.72,
+            "Jun 2017": 1.72,
+            "Mar 2017": 1.08
+          }
+        ]
+      },
+      {
+        "companyName": "Rishi Techtex",
+        "result": [
+          {
+            "Jun 2017": 1.35,
+            "Mar 2017": 1.5
+          }
+        ]
+      }
+    ],
+    "id": 7743
+  },
+  {
+    "name": "Navneet Khandelwal",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Petroleums",
+        "result": [
+          {
+            "Jun 2023": 8.41,
+            "Mar 2023": 8.41,
+            "Dec 2022": 8.41,
+            "Sep 2022": 8.41,
+            "Jun 2022": 8.41,
+            "Mar 2022": 8.41,
+            "Dec 2021": 8.41,
+            "Sep 2021": 8.41,
+            "Jun 2021": 8.41,
+            "Mar 2021": 8.41,
+            "Dec 2020": 8.41,
+            "Sep 2020": 8.41,
+            "Jun 2020": 8.41,
+            "Mar 2020": 8.41,
+            "Dec 2019": 8.41,
+            "Sep 2019": 8.41,
+            "Jun 2019": 8.41,
+            "Mar 2019": 8.41,
+            "Dec 2018": 8.41,
+            "Sep 2018": 8.41,
+            "Jun 2018": 8.41,
+            "Mar 2018": 8.41,
+            "Dec 2017": 8.41,
+            "Sep 2017": 8.41,
+            "Jun 2017": 8.41,
+            "Mar 2017": 3.74,
+            "Dec 2016": 3.74,
+            "Sep 2016": 3.74,
+            "Jun 2016": 3.74
+          }
+        ]
+      },
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2023": 1.47,
+            "Mar 2023": 1.47,
+            "Dec 2022": 1.47,
+            "Sep 2022": 1.47,
+            "Jun 2022": 1.47,
+            "Mar 2022": 1.47,
+            "Dec 2021": 1.47,
+            "Sep 2021": 1.47,
+            "Jun 2021": 1.47,
+            "Mar 2021": 1.47,
+            "Dec 2020": 1.47,
+            "Sep 2020": 1.47,
+            "Jun 2020": 1.93,
+            "Mar 2020": 1.93,
+            "Dec 2019": 1.93,
+            "Sep 2019": 1.93,
+            "Jun 2019": 1.93,
+            "Mar 2019": 1.93,
+            "Dec 2018": 1.93,
+            "Sep 2018": 1.93,
+            "Jun 2018": 1.93,
+            "Mar 2018": 1.93,
+            "Dec 2017": 1.93,
+            "Sep 2017": 1.93,
+            "Jun 2017": 1.93,
+            "Mar 2017": 1.93,
+            "Dec 2016": 1.93,
+            "Sep 2016": 1.93,
+            "Jun 2016": 1.93
+          }
+        ]
+      }
+    ],
+    "id": 7744
+  },
+  {
+    "name": "Century Projects India Pvt Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2018": 1.85,
+            "Mar 2018": 1.85,
+            "Dec 2017": 1.85,
+            "Sep 2017": 1.85,
+            "Jun 2017": 1.85,
+            "Mar 2017": 1.85,
+            "Dec 2016": 1.85,
+            "Sep 2016": 1.85,
+            "Jun 2016": 1.85
+          }
+        ]
+      }
+    ],
+    "id": 7745
+  },
+  {
+    "name": "Bhagwati Khandelwal",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Petroleums",
+        "result": [
+          {
+            "Sep 2018": 0.06,
+            "Jun 2018": 0.06,
+            "Mar 2018": 0.06,
+            "Dec 2017": 0.06,
+            "Sep 2017": 0.06,
+            "Jun 2017": 0.06,
+            "Mar 2017": 1.8,
+            "Dec 2016": 1.8,
+            "Sep 2016": 1.8,
+            "Jun 2016": 1.8
+          }
+        ]
+      },
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2018": 1.49,
+            "Mar 2018": 1.49,
+            "Dec 2017": 1.49,
+            "Sep 2017": 1.49,
+            "Jun 2017": 1.49,
+            "Mar 2017": 1.49,
+            "Dec 2016": 1.49,
+            "Sep 2016": 1.49,
+            "Jun 2016": 1.49
+          }
+        ]
+      }
+    ],
+    "id": 7746
+  },
+  {
+    "name": "Dinesh Khandelwal",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2017": 1.05,
+            "Mar 2017": 1.05,
+            "Dec 2016": 1.05,
+            "Sep 2016": 1.05,
+            "Jun 2016": 1.05
+          }
+        ]
+      },
+      {
+        "companyName": "Joindre Capital",
+        "result": [
+          {
+            "Jun 2023": 5.58,
+            "Mar 2023": 5.58,
+            "Dec 2022": 5.58,
+            "Sep 2022": 5.58,
+            "Jun 2022": 5.58,
+            "Mar 2022": 5.58,
+            "Dec 2021": 5.58,
+            "Sep 2021": 5.58,
+            "Jun 2021": 5.58,
+            "Mar 2021": 5.58,
+            "Dec 2020": 5.58,
+            "Sep 2020": 5.58,
+            "Jun 2020": 5.58,
+            "Mar 2020": 5.58,
+            "Dec 2019": 5.58,
+            "Sep 2019": 5.58,
+            "Jun 2019": 5.58,
+            "Mar 2019": 5.58,
+            "Dec 2018": 5.58,
+            "Sep 2018": 5.58,
+            "Jun 2018": 5.58,
+            "Mar 2018": 5.58,
+            "Dec 2017": 5.58,
+            "Sep 2017": 5.58,
+            "Jun 2017": 5.58,
+            "Mar 2017": 5.58,
+            "Dec 2016": 5.58,
+            "Sep 2016": 5.58,
+            "Jun 2016": 5.58
+          }
+        ]
+      },
+      {
+        "companyName": "Khandelwal Extra",
+        "result": [
+          {
+            "Jun 2023": 4.94,
+            "Mar 2023": 4.94,
+            "Dec 2022": 4.94,
+            "Sep 2022": 4.94,
+            "Jun 2022": 4.94,
+            "Mar 2022": 4.94,
+            "Dec 2021": 4.94,
+            "Sep 2021": 4.94,
+            "Jun 2021": 4.94,
+            "Mar 2021": 4.94,
+            "Dec 2020": 4.94,
+            "Sep 2020": 4.94,
+            "Jun 2020": 4.94,
+            "Mar 2020": 4.94,
+            "Dec 2019": 4.94,
+            "Sep 2019": 4.94,
+            "Jun 2019": 4.94,
+            "Mar 2019": 4.94,
+            "Dec 2018": 4.94,
+            "Sep 2018": 4.94,
+            "Jun 2018": 4.94,
+            "Mar 2018": 4.94,
+            "Dec 2017": 4.94,
+            "Sep 2017": 4.94,
+            "Jun 2017": 4.94,
+            "Mar 2017": 4.94,
+            "Dec 2016": 4.94,
+            "Sep 2016": 4.94,
+            "Jun 2016": 4.94
+          }
+        ]
+      }
+    ],
+    "id": 7747
+  },
+  {
+    "name": "Ramesh Chand Rawat",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Petroleums",
+        "result": [
+          {
+            "Mar 2017": 0.37,
+            "Dec 2016": 0.37,
+            "Sep 2016": 0.37,
+            "Jun 2016": 0.37
+          }
+        ]
+      },
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2017": 0.76,
+            "Mar 2017": 0.76,
+            "Dec 2016": 0.76,
+            "Sep 2016": 0.76,
+            "Jun 2016": 0.76
+          }
+        ]
+      }
+    ],
+    "id": 7748
+  },
+  {
+    "name": "Murarilal Khandelwal",
+    "bulkDealsData": [
+      {
+        "date": "ASL Industries\n20 Jan, 2021",
+        "orderType": "SELL",
+        "quantity": "56,000",
+        "price": "12.2"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2017": 0.69,
+            "Mar 2017": 0.69,
+            "Dec 2016": 0.69,
+            "Sep 2016": 0.69,
+            "Jun 2016": 0.69
+          }
+        ]
+      }
+    ],
+    "id": 7749
+  },
+  {
+    "name": "Madhu Khandelwal",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Petroleums",
+        "result": [
+          {
+            "Mar 2017": 0.32,
+            "Dec 2016": 0.32,
+            "Sep 2016": 0.32,
+            "Jun 2016": 0.32
+          }
+        ]
+      },
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2017": 0.54,
+            "Mar 2017": 0.54,
+            "Dec 2016": 0.54,
+            "Sep 2016": 0.54,
+            "Jun 2016": 0.54
+          }
+        ]
+      },
+      {
+        "companyName": "Systematix Sec.",
+        "result": [
+          {
+            "Mar 2018": 7.55,
+            "Dec 2017": 7.55,
+            "Sep 2017": 7.55,
+            "Jun 2017": 7.55,
+            "Mar 2017": 7.55,
+            "Dec 2016": 7.55,
+            "Sep 2016": 7.55,
+            "Jun 2016": 7.55
+          }
+        ]
+      }
+    ],
+    "id": 7750
+  },
+  {
+    "name": "Rajesh Khuteta",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2023": 4.02,
+            "Mar 2023": 4.02,
+            "Dec 2022": 4.02,
+            "Sep 2022": 4.02,
+            "Jun 2022": 4.02,
+            "Mar 2022": 4.02,
+            "Dec 2021": 3.96,
+            "Sep 2021": 3.42,
+            "Jun 2021": 3.42,
+            "Mar 2021": 3.42,
+            "Dec 2020": 3.42,
+            "Sep 2020": 3.42,
+            "Jun 2020": 4.48,
+            "Mar 2020": 4.48,
+            "Dec 2019": 4.48,
+            "Sep 2019": 4.48,
+            "Jun 2019": 4.48,
+            "Mar 2019": 4.48,
+            "Dec 2018": 4.48,
+            "Sep 2018": 4.48,
+            "Jun 2018": 2.97,
+            "Mar 2018": 2.97,
+            "Dec 2017": 0.51,
+            "Sep 2017": 0.51,
+            "Jun 2017": 0.51,
+            "Mar 2017": 0.51,
+            "Dec 2016": 0.51,
+            "Sep 2016": 0.51,
+            "Jun 2016": 0.51
+          }
+        ]
+      }
+    ],
+    "id": 7751
+  },
+  {
+    "name": "Jagdish Prasad Khandelwal",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Petroleums",
+        "result": [
+          {
+            "Mar 2017": 0.25,
+            "Dec 2016": 0.25,
+            "Sep 2016": 0.25,
+            "Jun 2016": 0.25
+          }
+        ]
+      },
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2018": 0.44,
+            "Mar 2018": 0.44,
+            "Dec 2017": 0.44,
+            "Sep 2017": 0.44,
+            "Jun 2017": 0.44,
+            "Mar 2017": 0.44,
+            "Dec 2016": 0.44,
+            "Sep 2016": 0.44,
+            "Jun 2016": 0.44
+          }
+        ]
+      }
+    ],
+    "id": 7752
+  },
+  {
+    "name": "Girraj Prasad Khandelwal",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2017": 0.38,
+            "Mar 2017": 0.38,
+            "Dec 2016": 0.38,
+            "Sep 2016": 0.38,
+            "Jun 2016": 0.38
+          }
+        ]
+      }
+    ],
+    "id": 7753
+  },
+  {
+    "name": "Radhika Dangayach",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2018": 0.37,
+            "Mar 2018": 0.37,
+            "Dec 2017": 0.37,
+            "Sep 2017": 0.37,
+            "Jun 2017": 0.37,
+            "Mar 2017": 0.37,
+            "Dec 2016": 0.37,
+            "Sep 2016": 0.37,
+            "Jun 2016": 0.37
+          }
+        ]
+      }
+    ],
+    "id": 7754
+  },
+  {
+    "name": "Ramswaroop Rawat",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2017": 0.33,
+            "Mar 2017": 0.33,
+            "Dec 2016": 0.33,
+            "Sep 2016": 0.33,
+            "Jun 2016": 0.33
+          }
+        ]
+      }
+    ],
+    "id": 7755
+  },
+  {
+    "name": "Geetadevi Mamodia",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Sep 2018": 0.31,
+            "Jun 2018": 0.31,
+            "Mar 2018": 0.31,
+            "Dec 2017": 0.31,
+            "Sep 2017": 0.31,
+            "Jun 2017": 0.31,
+            "Mar 2017": 0.31,
+            "Dec 2016": 0.31,
+            "Sep 2016": 0.31,
+            "Jun 2016": 0.31
+          }
+        ]
+      }
+    ],
+    "id": 7756
+  },
+  {
+    "name": "Ashok Mamodia",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Sep 2018": 0.23,
+            "Jun 2018": 0.23,
+            "Mar 2018": 0.23,
+            "Dec 2017": 0.23,
+            "Sep 2017": 0.23,
+            "Jun 2017": 0.23,
+            "Mar 2017": 0.23,
+            "Dec 2016": 0.23,
+            "Sep 2016": 0.23,
+            "Jun 2016": 0.23
+          }
+        ]
+      }
+    ],
+    "id": 7757
+  },
+  {
+    "name": "Rajiv Khandelwal",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Sep 2018": 0.23,
+            "Jun 2018": 0.23,
+            "Mar 2018": 0.23,
+            "Dec 2017": 0.23,
+            "Sep 2017": 0.23,
+            "Jun 2017": 0.23,
+            "Mar 2017": 0.23,
+            "Dec 2016": 0.23,
+            "Sep 2016": 0.23,
+            "Jun 2016": 0.23
+          }
+        ]
+      }
+    ],
+    "id": 7758
+  },
+  {
+    "name": "Gordhandas Sethi",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2017": 0.22,
+            "Mar 2017": 0.22,
+            "Dec 2016": 0.22,
+            "Sep 2016": 0.22,
+            "Jun 2016": 0.22
+          }
+        ]
+      }
+    ],
+    "id": 7759
+  },
+  {
+    "name": "Prabha Gupta",
+    "bulkDealsData": [
+      {
+        "date": "Datasoft Applica\n02 Nov, 2020",
+        "orderType": "Sell",
+        "quantity": "6,940",
+        "price": "2.04"
+      },
+      {
+        "date": "A & M Febcon\n07 Aug, 2020",
+        "orderType": "Sell",
+        "quantity": "1,61,267",
+        "price": "3.60"
+      },
+      {
+        "date": "A & M Febcon\n07 Aug, 2020",
+        "orderType": "Buy",
+        "quantity": "1,61,267",
+        "price": "3.50"
+      },
+      {
+        "date": "Refex Industries\n22 Mar, 2017",
+        "orderType": "SELL",
+        "quantity": "91,185",
+        "price": "22.5"
+      },
+      {
+        "date": "Refex Industries\n22 Mar, 2017",
+        "orderType": "BUY",
+        "quantity": "90,222",
+        "price": "23.0"
+      },
+      {
+        "date": "Sita Shree Food\n28 Oct, 2016",
+        "orderType": "SELL",
+        "quantity": "1,22,615",
+        "price": "14.1"
+      },
+      {
+        "date": "Sita Shree Food\n28 Oct, 2016",
+        "orderType": "BUY",
+        "quantity": "1,22,615",
+        "price": "13.2"
+      },
+      {
+        "date": "Suprem.Tex Mart\n20 Oct, 2016",
+        "orderType": "Buy",
+        "quantity": "4,09,905",
+        "price": "5.72"
+      },
+      {
+        "date": "Suprem.Tex Mart\n20 Oct, 2016",
+        "orderType": "Sell",
+        "quantity": "4,09,925",
+        "price": "5.71"
+      },
+      {
+        "date": "Arnav Corp.\n19 Oct, 2016",
+        "orderType": "Sell",
+        "quantity": "5,31,903",
+        "price": "3.64"
+      },
+      {
+        "date": "Arnav Corp.\n19 Oct, 2016",
+        "orderType": "Buy",
+        "quantity": "5,31,903",
+        "price": "3.66"
+      },
+      {
+        "date": "Orient Beverages\n07 Oct, 2016",
+        "orderType": "Buy",
+        "quantity": "734",
+        "price": "141"
+      },
+      {
+        "date": "Orient Beverages\n07 Oct, 2016",
+        "orderType": "Sell",
+        "quantity": "13,420",
+        "price": "141"
+      },
+      {
+        "date": "Suprem.Tex Mart\n25 Aug, 2016",
+        "orderType": "BUY",
+        "quantity": "3,97,916",
+        "price": "8.56"
+      },
+      {
+        "date": "Suprem.Tex Mart\n25 Aug, 2016",
+        "orderType": "SELL",
+        "quantity": "3,97,916",
+        "price": "8.56"
+      },
+      {
+        "date": "Maxgrow India\n08 Jan, 2015",
+        "orderType": "Buy",
+        "quantity": "31,547",
+        "price": "24.5"
+      },
+      {
+        "date": "Maxgrow India\n08 Jan, 2015",
+        "orderType": "Sell",
+        "quantity": "1,07,720",
+        "price": "24.7"
+      },
+      {
+        "date": "Cupid\n24 Dec, 2014",
+        "orderType": "Buy",
+        "quantity": "56,812",
+        "price": "49.1"
+      },
+      {
+        "date": "Cupid\n24 Dec, 2014",
+        "orderType": "Sell",
+        "quantity": "56,812",
+        "price": "49.8"
+      },
+      {
+        "date": "Goodluck India\n10 Dec, 2014",
+        "orderType": "Buy",
+        "quantity": "1,16,732",
+        "price": "75.3"
+      },
+      {
+        "date": "Goodluck India\n10 Dec, 2014",
+        "orderType": "Sell",
+        "quantity": "1,16,732",
+        "price": "76.8"
+      },
+      {
+        "date": "Anukaran Commerc\n25 Nov, 2014",
+        "orderType": "Sell",
+        "quantity": "17,82,990",
+        "price": "0.66"
+      },
+      {
+        "date": "ACE EduTremd Ltd\n14 Nov, 2014",
+        "orderType": "Buy",
+        "quantity": "1,00,000",
+        "price": "10.1"
+      },
+      {
+        "date": "ACE EduTremd Ltd\n14 Nov, 2014",
+        "orderType": "Sell",
+        "quantity": "1,00,000",
+        "price": "12.5"
+      },
+      {
+        "date": "FE (India)\n13 Nov, 2014",
+        "orderType": "Buy",
+        "quantity": "49,037",
+        "price": "24.4"
+      },
+      {
+        "date": "FE (India)\n13 Nov, 2014",
+        "orderType": "Sell",
+        "quantity": "49,037",
+        "price": "23.8"
+      },
+      {
+        "date": "Anukaran Commerc\n05 Nov, 2014",
+        "orderType": "Buy",
+        "quantity": "50,00,000",
+        "price": "0.39"
+      },
+      {
+        "date": "Polo Hotels\n31 Oct, 2014",
+        "orderType": "Buy",
+        "quantity": "76,382",
+        "price": "40.4"
+      },
+      {
+        "date": "NHC Foods\n23 Sep, 2014",
+        "orderType": "Buy",
+        "quantity": "1,33,749",
+        "price": "39.0"
+      },
+      {
+        "date": "NHC Foods\n23 Sep, 2014",
+        "orderType": "Sell",
+        "quantity": "1,33,749",
+        "price": "39.6"
+      },
+      {
+        "date": "Cupid\n16 Sep, 2014",
+        "orderType": "Buy",
+        "quantity": "1,07,035",
+        "price": "29.2"
+      },
+      {
+        "date": "Cupid\n16 Sep, 2014",
+        "orderType": "Sell",
+        "quantity": "1,07,035",
+        "price": "29.1"
+      },
+      {
+        "date": "Cupid\n15 Sep, 2014",
+        "orderType": "Sell",
+        "quantity": "2,09,080",
+        "price": "27.5"
+      },
+      {
+        "date": "Turbotech Engg.\n01 Sep, 2014",
+        "orderType": "Sell",
+        "quantity": "1,59,429",
+        "price": "2.89"
+      },
+      {
+        "date": "Veer Energy\n28 Aug, 2014",
+        "orderType": "Sell",
+        "quantity": "4,03,490",
+        "price": "4.69"
+      },
+      {
+        "date": "Turbotech Engg.\n21 Aug, 2014",
+        "orderType": "Buy",
+        "quantity": "2,42,704",
+        "price": "3.13"
+      },
+      {
+        "date": "Richa Industries\n13 Aug, 2014",
+        "orderType": "Sell",
+        "quantity": "1,28,533",
+        "price": "36.8"
+      },
+      {
+        "date": "Veer Energy\n06 Aug, 2014",
+        "orderType": "Buy",
+        "quantity": "5,01,097",
+        "price": "5.51"
+      },
+      {
+        "date": "Veer Energy\n06 Aug, 2014",
+        "orderType": "Sell",
+        "quantity": "5,01,097",
+        "price": "5.59"
+      },
+      {
+        "date": "Kay Power &Paper\n22 Jul, 2014",
+        "orderType": "Buy",
+        "quantity": "57,118",
+        "price": "15.8"
+      },
+      {
+        "date": "Kay Power &Paper\n22 Jul, 2014",
+        "orderType": "Sell",
+        "quantity": "69,404",
+        "price": "15.9"
+      },
+      {
+        "date": "Aarey Drugs\n08 Jul, 2014",
+        "orderType": "Sell",
+        "quantity": "92,283",
+        "price": "21.0"
+      },
+      {
+        "date": "Five Core Exim\n27 Jun, 2014",
+        "orderType": "Buy",
+        "quantity": "6,31,851",
+        "price": "5.91"
+      },
+      {
+        "date": "Five Core Exim\n27 Jun, 2014",
+        "orderType": "Sell",
+        "quantity": "6,31,851",
+        "price": "5.94"
+      },
+      {
+        "date": "Five Core Exim\n26 Jun, 2014",
+        "orderType": "Buy",
+        "quantity": "5,58,557",
+        "price": "5.95"
+      },
+      {
+        "date": "Five Core Exim\n26 Jun, 2014",
+        "orderType": "Sell",
+        "quantity": "5,58,557",
+        "price": "5.99"
+      },
+      {
+        "date": "Eastern Sugar\n16 Jun, 2014",
+        "orderType": "Sell",
+        "quantity": "1,23,212",
+        "price": "3.00"
+      },
+      {
+        "date": "Eastern Sugar\n16 Jun, 2014",
+        "orderType": "Buy",
+        "quantity": "1,27,535",
+        "price": "2.93"
+      },
+      {
+        "date": "Eastern Sugar\n12 Jun, 2014",
+        "orderType": "Buy",
+        "quantity": "1,14,469",
+        "price": "3.67"
+      },
+      {
+        "date": "Eastern Sugar\n12 Jun, 2014",
+        "orderType": "Sell",
+        "quantity": "1,14,469",
+        "price": "3.63"
+      },
+      {
+        "date": "Eastern Sugar\n05 May, 2014",
+        "orderType": "Buy",
+        "quantity": "1,08,007",
+        "price": "1.92"
+      },
+      {
+        "date": "Eastern Sugar\n05 May, 2014",
+        "orderType": "Sell",
+        "quantity": "1,98,960",
+        "price": "1.80"
+      },
+      {
+        "date": "Eastern Sugar\n02 May, 2014",
+        "orderType": "Buy",
+        "quantity": "1,59,565",
+        "price": "1.50"
+      },
+      {
+        "date": "Gangotri Iron\n20 Feb, 2014",
+        "orderType": "Buy",
+        "quantity": "1,54,410",
+        "price": "2.51"
+      },
+      {
+        "date": "Dot Com Global\n04 Dec, 2013",
+        "orderType": "Sell",
+        "quantity": "32,320",
+        "price": "6.32"
+      },
+      {
+        "date": "Covidh Technolog\n03 Dec, 2013",
+        "orderType": "Buy",
+        "quantity": "59,761",
+        "price": "58.7"
+      },
+      {
+        "date": "Covidh Technolog\n03 Dec, 2013",
+        "orderType": "Sell",
+        "quantity": "53,706",
+        "price": "59.9"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2023": 3.2,
+            "Mar 2023": 3.2,
+            "Dec 2022": 3.2,
+            "Sep 2022": 3.67,
+            "Jun 2022": 3.67,
+            "Mar 2022": 3.67,
+            "Dec 2021": 3.81,
+            "Sep 2021": 3.81,
+            "Jun 2021": 3.81,
+            "Mar 2021": 3.81,
+            "Dec 2020": 3.81,
+            "Sep 2020": 3.81,
+            "Jun 2020": 4.98,
+            "Mar 2020": 4.98,
+            "Dec 2019": 4.98,
+            "Sep 2019": 4.98,
+            "Jun 2019": 4.98,
+            "Mar 2019": 4.98,
+            "Dec 2018": 4.98,
+            "Sep 2018": 4.98,
+            "Jun 2018": 4.98,
+            "Mar 2018": 4.98,
+            "Dec 2017": 4.98,
+            "Sep 2017": 4.98,
+            "Jun 2017": 4.98,
+            "Mar 2017": 4.98,
+            "Dec 2016": 4.98,
+            "Sep 2016": 4.98
+          }
+        ]
+      },
+      {
+        "companyName": "United Drilling",
+        "result": [
+          {
+            "Jun 2023": 3.88,
+            "Mar 2023": 3.88,
+            "Dec 2022": 3.88,
+            "Sep 2022": 3.88,
+            "Jun 2022": 3.88,
+            "Mar 2022": 3.88,
+            "Dec 2021": 3.88,
+            "Sep 2021": 3.88,
+            "Jun 2021": 3.88,
+            "Mar 2021": 3.88,
+            "Dec 2020": 3.88,
+            "Sep 2020": 3.89,
+            "Jun 2020": 3.89,
+            "Mar 2020": 3.89,
+            "Dec 2019": 3.89,
+            "Sep 2019": 3.89,
+            "Jun 2019": 3.89,
+            "Mar 2019": 3.89,
+            "Dec 2018": 3.89,
+            "Sep 2018": 3.89,
+            "Jun 2018": 3.9,
+            "Mar 2018": 3.9,
+            "Dec 2017": 3.87,
+            "Sep 2017": 3.87,
+            "Jun 2017": 3.87,
+            "Mar 2017": 3.87,
+            "Dec 2016": 3.87,
+            "Sep 2016": 3.87,
+            "Jun 2016": 0.01
+          }
+        ]
+      }
+    ],
+    "id": 7760
+  },
+  {
+    "name": "Sunidhi Khuteta",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2023": 5.37,
+            "Mar 2023": 5.37,
+            "Dec 2022": 5.37,
+            "Sep 2022": 5.37,
+            "Jun 2022": 5.37,
+            "Mar 2022": 5.37,
+            "Dec 2021": 5.37,
+            "Sep 2021": 5.37,
+            "Jun 2021": 5.25,
+            "Mar 2021": 5.25,
+            "Dec 2020": 5.25,
+            "Sep 2020": 4.86,
+            "Jun 2020": 6.35,
+            "Mar 2020": 6.35,
+            "Dec 2019": 6.35,
+            "Sep 2019": 5.4,
+            "Jun 2019": 4.95,
+            "Mar 2019": 4.95,
+            "Dec 2018": 4.95,
+            "Sep 2018": 4.95,
+            "Jun 2018": 4.95,
+            "Mar 2018": 4.95,
+            "Dec 2017": 4.95,
+            "Sep 2017": 4.95,
+            "Jun 2017": 4.95,
+            "Mar 2017": 4.95,
+            "Dec 2016": 4.95,
+            "Sep 2016": 4.95
+          }
+        ]
+      }
+    ],
+    "id": 7761
+  },
+  {
+    "name": "Diptanshu Gupta",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2023": 1.7,
+            "Mar 2023": 1.7,
+            "Dec 2022": 1.7,
+            "Sep 2022": 2.38,
+            "Jun 2022": 3.44,
+            "Mar 2022": 3.44,
+            "Dec 2021": 3.44,
+            "Sep 2021": 3.44,
+            "Jun 2021": 3.65,
+            "Mar 2021": 3.65,
+            "Dec 2020": 3.65,
+            "Sep 2020": 3.65,
+            "Jun 2020": 4.7,
+            "Mar 2020": 4.64,
+            "Dec 2019": 4.64,
+            "Sep 2019": 4.64,
+            "Jun 2019": 4.64,
+            "Mar 2019": 4.64,
+            "Dec 2018": 4.64,
+            "Sep 2018": 4.64,
+            "Jun 2018": 4.64,
+            "Mar 2018": 4.64,
+            "Dec 2017": 4.64,
+            "Sep 2017": 4.64,
+            "Jun 2017": 4.64,
+            "Mar 2017": 4.64,
+            "Dec 2016": 4.64,
+            "Sep 2016": 4.64
+          }
+        ]
+      }
+    ],
+    "id": 7762
+  },
+  {
+    "name": "Mahendra Khandelwal",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Sep 2020": 1.03,
+            "Jun 2020": 1.53,
+            "Mar 2020": 1.53,
+            "Dec 2019": 1.53,
+            "Sep 2019": 1.53,
+            "Jun 2019": 3.07,
+            "Mar 2019": 3.07,
+            "Dec 2018": 3.07,
+            "Sep 2018": 3.07,
+            "Jun 2018": 3.07,
+            "Mar 2018": 3.07,
+            "Dec 2017": 3.07,
+            "Sep 2017": 3.07,
+            "Jun 2017": 3.07,
+            "Mar 2017": 3.07,
+            "Dec 2016": 2.92,
+            "Sep 2016": 2.92
+          }
+        ]
+      }
+    ],
+    "id": 7763
+  },
+  {
+    "name": "Vibha Gupta",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2023": 3.72,
+            "Mar 2023": 3.72,
+            "Dec 2022": 3.72,
+            "Sep 2022": 3.72,
+            "Jun 2022": 3.72,
+            "Mar 2022": 3.72,
+            "Dec 2021": 3.72,
+            "Sep 2021": 3.72,
+            "Jun 2021": 3.72,
+            "Mar 2021": 3.72,
+            "Dec 2020": 3.72,
+            "Sep 2020": 3.72,
+            "Jun 2020": 4.86,
+            "Mar 2020": 4.86,
+            "Dec 2019": 4.86,
+            "Sep 2019": 4.86,
+            "Jun 2019": 4.86,
+            "Mar 2019": 4.86,
+            "Dec 2018": 4.86,
+            "Sep 2018": 4.86,
+            "Jun 2018": 4.86,
+            "Mar 2018": 4.86,
+            "Dec 2017": 4.86,
+            "Sep 2017": 2.89,
+            "Jun 2017": 2.89,
+            "Mar 2017": 2.89,
+            "Dec 2016": 2.89,
+            "Sep 2016": 2.89
+          }
+        ]
+      }
+    ],
+    "id": 7764
+  },
+  {
+    "name": "Vijay Laxmi Gupta",
+    "shareHoldings": [
+      {
+        "companyName": "Amco India",
+        "result": [
+          {
+            "Jun 2023": 9.72,
+            "Mar 2023": 9.72,
+            "Dec 2022": 9.72,
+            "Sep 2022": 9.72,
+            "Jun 2022": 9.72,
+            "Mar 2022": 9.72,
+            "Dec 2021": 9.72,
+            "Sep 2021": 9.72,
+            "Jun 2021": 9.72,
+            "Mar 2021": 9.72,
+            "Dec 2020": 9.72,
+            "Sep 2020": 9.72,
+            "Jun 2020": 9.72,
+            "Mar 2020": 9.72,
+            "Dec 2019": 9.72,
+            "Sep 2019": 9.72,
+            "Jun 2019": 9.72,
+            "Mar 2019": 9.72,
+            "Dec 2018": 9.72,
+            "Sep 2018": 9.72,
+            "Jun 2018": 9.72,
+            "Mar 2018": 9.72,
+            "Dec 2017": 9.72,
+            "Sep 2017": 9.72,
+            "Jun 2017": 9.72,
+            "Mar 2017": 9.72,
+            "Dec 2016": 9.72,
+            "Sep 2016": 9.72,
+            "Jun 2016": 9.72
+          }
+        ]
+      },
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Sep 2022": 1.8,
+            "Jun 2022": 1.83,
+            "Mar 2022": 1.83,
+            "Dec 2021": 1.83,
+            "Sep 2021": 1.83,
+            "Jun 2021": 1.83,
+            "Mar 2021": 1.83,
+            "Dec 2020": 1.83,
+            "Sep 2020": 1.83,
+            "Jun 2020": 2.39,
+            "Mar 2020": 2.39,
+            "Dec 2019": 2.39,
+            "Sep 2019": 2.39,
+            "Jun 2019": 2.39,
+            "Mar 2019": 2.39,
+            "Dec 2018": 2.39,
+            "Sep 2018": 2.39,
+            "Jun 2018": 2.39,
+            "Mar 2018": 2.39,
+            "Dec 2017": 2.39,
+            "Sep 2017": 2.39,
+            "Jun 2017": 2.39,
+            "Mar 2017": 2.39,
+            "Dec 2016": 2.39,
+            "Sep 2016": 2.39
+          }
+        ]
+      }
+    ],
+    "id": 7765
+  },
+  {
+    "name": "Rinku Khandelwal",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2022": 1.42,
+            "Mar 2022": 1.44,
+            "Dec 2021": 1.63,
+            "Sep 2021": 1.63,
+            "Jun 2021": 1.63,
+            "Mar 2021": 1.63,
+            "Dec 2020": 1.63,
+            "Sep 2020": 1.63,
+            "Jun 2020": 2.13,
+            "Mar 2020": 2.13,
+            "Dec 2019": 2.13,
+            "Sep 2019": 2.13,
+            "Jun 2019": 2.13,
+            "Mar 2019": 2.13,
+            "Dec 2018": 2.13,
+            "Sep 2018": 2.13,
+            "Jun 2018": 2.13,
+            "Mar 2018": 2.13,
+            "Dec 2017": 2.13,
+            "Sep 2017": 2.13,
+            "Jun 2017": 2.13,
+            "Mar 2017": 2.13,
+            "Dec 2016": 2.13,
+            "Sep 2016": 2.13
+          }
+        ]
+      }
+    ],
+    "id": 7766
+  },
+  {
+    "name": "Vibha Khandelwal",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Sep 2017": 1.97,
+            "Jun 2017": 1.97,
+            "Mar 2017": 1.97,
+            "Dec 2016": 1.97,
+            "Sep 2016": 1.97
+          }
+        ]
+      }
+    ],
+    "id": 7767
+  },
+  {
+    "name": "Kaushalya Devi Ghiya",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2019": 1.72,
+            "Mar 2019": 1.72,
+            "Dec 2018": 1.72,
+            "Sep 2018": 1.72,
+            "Jun 2018": 1.72,
+            "Mar 2018": 1.72,
+            "Dec 2017": 1.72,
+            "Sep 2017": 1.72,
+            "Jun 2017": 1.72,
+            "Mar 2017": 1.72,
+            "Dec 2016": 1.72,
+            "Sep 2016": 1.72
+          }
+        ]
+      }
+    ],
+    "id": 7768
+  },
+  {
+    "name": "Rishi Tambi",
+    "bulkDealsData": [
+      {
+        "date": "Cont. Securities\n26 Mar, 2019",
+        "orderType": "Sell",
+        "quantity": "52,000",
+        "price": "6.50"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Dec 2018": 1.63,
+            "Sep 2018": 1.63,
+            "Jun 2018": 1.63,
+            "Mar 2018": 1.63,
+            "Dec 2017": 1.63,
+            "Sep 2017": 1.63,
+            "Jun 2017": 1.63,
+            "Mar 2017": 1.63,
+            "Dec 2016": 1.63,
+            "Sep 2016": 1.63
+          }
+        ]
+      }
+    ],
+    "id": 7769
+  },
+  {
+    "name": "Naval Bihari Khandelwal",
+    "bulkDealsData": [
+      {
+        "date": "Cont. Securities\n26 Mar, 2019",
+        "orderType": "Sell",
+        "quantity": "36,000",
+        "price": "6.50"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Sep 2020": 1.22,
+            "Jun 2020": 1.6,
+            "Mar 2020": 1.6,
+            "Dec 2019": 1.6,
+            "Sep 2019": 1.6,
+            "Dec 2018": 1.54,
+            "Sep 2018": 1.54,
+            "Jun 2018": 1.54,
+            "Mar 2018": 1.54,
+            "Dec 2017": 1.54,
+            "Sep 2017": 1.54,
+            "Jun 2017": 1.54,
+            "Mar 2017": 1.54,
+            "Dec 2016": 1.54,
+            "Sep 2016": 1.54
+          }
+        ]
+      }
+    ],
+    "id": 7770
+  },
+  {
+    "name": "Sylvester Noronha",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Mar 2019": 1.08,
+            "Dec 2018": 1.54,
+            "Sep 2018": 1.54,
+            "Jun 2018": 1.54,
+            "Mar 2018": 1.54,
+            "Dec 2017": 1.54,
+            "Sep 2017": 1.54,
+            "Jun 2017": 1.54
+          }
+        ]
+      }
+    ],
+    "id": 7771
+  },
+  {
+    "name": "Hemlata Khuteta",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2023": 4.86,
+            "Mar 2023": 4.86,
+            "Dec 2022": 4.86,
+            "Sep 2022": 4.86,
+            "Jun 2022": 4.86,
+            "Mar 2022": 4.86,
+            "Dec 2021": 4.86,
+            "Sep 2021": 4.86,
+            "Jun 2021": 4.59,
+            "Mar 2021": 4.59,
+            "Dec 2020": 4.59,
+            "Sep 2020": 4.59,
+            "Jun 2020": 5.7,
+            "Mar 2020": 5.7,
+            "Dec 2019": 5.7,
+            "Sep 2019": 5.6,
+            "Jun 2019": 4.69,
+            "Mar 2019": 4.69,
+            "Dec 2018": 4.69,
+            "Sep 2018": 4.69
+          }
+        ]
+      }
+    ],
+    "id": 7772
+  },
+  {
+    "name": "Mahima Khuteta",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2023": 4.35,
+            "Mar 2023": 4.35,
+            "Dec 2022": 4.35,
+            "Sep 2022": 4.35,
+            "Jun 2022": 4.35,
+            "Mar 2022": 4.35,
+            "Dec 2021": 4.29,
+            "Sep 2021": 4.12,
+            "Jun 2021": 3.45,
+            "Mar 2021": 3.45,
+            "Dec 2020": 3.15,
+            "Sep 2020": 2.76,
+            "Jun 2020": 3.52,
+            "Mar 2020": 3.52,
+            "Dec 2019": 3.52,
+            "Sep 2019": 3.52,
+            "Jun 2019": 3.52,
+            "Mar 2019": 3.52,
+            "Dec 2018": 3.52,
+            "Sep 2018": 2.75
+          }
+        ]
+      }
+    ],
+    "id": 7773
+  },
+  {
+    "name": "Radhika Khandelwal",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Petroleums",
+        "result": [
+          {
+            "Jun 2023": 5.67,
+            "Mar 2023": 5.67,
+            "Dec 2022": 5.67,
+            "Sep 2022": 5.67,
+            "Jun 2022": 5.67,
+            "Mar 2022": 5.67,
+            "Dec 2021": 5.67,
+            "Sep 2021": 5.67,
+            "Jun 2021": 5.67,
+            "Mar 2021": 5.67,
+            "Dec 2020": 5.67,
+            "Sep 2020": 5.67,
+            "Jun 2020": 5.67,
+            "Mar 2020": 5.67,
+            "Dec 2019": 5.67,
+            "Sep 2019": 5.67,
+            "Jun 2019": 5.67,
+            "Mar 2019": 5.67,
+            "Dec 2018": 5.67,
+            "Sep 2018": 5.67,
+            "Jun 2018": 5.67,
+            "Mar 2018": 5.67,
+            "Dec 2017": 5.67,
+            "Sep 2017": 5.67,
+            "Jun 2017": 5.67,
+            "Mar 2017": 3.86,
+            "Dec 2016": 3.86,
+            "Sep 2016": 3.86,
+            "Jun 2016": 3.86
+          }
+        ]
+      },
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2023": 0.28,
+            "Mar 2023": 0.28,
+            "Dec 2022": 0.28,
+            "Sep 2022": 0.28,
+            "Jun 2022": 0.28,
+            "Mar 2022": 0.28,
+            "Dec 2021": 0.28,
+            "Sep 2021": 0.28,
+            "Jun 2021": 0.28,
+            "Mar 2021": 0.28,
+            "Dec 2020": 0.28,
+            "Sep 2020": 0.28,
+            "Jun 2020": 0.37,
+            "Mar 2020": 0.37,
+            "Dec 2019": 0.37,
+            "Sep 2019": 0.37,
+            "Jun 2019": 0.37,
+            "Mar 2019": 0.37,
+            "Dec 2018": 0.37,
+            "Sep 2018": 0.37
+          }
+        ]
+      }
+    ],
+    "id": 7774
+  },
+  {
+    "name": "Lokesh Sharma",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2021": 1.23,
+            "Mar 2021": 1.23,
+            "Dec 2020": 1.51,
+            "Sep 2020": 1.51,
+            "Jun 2020": 1.97,
+            "Mar 2020": 1.97,
+            "Dec 2019": 1.97,
+            "Sep 2019": 2.5,
+            "Jun 2019": 3.86,
+            "Mar 2019": 3.7,
+            "Dec 2018": 3.7
+          }
+        ]
+      }
+    ],
+    "id": 7775
+  },
+  {
+    "name": "Amit Khutenta",
+    "bulkDealsData": [
+      {
+        "date": "Cont. Securities\n31 Oct, 2022",
+        "orderType": "Sell",
+        "quantity": "25,000",
+        "price": "42.2"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Sep 2022": 2.78,
+            "Jun 2022": 2.78,
+            "Mar 2022": 2.78,
+            "Dec 2021": 2.78,
+            "Sep 2021": 2.78,
+            "Jun 2021": 2.78,
+            "Mar 2021": 2.78,
+            "Dec 2020": 2.78,
+            "Sep 2020": 2.78,
+            "Jun 2020": 3.64,
+            "Mar 2020": 3.64,
+            "Dec 2019": 3.64,
+            "Sep 2019": 3.64,
+            "Jun 2019": 3.64,
+            "Mar 2019": 3.47,
+            "Dec 2018": 3.47
+          }
+        ]
+      }
+    ],
+    "id": 7776
+  },
+  {
+    "name": "Murari Lal Vyas",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2022": 1.47,
+            "Mar 2022": 1.51,
+            "Dec 2021": 1.63,
+            "Sep 2021": 2.02,
+            "Jun 2021": 2.67,
+            "Mar 2021": 2.67,
+            "Dec 2020": 2.68,
+            "Sep 2020": 2.95,
+            "Jun 2020": 3.86,
+            "Mar 2020": 3.86,
+            "Dec 2019": 3.86,
+            "Sep 2019": 4.14,
+            "Jun 2019": 4.62,
+            "Mar 2019": 4.03,
+            "Dec 2018": 2.5
+          }
+        ]
+      }
+    ],
+    "id": 7777
+  },
+  {
+    "name": "Devika Khuteta",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2022": 1.66,
+            "Mar 2022": 1.66,
+            "Dec 2021": 1.66,
+            "Sep 2021": 1.66,
+            "Jun 2021": 1.66,
+            "Mar 2021": 1.66,
+            "Dec 2020": 1.66,
+            "Sep 2020": 1.66,
+            "Jun 2020": 2.17,
+            "Mar 2020": 2.17,
+            "Dec 2019": 2.17,
+            "Sep 2019": 2.17,
+            "Jun 2019": 2.17,
+            "Mar 2019": 2.08,
+            "Dec 2018": 2.08
+          }
+        ]
+      }
+    ],
+    "id": 7778
+  },
+  {
+    "name": "Sunil Kumar Mishra",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Dec 2020": 1.06,
+            "Sep 2020": 1.06,
+            "Jun 2020": 1.39,
+            "Mar 2020": 1.39,
+            "Dec 2019": 1.39,
+            "Sep 2019": 1.9,
+            "Jun 2019": 3.46,
+            "Mar 2019": 3.28,
+            "Dec 2018": 1.68
+          }
+        ]
+      }
+    ],
+    "id": 7779
+  },
+  {
+    "name": "Ram Prasad Dusad",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Mar 2020": 1.62,
+            "Dec 2019": 1.62,
+            "Sep 2019": 1.62,
+            "Jun 2019": 1.62,
+            "Mar 2019": 1.62,
+            "Dec 2018": 1.62
+          }
+        ]
+      }
+    ],
+    "id": 7780
+  },
+  {
+    "name": "Gopal Dass Khandelwal",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2023": 1.17,
+            "Mar 2023": 1.17,
+            "Dec 2022": 1.17,
+            "Sep 2022": 1.17,
+            "Jun 2022": 1.17,
+            "Mar 2022": 1.17,
+            "Dec 2021": 1.17,
+            "Sep 2021": 1.17,
+            "Jun 2021": 1.17,
+            "Mar 2021": 1.17,
+            "Dec 2020": 1.17,
+            "Sep 2020": 1.17,
+            "Jun 2020": 1.53,
+            "Mar 2020": 1.53,
+            "Dec 2019": 1.53,
+            "Sep 2019": 1.53,
+            "Jun 2019": 1.53,
+            "Mar 2019": 1.53,
+            "Dec 2018": 1.07
+          }
+        ]
+      }
+    ],
+    "id": 7781
+  },
+  {
+    "name": "Sneh Lohiya",
+    "bulkDealsData": [
+      {
+        "date": "Cont. Securities\n19 Nov, 2019",
+        "orderType": "Sell",
+        "quantity": "18,101",
+        "price": "5.86"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2020": 2.17,
+            "Mar 2020": 2.17,
+            "Dec 2019": 2.17,
+            "Sep 2019": 3.4,
+            "Jun 2019": 3.4,
+            "Mar 2019": 1.54
+          }
+        ]
+      }
+    ],
+    "id": 7782
+  },
+  {
+    "name": "Rajesh Khuteta Huf Khuteta",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2022": 2.91,
+            "Mar 2022": 2.89,
+            "Sep 2021": 2.76,
+            "Jun 2021": 2.76,
+            "Mar 2021": 2.76,
+            "Dec 2020": 2.76,
+            "Sep 2020": 2.72,
+            "Jun 2020": 2.62,
+            "Mar 2020": 2.62,
+            "Dec 2019": 2.62,
+            "Sep 2019": 2.56,
+            "Jun 2019": 1.54,
+            "Mar 2019": 1.54
+          }
+        ]
+      }
+    ],
+    "id": 7783
+  },
+  {
+    "name": "Sarla Lohiya",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2020": 2.47,
+            "Mar 2020": 2.47,
+            "Dec 2019": 2.47,
+            "Sep 2019": 2.47,
+            "Jun 2019": 3.11,
+            "Mar 2019": 1.38
+          }
+        ]
+      }
+    ],
+    "id": 7784
+  },
+  {
+    "name": "Pushpa Sharma",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2020": 1.18,
+            "Mar 2020": 1.18,
+            "Dec 2019": 1.18,
+            "Sep 2019": 1.18,
+            "Jun 2019": 1.18,
+            "Mar 2019": 1.18
+          }
+        ]
+      },
+      {
+        "companyName": "ITL Industries",
+        "result": [
+          {
+            "Jun 2021": 1.87,
+            "Mar 2021": 1.87,
+            "Dec 2020": 1.87,
+            "Sep 2020": 1.87,
+            "Jun 2020": 1.87,
+            "Mar 2020": 1.87,
+            "Dec 2019": 1.87,
+            "Sep 2019": 1.87,
+            "Jun 2019": 1.87,
+            "Mar 2019": 1.87,
+            "Dec 2018": 1.87,
+            "Sep 2018": 1.87,
+            "Jun 2018": 1.87,
+            "Mar 2018": 1.87,
+            "Dec 2017": 1.87,
+            "Sep 2017": 1.87,
+            "Jun 2017": 1.82,
+            "Mar 2017": 1.82,
+            "Dec 2016": 1.82,
+            "Sep 2016": 1.82,
+            "Jun 2016": 1.82
+          }
+        ]
+      },
+      {
+        "companyName": "Nimbus Foods",
+        "result": [
+          {
+            "Dec 2018": 0.03,
+            "Sep 2018": 0.03,
+            "Jun 2018": 0.03,
+            "Mar 2018": 0.03,
+            "Dec 2017": 0.03,
+            "Sep 2017": 0.03,
+            "Jun 2017": 0.03,
+            "Mar 2017": 0.03,
+            "Dec 2016": 0.03,
+            "Sep 2016": 0.03,
+            "Jun 2016": 0.03
+          }
+        ]
+      }
+    ],
+    "id": 7785
+  },
+  {
+    "name": "Shyam Lal Khuteta Huf Khuteta",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2022": 4.31,
+            "Mar 2022": 4.03,
+            "Sep 2021": 3.58,
+            "Jun 2021": 3.47,
+            "Mar 2021": 3.47,
+            "Dec 2020": 3.14,
+            "Sep 2020": 2.72,
+            "Jun 2020": 2.34,
+            "Mar 2020": 2.34,
+            "Dec 2019": 2.34,
+            "Sep 2019": 2.25,
+            "Jun 2019": 1.17,
+            "Mar 2019": 1.17
+          }
+        ]
+      }
+    ],
+    "id": 7786
+  },
+  {
+    "name": "Rajendra Prasad Gupta",
+    "bulkDealsData": [
+      {
+        "date": "Bloom Industries\n23 May, 2017",
+        "orderType": "Buy",
+        "quantity": "1,50,000",
+        "price": "4.02"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Bloom Industries",
+        "result": [
+          {
+            "Jun 2023": 20.68,
+            "Mar 2023": 20.68,
+            "Dec 2022": 20.68,
+            "Sep 2022": 20.68,
+            "Jun 2022": 20.68,
+            "Mar 2022": 20.68,
+            "Dec 2021": 20.68,
+            "Sep 2021": 29.18,
+            "Jun 2021": 29.18,
+            "Mar 2021": 29.18,
+            "Dec 2020": 29.18,
+            "Sep 2020": 29.18,
+            "Jun 2020": 29.18,
+            "Mar 2020": 29.18,
+            "Dec 2019": 29.18,
+            "Sep 2019": 29.18,
+            "Jun 2019": 29.18,
+            "Mar 2019": 29.18,
+            "Dec 2018": 29.18,
+            "Sep 2018": 29.18,
+            "Jun 2018": 29.18,
+            "Mar 2018": 29.18,
+            "Dec 2017": 29.18,
+            "Sep 2017": 3.19
+          }
+        ]
+      },
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2023": 1.08,
+            "Mar 2023": 1.08,
+            "Dec 2022": 1.08,
+            "Sep 2022": 1.08,
+            "Jun 2022": 1.08,
+            "Mar 2022": 1.08,
+            "Dec 2021": 1.08,
+            "Sep 2021": 1.08,
+            "Jun 2021": 1.08,
+            "Mar 2021": 1.08,
+            "Dec 2020": 1.08,
+            "Sep 2020": 1.08,
+            "Jun 2020": 1.41,
+            "Mar 2020": 1.41,
+            "Dec 2019": 1.41
+          }
+        ]
+      },
+      {
+        "companyName": "Siddhartha Tubes",
+        "result": [
+          {
+            "Dec 2017": 1.56,
+            "Jun 2017": 1.56,
+            "Mar 2017": 1.56,
+            "Dec 2016": 1.56,
+            "Sep 2016": 1.56,
+            "Jun 2016": 1.56
+          }
+        ]
+      }
+    ],
+    "id": 7787
+  },
+  {
+    "name": "Vishnu R Dusad",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2023": 1.2,
+            "Mar 2023": 1.2,
+            "Dec 2022": 1.2,
+            "Sep 2022": 1.2,
+            "Jun 2022": 1.2,
+            "Mar 2022": 1.2,
+            "Dec 2021": 1.24,
+            "Sep 2021": 1.24,
+            "Jun 2021": 1.24,
+            "Mar 2021": 1.24,
+            "Dec 2020": 1.24,
+            "Sep 2020": 1.24,
+            "Jun 2020": 1.62
+          }
+        ]
+      },
+      {
+        "companyName": "Nucleus Soft.",
+        "result": [
+          {
+            "Jun 2023": 5.99,
+            "Mar 2023": 5.99,
+            "Dec 2022": 5.99,
+            "Sep 2022": 5.99,
+            "Jun 2022": 5.99,
+            "Mar 2022": 5.99,
+            "Dec 2021": 5.52,
+            "Sep 2021": 5.52,
+            "Jun 2021": 5.52,
+            "Mar 2021": 5.52,
+            "Dec 2020": 5.52,
+            "Sep 2020": 5.52,
+            "Jun 2020": 5.52,
+            "Mar 2020": 5.52,
+            "Dec 2019": 5.52,
+            "Sep 2019": 5.52,
+            "Jun 2019": 5.52,
+            "Mar 2019": 5.52,
+            "Dec 2018": 5.52,
+            "Sep 2018": 5.52,
+            "Jun 2018": 5.52,
+            "Mar 2018": 5.52,
+            "Dec 2017": 5.52,
+            "Sep 2017": 5.52,
+            "Jun 2017": 4.95,
+            "Mar 2017": 4.95,
+            "Dec 2016": 4.95,
+            "Sep 2016": 4.95,
+            "Jun 2016": 4.95
+          }
+        ]
+      }
+    ],
+    "id": 7788
+  },
+  {
+    "name": "Aahwaanith Tradecom Llp",
+    "bulkDealsData": [
+      {
+        "date": "Cont. Securities\n12 Sep, 2022",
+        "orderType": "Sell",
+        "quantity": "23,185",
+        "price": "46.0"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Sep 2022": 2.34,
+            "Jun 2022": 8.23,
+            "Mar 2022": 8.23,
+            "Dec 2021": 8.23,
+            "Sep 2021": 8.23,
+            "Jun 2021": 8.23,
+            "Mar 2021": 8.23,
+            "Dec 2020": 8.23,
+            "Sep 2020": 8.23
+          }
+        ]
+      }
+    ],
+    "id": 7789
+  },
+  {
+    "name": "Taarush Tradecom Llp",
+    "bulkDealsData": [
+      {
+        "date": "Cont. Securities\n29 Sep, 2022",
+        "orderType": "Sell",
+        "quantity": "31,000",
+        "price": "46.0"
+      },
+      {
+        "date": "Cont. Securities\n28 Sep, 2022",
+        "orderType": "Sell",
+        "quantity": "23,960",
+        "price": "46.0"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Sep 2022": 3.31,
+            "Jun 2022": 7.06,
+            "Mar 2022": 8.23,
+            "Dec 2021": 8.23,
+            "Sep 2021": 8.23,
+            "Jun 2021": 8.23,
+            "Mar 2021": 8.23,
+            "Dec 2020": 8.23,
+            "Sep 2020": 8.23
+          }
+        ]
+      }
+    ],
+    "id": 7790
+  },
+  {
+    "name": "Raahityaa Enterprises Llp",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2022": 7.06,
+            "Mar 2022": 7.06,
+            "Dec 2021": 7.06,
+            "Sep 2021": 7.06,
+            "Jun 2021": 7.06,
+            "Mar 2021": 7.06,
+            "Dec 2020": 7.06,
+            "Sep 2020": 7.06
+          }
+        ]
+      }
+    ],
+    "id": 7791
+  },
+  {
+    "name": "Vachi Commercial Llp",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2023": 1.18,
+            "Mar 2023": 1.18,
+            "Dec 2022": 1.18,
+            "Sep 2022": 1.18,
+            "Jun 2022": 1.18,
+            "Mar 2022": 1.18,
+            "Dec 2021": 1.18,
+            "Sep 2021": 1.18,
+            "Jun 2021": 1.18,
+            "Mar 2021": 1.18,
+            "Dec 2020": 1.18,
+            "Sep 2020": 1.18
+          }
+        ]
+      }
+    ],
+    "id": 7792
+  },
+  {
+    "name": "Shyam Lal Khuteta Huf",
+    "bulkDealsData": [
+      {
+        "date": "Cont. Securities\n26 Mar, 2019",
+        "orderType": "Buy",
+        "quantity": "38,100",
+        "price": "6.50"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2023": 4.31,
+            "Mar 2023": 4.31,
+            "Dec 2022": 4.31,
+            "Sep 2022": 4.31,
+            "Dec 2021": 3.89
+          }
+        ]
+      }
+    ],
+    "id": 7793
+  },
+  {
+    "name": "Rajesh Khuteta Huf",
+    "bulkDealsData": [
+      {
+        "date": "Cont. Securities\n26 Mar, 2019",
+        "orderType": "Buy",
+        "quantity": "50,000",
+        "price": "6.50"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Securities",
+        "result": [
+          {
+            "Jun 2023": 2.91,
+            "Mar 2023": 2.91,
+            "Dec 2022": 2.91,
+            "Sep 2022": 2.91,
+            "Dec 2021": 2.76
+          }
+        ]
+      }
+    ],
+    "id": 7794
+  },
+  {
+    "name": "Zircon Finance & Leasing Private Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Gufic BioScience",
+        "result": [
+          {
+            "Mar 2020": 26.37,
+            "Sep 2018": 26.37,
+            "Mar 2018": 26.53,
+            "Dec 2017": 26.53,
+            "Sep 2017": 26.53,
+            "Jun 2017": 26.53,
+            "Mar 2017": 26.53,
+            "Dec 2016": 26.53,
+            "Sep 2016": 26.53,
+            "Jun 2016": 26.53
+          }
+        ]
+      }
+    ],
+    "id": 7795
+  },
+  {
+    "name": "Mr. Jayesh Pannalal Choksi",
+    "shareHoldings": [
+      {
+        "companyName": "Gufic BioScience",
+        "result": [
+          {
+            "Jun 2023": 25.47,
+            "Mar 2023": 25.47,
+            "Dec 2022": 25.47,
+            "Sep 2022": 25.47,
+            "Jun 2022": 25.47,
+            "Mar 2022": 25.95,
+            "Dec 2021": 25.95,
+            "Sep 2021": 25.95,
+            "Jun 2021": 25.95,
+            "Mar 2021": 23.14,
+            "Dec 2020": 23.14,
+            "Sep 2020": 23.14,
+            "Jun 2020": 23.14,
+            "Mar 2020": 23.14,
+            "Dec 2019": 23.14,
+            "Sep 2019": 23.14,
+            "Jun 2019": 23.14,
+            "Mar 2019": 23.14,
+            "Dec 2018": 23.14,
+            "Sep 2018": 23.14,
+            "Jun 2018": 23.28,
+            "Mar 2018": 23.28,
+            "Dec 2017": 23.28,
+            "Sep 2017": 23.28,
+            "Jun 2017": 23.28,
+            "Mar 2017": 23.28,
+            "Dec 2016": 23.28,
+            "Sep 2016": 23.28,
+            "Jun 2016": 23.28
+          }
+        ]
+      }
+    ],
+    "id": 7796
+  },
+  {
+    "name": "Sambhav Properties Pvt Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "Gufic BioScience",
+        "result": [
+          {
+            "Mar 2017": 10.01,
+            "Dec 2016": 10.01,
+            "Sep 2016": 10.01,
+            "Jun 2016": 10.01
+          }
+        ]
+      }
+    ],
+    "id": 7797
+  },
+  {
+    "name": "Mr. Pranav Jayesh Choksi",
+    "shareHoldings": [
+      {
+        "companyName": "Gufic BioScience",
+        "result": [
+          {
+            "Jun 2023": 7.5,
+            "Mar 2023": 7.5,
+            "Dec 2022": 7.5,
+            "Sep 2022": 7.5,
+            "Jun 2022": 7.5,
+            "Mar 2022": 7.5,
+            "Dec 2021": 7.5,
+            "Sep 2021": 7.5,
+            "Jun 2021": 7.5,
+            "Mar 2021": 9.34,
+            "Dec 2020": 9.34,
+            "Sep 2020": 9.34,
+            "Jun 2020": 9.34,
+            "Mar 2020": 9.34,
+            "Dec 2019": 9.34,
+            "Sep 2019": 9.34,
+            "Jun 2019": 9.34,
+            "Mar 2019": 9.34,
+            "Dec 2018": 9.34,
+            "Sep 2018": 9.34,
+            "Jun 2018": 9.02,
+            "Mar 2018": 9.02,
+            "Dec 2017": 9.02,
+            "Sep 2017": 9.02,
+            "Jun 2017": 9.02,
+            "Mar 2017": 9.02,
+            "Dec 2016": 9.02,
+            "Sep 2016": 9.02,
+            "Jun 2016": 9.02
+          }
+        ]
+      }
+    ],
+    "id": 7798
+  },
+  {
+    "name": "Gufic Private Limited",
+    "bulkDealsData": [
+      {
+        "date": "Gufic BioScience\n20 Jul, 2005",
+        "orderType": "SELL",
+        "quantity": "4,00,000",
+        "price": "26.6"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Gufic BioScience",
+        "result": [
+          {
+            "Jun 2023": 10.51,
+            "Mar 2023": 10.51,
+            "Dec 2022": 10.51,
+            "Sep 2022": 10.51,
+            "Jun 2022": 10.51,
+            "Mar 2022": 10.51,
+            "Dec 2021": 10.51,
+            "Sep 2021": 10.51,
+            "Jun 2021": 10.51,
+            "Mar 2021": 6.9,
+            "Dec 2020": 6.9,
+            "Sep 2020": 6.9,
+            "Jun 2020": 6.9,
+            "Mar 2020": 6.9,
+            "Dec 2019": 6.9,
+            "Sep 2019": 6.9,
+            "Jun 2019": 6.9,
+            "Mar 2019": 6.9,
+            "Dec 2018": 6.9,
+            "Sep 2018": 6.9,
+            "Jun 2018": 6.89,
+            "Mar 2018": 6.89,
+            "Dec 2017": 6.89,
+            "Sep 2017": 6.89,
+            "Jun 2017": 6.89,
+            "Mar 2017": 6.89,
+            "Dec 2016": 6.89,
+            "Sep 2016": 6.89,
+            "Jun 2016": 6.89
+          }
+        ]
+      }
+    ],
+    "id": 7799
+  },
+  {
+    "name": "Mrs. Vipula Jayesh Choksi",
+    "shareHoldings": [
+      {
+        "companyName": "Gufic BioScience",
+        "result": [
+          {
+            "Jun 2023": 10.35,
+            "Mar 2023": 10.35,
+            "Dec 2022": 10.35,
+            "Sep 2022": 10.35,
+            "Jun 2022": 10.35,
+            "Mar 2022": 10.35,
+            "Dec 2021": 10.35,
+            "Sep 2021": 10.35,
+            "Jun 2021": 10.35,
+            "Mar 2021": 3.71,
+            "Dec 2020": 3.71,
+            "Sep 2020": 3.71,
+            "Jun 2020": 3.71,
+            "Mar 2020": 3.71,
+            "Dec 2019": 3.71,
+            "Sep 2019": 3.71,
+            "Jun 2019": 3.71,
+            "Mar 2019": 3.71,
+            "Dec 2018": 3.71,
+            "Sep 2018": 3.71,
+            "Jun 2018": 3.73,
+            "Mar 2018": 3.73,
+            "Dec 2017": 3.73,
+            "Sep 2017": 3.73,
+            "Jun 2017": 3.73,
+            "Mar 2017": 3.73,
+            "Dec 2016": 3.73,
+            "Sep 2016": 3.73,
+            "Jun 2016": 3.73
+          }
+        ]
+      }
+    ],
+    "id": 7800
+  }
+]

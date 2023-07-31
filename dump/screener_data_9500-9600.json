@@ -1,0 +1,2809 @@
+[
+  {
+    "name": "Madhukar B Dattani",
+    "shareHoldings": [
+      {
+        "companyName": "Oriental Indust.",
+        "result": [
+          {
+            "Mar 2016": 7
+          }
+        ]
+      }
+    ],
+    "id": 9501
+  },
+  {
+    "name": "Bharatkumar M Dattani",
+    "shareHoldings": [
+      {
+        "companyName": "Oriental Indust.",
+        "result": [
+          {
+            "Mar 2016": 3.5
+          }
+        ]
+      }
+    ],
+    "id": 9502
+  },
+  {
+    "name": "Shiv Kumar Bissa",
+    "shareHoldings": [
+      {
+        "companyName": "Oriental Indust.",
+        "result": [
+          {
+            "Mar 2016": 2.39
+          }
+        ]
+      }
+    ],
+    "id": 9503
+  },
+  {
+    "name": "Kc Vyas",
+    "shareHoldings": [
+      {
+        "companyName": "Oriental Indust.",
+        "result": [
+          {
+            "Jun 2016": 1.09,
+            "Mar 2016": 1.09
+          }
+        ]
+      }
+    ],
+    "id": 9504
+  },
+  {
+    "name": "Anurodh Investment Private Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Oriental Indust.",
+        "result": [
+          {
+            "Jun 2016": 0.97,
+            "Mar 2016": 0.97
+          }
+        ]
+      }
+    ],
+    "id": 9505
+  },
+  {
+    "name": "Shanta Kalla",
+    "shareHoldings": [
+      {
+        "companyName": "Oriental Indust.",
+        "result": [
+          {
+            "Jun 2016": 0.77,
+            "Mar 2016": 0.77
+          }
+        ]
+      }
+    ],
+    "id": 9506
+  },
+  {
+    "name": "Jn Kalla",
+    "shareHoldings": [
+      {
+        "companyName": "Oriental Indust.",
+        "result": [
+          {
+            "Jun 2016": 0.66,
+            "Mar 2016": 0.66
+          }
+        ]
+      }
+    ],
+    "id": 9507
+  },
+  {
+    "name": "Sc Vyas",
+    "shareHoldings": [
+      {
+        "companyName": "Oriental Indust.",
+        "result": [
+          {
+            "Jun 2016": 0.66,
+            "Mar 2016": 0.66
+          }
+        ]
+      }
+    ],
+    "id": 9508
+  },
+  {
+    "name": "Shyam Pyari",
+    "shareHoldings": [
+      {
+        "companyName": "Oriental Indust.",
+        "result": [
+          {
+            "Jun 2016": 0.22,
+            "Mar 2016": 0.22
+          }
+        ]
+      }
+    ],
+    "id": 9509
+  },
+  {
+    "name": "Pushpa",
+    "shareHoldings": [
+      {
+        "companyName": "Oriental Indust.",
+        "result": [
+          {
+            "Mar 2016": 0.11
+          }
+        ]
+      }
+    ],
+    "id": 9510
+  },
+  {
+    "name": "Kamla Vyas",
+    "shareHoldings": [
+      {
+        "companyName": "Oriental Indust.",
+        "result": [
+          {
+            "Jun 2016": 0.07,
+            "Mar 2016": 0.07
+          }
+        ]
+      },
+      {
+        "companyName": "United Textiles",
+        "result": [
+          {
+            "Jun 2018": 0.18,
+            "Mar 2018": 0.18,
+            "Dec 2017": 0.18,
+            "Sep 2017": 0.18,
+            "Jun 2017": 0.18,
+            "Mar 2017": 0.18,
+            "Dec 2016": 0.18,
+            "Sep 2016": 0.18,
+            "Jun 2016": 0.18,
+            "Mar 2016": 0.18
+          }
+        ]
+      }
+    ],
+    "id": 9511
+  },
+  {
+    "name": "Pushpa Vyas",
+    "bulkDealsData": [
+      {
+        "date": "Sita Enterprises\n18 Apr, 2017",
+        "orderType": "Sell",
+        "quantity": "17,655",
+        "price": "26.7"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Oriental Indust.",
+        "result": [
+          {
+            "Jun 2016": 0.11
+          }
+        ]
+      }
+    ],
+    "id": 9512
+  },
+  {
+    "name": "Pankaj Shah jointly with Mrs. Rupali Shah",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Dec 2018": 40.1,
+            "Sep 2018": 40.1,
+            "Jun 2018": 40.1,
+            "Mar 2018": 40.1,
+            "Dec 2017": 40.1,
+            "Sep 2017": 40.1,
+            "Jun 2017": 40.1,
+            "Mar 2017": 40.1,
+            "Dec 2016": 40.1,
+            "Sep 2016": 40.1,
+            "Jun 2016": 40.1
+          }
+        ]
+      }
+    ],
+    "id": 9513
+  },
+  {
+    "name": "Rajiv Shah jointly with Pankaj Shah",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Dec 2018": 20.2,
+            "Sep 2018": 20.2,
+            "Jun 2018": 20.2,
+            "Mar 2018": 20.2,
+            "Dec 2017": 20.2,
+            "Sep 2017": 20.2,
+            "Jun 2017": 20.2,
+            "Mar 2017": 20.2,
+            "Dec 2016": 20.2,
+            "Sep 2016": 20.2,
+            "Jun 2016": 20.2
+          }
+        ]
+      }
+    ],
+    "id": 9514
+  },
+  {
+    "name": "Kishor M Shah jointly with Pankaj K shah",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Sep 2017": 9.8,
+            "Jun 2017": 9.8,
+            "Mar 2017": 9.8,
+            "Dec 2016": 9.8,
+            "Sep 2016": 9.8,
+            "Jun 2016": 9.8
+          }
+        ]
+      }
+    ],
+    "id": 9515
+  },
+  {
+    "name": "Nina Sardesai Jtly with Smt. Parvatibai Sardesai",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Sep 2018": 4.8,
+            "Jun 2018": 4.8,
+            "Mar 2018": 4.8,
+            "Dec 2017": 4.8,
+            "Sep 2017": 4.8,
+            "Jun 2017": 4.8,
+            "Mar 2017": 4.8,
+            "Dec 2016": 4.8,
+            "Sep 2016": 4.8,
+            "Jun 2016": 4.8
+          }
+        ]
+      }
+    ],
+    "id": 9516
+  },
+  {
+    "name": "Mr. Tushar Narendra Giri Jtly with Meena Narendra Giri",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Sep 2018": 4.8,
+            "Jun 2018": 4.8,
+            "Mar 2018": 4.8,
+            "Dec 2017": 4.8,
+            "Sep 2017": 4.8,
+            "Jun 2017": 4.8,
+            "Mar 2017": 4.8,
+            "Dec 2016": 4.8,
+            "Sep 2016": 4.8,
+            "Jun 2016": 4.8
+          }
+        ]
+      }
+    ],
+    "id": 9517
+  },
+  {
+    "name": "Mr. Narendra Beratha Jtly with Mrs. Maya Beratha",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Sep 2018": 4.8,
+            "Jun 2018": 4.8,
+            "Mar 2018": 4.8,
+            "Dec 2017": 4.8,
+            "Sep 2017": 4.8,
+            "Jun 2017": 4.8,
+            "Mar 2017": 4.8,
+            "Dec 2016": 4.8,
+            "Sep 2016": 4.8,
+            "Jun 2016": 4.8
+          }
+        ]
+      }
+    ],
+    "id": 9518
+  },
+  {
+    "name": "Mr Kirtikumar Gala Jtly with Mrs.Hemlataben Kirtikumar Gala",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Sep 2018": 3.8,
+            "Jun 2018": 3.8,
+            "Mar 2018": 3.8,
+            "Dec 2017": 3.8,
+            "Sep 2017": 3.8,
+            "Jun 2017": 3.8,
+            "Mar 2017": 3.8,
+            "Dec 2016": 3.8,
+            "Sep 2016": 3.8,
+            "Jun 2016": 3.8
+          }
+        ]
+      }
+    ],
+    "id": 9519
+  },
+  {
+    "name": "Mrs. Hemlata Kirti Kumar Gala Jtly with Kirti Kumar Gala",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Sep 2018": 2.4,
+            "Jun 2018": 2.4,
+            "Mar 2018": 2.4,
+            "Dec 2017": 2.4,
+            "Sep 2017": 2.4,
+            "Jun 2017": 2.4,
+            "Mar 2017": 2.4,
+            "Dec 2016": 2.4,
+            "Sep 2016": 2.4,
+            "Jun 2016": 2.4
+          }
+        ]
+      }
+    ],
+    "id": 9520
+  },
+  {
+    "name": "Mrs. Dollar Dhiraj Bheda Jtly with Bhavin Bheda",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Sep 2018": 1.9,
+            "Jun 2018": 1.9,
+            "Mar 2018": 1.9,
+            "Dec 2017": 1.9,
+            "Sep 2017": 1.9,
+            "Jun 2017": 1.9,
+            "Mar 2017": 1.9,
+            "Dec 2016": 1.9,
+            "Sep 2016": 1.9,
+            "Jun 2016": 1.9
+          }
+        ]
+      }
+    ],
+    "id": 9521
+  },
+  {
+    "name": "Mr.Tejas Giri Jtly with Meena Giri",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Sep 2018": 1.9,
+            "Jun 2018": 1.9,
+            "Mar 2018": 1.9,
+            "Dec 2017": 1.9,
+            "Sep 2017": 1.9,
+            "Jun 2017": 1.9,
+            "Mar 2017": 1.9,
+            "Dec 2016": 1.9,
+            "Sep 2016": 1.9,
+            "Jun 2016": 1.9
+          }
+        ]
+      }
+    ],
+    "id": 9522
+  },
+  {
+    "name": "Kishore Shah jointly Pankaj Shah",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Dec 2018": 9.8,
+            "Sep 2018": 9.8,
+            "Jun 2018": 9.8,
+            "Mar 2018": 9.8,
+            "Dec 2017": 9.8
+          }
+        ]
+      }
+    ],
+    "id": 9523
+  },
+  {
+    "name": "Nina J. Sardesai jointly with Nina J. Sardesai",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Mar 2020": 4.8,
+            "Dec 2019": 4.8,
+            "Sep 2019": 4.8,
+            "Jun 2019": 4.8,
+            "Dec 2018": 4.8
+          }
+        ]
+      }
+    ],
+    "id": 9524
+  },
+  {
+    "name": "Narendra Jageshwar Bertha Jointly with Maya Narendra Jageshwar Bertha",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Mar 2020": 4.8,
+            "Dec 2019": 4.8,
+            "Sep 2019": 4.8,
+            "Jun 2019": 4.8,
+            "Dec 2018": 4.8
+          }
+        ]
+      }
+    ],
+    "id": 9525
+  },
+  {
+    "name": "Deepak K. Shah jointly with Hetal Deepak Shah",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Sep 2019": 3,
+            "Jun 2019": 3,
+            "Dec 2018": 3
+          }
+        ]
+      }
+    ],
+    "id": 9526
+  },
+  {
+    "name": "Hemlataben Kiritkumar Gala Jointly with Kiritkumar Kunverji Gala",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Mar 2020": 2.4,
+            "Dec 2019": 2.4,
+            "Sep 2019": 2.4,
+            "Jun 2019": 2.4,
+            "Dec 2018": 2.4
+          }
+        ]
+      }
+    ],
+    "id": 9527
+  },
+  {
+    "name": "Jayantilal D. Shah Jointly with Rasikaben J. Shah",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Mar 2020": 2.2,
+            "Dec 2019": 2.2,
+            "Sep 2019": 2.2,
+            "Jun 2019": 2.2,
+            "Dec 2018": 2.2
+          }
+        ]
+      }
+    ],
+    "id": 9528
+  },
+  {
+    "name": "Shrikant Dhondiram Utekar jointly with Shraddha Shrikant Utekar",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Sep 2019": 2,
+            "Jun 2019": 2,
+            "Dec 2018": 2
+          }
+        ]
+      }
+    ],
+    "id": 9529
+  },
+  {
+    "name": "Ajit Rawal jointly with Sonal Ajit Rawal",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Sep 2019": 2,
+            "Jun 2019": 2,
+            "Dec 2018": 2
+          }
+        ]
+      }
+    ],
+    "id": 9530
+  },
+  {
+    "name": "Chhaya Hari Das jointly with Hari Narayan Das",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Sep 2019": 2,
+            "Jun 2019": 2,
+            "Dec 2018": 2
+          }
+        ]
+      }
+    ],
+    "id": 9531
+  },
+  {
+    "name": "Pankaj Kishor Shah",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Jun 2023": 60.3,
+            "Mar 2023": 60.3,
+            "Dec 2022": 60.3,
+            "Sep 2022": 60.3,
+            "Jun 2022": 60.3,
+            "Mar 2022": 60.3,
+            "Dec 2021": 60.3,
+            "Sep 2021": 60.3,
+            "Jun 2021": 60.3,
+            "Mar 2021": 60.3,
+            "Dec 2020": 60.3,
+            "Sep 2020": 60.3,
+            "Jun 2020": 60.3,
+            "Mar 2020": 60.3,
+            "Dec 2019": 60.3,
+            "Sep 2019": 60.3,
+            "Jun 2019": 60.3,
+            "Mar 2019": 60.3
+          }
+        ]
+      }
+    ],
+    "id": 9532
+  },
+  {
+    "name": "Kishor Mavji Shah",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Jun 2023": 9.8,
+            "Mar 2023": 9.8,
+            "Dec 2022": 9.8,
+            "Sep 2022": 9.8,
+            "Jun 2022": 9.8,
+            "Mar 2022": 9.8,
+            "Dec 2021": 9.8,
+            "Sep 2021": 9.8,
+            "Jun 2021": 9.8,
+            "Mar 2021": 9.8,
+            "Dec 2020": 9.8,
+            "Sep 2020": 9.8,
+            "Jun 2020": 9.8,
+            "Mar 2020": 9.8,
+            "Dec 2019": 9.8,
+            "Sep 2019": 9.8,
+            "Jun 2019": 9.8,
+            "Mar 2019": 9.8
+          }
+        ]
+      }
+    ],
+    "id": 9533
+  },
+  {
+    "name": "Nina J. Sardesai",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Jun 2023": 4.8,
+            "Jun 2022": 4.8,
+            "Dec 2021": 4.8,
+            "Sep 2021": 4.8,
+            "Jun 2021": 4.8,
+            "Mar 2021": 4.8,
+            "Dec 2020": 4.8,
+            "Sep 2020": 4.8,
+            "Jun 2020": 4.8,
+            "Mar 2019": 4.8
+          }
+        ]
+      }
+    ],
+    "id": 9534
+  },
+  {
+    "name": "Narendra Jageshwar Beratha",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Jun 2023": 4.8,
+            "Jun 2022": 4.8,
+            "Dec 2021": 4.8,
+            "Sep 2021": 4.8,
+            "Jun 2021": 4.8,
+            "Mar 2021": 4.8,
+            "Dec 2020": 4.8,
+            "Mar 2019": 4.8
+          }
+        ]
+      }
+    ],
+    "id": 9535
+  },
+  {
+    "name": "Deepak K. Shah",
+    "shareHoldings": [
+      {
+        "companyName": "Colinz Labs",
+        "result": [
+          {
+            "Jun 2023": 0.4,
+            "Mar 2023": 0.4,
+            "Dec 2022": 0.4,
+            "Sep 2022": 0.4,
+            "Jun 2022": 0.4,
+            "Mar 2022": 0.22,
+            "Dec 2021": 0.22,
+            "Sep 2021": 0.22,
+            "Jun 2021": 0.22,
+            "Mar 2021": 0.22,
+            "Dec 2020": 0.22,
+            "Sep 2020": 0.22,
+            "Jun 2020": 0.22,
+            "Mar 2020": 0.22,
+            "Dec 2019": 0.22,
+            "Sep 2019": 0.22,
+            "Jun 2019": 0.22,
+            "Mar 2019": 0.22,
+            "Dec 2018": 0.22,
+            "Sep 2018": 0.22,
+            "Jun 2018": 0.22,
+            "Mar 2018": 0.22,
+            "Dec 2017": 0.22,
+            "Sep 2017": 0.22,
+            "Jun 2017": 0.22,
+            "Mar 2017": 0.22,
+            "Dec 2016": 0.22,
+            "Sep 2016": 0.22,
+            "Jun 2016": 0.22
+          }
+        ]
+      },
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Jun 2023": 3,
+            "Jun 2022": 3,
+            "Dec 2021": 3,
+            "Sep 2021": 3,
+            "Jun 2021": 3,
+            "Mar 2021": 3,
+            "Dec 2020": 3,
+            "Mar 2020": 3,
+            "Dec 2019": 3,
+            "Mar 2019": 3
+          }
+        ]
+      }
+    ],
+    "id": 9536
+  },
+  {
+    "name": "Hemlataben Kirtikumar Gala",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Jun 2023": 2.4,
+            "Jun 2022": 2.4,
+            "Dec 2021": 2.4,
+            "Sep 2021": 2.4,
+            "Jun 2021": 2.4,
+            "Mar 2021": 2.4,
+            "Dec 2020": 2.4,
+            "Mar 2019": 2.4
+          }
+        ]
+      }
+    ],
+    "id": 9537
+  },
+  {
+    "name": "Jayantilal D.Shah",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Jun 2023": 2.2,
+            "Jun 2022": 2.2,
+            "Dec 2021": 2.2,
+            "Sep 2021": 2.2,
+            "Jun 2021": 2.2,
+            "Mar 2021": 2.2,
+            "Dec 2020": 2.2,
+            "Mar 2019": 2.2
+          }
+        ]
+      }
+    ],
+    "id": 9538
+  },
+  {
+    "name": "Chhaya Hari Das",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Jun 2023": 2,
+            "Jun 2022": 2,
+            "Dec 2021": 2,
+            "Sep 2021": 2,
+            "Jun 2021": 2,
+            "Mar 2021": 2,
+            "Dec 2020": 2,
+            "Mar 2020": 2,
+            "Dec 2019": 2,
+            "Mar 2019": 2
+          }
+        ]
+      }
+    ],
+    "id": 9539
+  },
+  {
+    "name": "Ajit Rawal",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Jun 2023": 2,
+            "Jun 2022": 2,
+            "Dec 2021": 2,
+            "Sep 2021": 2,
+            "Jun 2021": 2,
+            "Mar 2021": 2,
+            "Dec 2020": 2,
+            "Mar 2020": 2,
+            "Dec 2019": 2,
+            "Mar 2019": 2
+          }
+        ]
+      }
+    ],
+    "id": 9540
+  },
+  {
+    "name": "Shrikant Dhondiram Utekar",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Jun 2023": 2,
+            "Jun 2022": 2,
+            "Dec 2021": 2,
+            "Sep 2021": 2,
+            "Jun 2021": 2,
+            "Mar 2021": 2,
+            "Dec 2020": 2,
+            "Mar 2020": 2,
+            "Dec 2019": 2,
+            "Mar 2019": 2
+          }
+        ]
+      }
+    ],
+    "id": 9541
+  },
+  {
+    "name": "Rajiv Kishor Shah",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 9542
+  },
+  {
+    "name": "Mr. Narendra Jageshwar Beratha Jt. Mrs. Maya Narendra Jageshwar Baretha",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Sep 2020": 4.8,
+            "Jun 2020": 4.8
+          }
+        ]
+      }
+    ],
+    "id": 9543
+  },
+  {
+    "name": "Mr. Deepak K Shah Jt. Mrs. Hetal Deepak Shah",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Sep 2020": 3,
+            "Jun 2020": 3
+          }
+        ]
+      }
+    ],
+    "id": 9544
+  },
+  {
+    "name": "Mrs. Hemlataben Kirtikumar Gala Jt. Mr. Kirtikumar Kunverji Gala",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Sep 2020": 2.4,
+            "Jun 2020": 2.4
+          }
+        ]
+      }
+    ],
+    "id": 9545
+  },
+  {
+    "name": "Mr. Jayantilal D Shah Jt. Mrs. Rasikben J Shah",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Sep 2020": 2.2,
+            "Jun 2020": 2.2
+          }
+        ]
+      }
+    ],
+    "id": 9546
+  },
+  {
+    "name": "Mr. Shrikant Dhondiram Uteka Jt. Mrs. Shraddha Shrikant Utekar",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Sep 2020": 2,
+            "Jun 2020": 2
+          }
+        ]
+      }
+    ],
+    "id": 9547
+  },
+  {
+    "name": "Mr. Ajit Rawal jt. Mrs. Sonal Ajit Rawal",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Sep 2020": 2,
+            "Jun 2020": 2
+          }
+        ]
+      }
+    ],
+    "id": 9548
+  },
+  {
+    "name": "Mrs. Chhaya Hari Das jt. Mr. Hari Narayan Das",
+    "shareHoldings": [
+      {
+        "companyName": "Springform Tech",
+        "result": [
+          {
+            "Sep 2020": 2,
+            "Jun 2020": 2
+          }
+        ]
+      }
+    ],
+    "id": 9549
+  },
+  {
+    "name": "Abad Transport Private Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "Mackinnon Macken",
+        "result": [
+          {
+            "Jun 2023": 10.11,
+            "Mar 2023": 10.11,
+            "Dec 2022": 10.11,
+            "Sep 2022": 10.11,
+            "Jun 2022": 10.11,
+            "Mar 2022": 10.11,
+            "Dec 2021": 10.11,
+            "Sep 2021": 10.11,
+            "Jun 2021": 10.11,
+            "Mar 2021": 10.11,
+            "Dec 2020": 10.11,
+            "Sep 2020": 10.11,
+            "Jun 2020": 10.11,
+            "Mar 2020": 10.11,
+            "Dec 2019": 10.11,
+            "Jun 2019": 10.11,
+            "Mar 2019": 10.11,
+            "Dec 2018": 10.11,
+            "Sep 2018": 10.11,
+            "Jun 2018": 10.11,
+            "Mar 2018": 10.11,
+            "Dec 2017": 10.11,
+            "Sep 2017": 10.11,
+            "Jun 2017": 10.11,
+            "Mar 2017": 10.11,
+            "Dec 2016": 10.11,
+            "Sep 2016": 10.11,
+            "Jun 2016": 10.11
+          }
+        ]
+      }
+    ],
+    "id": 9550
+  },
+  {
+    "name": "Belmount Holdings And Trading",
+    "shareHoldings": [
+      {
+        "companyName": "Mackinnon Macken",
+        "result": [
+          {
+            "Jun 2023": 10.11,
+            "Mar 2023": 10.11,
+            "Dec 2022": 10.11,
+            "Sep 2022": 10.11,
+            "Jun 2022": 10.11,
+            "Mar 2022": 10.11,
+            "Dec 2021": 10.11,
+            "Sep 2021": 10.11,
+            "Jun 2021": 10.11,
+            "Mar 2021": 10.11,
+            "Dec 2020": 10.11,
+            "Sep 2020": 10.11,
+            "Jun 2020": 10.11,
+            "Mar 2020": 10.11,
+            "Dec 2019": 10.11,
+            "Jun 2019": 10.11,
+            "Mar 2019": 10.11,
+            "Dec 2018": 10.11,
+            "Sep 2018": 10.11,
+            "Jun 2018": 10.11,
+            "Mar 2018": 10.11,
+            "Dec 2017": 10.11,
+            "Sep 2017": 10.11,
+            "Jun 2017": 10.11,
+            "Mar 2017": 10.11,
+            "Dec 2016": 10.11,
+            "Sep 2016": 10.11,
+            "Jun 2016": 10.11
+          }
+        ]
+      }
+    ],
+    "id": 9551
+  },
+  {
+    "name": "Elaster Investments And Trading Co",
+    "shareHoldings": [
+      {
+        "companyName": "Mackinnon Macken",
+        "result": [
+          {
+            "Jun 2023": 10.11,
+            "Mar 2023": 10.11,
+            "Dec 2022": 10.11,
+            "Sep 2022": 10.11,
+            "Jun 2022": 10.11,
+            "Mar 2022": 10.11,
+            "Dec 2021": 10.11,
+            "Sep 2021": 10.11,
+            "Jun 2021": 10.11,
+            "Mar 2021": 10.11,
+            "Dec 2020": 10.11,
+            "Sep 2020": 10.11,
+            "Jun 2020": 10.11,
+            "Mar 2020": 10.11,
+            "Dec 2019": 10.11,
+            "Jun 2019": 10.11,
+            "Mar 2019": 10.11,
+            "Dec 2018": 10.11,
+            "Sep 2018": 10.11,
+            "Jun 2018": 10.11,
+            "Mar 2018": 10.11,
+            "Dec 2017": 10.11,
+            "Sep 2017": 10.11,
+            "Jun 2017": 10.11,
+            "Mar 2017": 10.11,
+            "Dec 2016": 10.11,
+            "Sep 2016": 10.11,
+            "Jun 2016": 10.11
+          }
+        ]
+      }
+    ],
+    "id": 9552
+  },
+  {
+    "name": "Zodiac Holdings And Trading Co",
+    "shareHoldings": [
+      {
+        "companyName": "Mackinnon Macken",
+        "result": [
+          {
+            "Jun 2023": 10.11,
+            "Mar 2023": 10.11,
+            "Dec 2022": 10.11,
+            "Sep 2022": 10.11,
+            "Jun 2022": 10.11,
+            "Mar 2022": 10.11,
+            "Dec 2021": 10.11,
+            "Sep 2021": 10.11,
+            "Jun 2021": 10.11,
+            "Mar 2021": 10.11,
+            "Dec 2020": 10.11,
+            "Sep 2020": 10.11,
+            "Jun 2020": 10.11,
+            "Mar 2020": 10.11,
+            "Dec 2019": 10.11,
+            "Jun 2019": 10.11,
+            "Mar 2019": 10.11,
+            "Dec 2018": 10.11,
+            "Sep 2018": 10.11,
+            "Jun 2018": 10.11,
+            "Mar 2018": 10.11,
+            "Dec 2017": 10.11,
+            "Sep 2017": 10.11,
+            "Jun 2017": 10.11,
+            "Mar 2017": 10.11,
+            "Dec 2016": 10.11,
+            "Sep 2016": 10.11,
+            "Jun 2016": 10.11
+          }
+        ]
+      }
+    ],
+    "id": 9553
+  },
+  {
+    "name": "Mackinnons Abad Shipping Ltd.",
+    "shareHoldings": [
+      {
+        "companyName": "Mackinnon Macken",
+        "result": [
+          {
+            "Jun 2023": 7.78,
+            "Mar 2023": 7.78,
+            "Dec 2022": 7.78,
+            "Sep 2022": 7.78,
+            "Jun 2022": 7.78,
+            "Mar 2022": 7.78,
+            "Dec 2021": 7.78,
+            "Sep 2021": 7.78,
+            "Jun 2021": 7.78,
+            "Mar 2021": 7.78,
+            "Dec 2020": 7.78,
+            "Sep 2020": 7.78,
+            "Jun 2020": 7.78,
+            "Mar 2020": 7.78,
+            "Dec 2019": 7.78,
+            "Jun 2019": 7.78,
+            "Mar 2019": 7.78,
+            "Dec 2018": 7.78,
+            "Sep 2018": 7.78,
+            "Jun 2018": 7.78,
+            "Mar 2018": 7.78,
+            "Dec 2017": 7.78,
+            "Sep 2017": 7.78,
+            "Jun 2017": 7.78,
+            "Mar 2017": 7.78,
+            "Dec 2016": 7.78,
+            "Sep 2016": 7.78,
+            "Jun 2016": 7.78
+          }
+        ]
+      }
+    ],
+    "id": 9554
+  },
+  {
+    "name": "Life Insurance Corpn",
+    "shareHoldings": [
+      {
+        "companyName": "Bharat Dynamics",
+        "result": [
+          {
+            "Jun 2019": 2.23
+          }
+        ]
+      },
+      {
+        "companyName": "City Union Bank",
+        "result": [
+          {
+            "Dec 2020": 4.13
+          }
+        ]
+      },
+      {
+        "companyName": "Empire Inds.",
+        "result": [
+          {
+            "Mar 2021": 10.9
+          }
+        ]
+      },
+      {
+        "companyName": "H U D C O",
+        "result": [
+          {
+            "Mar 2019": 1.53,
+            "Jun 2018": 1.53
+          }
+        ]
+      },
+      {
+        "companyName": "Innovassynth Inv",
+        "result": [
+          {
+            "Sep 2018": 4.51
+          }
+        ]
+      },
+      {
+        "companyName": "Mackinnon Macken",
+        "result": [
+          {
+            "Jun 2016": 4.04
+          }
+        ]
+      },
+      {
+        "companyName": "Quadrant Tele.",
+        "result": [
+          {
+            "Sep 2018": 1.76,
+            "Jun 2018": 1.76,
+            "Mar 2018": 1.76,
+            "Dec 2017": 1.76,
+            "Sep 2017": 1.76
+          }
+        ]
+      },
+      {
+        "companyName": "Standard Battery",
+        "result": [
+          {
+            "Jun 2016": 20.89
+          }
+        ]
+      },
+      {
+        "companyName": "Tata Consumer",
+        "result": [
+          {
+            "Sep 2020": 1.57,
+            "Jun 2020": 1.67,
+            "Mar 2020": 2.12,
+            "Mar 2018": 2.92
+          }
+        ]
+      },
+      {
+        "companyName": "Tata Elxsi",
+        "result": [
+          {
+            "Mar 2017": 1.24,
+            "Dec 2016": 1.24,
+            "Sep 2016": 1.24,
+            "Jun 2016": 1.24
+          }
+        ]
+      },
+      {
+        "companyName": "Tour. Fin. Corp.",
+        "result": [
+          {
+            "Sep 2018": 5.72,
+            "Jun 2018": 5.72,
+            "Mar 2018": 5.72,
+            "Dec 2017": 5.72,
+            "Sep 2017": 6.71,
+            "Jun 2017": 6.71,
+            "Mar 2017": 6.71,
+            "Dec 2016": 6.71,
+            "Sep 2016": 6.71,
+            "Jun 2016": 6.71
+          }
+        ]
+      },
+      {
+        "companyName": "UCO Bank",
+        "result": [
+          {
+            "Jun 2020": 2.28,
+            "Sep 2019": 3.07
+          }
+        ]
+      },
+      {
+        "companyName": "Vijaya Bank",
+        "result": [
+          {
+            "Jun 2016": 13.54
+          }
+        ]
+      },
+      {
+        "companyName": "Wipro",
+        "result": [
+          {
+            "Jun 2018": 3.07
+          }
+        ]
+      }
+    ],
+    "id": 9555
+  },
+  {
+    "name": "Ganges Lines (India) Pvt.Ltd.",
+    "shareHoldings": [
+      {
+        "companyName": "Mackinnon Macken",
+        "result": [
+          {
+            "Jun 2023": 4,
+            "Mar 2023": 4,
+            "Dec 2022": 4,
+            "Sep 2022": 4,
+            "Jun 2022": 4,
+            "Mar 2022": 4,
+            "Dec 2021": 4,
+            "Sep 2021": 4,
+            "Jun 2021": 4,
+            "Mar 2021": 4,
+            "Dec 2020": 4,
+            "Sep 2020": 4,
+            "Jun 2020": 4,
+            "Mar 2020": 4,
+            "Dec 2019": 4,
+            "Jun 2019": 4,
+            "Mar 2019": 4,
+            "Dec 2018": 4,
+            "Sep 2018": 4,
+            "Jun 2018": 4,
+            "Mar 2018": 4,
+            "Dec 2017": 4,
+            "Sep 2017": 4,
+            "Jun 2017": 4,
+            "Mar 2017": 4,
+            "Dec 2016": 4,
+            "Sep 2016": 4,
+            "Jun 2016": 4
+          }
+        ]
+      }
+    ],
+    "id": 9556
+  },
+  {
+    "name": "United India Insurance",
+    "shareHoldings": [
+      {
+        "companyName": "Mackinnon Macken",
+        "result": [
+          {
+            "Jun 2023": 2.2,
+            "Mar 2023": 2.2,
+            "Dec 2022": 2.2,
+            "Sep 2022": 2.2,
+            "Jun 2022": 2.2,
+            "Mar 2022": 2.2,
+            "Dec 2021": 2.2,
+            "Sep 2021": 2.2,
+            "Jun 2021": 2.2,
+            "Mar 2021": 2.2,
+            "Dec 2020": 2.2,
+            "Sep 2020": 2.2,
+            "Jun 2020": 2.2,
+            "Mar 2020": 2.2,
+            "Dec 2019": 2.2,
+            "Jun 2019": 2.2,
+            "Mar 2019": 2.2,
+            "Dec 2018": 2.2,
+            "Sep 2018": 2.2,
+            "Jun 2018": 2.2,
+            "Mar 2018": 2.2,
+            "Dec 2017": 2.2,
+            "Sep 2017": 2.2,
+            "Jun 2017": 2.2,
+            "Mar 2017": 2.2,
+            "Dec 2016": 2.2,
+            "Sep 2016": 2.2,
+            "Jun 2016": 2.2
+          }
+        ]
+      }
+    ],
+    "id": 9557
+  },
+  {
+    "name": "National Ins Co Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "Mackinnon Macken",
+        "result": [
+          {
+            "Jun 2023": 1.83,
+            "Mar 2023": 1.83,
+            "Dec 2022": 1.83,
+            "Sep 2022": 1.83,
+            "Jun 2022": 1.83,
+            "Mar 2022": 1.83,
+            "Dec 2021": 1.83,
+            "Sep 2021": 1.83,
+            "Jun 2021": 1.83,
+            "Mar 2021": 1.83,
+            "Dec 2020": 1.83,
+            "Sep 2020": 1.83,
+            "Jun 2020": 1.83,
+            "Mar 2020": 1.83,
+            "Dec 2019": 1.83,
+            "Jun 2019": 1.83,
+            "Mar 2019": 1.83,
+            "Dec 2018": 1.83,
+            "Sep 2018": 1.83,
+            "Jun 2018": 1.83,
+            "Mar 2018": 1.83,
+            "Dec 2017": 1.83,
+            "Sep 2017": 1.83,
+            "Jun 2017": 1.83,
+            "Mar 2017": 1.83,
+            "Dec 2016": 1.83,
+            "Sep 2016": 1.83,
+            "Jun 2016": 1.83
+          }
+        ]
+      }
+    ],
+    "id": 9558
+  },
+  {
+    "name": "Oriental Fire & Gen Ins Co Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "Mackinnon Macken",
+        "result": [
+          {
+            "Sep 2016": 1.47,
+            "Jun 2016": 1.47
+          }
+        ]
+      }
+    ],
+    "id": 9559
+  },
+  {
+    "name": "Tirupati Holdings Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Bagalkot Udyog",
+        "result": [
+          {
+            "Sep 2016": 22.45,
+            "Jun 2016": 22.45
+          }
+        ]
+      }
+    ],
+    "id": 9560
+  },
+  {
+    "name": "Pratap Holdings Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Bagalkot Udyog",
+        "result": [
+          {
+            "Sep 2016": 20.33,
+            "Jun 2016": 20.33
+          }
+        ]
+      }
+    ],
+    "id": 9561
+  },
+  {
+    "name": "Tirupati Screen Printing Co. Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Bagalkot Udyog",
+        "result": [
+          {
+            "Sep 2016": 19.95,
+            "Jun 2016": 19.95
+          }
+        ]
+      }
+    ],
+    "id": 9562
+  },
+  {
+    "name": "Individual Shareholders",
+    "shareHoldings": [
+      {
+        "companyName": "Alexander Stamps",
+        "result": [
+          {
+            "Jun 2022": 43.74,
+            "Mar 2022": 41.9,
+            "Dec 2021": 40.13,
+            "Sep 2021": 43.04,
+            "Jun 2021": 42.84
+          }
+        ]
+      },
+      {
+        "companyName": "Amba Enterprises",
+        "result": [
+          {
+            "Sep 2021": 12.94
+          }
+        ]
+      },
+      {
+        "companyName": "Bagalkot Udyog",
+        "result": [
+          {
+            "Sep 2016": 18.24,
+            "Jun 2016": 18.24
+          }
+        ]
+      },
+      {
+        "companyName": "Bharat Immunolog",
+        "result": [
+          {
+            "Jun 2017": 10.37,
+            "Mar 2017": 10.37,
+            "Dec 2016": 10.91
+          }
+        ]
+      },
+      {
+        "companyName": "Chandra Pr. Intl",
+        "result": [
+          {
+            "Jun 2016": 27.37
+          }
+        ]
+      },
+      {
+        "companyName": "Dredging Corpn.",
+        "result": [
+          {
+            "Sep 2016": 10.14
+          }
+        ]
+      },
+      {
+        "companyName": "Ekam Leasing",
+        "result": [
+          {
+            "Jun 2016": 28.93
+          }
+        ]
+      },
+      {
+        "companyName": "GCCL Const.",
+        "result": [
+          {
+            "Jun 2016": 5.19
+          }
+        ]
+      },
+      {
+        "companyName": "Hem Holdings & T",
+        "result": [
+          {
+            "Dec 2020": 50.15
+          }
+        ]
+      },
+      {
+        "companyName": "Inani Securities",
+        "result": [
+          {
+            "Mar 2017": 9.05
+          }
+        ]
+      },
+      {
+        "companyName": "KBS India",
+        "result": [
+          {
+            "Jun 2019": 10.09
+          }
+        ]
+      },
+      {
+        "companyName": "Kore Foods",
+        "result": [
+          {
+            "Sep 2016": 43.87
+          }
+        ]
+      },
+      {
+        "companyName": "Lohia Securities",
+        "result": [
+          {
+            "Sep 2016": 3.14
+          }
+        ]
+      },
+      {
+        "companyName": "Menon Pistons",
+        "result": [
+          {
+            "Sep 2020": 14,
+            "Jun 2020": 19.51,
+            "Mar 2020": 19.09,
+            "Dec 2019": 18.98,
+            "Sep 2019": 18.98,
+            "Jun 2019": 18.82,
+            "Mar 2019": 18.74,
+            "Dec 2018": 18.98,
+            "Sep 2018": 18.61,
+            "Jun 2018": 18.85,
+            "Mar 2018": 17.42,
+            "Dec 2017": 17.42,
+            "Sep 2017": 17.42,
+            "Jun 2017": 17.24,
+            "Mar 2017": 17.35
+          }
+        ]
+      },
+      {
+        "companyName": "Sterling Guaran.",
+        "result": [
+          {
+            "Jun 2016": 44.34
+          }
+        ]
+      },
+      {
+        "companyName": "Thambbi Modern",
+        "result": [
+          {
+            "Dec 2019": 15.85
+          }
+        ]
+      },
+      {
+        "companyName": "Tulip Star Hot.",
+        "result": [
+          {
+            "Mar 2020": 8.99,
+            "Dec 2019": 9.01,
+            "Sep 2019": 9.08,
+            "Jun 2019": 9.05,
+            "Mar 2019": 9.06,
+            "Dec 2018": 9.04,
+            "Sep 2018": 9.04,
+            "Jun 2018": 9.09,
+            "Mar 2018": 8.89,
+            "Dec 2017": 10.25,
+            "Sep 2017": 10.49,
+            "Jun 2017": 10.34,
+            "Mar 2017": 10.28,
+            "Dec 2016": 10.71,
+            "Sep 2016": 10.61,
+            "Jun 2016": 10.98
+          }
+        ]
+      }
+    ],
+    "id": 9563
+  },
+  {
+    "name": "Ajay Kumar Kanoria - Partnership Firm",
+    "shareHoldings": [
+      {
+        "companyName": "Bagalkot Udyog",
+        "result": [
+          {
+            "Sep 2016": 13.46,
+            "Jun 2016": 13.46
+          }
+        ]
+      }
+    ],
+    "id": 9564
+  },
+  {
+    "name": "Government of Mysore",
+    "shareHoldings": [
+      {
+        "companyName": "Bagalkot Udyog",
+        "result": [
+          {
+            "Jun 2016": 1.15
+          }
+        ]
+      }
+    ],
+    "id": 9565
+  },
+  {
+    "name": "Ajay Kumar Kanoria",
+    "shareHoldings": [
+      {
+        "companyName": "Bagalkot Udyog",
+        "result": [
+          {
+            "Sep 2016": 0.05,
+            "Jun 2016": 0.05
+          }
+        ]
+      }
+    ],
+    "id": 9566
+  },
+  {
+    "name": "Pradyumna Finance and Properties P.Ltd.",
+    "shareHoldings": [
+      {
+        "companyName": "Bagalkot Udyog",
+        "result": [
+          {
+            "Sep 2016": 0.02,
+            "Jun 2016": 0.02
+          }
+        ]
+      }
+    ],
+    "id": 9567
+  },
+  {
+    "name": "Srm Civil Works Private Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Hemadri Cements",
+        "result": [
+          {
+            "Jun 2023": 40.8,
+            "Mar 2023": 40.8,
+            "Dec 2022": 40.8,
+            "Sep 2022": 40.8,
+            "Jun 2022": 40.8,
+            "Mar 2022": 40.8,
+            "Dec 2021": 40.8,
+            "Sep 2021": 40.8,
+            "Jun 2021": 40.8,
+            "Mar 2021": 40.8,
+            "Dec 2020": 40.8,
+            "Sep 2020": 40.8,
+            "Jun 2020": 40.8,
+            "Mar 2020": 40.8,
+            "Dec 2019": 38.88,
+            "Sep 2019": 36,
+            "Jun 2019": 36,
+            "Mar 2019": 36,
+            "Dec 2018": 36,
+            "Sep 2018": 36,
+            "Jun 2018": 36,
+            "Mar 2018": 34.08,
+            "Dec 2017": 34.08,
+            "Sep 2017": 34.08,
+            "Jun 2017": 34.08,
+            "Mar 2017": 34.08,
+            "Dec 2016": 34.08,
+            "Sep 2016": 34.08,
+            "Jun 2016": 34.08,
+            "Mar 2016": 29.16,
+            "Dec 2015": 29.16
+          }
+        ]
+      }
+    ],
+    "id": 9568
+  },
+  {
+    "name": "Srm Trp Properties And Investments Private Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Hemadri Cements",
+        "result": [
+          {
+            "Jun 2016": 14.77
+          }
+        ]
+      }
+    ],
+    "id": 9569
+  },
+  {
+    "name": "K.Gopi Prasad",
+    "shareHoldings": [
+      {
+        "companyName": "Hemadri Cements",
+        "result": [
+          {
+            "Jun 2016": 6.72
+          }
+        ]
+      }
+    ],
+    "id": 9570
+  },
+  {
+    "name": "Kilaru Aruna",
+    "shareHoldings": [
+      {
+        "companyName": "Hemadri Cements",
+        "result": [
+          {
+            "Jun 2023": 1.95,
+            "Mar 2023": 1.95,
+            "Dec 2022": 1.95,
+            "Sep 2022": 1.95,
+            "Jun 2022": 1.95,
+            "Mar 2022": 1.95,
+            "Dec 2021": 1.95,
+            "Sep 2021": 1.95,
+            "Jun 2021": 1.95,
+            "Mar 2021": 1.95,
+            "Dec 2020": 1.95,
+            "Sep 2020": 1.95,
+            "Jun 2020": 1.95,
+            "Mar 2020": 1.95,
+            "Dec 2019": 1.95,
+            "Sep 2019": 1.95,
+            "Jun 2019": 1.95,
+            "Mar 2019": 1.95,
+            "Dec 2018": 1.95,
+            "Sep 2018": 1.95,
+            "Jun 2018": 1.95,
+            "Mar 2018": 1.95,
+            "Dec 2017": 1.95,
+            "Sep 2017": 1.95,
+            "Jun 2017": 1.95,
+            "Mar 2017": 1.95,
+            "Dec 2016": 1.95,
+            "Sep 2016": 1.95,
+            "Jun 2016": 1.95,
+            "Mar 2016": 1.95,
+            "Dec 2015": 9.41
+          }
+        ]
+      }
+    ],
+    "id": 9571
+  },
+  {
+    "name": "Kilaru Padmaja",
+    "shareHoldings": [
+      {
+        "companyName": "Hemadri Cements",
+        "result": [
+          {
+            "Jun 2023": 0.42,
+            "Mar 2023": 0.42,
+            "Dec 2022": 0.42,
+            "Sep 2022": 0.42,
+            "Jun 2022": 0.42,
+            "Mar 2022": 0.42,
+            "Dec 2021": 0.42,
+            "Sep 2021": 0.42,
+            "Jun 2021": 0.42,
+            "Mar 2021": 0.42,
+            "Dec 2020": 0.42,
+            "Sep 2020": 0.42,
+            "Jun 2020": 0.42,
+            "Mar 2020": 0.42,
+            "Dec 2019": 0.42,
+            "Sep 2019": 0.42,
+            "Jun 2019": 0.42,
+            "Mar 2019": 0.42,
+            "Dec 2018": 0.42,
+            "Sep 2018": 0.42,
+            "Jun 2018": 0.42,
+            "Mar 2018": 1.38,
+            "Dec 2017": 1.38,
+            "Sep 2017": 1.38,
+            "Jun 2017": 1.38,
+            "Mar 2017": 6.18,
+            "Dec 2016": 6.18,
+            "Sep 2016": 6.18,
+            "Jun 2016": 6.18,
+            "Mar 2016": 7.55,
+            "Dec 2015": 7.55
+          }
+        ]
+      }
+    ],
+    "id": 9572
+  },
+  {
+    "name": "Siva Nageswara Rao Doradla",
+    "shareHoldings": [
+      {
+        "companyName": "Hemadri Cements",
+        "result": [
+          {
+            "Jun 2016": 2.28
+          }
+        ]
+      }
+    ],
+    "id": 9573
+  },
+  {
+    "name": "R.J.Suryanarayana",
+    "shareHoldings": [
+      {
+        "companyName": "Hemadri Cements",
+        "result": [
+          {
+            "Jun 2016": 2.02
+          }
+        ]
+      }
+    ],
+    "id": 9574
+  },
+  {
+    "name": "Sriman Narayana Kilaru",
+    "shareHoldings": [
+      {
+        "companyName": "Hemadri Cements",
+        "result": [
+          {
+            "Jun 2023": 0.3,
+            "Mar 2023": 0.3,
+            "Dec 2022": 0.3,
+            "Sep 2022": 0.3,
+            "Jun 2022": 0.3,
+            "Mar 2022": 0.3,
+            "Dec 2021": 0.3,
+            "Sep 2021": 0.3,
+            "Jun 2021": 0.3,
+            "Mar 2021": 0.3,
+            "Dec 2020": 0.3,
+            "Sep 2020": 0.3,
+            "Jun 2020": 0.3,
+            "Mar 2020": 0.3,
+            "Dec 2019": 0.3,
+            "Sep 2019": 0.3,
+            "Jun 2019": 0.3,
+            "Mar 2019": 0.3,
+            "Dec 2018": 0.3,
+            "Sep 2018": 0.3,
+            "Jun 2018": 0.3,
+            "Mar 2018": 0.3,
+            "Dec 2017": 0.3,
+            "Sep 2017": 0.3,
+            "Jun 2017": 0.3,
+            "Mar 2017": 0.3,
+            "Dec 2016": 0.3,
+            "Sep 2016": 0.3,
+            "Jun 2016": 0.3,
+            "Mar 2016": 0.3,
+            "Dec 2015": 0.3
+          }
+        ]
+      }
+    ],
+    "id": 9575
+  },
+  {
+    "name": "Kilaru Vidya Sagar Varma",
+    "shareHoldings": [
+      {
+        "companyName": "Hemadri Cements",
+        "result": [
+          {
+            "Jun 2023": 0.15,
+            "Mar 2023": 0.15,
+            "Dec 2022": 0.15,
+            "Sep 2022": 0.15,
+            "Jun 2022": 0.15,
+            "Mar 2022": 0.15,
+            "Dec 2021": 0.15,
+            "Sep 2021": 0.15,
+            "Jun 2021": 0.15,
+            "Mar 2021": 0.15,
+            "Dec 2020": 0.15,
+            "Sep 2020": 0.15,
+            "Jun 2020": 0.15,
+            "Mar 2020": 0.15,
+            "Dec 2019": 0.15,
+            "Sep 2019": 0.15,
+            "Jun 2019": 0.15,
+            "Mar 2019": 0.15,
+            "Dec 2018": 0.15,
+            "Sep 2018": 0.15,
+            "Jun 2018": 0.15,
+            "Mar 2018": 0.15,
+            "Dec 2017": 0.15,
+            "Sep 2017": 0.15,
+            "Jun 2017": 0.15,
+            "Mar 2017": 0.15,
+            "Dec 2016": 0.15,
+            "Sep 2016": 0.15,
+            "Jun 2016": 0.15,
+            "Mar 2016": 0.15,
+            "Dec 2015": 0.15
+          }
+        ]
+      }
+    ],
+    "id": 9576
+  },
+  {
+    "name": "Kotha Prasunamba",
+    "shareHoldings": [
+      {
+        "companyName": "Hemadri Cements",
+        "result": [
+          {
+            "Jun 2023": 0.11,
+            "Mar 2023": 0.11,
+            "Dec 2022": 0.11,
+            "Sep 2022": 0.11,
+            "Jun 2022": 0.11,
+            "Mar 2022": 0.11,
+            "Dec 2021": 0.11,
+            "Sep 2021": 0.11,
+            "Jun 2021": 0.11,
+            "Mar 2021": 0.11,
+            "Dec 2020": 0.11,
+            "Sep 2020": 0.11,
+            "Jun 2020": 0.11,
+            "Mar 2020": 0.11,
+            "Dec 2019": 0.11,
+            "Sep 2019": 0.11,
+            "Jun 2019": 0.11,
+            "Mar 2019": 0.11,
+            "Dec 2018": 0.11,
+            "Sep 2018": 0.11,
+            "Jun 2018": 0.11,
+            "Mar 2018": 0.11,
+            "Dec 2017": 0.11,
+            "Sep 2017": 0.11,
+            "Jun 2017": 0.11,
+            "Mar 2017": 0.11,
+            "Dec 2016": 0.11,
+            "Sep 2016": 0.11,
+            "Jun 2016": 0.11,
+            "Mar 2016": 0.11,
+            "Dec 2015": 0.11
+          }
+        ]
+      }
+    ],
+    "id": 9577
+  },
+  {
+    "name": "P.Usha",
+    "shareHoldings": [
+      {
+        "companyName": "Hemadri Cements",
+        "result": [
+          {
+            "Jun 2016": 0.04
+          }
+        ]
+      }
+    ],
+    "id": 9578
+  },
+  {
+    "name": "Kotha Madhumurthy",
+    "shareHoldings": [
+      {
+        "companyName": "Hemadri Cements",
+        "result": [
+          {
+            "Jun 2023": 0.03,
+            "Mar 2023": 0.03,
+            "Dec 2022": 0.03,
+            "Sep 2022": 0.03,
+            "Jun 2022": 0.03,
+            "Mar 2022": 0.03,
+            "Dec 2021": 0.03,
+            "Sep 2021": 0.03,
+            "Jun 2021": 0.03,
+            "Mar 2021": 0.03,
+            "Dec 2020": 0.03,
+            "Sep 2020": 0.03,
+            "Jun 2020": 0.03,
+            "Mar 2020": 0.03,
+            "Dec 2019": 0.03,
+            "Sep 2019": 0.03,
+            "Jun 2019": 0.03,
+            "Mar 2019": 0.03,
+            "Dec 2018": 0.03,
+            "Sep 2018": 0.03,
+            "Jun 2018": 0.03,
+            "Mar 2018": 0.03,
+            "Dec 2017": 0.03,
+            "Sep 2017": 0.03,
+            "Jun 2017": 0.03,
+            "Mar 2017": 0.03,
+            "Dec 2016": 0.03,
+            "Sep 2016": 0.03,
+            "Jun 2016": 0.03,
+            "Mar 2016": 0.03,
+            "Dec 2015": 0.03
+          }
+        ]
+      }
+    ],
+    "id": 9579
+  },
+  {
+    "name": "G.Venkateswara Rao",
+    "shareHoldings": [
+      {
+        "companyName": "Hemadri Cements",
+        "result": [
+          {
+            "Jun 2023": 0.02,
+            "Mar 2023": 0.02,
+            "Dec 2022": 0.02,
+            "Sep 2022": 0.02,
+            "Jun 2022": 0.02,
+            "Mar 2022": 0.02,
+            "Dec 2021": 0.02,
+            "Sep 2021": 0.02,
+            "Jun 2021": 0.02,
+            "Mar 2021": 0.02,
+            "Dec 2020": 0.02,
+            "Sep 2020": 0.02,
+            "Jun 2020": 0.02,
+            "Mar 2020": 0.02,
+            "Dec 2019": 0.02,
+            "Sep 2019": 0.02,
+            "Jun 2019": 0.02,
+            "Mar 2019": 0.02,
+            "Dec 2018": 0.02,
+            "Sep 2018": 0.02,
+            "Jun 2018": 0.02,
+            "Mar 2018": 0.02,
+            "Dec 2017": 0.02,
+            "Sep 2017": 0.02,
+            "Jun 2017": 0.02,
+            "Mar 2017": 0.02,
+            "Dec 2016": 0.02,
+            "Sep 2016": 0.02,
+            "Jun 2016": 0.02,
+            "Mar 2016": 0.02,
+            "Dec 2015": 0.02
+          }
+        ]
+      }
+    ],
+    "id": 9580
+  },
+  {
+    "name": "Koteswara Rao Kotha",
+    "shareHoldings": [
+      {
+        "companyName": "Hemadri Cements",
+        "result": [
+          {
+            "Jun 2023": 0.02,
+            "Mar 2023": 0.02,
+            "Dec 2022": 0.02,
+            "Sep 2022": 0.02,
+            "Jun 2022": 0.02,
+            "Mar 2022": 0.02,
+            "Dec 2021": 0.02,
+            "Sep 2021": 0.02,
+            "Jun 2021": 0.02,
+            "Mar 2021": 0.02,
+            "Dec 2020": 0.02,
+            "Sep 2020": 0.02,
+            "Jun 2020": 0.02,
+            "Mar 2020": 0.02,
+            "Dec 2019": 0.02,
+            "Sep 2019": 0.02,
+            "Jun 2019": 0.02,
+            "Mar 2019": 0.02,
+            "Dec 2018": 0.02,
+            "Sep 2018": 0.02,
+            "Jun 2018": 0.02,
+            "Mar 2018": 0.02,
+            "Dec 2017": 0.02,
+            "Sep 2017": 0.02,
+            "Jun 2017": 0.02,
+            "Mar 2017": 0.02,
+            "Dec 2016": 0.02,
+            "Sep 2016": 0.02,
+            "Jun 2016": 0.02,
+            "Mar 2016": 0.02,
+            "Dec 2015": 0.02
+          }
+        ]
+      }
+    ],
+    "id": 9581
+  },
+  {
+    "name": "A.Suseela",
+    "shareHoldings": [
+      {
+        "companyName": "Hemadri Cements",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 9582
+  },
+  {
+    "name": "Kilaru G Prasad",
+    "id": 9583
+  },
+  {
+    "name": "P.S.Menon",
+    "id": 9584
+  },
+  {
+    "name": "Bala Surya Narayana Rangavajhala",
+    "shareHoldings": [
+      {
+        "companyName": "Hemadri Cements",
+        "result": [
+          {
+            "Jun 2023": 2.02,
+            "Mar 2023": 2.02,
+            "Dec 2022": 2.02,
+            "Sep 2022": 2.02
+          }
+        ]
+      }
+    ],
+    "id": 9585
+  },
+  {
+    "name": "Srm Trp Properties & Investments Private Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Hemadri Cements",
+        "result": [
+          {
+            "Jun 2023": 22.44,
+            "Mar 2023": 22.44,
+            "Dec 2022": 22.44,
+            "Sep 2022": 22.44,
+            "Jun 2022": 22.44,
+            "Mar 2022": 22.44,
+            "Dec 2021": 22.44,
+            "Sep 2021": 22.44,
+            "Jun 2021": 22.44,
+            "Mar 2021": 22.44,
+            "Dec 2020": 22.44,
+            "Sep 2020": 22.44,
+            "Jun 2020": 22.44,
+            "Mar 2020": 22.44,
+            "Dec 2019": 22.44,
+            "Sep 2019": 22.44,
+            "Jun 2019": 22.44,
+            "Mar 2019": 22.44,
+            "Dec 2018": 22.44,
+            "Sep 2018": 22.44,
+            "Jun 2018": 22.44,
+            "Mar 2018": 19.56,
+            "Dec 2017": 19.56,
+            "Sep 2017": 19.56,
+            "Jun 2017": 19.56,
+            "Mar 2017": 14.77,
+            "Dec 2016": 14.77,
+            "Sep 2016": 14.77,
+            "Mar 2016": 14.77,
+            "Dec 2015": 14.77
+          }
+        ]
+      }
+    ],
+    "id": 9586
+  },
+  {
+    "name": "Parasmal Munilal Jain",
+    "shareHoldings": [
+      {
+        "companyName": "Gandhidham Spg.",
+        "result": [
+          {
+            "Dec 2016": 24.71,
+            "Sep 2016": 24.71,
+            "Jun 2016": 24.71
+          }
+        ]
+      }
+    ],
+    "id": 9587
+  },
+  {
+    "name": "Kamala Parasmal Jain",
+    "shareHoldings": [
+      {
+        "companyName": "Gandhidham Spg.",
+        "result": [
+          {
+            "Dec 2016": 8.89,
+            "Sep 2016": 8.89,
+            "Jun 2016": 8.89
+          }
+        ]
+      }
+    ],
+    "id": 9588
+  },
+  {
+    "name": "Sukhraj Amarchand Singhvi",
+    "shareHoldings": [
+      {
+        "companyName": "Gandhidham Spg.",
+        "result": [
+          {
+            "Dec 2016": 8.42,
+            "Sep 2016": 8.42,
+            "Jun 2016": 8.42
+          }
+        ]
+      }
+    ],
+    "id": 9589
+  },
+  {
+    "name": "Tribhuvan Amarchand Singhvi",
+    "shareHoldings": [
+      {
+        "companyName": "Gandhidham Spg.",
+        "result": [
+          {
+            "Dec 2016": 8.4,
+            "Sep 2016": 8.4,
+            "Jun 2016": 8.4
+          }
+        ]
+      }
+    ],
+    "id": 9590
+  },
+  {
+    "name": "Ramesh Amarchand Singhvi",
+    "shareHoldings": [
+      {
+        "companyName": "Gandhidham Spg.",
+        "result": [
+          {
+            "Dec 2016": 8.4,
+            "Sep 2016": 8.4,
+            "Jun 2016": 8.4
+          }
+        ]
+      }
+    ],
+    "id": 9591
+  },
+  {
+    "name": "Babulal Amarchand Singhvi",
+    "shareHoldings": [
+      {
+        "companyName": "Gandhidham Spg.",
+        "result": [
+          {
+            "Dec 2016": 8.4,
+            "Sep 2016": 8.4,
+            "Jun 2016": 8.4
+          }
+        ]
+      }
+    ],
+    "id": 9592
+  },
+  {
+    "name": "Ashok Amarchand Singhvi",
+    "shareHoldings": [
+      {
+        "companyName": "Gandhidham Spg.",
+        "result": [
+          {
+            "Dec 2016": 8.4,
+            "Sep 2016": 8.4,
+            "Jun 2016": 8.4
+          }
+        ]
+      }
+    ],
+    "id": 9593
+  },
+  {
+    "name": "Sandeep Parasmal Jain",
+    "shareHoldings": [
+      {
+        "companyName": "Gandhidham Spg.",
+        "result": [
+          {
+            "Dec 2016": 7.91,
+            "Sep 2016": 7.91,
+            "Jun 2016": 7.91
+          }
+        ]
+      }
+    ],
+    "id": 9594
+  },
+  {
+    "name": "Pradeep Parasmal Jain",
+    "shareHoldings": [
+      {
+        "companyName": "Gandhidham Spg.",
+        "result": [
+          {
+            "Dec 2016": 7.91,
+            "Sep 2016": 7.91,
+            "Jun 2016": 7.91
+          }
+        ]
+      }
+    ],
+    "id": 9595
+  },
+  {
+    "name": "Arvind Vithaldas Joshi",
+    "shareHoldings": [
+      {
+        "companyName": "Gandhidham Spg.",
+        "result": [
+          {
+            "Dec 2016": 7.41,
+            "Sep 2016": 7.41,
+            "Jun 2016": 7.41
+          }
+        ]
+      }
+    ],
+    "id": 9596
+  },
+  {
+    "name": "Roopchand Bhanshali",
+    "shareHoldings": [
+      {
+        "companyName": "Shreenath Invest",
+        "result": [
+          {
+            "Sep 2016": 4.92,
+            "Jun 2016": 4.92
+          }
+        ]
+      }
+    ],
+    "id": 9597
+  },
+  {
+    "name": "Impact Growth Fund Private Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Shreenath Invest",
+        "result": [
+          {
+            "Jun 2020": 4.84,
+            "Mar 2020": 4.84,
+            "Dec 2019": 4.84,
+            "Sep 2019": 4.84,
+            "Jun 2019": 4.84,
+            "Mar 2019": 4.84,
+            "Dec 2018": 4.84,
+            "Sep 2018": 4.84,
+            "Jun 2018": 4.84,
+            "Mar 2018": 4.84,
+            "Dec 2017": 4.84,
+            "Sep 2017": 4.84,
+            "Jun 2017": 4.84,
+            "Mar 2017": 4.84,
+            "Dec 2016": 4.84,
+            "Sep 2016": 4.84,
+            "Jun 2016": 4.84
+          }
+        ]
+      }
+    ],
+    "id": 9598
+  },
+  {
+    "name": "Lata Bhanshali",
+    "bulkDealsData": [
+      {
+        "date": "Simplex Projects\n01 Nov, 2017",
+        "orderType": "SELL",
+        "quantity": "2,16,373",
+        "price": "66.1"
+      },
+      {
+        "date": "Ramkrishna Forg.\n04 Apr, 2014",
+        "orderType": "Buy",
+        "quantity": "1,29,550",
+        "price": "105"
+      },
+      {
+        "date": "Ramkrishna Forg.\n04 Apr, 2014",
+        "orderType": "BUY",
+        "quantity": "1,38,025",
+        "price": "105"
+      },
+      {
+        "date": "Simplex Projects\n01 Aug, 2008",
+        "orderType": "SELL",
+        "quantity": "1,00,000",
+        "price": "195"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Aroni Commercial",
+        "result": [
+          {
+            "Mar 2017": 2.3,
+            "Dec 2016": 2.3,
+            "Sep 2016": 2.3,
+            "Jun 2016": 2.3
+          }
+        ]
+      },
+      {
+        "companyName": "Balrampur Chini",
+        "result": [
+          {
+            "Dec 2016": 1.38,
+            "Sep 2016": 1.38,
+            "Jun 2016": 2.12
+          }
+        ]
+      },
+      {
+        "companyName": "Future Lifestyle",
+        "result": [
+          {
+            "Dec 2021": 1.67,
+            "Sep 2021": 1.67,
+            "Jun 2021": 1.67,
+            "Mar 2021": 1.67,
+            "Dec 2020": 1.67,
+            "Sep 2020": 1.67,
+            "Jun 2020": 1.67,
+            "Mar 2020": 1.67,
+            "Dec 2019": 1.67,
+            "Sep 2019": 1.67,
+            "Jun 2019": 1.73,
+            "Mar 2019": 1.73,
+            "Dec 2018": 1.73,
+            "Sep 2018": 1.73,
+            "Jun 2018": 1.73,
+            "Mar 2018": 1.84,
+            "Dec 2017": 1.84,
+            "Sep 2017": 1.84,
+            "Jun 2017": 1.84,
+            "Mar 2017": 1.84,
+            "Dec 2016": 1.84,
+            "Sep 2016": 1.84,
+            "Jun 2016": 1.84
+          }
+        ]
+      },
+      {
+        "companyName": "Mah. Seamless",
+        "result": [
+          {
+            "Sep 2022": 1.4,
+            "Jun 2022": 1.62,
+            "Mar 2022": 1.62,
+            "Dec 2021": 1.62,
+            "Sep 2021": 1.62,
+            "Jun 2021": 1.62,
+            "Mar 2021": 1.62,
+            "Dec 2020": 1.62,
+            "Sep 2020": 1.62,
+            "Jun 2020": 1.62,
+            "Mar 2020": 1.62,
+            "Dec 2019": 1.62,
+            "Sep 2019": 1.62,
+            "Jun 2019": 1.62,
+            "Mar 2019": 1.62,
+            "Dec 2018": 1.62,
+            "Sep 2018": 1.62,
+            "Jun 2018": 1.62,
+            "Mar 2018": 1.62,
+            "Dec 2017": 1.62,
+            "Sep 2017": 1.62,
+            "Jun 2017": 1.62,
+            "Mar 2017": 1.62,
+            "Dec 2016": 1.62,
+            "Sep 2016": 1.62
+          }
+        ]
+      },
+      {
+        "companyName": "Parag Milk Foods",
+        "result": [
+          {
+            "Jun 2022": 1.05,
+            "Mar 2022": 1.05,
+            "Dec 2021": 1.05,
+            "Sep 2021": 1.05,
+            "Jun 2021": 1.05,
+            "Mar 2021": 1.19,
+            "Dec 2020": 1.19,
+            "Sep 2020": 1.13
+          }
+        ]
+      },
+      {
+        "companyName": "Prabhat Dairy",
+        "result": [
+          {
+            "Jun 2016": 1.99
+          }
+        ]
+      },
+      {
+        "companyName": "Ramkrishna Forg.",
+        "result": [
+          {
+            "Jun 2023": 3.3,
+            "Mar 2023": 3.3,
+            "Dec 2022": 3.3,
+            "Sep 2022": 3.3,
+            "Jun 2022": 3.3,
+            "Mar 2022": 3.3,
+            "Dec 2021": 3.3,
+            "Sep 2021": 3.3,
+            "Jun 2021": 3.3,
+            "Mar 2021": 3.3,
+            "Dec 2020": 3.3,
+            "Sep 2020": 3.3,
+            "Jun 2020": 3.27,
+            "Mar 2020": 3.23,
+            "Dec 2019": 3.23,
+            "Sep 2019": 3.24,
+            "Jun 2019": 3.24,
+            "Mar 2019": 3.24,
+            "Dec 2018": 3.24,
+            "Sep 2018": 3.25,
+            "Jun 2018": 3.25,
+            "Mar 2018": 3.25,
+            "Dec 2017": 3.25,
+            "Sep 2017": 3.25,
+            "Jun 2017": 3.69,
+            "Mar 2017": 3.69,
+            "Dec 2016": 3.69,
+            "Sep 2016": 3.69,
+            "Jun 2016": 3.34
+          }
+        ]
+      },
+      {
+        "companyName": "S Chand & Compan",
+        "result": [
+          {
+            "Dec 2019": 1.46
+          }
+        ]
+      },
+      {
+        "companyName": "Saraswati Commer",
+        "result": [
+          {
+            "Jun 2023": 1.02,
+            "Mar 2023": 1.02,
+            "Dec 2022": 1.02,
+            "Sep 2022": 1.02,
+            "Jun 2022": 1.02,
+            "Mar 2022": 1.02,
+            "Dec 2021": 1.02,
+            "Sep 2021": 1.02,
+            "Jun 2021": 1.02,
+            "Mar 2021": 1.05,
+            "Dec 2020": 1.05,
+            "Sep 2020": 1.05,
+            "Jun 2020": 1.05,
+            "Mar 2020": 1.05,
+            "Dec 2019": 1.05,
+            "Sep 2019": 1.05,
+            "Jun 2019": 1.05,
+            "Mar 2019": 1.05,
+            "Dec 2018": 1.05,
+            "Sep 2018": 1.05,
+            "Jun 2018": 1.05,
+            "Mar 2018": 1.05,
+            "Dec 2017": 1.02,
+            "Sep 2017": 1.02,
+            "Jun 2017": 1.02
+          }
+        ]
+      },
+      {
+        "companyName": "Shreenath Invest",
+        "result": [
+          {
+            "Jun 2023": 4.82,
+            "Mar 2023": 4.82,
+            "Dec 2022": 4.82,
+            "Sep 2022": 4.82,
+            "Jun 2022": 4.82,
+            "Mar 2022": 4.82,
+            "Dec 2021": 4.82,
+            "Sep 2021": 4.82,
+            "Jun 2021": 4.82,
+            "Mar 2021": 4.82,
+            "Dec 2020": 4.82,
+            "Sep 2020": 4.82,
+            "Jun 2020": 4.82,
+            "Mar 2020": 4.82,
+            "Dec 2019": 4.82,
+            "Sep 2019": 4.82,
+            "Jun 2019": 4.82,
+            "Mar 2019": 4.82,
+            "Dec 2018": 4.82,
+            "Sep 2018": 4.82,
+            "Jun 2018": 4.82,
+            "Mar 2018": 4.82,
+            "Dec 2017": 4.82,
+            "Sep 2017": 4.82,
+            "Jun 2017": 4.82,
+            "Mar 2017": 4.82,
+            "Dec 2016": 4.82,
+            "Sep 2016": 4.82,
+            "Jun 2016": 4.82
+          }
+        ]
+      },
+      {
+        "companyName": "Simplex Projects",
+        "result": [
+          {
+            "Sep 2019": 2.84,
+            "Jun 2019": 2.84,
+            "Mar 2019": 2.84,
+            "Dec 2018": 2.84,
+            "Sep 2018": 2.84,
+            "Jun 2018": 2.84,
+            "Mar 2018": 2.84,
+            "Dec 2017": 2.84,
+            "Sep 2017": 6.24,
+            "Jun 2017": 6.24,
+            "Mar 2017": 6.24,
+            "Dec 2016": 6.24,
+            "Sep 2016": 6.24,
+            "Jun 2016": 6.24
+          }
+        ]
+      },
+      {
+        "companyName": "T B Z",
+        "result": [
+          {
+            "Jun 2017": 1.28,
+            "Mar 2017": 1.28,
+            "Dec 2016": 1.28,
+            "Sep 2016": 1.28,
+            "Jun 2016": 1.28
+          }
+        ]
+      },
+      {
+        "companyName": "UFO Moviez",
+        "result": [
+          {
+            "Sep 2017": 1.02,
+            "Mar 2017": 1.02,
+            "Dec 2016": 1.02,
+            "Sep 2016": 1.02,
+            "Jun 2016": 1.02
+          }
+        ]
+      }
+    ],
+    "id": 9599
+  },
+  {
+    "name": "Rekha Shah",
+    "shareHoldings": [
+      {
+        "companyName": "Shreenath Invest",
+        "result": [
+          {
+            "Jun 2018": 4.8,
+            "Mar 2018": 4.8,
+            "Dec 2017": 4.8,
+            "Sep 2017": 4.8,
+            "Jun 2017": 4.8,
+            "Mar 2017": 4.8,
+            "Dec 2016": 4.8,
+            "Sep 2016": 4.8,
+            "Jun 2016": 4.8
+          }
+        ]
+      }
+    ],
+    "id": 9600
+  }
+]

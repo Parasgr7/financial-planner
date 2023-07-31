@@ -1,0 +1,7109 @@
+[
+  {
+    "name": "Ridhikripa Trading Private Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Gokul Refoils",
+        "result": [
+          {
+            "Jun 2023": 1.38,
+            "Mar 2023": 1.38,
+            "Dec 2022": 1.38,
+            "Jun 2022": 1.38,
+            "Mar 2022": 1.45,
+            "Dec 2021": 1.57,
+            "Sep 2021": 1.74,
+            "Jun 2021": 1.74,
+            "Mar 2021": 1.68,
+            "Jun 2020": 1.96,
+            "Mar 2020": 1.96,
+            "Dec 2019": 1.98,
+            "Sep 2019": 1.97,
+            "Jun 2019": 1.97,
+            "Mar 2019": 1.97,
+            "Dec 2018": 1.89,
+            "Sep 2018": 1.9,
+            "Jun 2018": 1.9,
+            "Mar 2018": 1.9,
+            "Dec 2017": 1.52,
+            "Sep 2017": 1.52,
+            "Jun 2017": 1.52,
+            "Mar 2017": 1.52,
+            "Dec 2016": 1.52,
+            "Sep 2016": 1.52,
+            "Jun 2016": 1.52
+          }
+        ]
+      }
+    ],
+    "id": 6101
+  },
+  {
+    "name": "Shriram Credit Company Limited",
+    "bulkDealsData": [
+      {
+        "date": "Empower India\n04 Apr, 2022",
+        "orderType": "Sell",
+        "quantity": "1,00,00,000",
+        "price": "0.15"
+      },
+      {
+        "date": "Empower India\n07 Feb, 2022",
+        "orderType": "Sell",
+        "quantity": "70,28,339",
+        "price": "0.15"
+      },
+      {
+        "date": "Jindal Cotex Ltd\n31 Jan, 2022",
+        "orderType": "SELL",
+        "quantity": "2,47,193",
+        "price": "4.50"
+      },
+      {
+        "date": "Aviva Industries\n28 Dec, 2021",
+        "orderType": "Sell",
+        "quantity": "49,015",
+        "price": "9.09"
+      },
+      {
+        "date": "Interworld Digi.\n02 Aug, 2021",
+        "orderType": "Sell",
+        "quantity": "33,20,720",
+        "price": "0.15"
+      },
+      {
+        "date": "Interworld Digi.\n21 Jun, 2021",
+        "orderType": "Sell",
+        "quantity": "26,72,312",
+        "price": "0.15"
+      },
+      {
+        "date": "Empower India\n30 Jun, 2020",
+        "orderType": "Sell",
+        "quantity": "1,08,42,770",
+        "price": "0.19"
+      },
+      {
+        "date": "Excel Realty\n07 May, 2019",
+        "orderType": "Sell",
+        "quantity": "5,23,820",
+        "price": "1.04"
+      },
+      {
+        "date": "TGB Banquets\n29 Mar, 2019",
+        "orderType": "SELL",
+        "quantity": "8,55,000",
+        "price": "11.5"
+      },
+      {
+        "date": "Interworld Digi.\n26 Mar, 2018",
+        "orderType": "Sell",
+        "quantity": "30,00,000",
+        "price": "0.15"
+      },
+      {
+        "date": "Arnav Corp.\n18 Jan, 2018",
+        "orderType": "Sell",
+        "quantity": "5,15,946",
+        "price": "0.35"
+      },
+      {
+        "date": "Arnav Corp.\n13 Sep, 2017",
+        "orderType": "Sell",
+        "quantity": "5,90,000",
+        "price": "0.82"
+      },
+      {
+        "date": "Amrapali Fincap\n07 Sep, 2017",
+        "orderType": "Sell",
+        "quantity": "2,19,600",
+        "price": "27.2"
+      },
+      {
+        "date": "Amrapali Fincap\n06 Sep, 2017",
+        "orderType": "Sell",
+        "quantity": "1,89,600",
+        "price": "28.6"
+      },
+      {
+        "date": "Checkpoint Trend\n27 Mar, 2017",
+        "orderType": "Sell",
+        "quantity": "39,954",
+        "price": "1.37"
+      },
+      {
+        "date": "Checkpoint Trend\n23 Mar, 2017",
+        "orderType": "Sell",
+        "quantity": "50,000",
+        "price": "1.37"
+      },
+      {
+        "date": "Checkpoint Trend\n22 Mar, 2017",
+        "orderType": "Sell",
+        "quantity": "50,000",
+        "price": "1.37"
+      },
+      {
+        "date": "Checkpoint Trend\n17 Mar, 2017",
+        "orderType": "Sell",
+        "quantity": "46,660",
+        "price": "1.41"
+      },
+      {
+        "date": "Checkpoint Trend\n16 Mar, 2017",
+        "orderType": "Sell",
+        "quantity": "45,050",
+        "price": "1.43"
+      },
+      {
+        "date": "Checkpoint Trend\n15 Mar, 2017",
+        "orderType": "Sell",
+        "quantity": "40,000",
+        "price": "1.45"
+      },
+      {
+        "date": "Checkpoint Trend\n14 Mar, 2017",
+        "orderType": "Sell",
+        "quantity": "35,076",
+        "price": "1.47"
+      },
+      {
+        "date": "Sanguine Media\n14 Feb, 2017",
+        "orderType": "Sell",
+        "quantity": "10,90,000",
+        "price": "1.61"
+      },
+      {
+        "date": "Secund. Health.\n30 Dec, 2016",
+        "orderType": "Sell",
+        "quantity": "7,63,073",
+        "price": "1.85"
+      },
+      {
+        "date": "Mahan Industries\n19 Dec, 2016",
+        "orderType": "Sell",
+        "quantity": "2,53,000",
+        "price": "0.60"
+      },
+      {
+        "date": "Secund. Health.\n30 Sep, 2016",
+        "orderType": "Sell",
+        "quantity": "8,70,000",
+        "price": "1.28"
+      },
+      {
+        "date": "Special.Papers\n12 May, 2016",
+        "orderType": "Sell",
+        "quantity": "9,43,772",
+        "price": "0.33"
+      },
+      {
+        "date": "Prabhav Ind\n31 Dec, 2015",
+        "orderType": "Sell",
+        "quantity": "3,20,547",
+        "price": "1.57"
+      },
+      {
+        "date": "Special.Papers\n31 Dec, 2015",
+        "orderType": "Sell",
+        "quantity": "40,40,399",
+        "price": "0.96"
+      },
+      {
+        "date": "Allied Computer.\n30 Apr, 2015",
+        "orderType": "Sell",
+        "quantity": "62,21,516",
+        "price": "0.06"
+      },
+      {
+        "date": "Sanguine Media\n31 Oct, 2014",
+        "orderType": "Sell",
+        "quantity": "10,00,000",
+        "price": "0.86"
+      },
+      {
+        "date": "Aadhaar Ventures\n29 May, 2014",
+        "orderType": "Sell",
+        "quantity": "1,21,14,997",
+        "price": "0.33"
+      },
+      {
+        "date": "Dhanus Tech.\n16 May, 2014",
+        "orderType": "Sell",
+        "quantity": "30,00,000",
+        "price": "0.07"
+      },
+      {
+        "date": "Prabhav Ind\n06 May, 2014",
+        "orderType": "Sell",
+        "quantity": "2,31,820",
+        "price": "1.33"
+      },
+      {
+        "date": "Prabhav Ind\n30 Dec, 2013",
+        "orderType": "Sell",
+        "quantity": "9,00,000",
+        "price": "1.40"
+      },
+      {
+        "date": "Sanguine Media\n27 Aug, 2013",
+        "orderType": "Sell",
+        "quantity": "7,06,000",
+        "price": "0.33"
+      },
+      {
+        "date": "Prabhav Ind\n05 Aug, 2013",
+        "orderType": "Sell",
+        "quantity": "3,51,800",
+        "price": "0.91"
+      },
+      {
+        "date": "Sanguine Media\n24 Jul, 2013",
+        "orderType": "Sell",
+        "quantity": "34,15,000",
+        "price": "0.42"
+      },
+      {
+        "date": "Avance Tech.\n11 Jul, 2013",
+        "orderType": "Sell",
+        "quantity": "36,52,349",
+        "price": "0.07"
+      },
+      {
+        "date": "Veer Energy\n05 Jul, 2013",
+        "orderType": "Sell",
+        "quantity": "7,00,000",
+        "price": "4.27"
+      },
+      {
+        "date": "Avance Tech.\n05 Jul, 2013",
+        "orderType": "Sell",
+        "quantity": "58,11,436",
+        "price": "0.07"
+      },
+      {
+        "date": "CNI Research\n03 Jul, 2013",
+        "orderType": "Sell",
+        "quantity": "3,30,000",
+        "price": "1.50"
+      },
+      {
+        "date": "Allied Computer.\n29 May, 2013",
+        "orderType": "Sell",
+        "quantity": "11,20,000",
+        "price": "0.46"
+      },
+      {
+        "date": "Allied Computer.\n03 May, 2013",
+        "orderType": "Sell",
+        "quantity": "6,35,575",
+        "price": "0.35"
+      },
+      {
+        "date": "Soma Textiles\n19 Oct, 2011",
+        "orderType": "BUY",
+        "quantity": "1,420",
+        "price": "4.07"
+      },
+      {
+        "date": "Soma Textiles\n19 Oct, 2011",
+        "orderType": "SELL",
+        "quantity": "2,84,853",
+        "price": "4.06"
+      },
+      {
+        "date": "Soma Textiles\n18 Oct, 2011",
+        "orderType": "SELL",
+        "quantity": "2,10,210",
+        "price": "5.14"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "52 Weeks Enter.",
+        "result": [
+          {
+            "Mar 2018": 2.85,
+            "Dec 2017": 3.02,
+            "Sep 2017": 3.02,
+            "Jun 2017": 3.02,
+            "Mar 2017": 3.52,
+            "Dec 2016": 3.52,
+            "Sep 2016": 3.52,
+            "Jun 2016": 2.33
+          }
+        ]
+      },
+      {
+        "companyName": "Aadhaar Ventures",
+        "result": [
+          {
+            "Mar 2017": 1.13,
+            "Dec 2016": 1.13,
+            "Sep 2016": 1.13,
+            "Jun 2016": 3.8
+          }
+        ]
+      },
+      {
+        "companyName": "Allied Computer.",
+        "result": [
+          {
+            "Sep 2016": 3.1,
+            "Jun 2016": 3.62
+          }
+        ]
+      },
+      {
+        "companyName": "Arnav Corp.",
+        "result": [
+          {
+            "Dec 2017": 1.25,
+            "Sep 2017": 1.25,
+            "Jun 2017": 2.32,
+            "Mar 2017": 2.35,
+            "Dec 2016": 3.34,
+            "Sep 2016": 3.96,
+            "Jun 2016": 5.48
+          }
+        ]
+      },
+      {
+        "companyName": "Aviva Industries",
+        "result": [
+          {
+            "Sep 2021": 3.27,
+            "Jun 2021": 3.27,
+            "Mar 2021": 3.27,
+            "Dec 2020": 3.27,
+            "Sep 2020": 3.27,
+            "Jun 2020": 3.27,
+            "Mar 2020": 3.27,
+            "Dec 2019": 3.27,
+            "Sep 2019": 3.27,
+            "Jun 2019": 3.27,
+            "Mar 2019": 3.27,
+            "Dec 2018": 3.27,
+            "Sep 2018": 3.27,
+            "Jun 2018": 3.27,
+            "Mar 2018": 3.27,
+            "Dec 2017": 3.27,
+            "Sep 2017": 3.27,
+            "Jun 2017": 3.27,
+            "Mar 2017": 3.27,
+            "Dec 2016": 3.27,
+            "Sep 2016": 3.27,
+            "Jun 2016": 3.27
+          }
+        ]
+      },
+      {
+        "companyName": "Checkpoint Trend",
+        "result": [
+          {
+            "Dec 2016": 6.59,
+            "Sep 2016": 6.59,
+            "Jun 2016": 6.59
+          }
+        ]
+      },
+      {
+        "companyName": "Empower India",
+        "result": [
+          {
+            "Mar 2023": 2.06,
+            "Dec 2022": 2.79,
+            "Sep 2022": 3.01,
+            "Jun 2022": 3.01,
+            "Mar 2022": 3.87,
+            "Dec 2021": 4.47,
+            "Sep 2021": 4.47,
+            "Jun 2021": 4.47,
+            "Mar 2021": 4.47,
+            "Dec 2020": 4.47,
+            "Sep 2020": 4.47,
+            "Jun 2020": 5.71,
+            "Mar 2020": 5.77,
+            "Dec 2019": 5.77,
+            "Sep 2019": 5.77,
+            "Jun 2019": 5.77,
+            "Mar 2019": 5.82,
+            "Dec 2018": 6,
+            "Sep 2018": 6.01,
+            "Jun 2018": 6.01,
+            "Mar 2018": 3.86
+          }
+        ]
+      },
+      {
+        "companyName": "Gokul Agro",
+        "result": [
+          {
+            "Sep 2017": 1.24,
+            "Jun 2017": 1.24,
+            "Mar 2017": 1.24,
+            "Dec 2016": 1.24,
+            "Sep 2016": 1.63,
+            "Jun 2016": 1.24
+          }
+        ]
+      },
+      {
+        "companyName": "Gokul Refoils",
+        "result": [
+          {
+            "Mar 2018": 1.12,
+            "Dec 2017": 1.12,
+            "Sep 2017": 1.22,
+            "Jun 2017": 1.22,
+            "Mar 2017": 1.22,
+            "Dec 2016": 1.22,
+            "Sep 2016": 1.22,
+            "Jun 2016": 1.22
+          }
+        ]
+      },
+      {
+        "companyName": "Grandma Trading",
+        "result": [
+          {
+            "Jun 2023": 2.65,
+            "Mar 2023": 2.65,
+            "Dec 2022": 2.65,
+            "Sep 2022": 2.65,
+            "Jun 2022": 2.65,
+            "Mar 2022": 2.65,
+            "Dec 2021": 2.65,
+            "Sep 2021": 2.65,
+            "Jun 2021": 2.65,
+            "Mar 2021": 2.65,
+            "Dec 2020": 2.65,
+            "Sep 2020": 2.65,
+            "Jun 2020": 2.65,
+            "Mar 2020": 2.65,
+            "Dec 2019": 2.65,
+            "Sep 2019": 2.65,
+            "Jun 2019": 2.65,
+            "Mar 2019": 2.65,
+            "Dec 2018": 2.65,
+            "Sep 2018": 2.65,
+            "Jun 2018": 2.65,
+            "Mar 2018": 2.65,
+            "Dec 2017": 2.65,
+            "Sep 2017": 2.65,
+            "Jun 2017": 2.11,
+            "Mar 2017": 2.16,
+            "Dec 2016": 2.16,
+            "Sep 2016": 2.16
+          }
+        ]
+      },
+      {
+        "companyName": "Interworld Digi.",
+        "result": [
+          {
+            "Jun 2021": 1.63,
+            "Mar 2021": 2.67,
+            "Dec 2020": 2.67,
+            "Sep 2020": 2.67,
+            "Jun 2020": 2.67,
+            "Mar 2020": 2.67,
+            "Dec 2019": 2.67,
+            "Sep 2019": 2.67,
+            "Jun 2019": 2.67,
+            "Mar 2019": 2.67,
+            "Dec 2018": 2.67,
+            "Sep 2018": 2.69,
+            "Jun 2018": 2.69,
+            "Mar 2018": 2.69,
+            "Dec 2017": 4.14,
+            "Sep 2017": 4.14,
+            "Jun 2017": 4.14,
+            "Mar 2017": 3.8,
+            "Dec 2016": 3.8,
+            "Sep 2016": 3.8,
+            "Jun 2016": 3.84
+          }
+        ]
+      },
+      {
+        "companyName": "Jindal Cotex Ltd",
+        "result": [
+          {
+            "Sep 2017": 1.16
+          }
+        ]
+      },
+      {
+        "companyName": "KCL Infra",
+        "result": [
+          {
+            "Sep 2016": 1.65,
+            "Jun 2016": 1.65
+          }
+        ]
+      },
+      {
+        "companyName": "LN Industries",
+        "result": [
+          {
+            "Jun 2023": 1.46,
+            "Mar 2023": 1.58
+          }
+        ]
+      },
+      {
+        "companyName": "Mahan Industries",
+        "result": [
+          {
+            "Mar 2017": 2.18,
+            "Dec 2016": 2.18,
+            "Sep 2016": 2.88,
+            "Jun 2016": 2.88
+          }
+        ]
+      },
+      {
+        "companyName": "Midvalley Enter",
+        "result": [
+          {
+            "Jun 2020": 1.37,
+            "Mar 2020": 1.37,
+            "Dec 2019": 1.37,
+            "Sep 2019": 1.37,
+            "Jun 2019": 1.37,
+            "Mar 2019": 1.37,
+            "Dec 2018": 1.37,
+            "Sep 2018": 1.37
+          }
+        ]
+      },
+      {
+        "companyName": "PG Electroplast",
+        "result": [
+          {
+            "Mar 2018": 1.37,
+            "Dec 2017": 1.37,
+            "Sep 2017": 1.37,
+            "Jun 2017": 1.37
+          }
+        ]
+      },
+      {
+        "companyName": "Prabhav Ind",
+        "result": [
+          {
+            "Jun 2016": 5.37
+          }
+        ]
+      },
+      {
+        "companyName": "Rushil Decor",
+        "result": [
+          {
+            "Dec 2019": 1.07,
+            "Sep 2019": 1.47,
+            "Jun 2019": 1.6,
+            "Mar 2019": 1.68,
+            "Dec 2018": 1.75,
+            "Sep 2018": 1.84,
+            "Jun 2018": 1.84,
+            "Mar 2018": 1.86,
+            "Dec 2017": 2.96,
+            "Sep 2017": 4.27,
+            "Jun 2017": 4.39,
+            "Mar 2017": 4.79,
+            "Dec 2016": 5.75,
+            "Sep 2016": 5.87,
+            "Jun 2016": 6.19
+          }
+        ]
+      },
+      {
+        "companyName": "Sanguine Media",
+        "result": [
+          {
+            "Mar 2017": 9.23,
+            "Dec 2016": 11.28,
+            "Sep 2016": 11.28,
+            "Jun 2016": 11.28
+          }
+        ]
+      },
+      {
+        "companyName": "Sea TV Network",
+        "result": [
+          {
+            "Jun 2023": 3.44,
+            "Mar 2023": 3.44,
+            "Dec 2022": 3.44,
+            "Sep 2022": 3.44,
+            "Jun 2022": 3.44,
+            "Mar 2022": 3.44,
+            "Dec 2021": 3.44,
+            "Sep 2021": 3.44,
+            "Jun 2021": 3.44,
+            "Mar 2021": 3.95,
+            "Dec 2020": 3.95,
+            "Sep 2020": 3.95,
+            "Jun 2020": 3.95,
+            "Mar 2020": 3.95,
+            "Dec 2019": 3.95,
+            "Sep 2019": 3.95,
+            "Jun 2019": 3.95,
+            "Mar 2019": 3.95,
+            "Dec 2018": 3.95,
+            "Sep 2018": 3.95,
+            "Jun 2018": 3.95,
+            "Mar 2018": 3.95,
+            "Dec 2017": 3.95,
+            "Sep 2017": 3.95,
+            "Jun 2017": 3.95,
+            "Mar 2017": 3.95,
+            "Dec 2016": 3.95,
+            "Sep 2016": 3.95,
+            "Jun 2016": 3.95
+          }
+        ]
+      },
+      {
+        "companyName": "Secund. Health.",
+        "result": [
+          {
+            "Mar 2023": 5.92,
+            "Dec 2022": 5.92,
+            "Sep 2022": 5.92,
+            "Jun 2022": 5.92,
+            "Mar 2022": 5.92,
+            "Dec 2021": 5.92,
+            "Sep 2021": 5.92,
+            "Jun 2021": 5.92,
+            "Mar 2021": 5.92,
+            "Dec 2020": 5.92,
+            "Sep 2020": 5.92,
+            "Jun 2020": 5.92,
+            "Mar 2020": 5.92,
+            "Dec 2019": 5.92,
+            "Sep 2019": 5.92,
+            "Jun 2019": 5.92,
+            "Mar 2019": 5.92,
+            "Dec 2018": 5.92,
+            "Sep 2018": 5.92,
+            "Jun 2018": 5.92,
+            "Mar 2018": 5.92,
+            "Dec 2017": 5.92,
+            "Sep 2017": 5.92,
+            "Jun 2017": 5.94,
+            "Mar 2017": 6.12,
+            "Dec 2016": 7.47,
+            "Sep 2016": 9.33,
+            "Jun 2016": 10.53
+          }
+        ]
+      },
+      {
+        "companyName": "Shriram AMC",
+        "result": [
+          {
+            "Jun 2023": 63.94,
+            "Mar 2023": 63.94,
+            "Dec 2022": 68.67,
+            "Sep 2022": 68.67,
+            "Jun 2022": 68.67,
+            "Mar 2022": 68.67,
+            "Dec 2021": 68.67,
+            "Sep 2021": 68.67,
+            "Jun 2021": 68.67,
+            "Mar 2021": 68.67,
+            "Dec 2020": 68.67,
+            "Sep 2020": 68.67,
+            "Jun 2020": 68.67,
+            "Mar 2020": 68.67,
+            "Dec 2019": 68.67,
+            "Sep 2019": 68.67,
+            "Jun 2019": 68.67,
+            "Mar 2019": 68.67,
+            "Dec 2018": 68.67,
+            "Sep 2018": 68.67,
+            "Jun 2018": 68.67,
+            "Mar 2018": 68.67,
+            "Dec 2017": 68.67,
+            "Sep 2017": 68.67,
+            "Jun 2017": 68.67,
+            "Mar 2017": 68.67,
+            "Dec 2016": 68.67,
+            "Sep 2016": 68.67,
+            "Jun 2016": 68.67
+          }
+        ]
+      },
+      {
+        "companyName": "Special.Papers",
+        "result": [
+          {
+            "Dec 2016": 1.28,
+            "Sep 2016": 1.85,
+            "Jun 2016": 5.34,
+            "Mar 2016": 7.23
+          }
+        ]
+      },
+      {
+        "companyName": "TGB Banquets",
+        "result": [
+          {
+            "Sep 2019": 1.06,
+            "Jun 2019": 1.4,
+            "Mar 2019": 3.41,
+            "Dec 2018": 6.83,
+            "Sep 2018": 6.83,
+            "Jun 2018": 6.83,
+            "Mar 2018": 6.83,
+            "Dec 2017": 6.83,
+            "Sep 2017": 6.83,
+            "Jun 2017": 6.83,
+            "Mar 2017": 6.83,
+            "Dec 2016": 6.83,
+            "Sep 2016": 6.83,
+            "Jun 2016": 6.83,
+            "Mar 2016": 6.83
+          }
+        ]
+      },
+      {
+        "companyName": "Yantra Natural",
+        "result": [
+          {
+            "Mar 2023": 2.54,
+            "Dec 2022": 2.54,
+            "Sep 2022": 2.54,
+            "Jun 2022": 2.54,
+            "Mar 2022": 2.54,
+            "Dec 2021": 2.54,
+            "Jun 2021": 2.54,
+            "Mar 2021": 2.54,
+            "Dec 2020": 2.54,
+            "Sep 2020": 2.54,
+            "Jun 2020": 2.54,
+            "Mar 2020": 2.54,
+            "Dec 2019": 2.54,
+            "Sep 2019": 2.54,
+            "Jun 2019": 2.54,
+            "Mar 2019": 2.54,
+            "Dec 2018": 2.54,
+            "Sep 2018": 2.54,
+            "Jun 2018": 2.54,
+            "Mar 2018": 2.49,
+            "Dec 2017": 2.49,
+            "Sep 2017": 2.49,
+            "Jun 2017": 2.49,
+            "Mar 2017": 2.49,
+            "Dec 2016": 2.49,
+            "Sep 2016": 2.49,
+            "Jun 2016": 2.49
+          }
+        ]
+      }
+    ],
+    "id": 6102
+  },
+  {
+    "name": "Sangita Pareshkumar Vedawala",
+    "bulkDealsData": [
+      {
+        "date": "Gokul Refoils\n27 Nov, 2015",
+        "orderType": "Buy",
+        "quantity": "7,50,000",
+        "price": "17.9"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Gokul Refoils",
+        "result": [
+          {
+            "Mar 2018": 1.02,
+            "Dec 2017": 1.02,
+            "Sep 2017": 1.02,
+            "Jun 2017": 1.02,
+            "Mar 2017": 1.02,
+            "Dec 2016": 1.02,
+            "Jun 2016": 1.02
+          }
+        ]
+      },
+      {
+        "companyName": "Tridev Infra.",
+        "result": [
+          {
+            "Jun 2023": 2.05,
+            "Mar 2023": 2.05,
+            "Dec 2022": 2.05,
+            "Sep 2022": 2.05,
+            "Jun 2022": 2.05,
+            "Mar 2022": 2.05,
+            "Dec 2021": 2.05,
+            "Sep 2021": 2.05,
+            "Jun 2021": 2.05,
+            "Mar 2021": 2.05,
+            "Dec 2020": 2.05,
+            "Sep 2020": 2.05,
+            "Jun 2020": 2.05,
+            "Jun 2019": 2.05,
+            "Mar 2019": 2.05,
+            "Dec 2018": 2.05,
+            "Sep 2018": 2.05,
+            "Jun 2018": 2.05,
+            "Mar 2018": 2.05,
+            "Dec 2017": 2.05,
+            "Sep 2017": 2.05,
+            "Jun 2017": 2.05,
+            "Mar 2017": 2.05,
+            "Dec 2016": 2.05,
+            "Sep 2016": 2.05,
+            "Jun 2016": 2.05
+          }
+        ]
+      }
+    ],
+    "id": 6103
+  },
+  {
+    "name": "Dharmendrasinh Balvantsinh Rajput",
+    "bulkDealsData": [
+      {
+        "date": "Gokul Refoils\n25 Sep, 2019",
+        "orderType": "Buy",
+        "quantity": "62,52,349",
+        "price": "16.8"
+      },
+      {
+        "date": "Gokul Refoils\n19 Sep, 2019",
+        "orderType": "Buy",
+        "quantity": "75,00,000",
+        "price": "15.7"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Gokul Agro",
+        "result": [
+          {
+            "Dec 2022": 0.21,
+            "Sep 2022": 0.21,
+            "Jun 2022": 0.21,
+            "Mar 2022": 0.21,
+            "Dec 2021": 0.22,
+            "Sep 2021": 0.22,
+            "Jun 2021": 0.22,
+            "Mar 2021": 0.22,
+            "Dec 2020": 0.22,
+            "Sep 2020": 0.22,
+            "Jun 2020": 0.22,
+            "Mar 2020": 0.22,
+            "Dec 2019": 0.22,
+            "Sep 2019": 0.7,
+            "Jun 2019": 0.7,
+            "Mar 2019": 0.7,
+            "Dec 2018": 0.7,
+            "Sep 2018": 0.7,
+            "Jun 2018": 0.7,
+            "Mar 2018": 0.7,
+            "Dec 2017": 0.7,
+            "Sep 2017": 0.7,
+            "Jun 2017": 0.7,
+            "Mar 2017": 0.7,
+            "Dec 2016": 0.7,
+            "Sep 2016": 0.7,
+            "Jun 2016": 0.7
+          }
+        ]
+      },
+      {
+        "companyName": "Gokul Refoils",
+        "result": [
+          {
+            "Jun 2023": 8.3,
+            "Mar 2023": 8.3,
+            "Dec 2022": 8.3,
+            "Sep 2022": 8.3,
+            "Jun 2022": 8.3,
+            "Mar 2022": 8.3,
+            "Dec 2021": 8.3,
+            "Sep 2021": 8.3,
+            "Jun 2021": 8.3,
+            "Mar 2021": 8.3,
+            "Dec 2020": 8.3,
+            "Sep 2020": 4.47,
+            "Jun 2020": 11.6,
+            "Mar 2020": 11.6,
+            "Dec 2019": 11.6,
+            "Sep 2019": 11.12,
+            "Jun 2019": 0.7,
+            "Mar 2019": 0.7,
+            "Dec 2018": 0.7,
+            "Sep 2018": 0.7,
+            "Jun 2018": 0.7,
+            "Mar 2018": 0.7,
+            "Dec 2017": 0.7,
+            "Sep 2017": 0.7,
+            "Jun 2017": 0.7,
+            "Mar 2017": 0.7,
+            "Dec 2016": 0.7,
+            "Sep 2016": 0.7,
+            "Jun 2016": 0.7
+          }
+        ]
+      }
+    ],
+    "id": 6104
+  },
+  {
+    "name": "Jayeshkumar K Thakkar",
+    "bulkDealsData": [
+      {
+        "date": "Gokul Agro\n25 Sep, 2019",
+        "orderType": "Buy",
+        "quantity": "57,64,849",
+        "price": "17.5"
+      },
+      {
+        "date": "Gokul Agro\n19 Sep, 2019",
+        "orderType": "Buy",
+        "quantity": "75,00,000",
+        "price": "15.5"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Gokul Agro",
+        "result": [
+          {
+            "Jun 2023": 9.84,
+            "Mar 2023": 10.14,
+            "Dec 2022": 10.14,
+            "Sep 2022": 10.14,
+            "Jun 2022": 10.14,
+            "Mar 2022": 10.14,
+            "Dec 2021": 11,
+            "Sep 2021": 11,
+            "Jun 2021": 11,
+            "Mar 2021": 11,
+            "Dec 2020": 11,
+            "Sep 2020": 11,
+            "Jun 2020": 11,
+            "Mar 2020": 11,
+            "Dec 2019": 11,
+            "Sep 2019": 10.53,
+            "Jun 2019": 0.47,
+            "Mar 2019": 0.47,
+            "Dec 2018": 0.47,
+            "Sep 2018": 0.47,
+            "Jun 2018": 0.47,
+            "Mar 2018": 0.47,
+            "Dec 2017": 0.47,
+            "Sep 2017": 0.47,
+            "Jun 2017": 0.47,
+            "Mar 2017": 0.47,
+            "Dec 2016": 0.47,
+            "Sep 2016": 0.47,
+            "Jun 2016": 0.47
+          }
+        ]
+      },
+      {
+        "companyName": "Gokul Refoils",
+        "result": [
+          {
+            "Sep 2019": 0.47,
+            "Jun 2019": 0.47,
+            "Mar 2019": 0.47,
+            "Dec 2018": 0.47,
+            "Sep 2018": 0.47,
+            "Jun 2018": 0.47,
+            "Mar 2018": 0.47,
+            "Dec 2017": 0.47,
+            "Sep 2017": 0.47,
+            "Jun 2017": 0.47,
+            "Mar 2017": 0.47,
+            "Dec 2016": 0.47,
+            "Sep 2016": 0.47,
+            "Jun 2016": 0.47
+          }
+        ]
+      }
+    ],
+    "id": 6105
+  },
+  {
+    "name": "Hansaben Chandansinh Rajput",
+    "shareHoldings": [
+      {
+        "companyName": "Gokul Agro",
+        "result": [
+          {
+            "Jun 2016": 0.2
+          }
+        ]
+      },
+      {
+        "companyName": "Gokul Refoils",
+        "result": [
+          {
+            "Sep 2018": 0.2,
+            "Jun 2018": 0.2,
+            "Mar 2018": 0.2,
+            "Dec 2017": 0.2,
+            "Sep 2017": 0.2,
+            "Jun 2017": 0.2,
+            "Mar 2017": 0.2,
+            "Dec 2016": 0.2,
+            "Sep 2016": 0.2,
+            "Jun 2016": 0.2
+          }
+        ]
+      }
+    ],
+    "id": 6106
+  },
+  {
+    "name": "Anand Rathi Global Finance Limited",
+    "bulkDealsData": [
+      {
+        "date": "MEP Infrast.\n12 Jul, 2023",
+        "orderType": "SELL",
+        "quantity": "10,00,000",
+        "price": "11.3"
+      },
+      {
+        "date": "Eros Intl.Media\n23 Jun, 2023",
+        "orderType": "Sell",
+        "quantity": "12,00,000",
+        "price": "21.1"
+      },
+      {
+        "date": "Hind Aluminium\n31 Mar, 2023",
+        "orderType": "Sell",
+        "quantity": "2,30,000",
+        "price": "36.5"
+      },
+      {
+        "date": "Abhinav Capital\n20 Oct, 2022",
+        "orderType": "Buy",
+        "quantity": "45,000",
+        "price": "91.5"
+      },
+      {
+        "date": "Abhinav Capital\n13 Oct, 2022",
+        "orderType": "Buy",
+        "quantity": "40,000",
+        "price": "95.5"
+      },
+      {
+        "date": "Abhinav Capital\n16 Sep, 2022",
+        "orderType": "Buy",
+        "quantity": "1,15,000",
+        "price": "107"
+      },
+      {
+        "date": "Abhinav Capital\n15 Sep, 2022",
+        "orderType": "Buy",
+        "quantity": "49,636",
+        "price": "107"
+      },
+      {
+        "date": "Gokul Refoils\n26 Apr, 2022",
+        "orderType": "SELL",
+        "quantity": "4,98,500",
+        "price": "47.2"
+      },
+      {
+        "date": "Gokul Refoils\n25 Apr, 2022",
+        "orderType": "SELL",
+        "quantity": "7,35,140",
+        "price": "46.0"
+      },
+      {
+        "date": "Mercator\n22 Apr, 2022",
+        "orderType": "SELL",
+        "quantity": "16,00,000",
+        "price": "2.01"
+      },
+      {
+        "date": "Premier\n12 Apr, 2022",
+        "orderType": "SELL",
+        "quantity": "3,65,300",
+        "price": "5.12"
+      },
+      {
+        "date": "Premier\n03 Jan, 2022",
+        "orderType": "SELL",
+        "quantity": "1,64,000",
+        "price": "11.7"
+      },
+      {
+        "date": "Mercator\n30 Dec, 2021",
+        "orderType": "SELL",
+        "quantity": "35,00,000",
+        "price": "2.40"
+      },
+      {
+        "date": "Mercator\n27 Dec, 2021",
+        "orderType": "SELL",
+        "quantity": "41,50,000",
+        "price": "2.10"
+      },
+      {
+        "date": "Bannari Amm Spg.\n20 Dec, 2021",
+        "orderType": "BUY",
+        "quantity": "5,00,000",
+        "price": "66.2"
+      },
+      {
+        "date": "Premier\n15 Dec, 2021",
+        "orderType": "SELL",
+        "quantity": "5,00,000",
+        "price": "11.0"
+      },
+      {
+        "date": "Premier\n14 Dec, 2021",
+        "orderType": "SELL",
+        "quantity": "3,46,000",
+        "price": "10.5"
+      },
+      {
+        "date": "Premier\n13 Dec, 2021",
+        "orderType": "SELL",
+        "quantity": "4,95,000",
+        "price": "10.0"
+      },
+      {
+        "date": "Premier\n10 Dec, 2021",
+        "orderType": "SELL",
+        "quantity": "2,35,000",
+        "price": "9.55"
+      },
+      {
+        "date": "Gokul Agro\n03 Aug, 2021",
+        "orderType": "SELL",
+        "quantity": "7,00,000",
+        "price": "43.3"
+      },
+      {
+        "date": "RPP Infra Proj.\n20 Jul, 2021",
+        "orderType": "SELL",
+        "quantity": "3,20,000",
+        "price": "97.4"
+      },
+      {
+        "date": "Tilaknagar Inds.\n12 Mar, 2021",
+        "orderType": "Buy",
+        "quantity": "47,46,442",
+        "price": "29.5"
+      },
+      {
+        "date": "Indian Terrain\n12 Aug, 2020",
+        "orderType": "SELL",
+        "quantity": "5,00,000",
+        "price": "32.7"
+      },
+      {
+        "date": "Indian Terrain\n17 Jun, 2020",
+        "orderType": "BUY",
+        "quantity": "4,65,000",
+        "price": "32.3"
+      },
+      {
+        "date": "Eros Intl.Media\n02 Jul, 2019",
+        "orderType": "SELL",
+        "quantity": "5,00,000",
+        "price": "18.0"
+      },
+      {
+        "date": "Eros Intl.Media\n01 Jul, 2019",
+        "orderType": "SELL",
+        "quantity": "20,00,000",
+        "price": "17.3"
+      },
+      {
+        "date": "Eros Intl.Media\n01 Jul, 2019",
+        "orderType": "Sell",
+        "quantity": "5,06,431",
+        "price": "17.2"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Abhinav Capital",
+        "result": [
+          {
+            "Jun 2023": 3.93,
+            "Mar 2023": 3.93,
+            "Dec 2022": 3.93
+          }
+        ]
+      },
+      {
+        "companyName": "Cerebra Integr.",
+        "result": [
+          {
+            "Jun 2019": 1.1
+          }
+        ]
+      },
+      {
+        "companyName": "Emami Realty Ltd",
+        "result": [
+          {
+            "Jun 2019": 1.83,
+            "Mar 2019": 1.59,
+            "Sep 2018": 1.21
+          }
+        ]
+      },
+      {
+        "companyName": "Eros Intl.Media",
+        "result": [
+          {
+            "Jun 2023": 3.4,
+            "Mar 2023": 4.65
+          }
+        ]
+      },
+      {
+        "companyName": "Excel Realty",
+        "result": [
+          {
+            "Dec 2020": 2.99
+          }
+        ]
+      },
+      {
+        "companyName": "Gokul Agro",
+        "result": [
+          {
+            "Jun 2021": 5.44,
+            "Mar 2021": 6.06,
+            "Dec 2020": 6.06,
+            "Jun 2020": 6.06,
+            "Mar 2020": 6.06,
+            "Dec 2019": 6.06,
+            "Sep 2019": 6.06,
+            "Mar 2019": 6.06,
+            "Sep 2018": 6.06,
+            "Mar 2018": 6.06,
+            "Dec 2017": 5.87,
+            "Sep 2017": 5.5,
+            "Jun 2017": 6.25,
+            "Mar 2017": 7.01
+          }
+        ]
+      },
+      {
+        "companyName": "Gokul Refoils",
+        "result": [
+          {
+            "Jun 2023": 7.02,
+            "Mar 2023": 7.02,
+            "Dec 2022": 7.02,
+            "Jun 2022": 7.02,
+            "Mar 2022": 8.9,
+            "Dec 2021": 9.57,
+            "Sep 2021": 10.02,
+            "Jun 2021": 10.1,
+            "Mar 2021": 10.71,
+            "Dec 2020": 10.71,
+            "Sep 2020": 8.04,
+            "Jun 2020": 8.04,
+            "Mar 2020": 8.04,
+            "Dec 2019": 8.04,
+            "Sep 2019": 8.04,
+            "Jun 2019": 8.04,
+            "Mar 2019": 8.04,
+            "Sep 2018": 7.72,
+            "Mar 2018": 7.72,
+            "Dec 2017": 7.72,
+            "Sep 2017": 7.72,
+            "Jun 2017": 7.72,
+            "Mar 2017": 5.37,
+            "Dec 2016": 2.41
+          }
+        ]
+      },
+      {
+        "companyName": "Hind Aluminium",
+        "result": [
+          {
+            "Mar 2023": 3.65,
+            "Dec 2022": 3.65,
+            "Sep 2022": 3.65,
+            "Jun 2022": 3.65,
+            "Mar 2022": 3.65,
+            "Dec 2021": 3.65,
+            "Sep 2021": 3.65,
+            "Jun 2021": 3.65,
+            "Mar 2021": 3.65,
+            "Dec 2020": 3.65,
+            "Sep 2020": 3.65,
+            "Jun 2020": 3.65,
+            "Mar 2020": 3.65,
+            "Dec 2019": 3.65,
+            "Sep 2019": 3.65,
+            "Jun 2019": 3.65,
+            "Mar 2019": 3.65,
+            "Sep 2018": 3.65,
+            "Mar 2018": 3.65,
+            "Dec 2017": 3.65,
+            "Sep 2017": 3.65,
+            "Jun 2017": 3.65,
+            "Mar 2017": 3.65
+          }
+        ]
+      },
+      {
+        "companyName": "Hubtown",
+        "result": [
+          {
+            "Jun 2023": 4.51,
+            "Mar 2023": 4.51,
+            "Dec 2022": 4.74,
+            "Sep 2022": 4.74,
+            "Jun 2022": 4.74,
+            "Mar 2022": 4.74,
+            "Dec 2021": 4.51,
+            "Sep 2021": 4.51,
+            "Jun 2021": 4.51,
+            "Mar 2021": 4.23,
+            "Dec 2020": 4.23,
+            "Sep 2020": 4.23,
+            "Jun 2020": 4.23,
+            "Mar 2020": 4.23,
+            "Dec 2019": 4.23,
+            "Sep 2019": 4.23,
+            "Jun 2019": 4.29,
+            "Sep 2018": 4.1,
+            "Dec 2017": 3.68,
+            "Sep 2017": 3.64,
+            "Jun 2017": 3.64,
+            "Mar 2017": 2.71,
+            "Dec 2016": 2.75,
+            "Sep 2016": 2.75,
+            "Jun 2016": 2.75
+          }
+        ]
+      },
+      {
+        "companyName": "Indian Terrain",
+        "result": [
+          {
+            "Jun 2020": 1.84
+          }
+        ]
+      },
+      {
+        "companyName": "Indus Fila",
+        "result": [
+          {
+            "Dec 2016": 14.45,
+            "Sep 2016": 14.45,
+            "Jun 2016": 14.45
+          }
+        ]
+      },
+      {
+        "companyName": "Jindal Cotex Ltd",
+        "result": [
+          {
+            "Jun 2023": 2.15,
+            "Mar 2023": 2.15,
+            "Dec 2022": 2.04,
+            "Sep 2022": 2.04,
+            "Jun 2022": 2.04,
+            "Mar 2022": 2.04,
+            "Dec 2021": 2.04,
+            "Sep 2021": 1.05,
+            "Jun 2021": 1.05,
+            "Mar 2021": 1.05,
+            "Dec 2020": 1.05,
+            "Sep 2020": 1.05,
+            "Jun 2020": 1.05,
+            "Mar 2020": 1.05,
+            "Dec 2019": 1.05,
+            "Sep 2019": 1.05,
+            "Jun 2019": 2.04,
+            "Mar 2019": 2.04
+          }
+        ]
+      },
+      {
+        "companyName": "Mangalam Cement",
+        "result": [
+          {
+            "Jun 2019": 2.25,
+            "Mar 2019": 2.25
+          }
+        ]
+      },
+      {
+        "companyName": "Mercator",
+        "result": [
+          {
+            "Jun 2023": 2.55,
+            "Mar 2023": 2.55,
+            "Dec 2022": 2.55,
+            "Jun 2022": 3.21,
+            "Mar 2022": 5.34,
+            "Dec 2021": 6.94,
+            "Sep 2021": 8.43,
+            "Jun 2021": 8.43,
+            "Mar 2021": 8.43,
+            "Dec 2020": 8.43,
+            "Sep 2020": 8.43
+          }
+        ]
+      },
+      {
+        "companyName": "MSTC",
+        "result": [
+          {
+            "Sep 2019": 1.9,
+            "Jun 2019": 2.18
+          }
+        ]
+      },
+      {
+        "companyName": "Parsvnath Devl.",
+        "result": [
+          {
+            "Jun 2019": 2.2,
+            "Mar 2019": 2.16,
+            "Mar 2018": 2.13,
+            "Dec 2017": 2.13,
+            "Sep 2017": 2.13,
+            "Jun 2017": 2.13,
+            "Mar 2017": 1.04,
+            "Dec 2016": 1.04,
+            "Sep 2016": 1.06
+          }
+        ]
+      },
+      {
+        "companyName": "Premier",
+        "result": [
+          {
+            "Jun 2023": 2.9,
+            "Mar 2023": 2.9,
+            "Dec 2022": 3.02,
+            "Sep 2022": 3.74,
+            "Jun 2022": 4.45,
+            "Mar 2022": 8.13,
+            "Dec 2021": 10.06,
+            "Sep 2021": 17.45,
+            "Jun 2021": 17.45,
+            "Mar 2021": 17.45,
+            "Dec 2020": 17.45,
+            "Sep 2020": 17.45
+          }
+        ]
+      },
+      {
+        "companyName": "Riba Textiles",
+        "result": [
+          {
+            "Jun 2019": 11.72,
+            "Mar 2019": 12.59,
+            "Dec 2018": 1.62,
+            "Sep 2018": 2.06,
+            "Mar 2018": 10.98
+          }
+        ]
+      },
+      {
+        "companyName": "RPP Infra Proj.",
+        "result": [
+          {
+            "Jun 2023": 3.96,
+            "Mar 2023": 3.96,
+            "Dec 2022": 3.96,
+            "Sep 2022": 3.96,
+            "Jun 2022": 3.96,
+            "Mar 2022": 3.96,
+            "Jun 2021": 2.98,
+            "Mar 2021": 2.98,
+            "Dec 2020": 3.11,
+            "Sep 2020": 3.11,
+            "Jun 2020": 3.11,
+            "Mar 2020": 3.11,
+            "Dec 2019": 3.11,
+            "Sep 2019": 3.11,
+            "Jun 2019": 3.11,
+            "Mar 2019": 3.11,
+            "Sep 2018": 2.74,
+            "Dec 2017": 3.28,
+            "Sep 2017": 3.28,
+            "Jun 2017": 3.28,
+            "Mar 2017": 3.28
+          }
+        ]
+      },
+      {
+        "companyName": "Rushil Decor",
+        "result": [
+          {
+            "Jun 2023": 1.24,
+            "Mar 2023": 1.22,
+            "Dec 2022": 1.22,
+            "Sep 2022": 1.22,
+            "Jun 2022": 2.66,
+            "Mar 2022": 3.02,
+            "Dec 2021": 3.19,
+            "Sep 2021": 3.94,
+            "Jun 2021": 4.1,
+            "Mar 2021": 4.1,
+            "Dec 2020": 3.51,
+            "Sep 2020": 4.64,
+            "Jun 2020": 4.95,
+            "Mar 2020": 4.95,
+            "Dec 2019": 4.8,
+            "Sep 2019": 4.8,
+            "Jun 2019": 1.5,
+            "Mar 2019": 1.5,
+            "Sep 2018": 3.82,
+            "Mar 2018": 3.64,
+            "Dec 2017": 4.36,
+            "Sep 2017": 4.76,
+            "Jun 2017": 4.83,
+            "Mar 2017": 4.87,
+            "Dec 2016": 4.92,
+            "Sep 2016": 3.47,
+            "Jun 2016": 3.73
+          }
+        ]
+      },
+      {
+        "companyName": "TGB Banquets",
+        "result": [
+          {
+            "Jun 2023": 1.34,
+            "Mar 2023": 1.34,
+            "Dec 2022": 1.34,
+            "Sep 2022": 1.34,
+            "Jun 2022": 1.34,
+            "Mar 2022": 1.34,
+            "Dec 2021": 1.34,
+            "Sep 2021": 1.34,
+            "Jun 2021": 1.34,
+            "Mar 2021": 1.34,
+            "Dec 2020": 1.34,
+            "Sep 2020": 1.34,
+            "Jun 2020": 1.34,
+            "Mar 2020": 1.34,
+            "Dec 2019": 1.34,
+            "Sep 2019": 1.34,
+            "Jun 2019": 1.34,
+            "Mar 2019": 1.34,
+            "Dec 2018": 1.3,
+            "Sep 2018": 1.3,
+            "Mar 2018": 1.25,
+            "Dec 2017": 1.34,
+            "Sep 2017": 1.34,
+            "Jun 2017": 1.34,
+            "Mar 2017": 3.05,
+            "Dec 2016": 3.05,
+            "Sep 2016": 3.05,
+            "Jun 2016": 1.49,
+            "Mar 2016": 1.49
+          }
+        ]
+      },
+      {
+        "companyName": "Tilaknagar Inds.",
+        "result": [
+          {
+            "Jun 2021": 2.08,
+            "Mar 2021": 4.19
+          }
+        ]
+      },
+      {
+        "companyName": "Vipul Ltd",
+        "result": [
+          {
+            "Jun 2019": 1.17,
+            "Mar 2019": 1.1,
+            "Jun 2017": 1.33
+          }
+        ]
+      },
+      {
+        "companyName": "Zandu Realty",
+        "result": [
+          {
+            "Dec 2017": 1.59,
+            "Sep 2017": 1.59,
+            "Jun 2017": 1.59,
+            "Mar 2017": 1.59,
+            "Dec 2016": 1.47,
+            "Sep 2016": 1.47,
+            "Jun 2016": 1.36
+          }
+        ]
+      }
+    ],
+    "id": 6107
+  },
+  {
+    "name": "Mnm Stock Broking Private Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Gokul Refoils",
+        "result": [
+          {
+            "Sep 2020": 30.49,
+            "Dec 2017": 1.53
+          }
+        ]
+      },
+      {
+        "companyName": "Guj. Raffia Inds",
+        "result": [
+          {
+            "Mar 2018": 1.6,
+            "Dec 2016": 1.09
+          }
+        ]
+      },
+      {
+        "companyName": "KKRRAFTON Develo",
+        "result": [
+          {
+            "Mar 2017": 2.21,
+            "Dec 2016": 2.59
+          }
+        ]
+      },
+      {
+        "companyName": "Safal Securities",
+        "result": [
+          {
+            "Dec 2016": 2.84,
+            "Sep 2016": 1.13,
+            "Jun 2016": 2.69
+          }
+        ]
+      },
+      {
+        "companyName": "Shangar Decor",
+        "result": [
+          {
+            "Dec 2017": 1.21
+          }
+        ]
+      },
+      {
+        "companyName": "Shivansh Finserv",
+        "result": [
+          {
+            "Mar 2017": 1.75,
+            "Dec 2016": 1.75,
+            "Sep 2016": 2.01
+          }
+        ]
+      }
+    ],
+    "id": 6108
+  },
+  {
+    "name": "Jitaji Ganeshji Rajput",
+    "bulkDealsData": [
+      {
+        "date": "Gokul Refoils\n27 Dec, 2017",
+        "orderType": "Buy",
+        "quantity": "15,00,000",
+        "price": "20.8"
+      },
+      {
+        "date": "Gokul Refoils\n09 Jun, 2016",
+        "orderType": "Buy",
+        "quantity": "10,00,000",
+        "price": "15.9"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Gokul Refoils",
+        "result": [
+          {
+            "Jun 2023": 1.43,
+            "Mar 2023": 1.43,
+            "Dec 2022": 1.21,
+            "Sep 2022": 1.24,
+            "Jun 2022": 1.24,
+            "Mar 2022": 1.31,
+            "Dec 2021": 1.53,
+            "Sep 2021": 1.85,
+            "Jun 2021": 1.85,
+            "Mar 2021": 1.79,
+            "Dec 2020": 1.1,
+            "Jun 2020": 1.97,
+            "Mar 2020": 1.97,
+            "Dec 2019": 1.99,
+            "Sep 2019": 1.96,
+            "Jun 2019": 1.96,
+            "Mar 2019": 1.96,
+            "Dec 2018": 1.9,
+            "Sep 2018": 1.9,
+            "Jun 2018": 1.9,
+            "Mar 2018": 1.9
+          }
+        ]
+      }
+    ],
+    "id": 6109
+  },
+  {
+    "name": "Jashodaben Commodities LLP",
+    "bulkDealsData": [
+      {
+        "date": "Gokul Refoils\n23 Mar, 2021",
+        "orderType": "Sell",
+        "quantity": "5,21,865",
+        "price": "20.2"
+      },
+      {
+        "date": "Gokul Refoils\n03 Dec, 2019",
+        "orderType": "Sell",
+        "quantity": "65,75,000",
+        "price": "15.2"
+      },
+      {
+        "date": "Gokul Agro\n03 Dec, 2019",
+        "orderType": "Buy",
+        "quantity": "65,75,000",
+        "price": "15.2"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Gokul Agro",
+        "result": [
+          {
+            "Jun 2023": 12.57,
+            "Mar 2023": 10.1,
+            "Dec 2022": 10.1,
+            "Sep 2022": 10.1,
+            "Jun 2022": 10.1,
+            "Mar 2022": 10.1,
+            "Dec 2021": 10.96,
+            "Sep 2021": 10.96,
+            "Jun 2021": 10.96,
+            "Mar 2021": 10.96,
+            "Dec 2020": 10.96,
+            "Sep 2020": 10.96,
+            "Jun 2020": 10.96,
+            "Mar 2020": 10.96,
+            "Dec 2019": 1.98,
+            "Sep 2019": 5.97,
+            "Jun 2019": 5.97,
+            "Mar 2019": 5.97,
+            "Dec 2018": 5.97,
+            "Sep 2018": 5.97,
+            "Jun 2018": 5.97
+          }
+        ]
+      },
+      {
+        "companyName": "Gokul Refoils",
+        "result": [
+          {
+            "Dec 2022": 0.3,
+            "Sep 2022": 0.3,
+            "Jun 2022": 0.3,
+            "Mar 2022": 0.3,
+            "Dec 2021": 0.3,
+            "Sep 2021": 0.3,
+            "Jun 2021": 0.3,
+            "Mar 2021": 0.3,
+            "Dec 2020": 1.31,
+            "Sep 2020": 0.99,
+            "Jun 2020": 0.99,
+            "Mar 2020": 0.99,
+            "Dec 2019": 0.99,
+            "Sep 2019": 5.97,
+            "Jun 2019": 5.97,
+            "Mar 2019": 5.97,
+            "Dec 2018": 5.97,
+            "Sep 2018": 5.97,
+            "Jun 2018": 5.97
+          }
+        ]
+      }
+    ],
+    "id": 6110
+  },
+  {
+    "name": "Siddhnath Exports Private Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Gokul Refoils",
+        "result": [
+          {
+            "Jun 2023": 1.48,
+            "Mar 2023": 1.48,
+            "Dec 2022": 1.48,
+            "Jun 2022": 1.48,
+            "Mar 2022": 1.55,
+            "Dec 2021": 1.68,
+            "Sep 2021": 1.85,
+            "Jun 2021": 1.85,
+            "Mar 2021": 1.79,
+            "Dec 2020": 1.03,
+            "Jun 2020": 1.96,
+            "Mar 2020": 1.96,
+            "Dec 2019": 1.98,
+            "Sep 2019": 1.97,
+            "Jun 2019": 1.97,
+            "Mar 2019": 1.97,
+            "Dec 2018": 1.81,
+            "Sep 2018": 1.4,
+            "Jun 2018": 1.38
+          }
+        ]
+      }
+    ],
+    "id": 6111
+  },
+  {
+    "name": "Authum Investment And Infrastructure Limited",
+    "bulkDealsData": [
+      {
+        "date": "Crest Ventures\n27 Sep, 2019",
+        "orderType": "SELL",
+        "quantity": "8,50,000",
+        "price": "102"
+      },
+      {
+        "date": "Man Industries\n12 Oct, 2017",
+        "orderType": "BUY",
+        "quantity": "50,000",
+        "price": "95.5"
+      },
+      {
+        "date": "Man Industries\n12 Oct, 2017",
+        "orderType": "SELL",
+        "quantity": "3,43,314",
+        "price": "104"
+      },
+      {
+        "date": "Crest Ventures\n20 Mar, 2017",
+        "orderType": "BUY",
+        "quantity": "16,15,000",
+        "price": "151"
+      },
+      {
+        "date": "Jain Irrigat-DVR\n09 Nov, 2015",
+        "orderType": "BUY",
+        "quantity": "2,50,000",
+        "price": "47.0"
+      },
+      {
+        "date": "Jain Irrigat-DVR\n09 Nov, 2015",
+        "orderType": "SELL",
+        "quantity": "8,487",
+        "price": "47.0"
+      },
+      {
+        "date": "Ashika Credit\n25 Mar, 2014",
+        "orderType": "Sell",
+        "quantity": "1,90,000",
+        "price": "74.2"
+      },
+      {
+        "date": "Ashika Credit\n05 Mar, 2014",
+        "orderType": "Buy",
+        "quantity": "80,000",
+        "price": "100"
+      },
+      {
+        "date": "Ashika Credit\n04 Mar, 2014",
+        "orderType": "Buy",
+        "quantity": "1,30,000",
+        "price": "97.3"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "ADF Foods",
+        "result": [
+          {
+            "Jun 2023": 11.98,
+            "Mar 2023": 11.89,
+            "Dec 2022": 11.87,
+            "Sep 2022": 6.76,
+            "Jun 2022": 6.76,
+            "Mar 2022": 10.38,
+            "Dec 2021": 12.32,
+            "Sep 2021": 12.3,
+            "Jun 2021": 12.31,
+            "Mar 2021": 12.04,
+            "Dec 2020": 12.36,
+            "Sep 2020": 12.99,
+            "Jun 2020": 18.43,
+            "Mar 2020": 22.44
+          }
+        ]
+      },
+      {
+        "companyName": "Antony Waste han",
+        "result": [
+          {
+            "Jun 2023": 1.73,
+            "Mar 2023": 1.73,
+            "Dec 2022": 1.73,
+            "Sep 2022": 1.73,
+            "Jun 2022": 1.73,
+            "Mar 2022": 1.73,
+            "Dec 2021": 1.7,
+            "Sep 2021": 1.77
+          }
+        ]
+      },
+      {
+        "companyName": "Bharat Wire",
+        "result": [
+          {
+            "Jun 2023": 9.58,
+            "Mar 2023": 9.63,
+            "Dec 2022": 10.15,
+            "Sep 2022": 10.16,
+            "Jun 2022": 10.2,
+            "Mar 2022": 10.34,
+            "Dec 2021": 10.37,
+            "Sep 2021": 10.37,
+            "Jun 2021": 10.45,
+            "Mar 2021": 13.8,
+            "Dec 2020": 19.21,
+            "Jun 2020": 19.21,
+            "Mar 2020": 19.24
+          }
+        ]
+      },
+      {
+        "companyName": "Cantabil Retail",
+        "result": [
+          {
+            "Jun 2023": 3.06,
+            "Mar 2023": 3.06,
+            "Dec 2022": 3.07,
+            "Sep 2022": 3.07,
+            "Jun 2022": 3.07,
+            "Mar 2022": 3.07
+          }
+        ]
+      },
+      {
+        "companyName": "Crest Ventures",
+        "result": [
+          {
+            "Sep 2019": 1.16,
+            "Jun 2019": 4.15,
+            "Mar 2019": 4.75,
+            "Dec 2018": 5.5,
+            "Sep 2018": 5.68,
+            "Jun 2018": 5.68,
+            "Mar 2018": 6.2,
+            "Dec 2017": 6.2,
+            "Sep 2017": 6.2
+          }
+        ]
+      },
+      {
+        "companyName": "Gayatri Highways",
+        "result": [
+          {
+            "Jun 2023": 1.59,
+            "Mar 2023": 2.32,
+            "Dec 2022": 2.32,
+            "Sep 2022": 2.53,
+            "Jun 2022": 3.81,
+            "Mar 2022": 3.81,
+            "Dec 2021": 3.81,
+            "Sep 2021": 3.81,
+            "Jun 2021": 3.81
+          }
+        ]
+      },
+      {
+        "companyName": "Gokul Agro",
+        "result": [
+          {
+            "Jun 2023": 1.05,
+            "Mar 2023": 1.05,
+            "Dec 2022": 1.05,
+            "Sep 2022": 1.05,
+            "Jun 2022": 1.05,
+            "Mar 2022": 1.08,
+            "Dec 2021": 1.17,
+            "Sep 2021": 1.58,
+            "Jun 2021": 1.85,
+            "Mar 2021": 2.04,
+            "Dec 2020": 2.12,
+            "Jun 2020": 2.23,
+            "Mar 2020": 2.23
+          }
+        ]
+      },
+      {
+        "companyName": "Gokul Refoils",
+        "result": [
+          {
+            "Jun 2023": 2.12,
+            "Mar 2023": 2.12,
+            "Dec 2022": 2.12,
+            "Jun 2022": 2.23,
+            "Mar 2022": 2.81,
+            "Dec 2021": 3.14,
+            "Sep 2021": 3.69,
+            "Jun 2021": 3.83,
+            "Mar 2021": 4.46,
+            "Dec 2020": 4.46,
+            "Sep 2020": 3.35,
+            "Jun 2020": 3.35,
+            "Mar 2020": 3.37
+          }
+        ]
+      },
+      {
+        "companyName": "Heads UP Venture",
+        "result": [
+          {
+            "Jun 2023": 4.11,
+            "Mar 2023": 4.11,
+            "Dec 2022": 4.11,
+            "Sep 2022": 4.11,
+            "Jun 2022": 4.11,
+            "Mar 2022": 4.11,
+            "Dec 2021": 4.11,
+            "Sep 2021": 4.11,
+            "Jun 2021": 4.11,
+            "Mar 2021": 4.11,
+            "Dec 2020": 4.11,
+            "Sep 2020": 4.11,
+            "Jun 2020": 4.11,
+            "Mar 2020": 4.11
+          }
+        ]
+      },
+      {
+        "companyName": "Inox Green",
+        "result": [
+          {
+            "Jun 2023": 6.59,
+            "Mar 2023": 6.59,
+            "Dec 2022": 6.59
+          }
+        ]
+      },
+      {
+        "companyName": "JSW Energy",
+        "result": [
+          {
+            "Jun 2023": 2.01,
+            "Mar 2023": 1.95,
+            "Dec 2022": 2.44,
+            "Sep 2022": 2.41,
+            "Jun 2022": 2.36,
+            "Mar 2022": 2.39,
+            "Dec 2021": 2.5,
+            "Sep 2021": 2.49,
+            "Jun 2021": 2.17,
+            "Mar 2021": 2.38,
+            "Dec 2020": 2.03,
+            "Sep 2020": 1.23
+          }
+        ]
+      },
+      {
+        "companyName": "Man Industries",
+        "result": [
+          {
+            "Sep 2017": 1.07
+          }
+        ]
+      },
+      {
+        "companyName": "Patanjali Foods",
+        "result": [
+          {
+            "Jun 2022": 1.12
+          }
+        ]
+      },
+      {
+        "companyName": "Prime Securities",
+        "result": [
+          {
+            "Jun 2023": 1.33,
+            "Mar 2023": 1.33,
+            "Dec 2022": 1.34,
+            "Sep 2022": 1.15,
+            "Jun 2022": 1.17,
+            "Mar 2022": 1.05,
+            "Dec 2021": 1.05
+          }
+        ]
+      },
+      {
+        "companyName": "Quint Digital",
+        "result": [
+          {
+            "Mar 2023": 1.26
+          }
+        ]
+      },
+      {
+        "companyName": "RPG LifeScience.",
+        "result": [
+          {
+            "Jun 2023": 2.01,
+            "Mar 2023": 2.01,
+            "Dec 2022": 2.01,
+            "Sep 2022": 2.01,
+            "Jun 2022": 1.93,
+            "Mar 2022": 1.93,
+            "Dec 2021": 1.93,
+            "Sep 2021": 1.98,
+            "Jun 2021": 1.98,
+            "Mar 2021": 1.98,
+            "Dec 2020": 1.98,
+            "Sep 2020": 1.98,
+            "Jun 2020": 1.98,
+            "Mar 2020": 1.98
+          }
+        ]
+      },
+      {
+        "companyName": "Sangam India",
+        "result": [
+          {
+            "Jun 2023": 10.52,
+            "Mar 2023": 11.72,
+            "Dec 2022": 11.72,
+            "Sep 2022": 11.72,
+            "Jun 2022": 12.17,
+            "Mar 2022": 12.06,
+            "Dec 2021": 12.06,
+            "Sep 2021": 11.9,
+            "Jun 2021": 12.8,
+            "Mar 2021": 11.48,
+            "Dec 2020": 11.47,
+            "Sep 2020": 12.62,
+            "Jun 2020": 12.75,
+            "Mar 2020": 12.71
+          }
+        ]
+      },
+      {
+        "companyName": "Suyog Telematics",
+        "result": [
+          {
+            "Dec 2021": 16.31,
+            "Sep 2021": 16.59,
+            "Jun 2021": 16.84,
+            "Mar 2021": 16.79,
+            "Dec 2020": 15.42,
+            "Jun 2020": 14.2,
+            "Mar 2020": 13.95
+          }
+        ]
+      },
+      {
+        "companyName": "Veranda Learning",
+        "result": [
+          {
+            "Jun 2023": 3.32,
+            "Mar 2023": 3.32,
+            "Dec 2022": 3.32,
+            "Sep 2022": 3.33,
+            "Jun 2022": 3.33
+          }
+        ]
+      },
+      {
+        "companyName": "Veto Switchgears",
+        "result": [
+          {
+            "Dec 2021": 1.05
+          }
+        ]
+      },
+      {
+        "companyName": "Wanbury",
+        "result": [
+          {
+            "Jun 2023": 3.87,
+            "Dec 2022": 3.87,
+            "Jun 2022": 3.87,
+            "Mar 2022": 3.87
+          }
+        ]
+      },
+      {
+        "companyName": "Welspun Corp",
+        "result": [
+          {
+            "Jun 2023": 4.43,
+            "Mar 2023": 4.34,
+            "Dec 2022": 4.27,
+            "Sep 2022": 4.02,
+            "Jun 2022": 4.2,
+            "Mar 2022": 2.03,
+            "Dec 2021": 1.82,
+            "Sep 2021": 1.82,
+            "Jun 2021": 1.82,
+            "Mar 2021": 2.33,
+            "Dec 2020": 2.21,
+            "Sep 2020": 2.18,
+            "Mar 2020": 2.47
+          }
+        ]
+      },
+      {
+        "companyName": "Welspun Enterp",
+        "result": [
+          {
+            "Jun 2023": 3.06,
+            "Mar 2023": 3.04,
+            "Dec 2022": 3.04,
+            "Sep 2022": 3.04,
+            "Jun 2022": 2.16,
+            "Mar 2022": 2.15,
+            "Dec 2021": 2.16,
+            "Sep 2021": 2.85,
+            "Jun 2021": 2.86,
+            "Mar 2021": 2.86,
+            "Dec 2020": 2.86,
+            "Sep 2020": 2.86,
+            "Mar 2020": 2.86
+          }
+        ]
+      }
+    ],
+    "id": 6112
+  },
+  {
+    "name": "Amrutbhai Maganbhai Desai",
+    "shareHoldings": [
+      {
+        "companyName": "Gokul Refoils",
+        "result": [
+          {
+            "Jun 2020": 1.13,
+            "Mar 2020": 1.13
+          }
+        ]
+      }
+    ],
+    "id": 6113
+  },
+  {
+    "name": "Bal Krishna Shriya Jt. Gauri Shriya",
+    "shareHoldings": [
+      {
+        "companyName": "Gold Rock Inves.",
+        "result": [
+          {
+            "Jun 2017": 34.37,
+            "Mar 2017": 34.37,
+            "Dec 2016": 34.37,
+            "Sep 2016": 34.37,
+            "Jun 2016": 34.37
+          }
+        ]
+      }
+    ],
+    "id": 6114
+  },
+  {
+    "name": "Gauri Shriya",
+    "shareHoldings": [
+      {
+        "companyName": "Gold Rock Inves.",
+        "result": [
+          {
+            "Jun 2023": 31.19,
+            "Mar 2023": 31.19,
+            "Dec 2022": 31.19,
+            "Sep 2022": 31.19,
+            "Jun 2022": 31.19,
+            "Mar 2022": 31.19,
+            "Dec 2021": 31.19,
+            "Sep 2021": 31.19,
+            "Jun 2021": 31.19,
+            "Mar 2021": 31.19,
+            "Dec 2020": 31.19,
+            "Sep 2020": 31.19,
+            "Jun 2020": 31.19,
+            "Mar 2020": 31.19,
+            "Dec 2019": 31.19,
+            "Sep 2019": 31.19,
+            "Jun 2019": 31.19,
+            "Mar 2019": 31.19,
+            "Dec 2018": 31.19,
+            "Sep 2018": 31.19,
+            "Jun 2018": 31.19,
+            "Mar 2018": 31.19,
+            "Dec 2017": 31.19,
+            "Sep 2017": 31.19,
+            "Jun 2017": 31.19,
+            "Mar 2017": 31.19,
+            "Dec 2016": 31.19,
+            "Sep 2016": 31.19,
+            "Jun 2016": 31.19
+          }
+        ]
+      }
+    ],
+    "id": 6115
+  },
+  {
+    "name": "Sanjeev Shriya Jt. Balkrishna Shriya",
+    "shareHoldings": [
+      {
+        "companyName": "Gold Rock Inves.",
+        "result": [
+          {
+            "Jun 2017": 4.84,
+            "Mar 2017": 4.84,
+            "Dec 2016": 4.84,
+            "Sep 2016": 4.84,
+            "Jun 2016": 4.84
+          }
+        ]
+      }
+    ],
+    "id": 6116
+  },
+  {
+    "name": "Amrit Choudhary",
+    "shareHoldings": [
+      {
+        "companyName": "Gold Rock Inves.",
+        "result": [
+          {
+            "Jun 2023": 3.95,
+            "Mar 2023": 3.95,
+            "Dec 2022": 3.95,
+            "Sep 2022": 3.95,
+            "Jun 2022": 3.95,
+            "Mar 2022": 3.95,
+            "Dec 2021": 3.95,
+            "Sep 2021": 3.95,
+            "Jun 2021": 3.95,
+            "Mar 2021": 3.95,
+            "Dec 2020": 3.95,
+            "Sep 2020": 3.95,
+            "Jun 2020": 3.95,
+            "Mar 2020": 3.95,
+            "Dec 2019": 3.95,
+            "Sep 2019": 3.95,
+            "Jun 2019": 3.95,
+            "Mar 2019": 3.95,
+            "Dec 2018": 3.95,
+            "Sep 2018": 3.95,
+            "Jun 2018": 3.95,
+            "Mar 2018": 3.95,
+            "Dec 2017": 3.95,
+            "Sep 2017": 3.95,
+            "Jun 2017": 3.95,
+            "Mar 2017": 3.95,
+            "Dec 2016": 3.95,
+            "Sep 2016": 3.95,
+            "Jun 2016": 3.95
+          }
+        ]
+      }
+    ],
+    "id": 6117
+  },
+  {
+    "name": "Pramod Choudhary",
+    "shareHoldings": [
+      {
+        "companyName": "Gold Rock Inves.",
+        "result": [
+          {
+            "Jun 2023": 3.5,
+            "Mar 2023": 3.5,
+            "Dec 2022": 3.5,
+            "Sep 2022": 3.5,
+            "Jun 2022": 3.5,
+            "Mar 2022": 3.5,
+            "Dec 2021": 3.5,
+            "Sep 2021": 3.5,
+            "Jun 2021": 3.5,
+            "Mar 2021": 3.5,
+            "Dec 2020": 3.5,
+            "Sep 2020": 3.5,
+            "Jun 2020": 3.5,
+            "Mar 2020": 3.5,
+            "Dec 2019": 3.5,
+            "Sep 2019": 3.5,
+            "Jun 2019": 3.5,
+            "Mar 2019": 3.5,
+            "Dec 2018": 3.5,
+            "Sep 2018": 3.5,
+            "Jun 2018": 3.5,
+            "Mar 2018": 3.5,
+            "Dec 2017": 3.5,
+            "Sep 2017": 3.5,
+            "Jun 2017": 3.5,
+            "Mar 2017": 3.5,
+            "Dec 2016": 3.5,
+            "Sep 2016": 3.5,
+            "Jun 2016": 3.5
+          }
+        ]
+      }
+    ],
+    "id": 6118
+  },
+  {
+    "name": "Manojkumar Bhagchand Choudhary",
+    "shareHoldings": [
+      {
+        "companyName": "Gold Rock Inves.",
+        "result": [
+          {
+            "Mar 2018": 3.05,
+            "Dec 2017": 3.05,
+            "Sep 2017": 3.05,
+            "Jun 2017": 3.05,
+            "Mar 2017": 3.05,
+            "Dec 2016": 3.05,
+            "Sep 2016": 3.05,
+            "Jun 2016": 3.05
+          }
+        ]
+      }
+    ],
+    "id": 6119
+  },
+  {
+    "name": "Alok Mukherjee",
+    "shareHoldings": [
+      {
+        "companyName": "Gold Rock Inves.",
+        "result": [
+          {
+            "Jun 2023": 1.91,
+            "Mar 2023": 1.91,
+            "Dec 2022": 1.91,
+            "Sep 2022": 1.91,
+            "Jun 2022": 1.91,
+            "Mar 2022": 1.91,
+            "Dec 2021": 1.91,
+            "Sep 2021": 1.91,
+            "Jun 2021": 1.91,
+            "Mar 2021": 1.91,
+            "Dec 2020": 1.91,
+            "Sep 2020": 1.91,
+            "Jun 2020": 1.53,
+            "Mar 2020": 1.53,
+            "Dec 2019": 1.53,
+            "Sep 2019": 1.53,
+            "Jun 2019": 1.53,
+            "Mar 2019": 1.53,
+            "Dec 2018": 1.53,
+            "Jun 2018": 1.53,
+            "Mar 2018": 1.53,
+            "Dec 2017": 1.53,
+            "Sep 2017": 1.53,
+            "Jun 2017": 1.53,
+            "Mar 2017": 1.53,
+            "Dec 2016": 1.53,
+            "Sep 2016": 1.53,
+            "Jun 2016": 1.53
+          }
+        ]
+      }
+    ],
+    "id": 6120
+  },
+  {
+    "name": "Ramesh Jhanwar",
+    "shareHoldings": [
+      {
+        "companyName": "Gold Rock Inves.",
+        "result": [
+          {
+            "Jun 2023": 2.29,
+            "Mar 2023": 2.29,
+            "Dec 2022": 2.29,
+            "Sep 2022": 2.29,
+            "Jun 2022": 2.29,
+            "Mar 2022": 2.29,
+            "Dec 2021": 2.29,
+            "Sep 2021": 2.29,
+            "Jun 2021": 2.29,
+            "Mar 2021": 2.29,
+            "Dec 2020": 1.53,
+            "Sep 2020": 1.53,
+            "Jun 2020": 1.53,
+            "Mar 2020": 1.53,
+            "Dec 2019": 1.53,
+            "Sep 2019": 1.53,
+            "Jun 2019": 1.53,
+            "Mar 2019": 1.53,
+            "Dec 2018": 1.53,
+            "Jun 2018": 1.53,
+            "Mar 2018": 1.53,
+            "Dec 2017": 1.53,
+            "Sep 2017": 1.53,
+            "Jun 2017": 1.53,
+            "Mar 2017": 1.53,
+            "Dec 2016": 1.53,
+            "Sep 2016": 1.53,
+            "Jun 2016": 1.53
+          }
+        ]
+      },
+      {
+        "companyName": "Trishakti Elect.",
+        "result": [
+          {
+            "Jun 2020": 6.62,
+            "Mar 2020": 6.62,
+            "Dec 2019": 6.55,
+            "Sep 2019": 6.55,
+            "Jun 2019": 6.55,
+            "Mar 2019": 6.55,
+            "Dec 2018": 6.55,
+            "Sep 2018": 6.55,
+            "Jun 2018": 6.55,
+            "Mar 2018": 6.55,
+            "Dec 2017": 4.86,
+            "Sep 2017": 4.86,
+            "Jun 2017": 4.86,
+            "Mar 2017": 4.86,
+            "Dec 2016": 4.86,
+            "Sep 2016": 4.86,
+            "Jun 2016": 4.86
+          }
+        ]
+      }
+    ],
+    "id": 6121
+  },
+  {
+    "name": "Sagarmal Jhanwar",
+    "shareHoldings": [
+      {
+        "companyName": "Gold Rock Inves.",
+        "result": [
+          {
+            "Dec 2020": 1.53,
+            "Sep 2020": 1.53,
+            "Jun 2020": 1.53,
+            "Mar 2020": 1.53,
+            "Dec 2019": 1.53,
+            "Sep 2019": 1.53,
+            "Jun 2019": 1.53,
+            "Mar 2019": 1.53,
+            "Dec 2018": 1.53,
+            "Jun 2018": 1.53,
+            "Mar 2018": 1.53,
+            "Dec 2017": 1.53,
+            "Sep 2017": 1.53,
+            "Jun 2017": 1.53,
+            "Mar 2017": 1.53,
+            "Dec 2016": 1.53,
+            "Sep 2016": 1.53,
+            "Jun 2016": 1.53
+          }
+        ]
+      },
+      {
+        "companyName": "Trishakti Elect.",
+        "result": [
+          {
+            "Dec 2020": 5.42,
+            "Sep 2020": 3.77,
+            "Jun 2020": 5.42,
+            "Mar 2020": 5.42,
+            "Dec 2019": 5.42,
+            "Sep 2019": 5.42,
+            "Jun 2019": 5.42,
+            "Mar 2019": 5.42,
+            "Dec 2018": 5.42,
+            "Sep 2018": 5.42,
+            "Jun 2018": 5.42,
+            "Mar 2018": 5.42,
+            "Dec 2017": 5.42,
+            "Sep 2017": 5.42,
+            "Jun 2017": 5.42,
+            "Mar 2017": 5.42,
+            "Dec 2016": 5.42,
+            "Sep 2016": 5.42,
+            "Jun 2016": 5.42
+          }
+        ]
+      }
+    ],
+    "id": 6122
+  },
+  {
+    "name": "Vidushei Shriya Jt. Gauri Shriya Jt. Balkrishna Shriya",
+    "shareHoldings": [
+      {
+        "companyName": "Gold Rock Inves.",
+        "result": [
+          {
+            "Jun 2017": 1.1,
+            "Mar 2017": 1.1,
+            "Dec 2016": 1.1,
+            "Sep 2016": 1.1,
+            "Jun 2016": 1.1
+          }
+        ]
+      }
+    ],
+    "id": 6123
+  },
+  {
+    "name": "Vani Shriya Jt. Gauri Shriya Jt. Sanjeev Shriya",
+    "shareHoldings": [
+      {
+        "companyName": "Gold Rock Inves.",
+        "result": [
+          {
+            "Jun 2017": 1.09,
+            "Mar 2017": 1.09,
+            "Dec 2016": 1.09,
+            "Sep 2016": 1.09,
+            "Jun 2016": 1.09
+          }
+        ]
+      }
+    ],
+    "id": 6124
+  },
+  {
+    "name": "Balkrishna Shriya",
+    "shareHoldings": [
+      {
+        "companyName": "Gold Rock Inves.",
+        "result": [
+          {
+            "Mar 2020": 34.37,
+            "Dec 2019": 34.37,
+            "Sep 2019": 34.37,
+            "Jun 2019": 34.37,
+            "Mar 2019": 34.37,
+            "Dec 2018": 34.37,
+            "Sep 2018": 34.37,
+            "Jun 2018": 34.37,
+            "Mar 2018": 34.37,
+            "Dec 2017": 34.37,
+            "Sep 2017": 34.37
+          }
+        ]
+      },
+      {
+        "companyName": "LML",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 6125
+  },
+  {
+    "name": "Sanjeev Shriya",
+    "shareHoldings": [
+      {
+        "companyName": "Gold Rock Inves.",
+        "result": [
+          {
+            "Jun 2023": 4.84,
+            "Mar 2023": 4.84,
+            "Dec 2022": 4.84,
+            "Sep 2022": 4.84,
+            "Jun 2022": 4.84,
+            "Mar 2022": 4.84,
+            "Dec 2021": 4.84,
+            "Sep 2021": 4.84,
+            "Jun 2021": 4.84,
+            "Mar 2021": 4.84,
+            "Dec 2020": 4.84,
+            "Sep 2020": 4.84,
+            "Jun 2020": 4.84,
+            "Mar 2020": 4.84,
+            "Dec 2019": 4.84,
+            "Sep 2019": 4.84,
+            "Jun 2019": 4.84,
+            "Mar 2019": 4.84,
+            "Dec 2018": 4.84,
+            "Sep 2018": 4.84,
+            "Jun 2018": 4.84,
+            "Mar 2018": 4.84,
+            "Dec 2017": 4.84,
+            "Sep 2017": 4.84
+          }
+        ]
+      },
+      {
+        "companyName": "LML",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 6126
+  },
+  {
+    "name": "Vidushie Shriya",
+    "shareHoldings": [
+      {
+        "companyName": "Gold Rock Inves.",
+        "result": [
+          {
+            "Jun 2021": 1.1,
+            "Mar 2021": 1.1,
+            "Dec 2020": 1.1,
+            "Sep 2020": 1.1,
+            "Jun 2020": 1.1,
+            "Mar 2020": 1.1,
+            "Dec 2019": 1.1,
+            "Sep 2019": 1.1,
+            "Jun 2019": 1.1,
+            "Mar 2019": 1.1,
+            "Dec 2018": 1.1,
+            "Sep 2018": 1.1,
+            "Jun 2018": 1.1,
+            "Mar 2018": 1.1,
+            "Dec 2017": 1.1,
+            "Sep 2017": 1.1
+          }
+        ]
+      },
+      {
+        "companyName": "LML",
+        "result": [
+          {
+            "Dec 2017": 0.14,
+            "Sep 2017": 0.14,
+            "Jun 2017": 0.14,
+            "Mar 2017": 0.14,
+            "Dec 2016": 0.14,
+            "Sep 2016": 0.14,
+            "Jun 2016": 0.14
+          }
+        ]
+      }
+    ],
+    "id": 6127
+  },
+  {
+    "name": "Vani Shriya",
+    "shareHoldings": [
+      {
+        "companyName": "Gold Rock Inves.",
+        "result": [
+          {
+            "Jun 2023": 1.09,
+            "Mar 2023": 1.09,
+            "Dec 2022": 1.09,
+            "Sep 2022": 1.09,
+            "Jun 2022": 1.09,
+            "Mar 2022": 1.09,
+            "Dec 2021": 1.09,
+            "Sep 2021": 1.09,
+            "Jun 2021": 1.09,
+            "Mar 2021": 1.09,
+            "Dec 2020": 1.09,
+            "Sep 2020": 1.09,
+            "Jun 2020": 1.09,
+            "Mar 2020": 1.09,
+            "Dec 2019": 1.09,
+            "Sep 2019": 1.09,
+            "Jun 2019": 1.09,
+            "Mar 2019": 1.09,
+            "Dec 2018": 1.09,
+            "Sep 2018": 1.09,
+            "Jun 2018": 1.09,
+            "Mar 2018": 1.09,
+            "Dec 2017": 1.09,
+            "Sep 2017": 1.09
+          }
+        ]
+      }
+    ],
+    "id": 6128
+  },
+  {
+    "name": "Manoj Bhagchand Chawdhary",
+    "shareHoldings": [
+      {
+        "companyName": "Gold Rock Inves.",
+        "result": [
+          {
+            "Jun 2023": 3.05,
+            "Mar 2023": 3.05,
+            "Dec 2022": 3.05,
+            "Sep 2022": 3.05,
+            "Jun 2022": 3.05,
+            "Mar 2022": 3.05,
+            "Dec 2021": 3.05,
+            "Sep 2021": 3.05,
+            "Jun 2021": 3.05,
+            "Mar 2021": 3.05,
+            "Dec 2020": 3.05,
+            "Sep 2020": 3.05,
+            "Jun 2020": 3.05,
+            "Mar 2020": 3.05,
+            "Dec 2019": 3.05,
+            "Sep 2019": 3.05,
+            "Jun 2019": 3.05,
+            "Mar 2019": 3.05,
+            "Dec 2018": 3.05,
+            "Sep 2018": 3.05,
+            "Jun 2018": 3.05
+          }
+        ]
+      }
+    ],
+    "id": 6129
+  },
+  {
+    "name": "Shrinathji Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Gold Rock Inves.",
+        "result": [
+          {
+            "Jun 2023": 34.37,
+            "Mar 2023": 34.37,
+            "Dec 2022": 34.37,
+            "Sep 2022": 34.37,
+            "Jun 2022": 34.37,
+            "Mar 2022": 34.37,
+            "Dec 2021": 34.37,
+            "Sep 2021": 34.37,
+            "Jun 2021": 34.37,
+            "Mar 2021": 34.37,
+            "Dec 2020": 34.37,
+            "Sep 2020": 34.37,
+            "Jun 2020": 34.37
+          }
+        ]
+      }
+    ],
+    "id": 6130
+  },
+  {
+    "name": "Suresh Jhanwar",
+    "shareHoldings": [
+      {
+        "companyName": "Gold Rock Inves.",
+        "result": [
+          {
+            "Jun 2023": 1.53,
+            "Mar 2023": 1.53,
+            "Dec 2022": 1.53,
+            "Sep 2022": 1.53,
+            "Jun 2022": 1.53,
+            "Mar 2022": 1.53,
+            "Dec 2021": 1.53,
+            "Sep 2021": 1.53,
+            "Jun 2021": 1.53,
+            "Mar 2021": 1.53
+          }
+        ]
+      },
+      {
+        "companyName": "Trishakti Elect.",
+        "result": [
+          {
+            "Jun 2023": 27.29,
+            "Mar 2023": 27.29,
+            "Dec 2022": 27.29,
+            "Sep 2022": 27.29,
+            "Jun 2022": 27.29,
+            "Mar 2022": 27.29,
+            "Dec 2021": 26.86,
+            "Sep 2021": 26.71,
+            "Jun 2021": 26.71,
+            "Mar 2021": 22.63,
+            "Dec 2020": 17.21,
+            "Sep 2020": 2.4,
+            "Jun 2020": 7.76,
+            "Mar 2020": 7.76,
+            "Dec 2019": 7.76,
+            "Sep 2019": 7.76,
+            "Jun 2019": 7.76,
+            "Mar 2019": 7.76,
+            "Dec 2018": 7.76,
+            "Sep 2018": 7.76,
+            "Jun 2018": 7.76,
+            "Mar 2018": 7.76,
+            "Dec 2017": 6.07,
+            "Sep 2017": 6.07,
+            "Jun 2017": 6.07,
+            "Mar 2017": 6.07,
+            "Dec 2016": 6.07,
+            "Sep 2016": 6.07,
+            "Jun 2016": 6.07
+          }
+        ]
+      }
+    ],
+    "id": 6131
+  },
+  {
+    "name": "Vidushie Kandoi",
+    "shareHoldings": [
+      {
+        "companyName": "Gold Rock Inves.",
+        "result": [
+          {
+            "Jun 2023": 1.1,
+            "Mar 2023": 1.1,
+            "Dec 2022": 1.1,
+            "Sep 2022": 1.1,
+            "Jun 2022": 1.1,
+            "Mar 2022": 1.1,
+            "Dec 2021": 1.1,
+            "Sep 2021": 1.1
+          }
+        ]
+      }
+    ],
+    "id": 6132
+  },
+  {
+    "name": "Goldcrest Securities And Commodities Private Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Goldcrest Corpor",
+        "result": [
+          {
+            "Mar 2018": 29.33,
+            "Dec 2017": 29.33,
+            "Sep 2017": 29.33,
+            "Jun 2017": 29.33,
+            "Mar 2017": 29.33,
+            "Dec 2016": 29.33,
+            "Sep 2016": 29.33,
+            "Jun 2016": 29.33
+          }
+        ]
+      }
+    ],
+    "id": 6133
+  },
+  {
+    "name": "Tulsidas J Tanna",
+    "shareHoldings": [
+      {
+        "companyName": "Goldcrest Corpor",
+        "result": [
+          {
+            "Mar 2019": 16.23,
+            "Dec 2018": 16.23,
+            "Sep 2018": 16.23,
+            "Jun 2018": 23.71,
+            "Mar 2018": 23.71,
+            "Dec 2017": 23.71,
+            "Sep 2017": 23.71,
+            "Jun 2017": 23.71,
+            "Mar 2017": 23.71,
+            "Dec 2016": 23.71,
+            "Sep 2016": 23.71,
+            "Jun 2016": 23.71
+          }
+        ]
+      }
+    ],
+    "id": 6134
+  },
+  {
+    "name": "Anupa Tanna Shah",
+    "bulkDealsData": [
+      {
+        "date": "Goldcrest Corpor\n11 Feb, 2019",
+        "orderType": "Buy",
+        "quantity": "4,54,545",
+        "price": "53.4"
+      },
+      {
+        "date": "Goldcrest Corpor\n17 Apr, 2014",
+        "orderType": "Buy",
+        "quantity": "5,60,449",
+        "price": "19.4"
+      },
+      {
+        "date": "Goldcrest Corpor\n14 Mar, 2014",
+        "orderType": "Buy",
+        "quantity": "3,48,464",
+        "price": "20.0"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Goldcrest Corpor",
+        "result": [
+          {
+            "Jun 2022": 21.77,
+            "Mar 2022": 21.77,
+            "Dec 2021": 21.77,
+            "Sep 2021": 21.77,
+            "Jun 2021": 21.77,
+            "Mar 2021": 21.77,
+            "Dec 2020": 21.77,
+            "Sep 2020": 21.77,
+            "Jun 2020": 21.77,
+            "Mar 2020": 21.77,
+            "Dec 2019": 21.77,
+            "Sep 2019": 21.77,
+            "Jun 2019": 21.77,
+            "Mar 2019": 21.77,
+            "Dec 2018": 13.78,
+            "Sep 2018": 13.78,
+            "Jun 2018": 16.16,
+            "Mar 2018": 16.16,
+            "Dec 2017": 16.16,
+            "Sep 2017": 16.16,
+            "Jun 2017": 16.16,
+            "Mar 2017": 16.16,
+            "Dec 2016": 16.16,
+            "Sep 2016": 16.16,
+            "Jun 2016": 16.16
+          }
+        ]
+      }
+    ],
+    "id": 6135
+  },
+  {
+    "name": "Viresh Prabhakar Kothari",
+    "bulkDealsData": [
+      {
+        "date": "Goldcrest Corpor\n14 Mar, 2017",
+        "orderType": "Sell",
+        "quantity": "5,32,435",
+        "price": "36.4"
+      },
+      {
+        "date": "Goldcrest Corpor\n12 Oct, 2015",
+        "orderType": "Sell",
+        "quantity": "3,59,000",
+        "price": "24.4"
+      },
+      {
+        "date": "Goldcrest Corpor\n14 Mar, 2014",
+        "orderType": "Sell",
+        "quantity": "3,48,564",
+        "price": "20.0"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Goldcrest Corpor",
+        "result": [
+          {
+            "Dec 2016": 7.05,
+            "Sep 2016": 7.05,
+            "Jun 2016": 7.05
+          }
+        ]
+      }
+    ],
+    "id": 6136
+  },
+  {
+    "name": "Namrata Tushar Tanna",
+    "bulkDealsData": [
+      {
+        "date": "Goldcrest Corpor\n11 Feb, 2019",
+        "orderType": "Buy",
+        "quantity": "7,41,568",
+        "price": "53.4"
+      },
+      {
+        "date": "Goldcrest Corpor\n12 Oct, 2015",
+        "orderType": "Buy",
+        "quantity": "3,59,000",
+        "price": "24.4"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Goldcrest Corpor",
+        "result": [
+          {
+            "Jun 2022": 16.29,
+            "Mar 2022": 16.29,
+            "Dec 2021": 16.29,
+            "Sep 2021": 16.29,
+            "Jun 2021": 16.29,
+            "Mar 2021": 16.29,
+            "Dec 2020": 16.29,
+            "Sep 2020": 16.29,
+            "Jun 2020": 16.29,
+            "Mar 2020": 16.29,
+            "Dec 2019": 16.29,
+            "Sep 2019": 16.29,
+            "Jun 2019": 16.29,
+            "Mar 2019": 16.29,
+            "Dec 2018": 3.25,
+            "Sep 2018": 3.25,
+            "Jun 2018": 4.75,
+            "Mar 2018": 4.75,
+            "Dec 2017": 4.75,
+            "Sep 2017": 4.75,
+            "Jun 2017": 4.75,
+            "Mar 2017": 4.75,
+            "Dec 2016": 4.75,
+            "Sep 2016": 4.75,
+            "Jun 2016": 4.75
+          }
+        ]
+      }
+    ],
+    "id": 6137
+  },
+  {
+    "name": "Tarun Chamanlal Mehta",
+    "shareHoldings": [
+      {
+        "companyName": "Goldcrest Corpor",
+        "result": [
+          {
+            "Jun 2022": 4.83,
+            "Mar 2022": 4.83,
+            "Dec 2021": 4.83,
+            "Sep 2021": 4.83,
+            "Jun 2021": 4.83,
+            "Mar 2021": 4.83,
+            "Dec 2020": 4.83,
+            "Sep 2020": 4.83,
+            "Jun 2020": 4.83,
+            "Mar 2020": 4.83,
+            "Dec 2019": 4.83,
+            "Sep 2019": 4.83,
+            "Jun 2019": 4.83,
+            "Mar 2019": 4.83,
+            "Dec 2018": 4.83,
+            "Sep 2018": 4.83,
+            "Jun 2018": 3.97,
+            "Mar 2018": 3.97,
+            "Dec 2017": 3.97,
+            "Sep 2017": 3.97,
+            "Jun 2017": 3.97,
+            "Mar 2017": 3.97,
+            "Dec 2016": 3.97,
+            "Sep 2016": 3.97,
+            "Jun 2016": 3.97
+          }
+        ]
+      }
+    ],
+    "id": 6138
+  },
+  {
+    "name": "Smita Tarun Mehta",
+    "shareHoldings": [
+      {
+        "companyName": "Goldcrest Corpor",
+        "result": [
+          {
+            "Jun 2022": 4.74,
+            "Mar 2022": 4.74,
+            "Dec 2021": 4.83,
+            "Sep 2021": 4.83,
+            "Jun 2021": 4.83,
+            "Mar 2021": 4.83,
+            "Dec 2020": 4.83,
+            "Sep 2020": 4.83,
+            "Jun 2020": 4.83,
+            "Mar 2020": 4.83,
+            "Dec 2019": 4.83,
+            "Sep 2019": 4.83,
+            "Jun 2019": 4.83,
+            "Mar 2019": 4.83,
+            "Dec 2018": 4.83,
+            "Sep 2018": 4.83,
+            "Jun 2018": 3.97,
+            "Mar 2018": 3.97,
+            "Dec 2017": 3.97,
+            "Sep 2017": 3.97,
+            "Jun 2017": 3.97,
+            "Mar 2017": 3.97,
+            "Dec 2016": 3.97,
+            "Sep 2016": 3.97,
+            "Jun 2016": 3.97
+          }
+        ]
+      }
+    ],
+    "id": 6139
+  },
+  {
+    "name": "Hansa Tulsidas Tanna",
+    "shareHoldings": [
+      {
+        "companyName": "Goldcrest Corpor",
+        "result": [
+          {
+            "Jun 2022": 0.64,
+            "Mar 2022": 0.64,
+            "Dec 2021": 0.64,
+            "Sep 2021": 0.64,
+            "Jun 2021": 0.64,
+            "Mar 2021": 0.64,
+            "Dec 2020": 0.64,
+            "Sep 2020": 0.64,
+            "Jun 2020": 0.64,
+            "Mar 2020": 0.64,
+            "Dec 2019": 0.64,
+            "Sep 2019": 0.64,
+            "Jun 2019": 0.64,
+            "Mar 2019": 0.64,
+            "Dec 2018": 0.64,
+            "Sep 2018": 0.64,
+            "Jun 2018": 0.94,
+            "Mar 2018": 0.94,
+            "Dec 2017": 0.94,
+            "Sep 2017": 0.94,
+            "Jun 2017": 0.94,
+            "Mar 2017": 0.94,
+            "Dec 2016": 0.94,
+            "Sep 2016": 0.94,
+            "Jun 2016": 0.94
+          }
+        ]
+      }
+    ],
+    "id": 6140
+  },
+  {
+    "name": "Tushar T Tanna",
+    "shareHoldings": [
+      {
+        "companyName": "Goldcrest Corpor",
+        "result": [
+          {
+            "Mar 2019": 0.01,
+            "Dec 2018": 0.01,
+            "Sep 2018": 0.01,
+            "Jun 2018": 0.01,
+            "Mar 2018": 0.01,
+            "Dec 2017": 0.01,
+            "Sep 2017": 0.01,
+            "Jun 2017": 0.01,
+            "Mar 2017": 0.01,
+            "Dec 2016": 0.01,
+            "Sep 2016": 0.01,
+            "Jun 2016": 0.01
+          }
+        ]
+      }
+    ],
+    "id": 6141
+  },
+  {
+    "name": "Asha Rajnikant Madhvani",
+    "bulkDealsData": [
+      {
+        "date": "Goldcrest Corpor\n10 May, 2019",
+        "orderType": "Buy",
+        "quantity": "29,774",
+        "price": "77.2"
+      },
+      {
+        "date": "Goldcrest Corpor\n14 Mar, 2017",
+        "orderType": "Buy",
+        "quantity": "5,32,435",
+        "price": "36.4"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Goldcrest Corpor",
+        "result": [
+          {
+            "Jun 2022": 6.58,
+            "Mar 2022": 6.58,
+            "Dec 2021": 6.64,
+            "Sep 2021": 6.32,
+            "Jun 2021": 6.32,
+            "Mar 2021": 6.32,
+            "Dec 2020": 6.32,
+            "Sep 2020": 6.32,
+            "Jun 2020": 6.11,
+            "Mar 2020": 6.11,
+            "Dec 2019": 5.81,
+            "Sep 2019": 5.81,
+            "Jun 2019": 5.72,
+            "Mar 2019": 5.11,
+            "Dec 2018": 4.82,
+            "Sep 2018": 4.82,
+            "Jun 2018": 7.05,
+            "Mar 2018": 7.05,
+            "Dec 2017": 7.05,
+            "Sep 2017": 7.05,
+            "Jun 2017": 7.05,
+            "Mar 2017": 7.05
+          }
+        ]
+      }
+    ],
+    "id": 6142
+  },
+  {
+    "name": "Goldcrest Global Trading Private Limited",
+    "bulkDealsData": [
+      {
+        "date": "Goldcrest Corpor\n11 Feb, 2019",
+        "orderType": "Sell",
+        "quantity": "22,16,113",
+        "price": "53.4"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Goldcrest Corpor",
+        "result": [
+          {
+            "Dec 2018": 38.95,
+            "Sep 2018": 38.95,
+            "Jun 2018": 29.33
+          }
+        ]
+      }
+    ],
+    "id": 6143
+  },
+  {
+    "name": "Nita Tushar Tanna",
+    "bulkDealsData": [
+      {
+        "date": "Goldcrest Corpor\n11 Feb, 2019",
+        "orderType": "Buy",
+        "quantity": "10,20,000",
+        "price": "53.4"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Goldcrest Corpor",
+        "result": [
+          {
+            "Jun 2022": 34.16,
+            "Mar 2022": 34.16,
+            "Dec 2021": 34.16,
+            "Sep 2021": 34.16,
+            "Jun 2021": 34.16,
+            "Mar 2021": 34.16,
+            "Dec 2020": 34.16,
+            "Sep 2020": 34.16,
+            "Jun 2020": 34.16,
+            "Mar 2020": 34.16,
+            "Dec 2019": 34.16,
+            "Sep 2019": 34.16,
+            "Jun 2019": 34.16,
+            "Mar 2019": 17.93
+          }
+        ]
+      }
+    ],
+    "id": 6144
+  },
+  {
+    "name": "Srikrishna Naik",
+    "shareHoldings": [
+      {
+        "companyName": "Golden Carpets",
+        "result": [
+          {
+            "Jun 2023": 42.44,
+            "Mar 2023": 40.7,
+            "Dec 2022": 40.7,
+            "Sep 2022": 40.7,
+            "Jun 2022": 40.68,
+            "Mar 2022": 40.68,
+            "Dec 2021": 40.19,
+            "Sep 2021": 40.19,
+            "Jun 2021": 40.19,
+            "Mar 2021": 39.78,
+            "Dec 2020": 39.78,
+            "Sep 2020": 39.78,
+            "Jun 2020": 39.78,
+            "Mar 2020": 39.78,
+            "Dec 2019": 39.78,
+            "Sep 2019": 39.78,
+            "Jun 2019": 34.1,
+            "Mar 2019": 34.1,
+            "Dec 2018": 34.1,
+            "Sep 2018": 34.1,
+            "Jun 2018": 34.1,
+            "Mar 2018": 34.1,
+            "Dec 2017": 34.05,
+            "Sep 2017": 34.05,
+            "Jun 2017": 34.05,
+            "Mar 2017": 33.81,
+            "Dec 2016": 33.81,
+            "Sep 2016": 32.01,
+            "Jun 2016": 30.47
+          }
+        ]
+      }
+    ],
+    "id": 6145
+  },
+  {
+    "name": "Meena Bhushan Kerur",
+    "shareHoldings": [
+      {
+        "companyName": "Golden Carpets",
+        "result": [
+          {
+            "Jun 2023": 15.79,
+            "Mar 2023": 15.79,
+            "Dec 2022": 15.79,
+            "Sep 2022": 15.79,
+            "Jun 2022": 15.79,
+            "Mar 2022": 15.79,
+            "Dec 2021": 15.79,
+            "Sep 2021": 15.79,
+            "Jun 2021": 15.79,
+            "Mar 2021": 15.79,
+            "Dec 2020": 15.79,
+            "Sep 2020": 15.79,
+            "Jun 2020": 15.79,
+            "Mar 2020": 15.79,
+            "Dec 2019": 15.79,
+            "Sep 2019": 15.79,
+            "Jun 2019": 15.79,
+            "Mar 2019": 15.79,
+            "Dec 2018": 15.79,
+            "Sep 2018": 15.79,
+            "Jun 2018": 15.79,
+            "Mar 2018": 15.79,
+            "Dec 2017": 15.79,
+            "Sep 2017": 15.79,
+            "Jun 2017": 15.79,
+            "Mar 2017": 15.79,
+            "Dec 2016": 15.79,
+            "Sep 2016": 15.79,
+            "Jun 2016": 15.79
+          }
+        ]
+      }
+    ],
+    "id": 6146
+  },
+  {
+    "name": "G K Naik",
+    "shareHoldings": [
+      {
+        "companyName": "Golden Carpets",
+        "result": [
+          {
+            "Mar 2019": 3.6,
+            "Dec 2018": 3.6,
+            "Sep 2018": 3.6,
+            "Jun 2018": 3.6,
+            "Mar 2018": 3.6,
+            "Dec 2017": 3.6,
+            "Sep 2017": 3.6,
+            "Jun 2017": 3.6,
+            "Mar 2017": 3.6,
+            "Dec 2016": 3.6,
+            "Sep 2016": 3.6,
+            "Jun 2016": 3.6
+          }
+        ]
+      }
+    ],
+    "id": 6147
+  },
+  {
+    "name": "Malini Govind Naik",
+    "shareHoldings": [
+      {
+        "companyName": "Golden Carpets",
+        "result": [
+          {
+            "Jun 2023": 6.37,
+            "Mar 2023": 6.02,
+            "Dec 2022": 5.06,
+            "Sep 2022": 4.89,
+            "Jun 2022": 4.83,
+            "Mar 2022": 4.76,
+            "Dec 2021": 4.76,
+            "Sep 2021": 4.76,
+            "Jun 2021": 4.76,
+            "Mar 2021": 4.76,
+            "Dec 2020": 4.76,
+            "Sep 2020": 4.76,
+            "Jun 2020": 4.76,
+            "Mar 2020": 4.76,
+            "Dec 2019": 4.76,
+            "Sep 2019": 4.76,
+            "Jun 2019": 4.76,
+            "Mar 2019": 4.76,
+            "Dec 2018": 4.76,
+            "Sep 2018": 4.76,
+            "Jun 2018": 4.76,
+            "Mar 2018": 4.76,
+            "Dec 2017": 4.76,
+            "Sep 2017": 4.76,
+            "Jun 2017": 4.76,
+            "Mar 2017": 4.76,
+            "Dec 2016": 3.53,
+            "Sep 2016": 3.53,
+            "Jun 2016": 3.53
+          }
+        ]
+      }
+    ],
+    "id": 6148
+  },
+  {
+    "name": "Stressed Assets Stabilished Fund",
+    "shareHoldings": [
+      {
+        "companyName": "Golden Carpets",
+        "result": [
+          {
+            "Dec 2016": 2.85,
+            "Sep 2016": 2.85,
+            "Jun 2016": 2.85
+          }
+        ]
+      }
+    ],
+    "id": 6149
+  },
+  {
+    "name": "Ch Kiron",
+    "shareHoldings": [
+      {
+        "companyName": "Amarjothi Spg.",
+        "result": [
+          {
+            "Jun 2023": 2.54,
+            "Mar 2023": 2.54,
+            "Dec 2022": 2.54,
+            "Sep 2022": 2.54,
+            "Jun 2022": 2.54,
+            "Mar 2022": 2.54,
+            "Dec 2021": 2.54,
+            "Sep 2021": 2.54,
+            "Jun 2021": 2.54,
+            "Mar 2021": 2.54,
+            "Dec 2020": 2.54,
+            "Jun 2020": 2.54,
+            "Mar 2020": 2.54,
+            "Dec 2019": 2.54,
+            "Sep 2019": 2.54,
+            "Jun 2019": 2.54,
+            "Mar 2019": 2.54,
+            "Dec 2018": 2.54,
+            "Sep 2018": 1.49,
+            "Jun 2018": 1.49,
+            "Mar 2018": 1.49,
+            "Dec 2017": 1.49,
+            "Sep 2017": 2.23,
+            "Jun 2017": 4.08,
+            "Mar 2017": 4.08,
+            "Dec 2016": 4.08,
+            "Jun 2016": 4.08
+          }
+        ]
+      },
+      {
+        "companyName": "Golden Carpets",
+        "result": [
+          {
+            "Jun 2023": 2.16,
+            "Mar 2023": 2.16,
+            "Dec 2022": 2.16,
+            "Sep 2022": 2.16,
+            "Jun 2022": 2.16,
+            "Mar 2022": 2.16,
+            "Dec 2021": 2.16,
+            "Sep 2021": 2.16,
+            "Jun 2021": 2.16,
+            "Mar 2021": 2.16,
+            "Dec 2020": 2.16,
+            "Sep 2020": 2.16,
+            "Jun 2020": 2.16,
+            "Dec 2019": 2.16,
+            "Sep 2019": 2.16,
+            "Jun 2018": 2.16,
+            "Mar 2018": 2.16,
+            "Dec 2017": 2.16,
+            "Sep 2017": 2.16,
+            "Jun 2017": 2.16,
+            "Mar 2017": 2.16,
+            "Dec 2016": 2.16,
+            "Sep 2016": 2.16,
+            "Jun 2016": 2.16
+          }
+        ]
+      },
+      {
+        "companyName": "Hemadri Cements",
+        "result": [
+          {
+            "Jun 2023": 1.19,
+            "Mar 2023": 1.19,
+            "Dec 2022": 1.19,
+            "Sep 2022": 1.19,
+            "Jun 2016": 1.19
+          }
+        ]
+      }
+    ],
+    "id": 6150
+  },
+  {
+    "name": "Suresh Keerthi",
+    "shareHoldings": [
+      {
+        "companyName": "Golden Carpets",
+        "result": [
+          {
+            "Sep 2018": 2.08,
+            "Jun 2017": 2.08,
+            "Mar 2017": 2.08,
+            "Sep 2016": 2.08,
+            "Jun 2016": 2.08
+          }
+        ]
+      }
+    ],
+    "id": 6151
+  },
+  {
+    "name": "A Rangabashyam",
+    "shareHoldings": [
+      {
+        "companyName": "Golden Carpets",
+        "result": [
+          {
+            "Sep 2016": 1.81,
+            "Jun 2016": 1.81
+          }
+        ]
+      }
+    ],
+    "id": 6152
+  },
+  {
+    "name": "Meera Keerthi",
+    "shareHoldings": [
+      {
+        "companyName": "Golden Carpets",
+        "result": [
+          {
+            "Mar 2023": 1.75,
+            "Dec 2022": 1.75,
+            "Sep 2022": 1.75,
+            "Jun 2022": 1.75,
+            "Mar 2022": 1.75,
+            "Dec 2021": 1.75,
+            "Sep 2021": 1.75,
+            "Jun 2021": 1.75,
+            "Mar 2021": 1.75,
+            "Dec 2020": 1.75,
+            "Sep 2018": 1.75,
+            "Jun 2017": 1.75,
+            "Mar 2017": 1.75,
+            "Sep 2016": 1.75,
+            "Jun 2016": 1.75
+          }
+        ]
+      }
+    ],
+    "id": 6153
+  },
+  {
+    "name": "Ramachandra Rao K",
+    "shareHoldings": [
+      {
+        "companyName": "Golden Carpets",
+        "result": [
+          {
+            "Jun 2023": 1.62,
+            "Mar 2023": 1.62,
+            "Dec 2022": 1.62,
+            "Sep 2022": 1.62,
+            "Jun 2022": 1.62,
+            "Mar 2022": 1.62,
+            "Dec 2021": 1.62,
+            "Sep 2021": 1.62,
+            "Jun 2021": 1.62,
+            "Mar 2021": 1.62,
+            "Dec 2020": 1.62,
+            "Sep 2020": 1.62,
+            "Jun 2020": 1.62,
+            "Dec 2019": 1.62,
+            "Sep 2019": 1.62,
+            "Jun 2018": 1.62,
+            "Mar 2018": 1.62,
+            "Dec 2017": 1.62,
+            "Sep 2017": 1.62,
+            "Jun 2017": 1.62,
+            "Mar 2017": 1.62,
+            "Dec 2016": 1.62,
+            "Sep 2016": 1.62,
+            "Jun 2016": 1.62
+          }
+        ]
+      },
+      {
+        "companyName": "Sriven Multitech",
+        "result": [
+          {
+            "Jun 2023": 1.16,
+            "Sep 2020": 1.16,
+            "Jun 2020": 1.16,
+            "Mar 2020": 1.16,
+            "Dec 2019": 1.1,
+            "Mar 2019": 1.16,
+            "Dec 2018": 1.16,
+            "Sep 2018": 1.16,
+            "Jun 2018": 1.16,
+            "Mar 2018": 1.16,
+            "Dec 2017": 1.16,
+            "Sep 2017": 1.16,
+            "Jun 2017": 1.16
+          }
+        ]
+      }
+    ],
+    "id": 6154
+  },
+  {
+    "name": "Alluri Lakshmi",
+    "shareHoldings": [
+      {
+        "companyName": "Golden Carpets",
+        "result": [
+          {
+            "Jun 2016": 1.54
+          }
+        ]
+      }
+    ],
+    "id": 6155
+  },
+  {
+    "name": "Prudential Capital Markets Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Golden Carpets",
+        "result": [
+          {
+            "Jun 2023": 1.54,
+            "Mar 2023": 1.54,
+            "Dec 2022": 1.54,
+            "Sep 2022": 1.54,
+            "Jun 2022": 1.54,
+            "Mar 2022": 1.54,
+            "Dec 2021": 1.54,
+            "Sep 2021": 1.54,
+            "Jun 2021": 1.54,
+            "Mar 2021": 1.54,
+            "Dec 2020": 1.54,
+            "Sep 2018": 1.54,
+            "Jun 2017": 1.54,
+            "Mar 2017": 1.54,
+            "Dec 2016": 1.54,
+            "Sep 2016": 1.54,
+            "Jun 2016": 1.54
+          }
+        ]
+      },
+      {
+        "companyName": "KG Petrochem",
+        "result": [
+          {
+            "Jun 2023": 1.01,
+            "Mar 2023": 1.01,
+            "Dec 2022": 1.01,
+            "Sep 2022": 1.01,
+            "Jun 2022": 1.01,
+            "Mar 2022": 1.01,
+            "Dec 2021": 1.01,
+            "Sep 2021": 1.01,
+            "Jun 2021": 1.01,
+            "Mar 2021": 1.01,
+            "Dec 2020": 1.01,
+            "Sep 2020": 1.01,
+            "Jun 2020": 1.01,
+            "Mar 2020": 1.01,
+            "Dec 2019": 1.01,
+            "Sep 2019": 1.01,
+            "Jun 2019": 1.01,
+            "Mar 2019": 1.01,
+            "Dec 2018": 1.01,
+            "Sep 2018": 1.01,
+            "Jun 2018": 1.01,
+            "Mar 2018": 1.01,
+            "Dec 2017": 1.01,
+            "Sep 2017": 1.01,
+            "Jun 2017": 1.01,
+            "Mar 2017": 1.01,
+            "Dec 2016": 1.01,
+            "Sep 2016": 1.01,
+            "Jun 2016": 1.01
+          }
+        ]
+      }
+    ],
+    "id": 6156
+  },
+  {
+    "name": "N Parameswari",
+    "shareHoldings": [
+      {
+        "companyName": "Golden Carpets",
+        "result": [
+          {
+            "Jun 2023": 1.1,
+            "Mar 2023": 1.1,
+            "Dec 2022": 1.1,
+            "Sep 2022": 1.1,
+            "Jun 2022": 1.1,
+            "Mar 2022": 1.1,
+            "Dec 2021": 1.1,
+            "Sep 2021": 1.1,
+            "Jun 2021": 1.1,
+            "Mar 2021": 1.1,
+            "Dec 2020": 1.1,
+            "Sep 2020": 1.1,
+            "Jun 2020": 1.1,
+            "Dec 2019": 1.1,
+            "Sep 2019": 1.1,
+            "Jun 2018": 1.1,
+            "Mar 2018": 1.1,
+            "Dec 2017": 1.1,
+            "Sep 2017": 1.1,
+            "Jun 2017": 1.1,
+            "Mar 2017": 1.1,
+            "Dec 2016": 1.1,
+            "Sep 2016": 1.1,
+            "Jun 2016": 1.1
+          }
+        ]
+      }
+    ],
+    "id": 6157
+  },
+  {
+    "name": "S B Kerur",
+    "shareHoldings": [
+      {
+        "companyName": "Golden Carpets",
+        "result": [
+          {
+            "Jun 2023": 0.04,
+            "Mar 2023": 0.04,
+            "Dec 2022": 0.04,
+            "Sep 2022": 0.04,
+            "Jun 2022": 0.04,
+            "Mar 2022": 0.04,
+            "Dec 2021": 0.04,
+            "Sep 2021": 0.04,
+            "Jun 2021": 0.04,
+            "Mar 2021": 0.04,
+            "Dec 2020": 0.04,
+            "Sep 2020": 0.04,
+            "Jun 2020": 0.04,
+            "Mar 2020": 0.04,
+            "Dec 2019": 0.04,
+            "Sep 2019": 0.04,
+            "Jun 2019": 0.04,
+            "Mar 2019": 0.04,
+            "Dec 2018": 0.04,
+            "Sep 2018": 0.04,
+            "Jun 2018": 0.04,
+            "Mar 2018": 0.04,
+            "Dec 2017": 0.04,
+            "Sep 2017": 0.04,
+            "Jun 2017": 0.04,
+            "Mar 2017": 0.04,
+            "Dec 2016": 0.04,
+            "Sep 2016": 0.04,
+            "Jun 2016": 0.04
+          }
+        ]
+      }
+    ],
+    "id": 6158
+  },
+  {
+    "name": "3 Shareholders Holding Less Than 3 %",
+    "shareHoldings": [
+      {
+        "companyName": "Golden Carpets",
+        "result": [
+          {
+            "Jun 2018": 2.03,
+            "Mar 2018": 2.03,
+            "Dec 2017": 2.03
+          }
+        ]
+      }
+    ],
+    "id": 6159
+  },
+  {
+    "name": "Steel City Securities Lt",
+    "shareHoldings": [
+      {
+        "companyName": "Golden Carpets",
+        "result": [
+          {
+            "Dec 2020": 0.05
+          }
+        ]
+      }
+    ],
+    "id": 6160
+  },
+  {
+    "name": "Risewell Credit Pvt Ltd",
+    "bulkDealsData": [
+      {
+        "date": "Vas Infra.\n21 Mar, 2016",
+        "orderType": "Sell",
+        "quantity": "73,485",
+        "price": "14.9"
+      },
+      {
+        "date": "Scan Steels\n31 Mar, 2014",
+        "orderType": "Buy",
+        "quantity": "1,60,000",
+        "price": "53.4"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "U. Y. Fincorp",
+        "result": [
+          {
+            "Sep 2016": 38.56,
+            "Jun 2016": 38.56
+          }
+        ]
+      },
+      {
+        "companyName": "Visco Trade",
+        "result": [
+          {
+            "Sep 2016": 4.16
+          }
+        ]
+      }
+    ],
+    "id": 6161
+  },
+  {
+    "name": "Strong Dealtrade Private Limited",
+    "shareHoldings": [
+      {
+        "companyName": "U. Y. Fincorp",
+        "result": [
+          {
+            "Jun 2018": 8.34,
+            "Mar 2018": 8.46,
+            "Dec 2017": 8.46,
+            "Sep 2017": 8.46,
+            "Jun 2017": 8.46,
+            "Mar 2017": 8.46,
+            "Dec 2016": 8.46,
+            "Sep 2016": 8.46,
+            "Jun 2016": 8.46
+          }
+        ]
+      }
+    ],
+    "id": 6162
+  },
+  {
+    "name": "Girdhar Fiscal Services Pvt Ltd",
+    "bulkDealsData": [
+      {
+        "date": "Lokesh Mach.\n29 May, 2020",
+        "orderType": "SELL",
+        "quantity": "1,52,000",
+        "price": "19.9"
+      },
+      {
+        "date": "SMVD Poly Pack\n28 Jun, 2018",
+        "orderType": "BUY",
+        "quantity": "30,000",
+        "price": "21.8"
+      },
+      {
+        "date": "SMVD Poly Pack\n09 May, 2018",
+        "orderType": "BUY",
+        "quantity": "26,000",
+        "price": "28.4"
+      },
+      {
+        "date": "SMVD Poly Pack\n26 Dec, 2017",
+        "orderType": "BUY",
+        "quantity": "40,000",
+        "price": "54.1"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "SMVD Poly Pack",
+        "result": [
+          {
+            "Sep 2021": 2.74,
+            "Mar 2021": 2.74,
+            "Sep 2020": 2.74,
+            "Mar 2020": 2.74,
+            "Sep 2019": 2.62,
+            "Mar 2019": 2.46,
+            "Sep 2018": 2.42
+          }
+        ]
+      },
+      {
+        "companyName": "U. Y. Fincorp",
+        "result": [
+          {
+            "Jun 2017": 7.11,
+            "Mar 2017": 7.11,
+            "Dec 2016": 7.13,
+            "Sep 2016": 7.36,
+            "Jun 2016": 7.36
+          }
+        ]
+      }
+    ],
+    "id": 6163
+  },
+  {
+    "name": "Rajgaj Traders Private Limited",
+    "shareHoldings": [
+      {
+        "companyName": "U. Y. Fincorp",
+        "result": [
+          {
+            "Sep 2016": 5.89,
+            "Jun 2016": 5.89
+          }
+        ]
+      }
+    ],
+    "id": 6164
+  },
+  {
+    "name": "U Y Industries Private Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "U. Y. Fincorp",
+        "result": [
+          {
+            "Jun 2023": 6.36,
+            "Mar 2023": 6.36,
+            "Dec 2022": 6.36,
+            "Sep 2022": 6.36,
+            "Jun 2022": 6.36,
+            "Mar 2022": 6.2,
+            "Dec 2021": 6.2,
+            "Sep 2021": 6.2,
+            "Jun 2021": 5.78,
+            "Mar 2021": 5.78,
+            "Dec 2020": 5.78,
+            "Sep 2020": 5.78,
+            "Jun 2020": 5.78,
+            "Mar 2020": 5.78,
+            "Dec 2019": 5.78,
+            "Sep 2019": 5.78,
+            "Jun 2019": 5.78,
+            "Mar 2019": 5.78,
+            "Dec 2018": 5.78,
+            "Sep 2018": 5.78,
+            "Jun 2018": 5.78,
+            "Mar 2018": 5.78,
+            "Dec 2017": 5.78,
+            "Sep 2017": 5.78,
+            "Jun 2017": 5.78,
+            "Mar 2017": 5.78,
+            "Dec 2016": 5.78,
+            "Sep 2016": 5.78,
+            "Jun 2016": 5.78
+          }
+        ]
+      }
+    ],
+    "id": 6165
+  },
+  {
+    "name": "Moonrise Vincom Private Limited",
+    "bulkDealsData": [
+      {
+        "date": "U. Y. Fincorp\n23 Mar, 2022",
+        "orderType": "Sell",
+        "quantity": "10,00,000",
+        "price": "8.05"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "U. Y. Fincorp",
+        "result": [
+          {
+            "Dec 2022": 2.12,
+            "Sep 2022": 2.12,
+            "Jun 2022": 2.12,
+            "Mar 2022": 2.12,
+            "Dec 2021": 3.34,
+            "Sep 2021": 3.94,
+            "Jun 2021": 3.94,
+            "Mar 2021": 3.94,
+            "Dec 2020": 3.94,
+            "Sep 2020": 3.94,
+            "Jun 2020": 3.94,
+            "Mar 2020": 3.94,
+            "Dec 2019": 3.94,
+            "Sep 2019": 3.94,
+            "Jun 2019": 3.94,
+            "Mar 2019": 3.94,
+            "Dec 2018": 3.94,
+            "Sep 2018": 3.94,
+            "Jun 2018": 3.94,
+            "Mar 2018": 3.94,
+            "Dec 2017": 3.94,
+            "Sep 2017": 3.94,
+            "Jun 2017": 3.94,
+            "Mar 2017": 3.94,
+            "Dec 2016": 3.94,
+            "Sep 2016": 3.94,
+            "Jun 2016": 3.94
+          }
+        ]
+      }
+    ],
+    "id": 6166
+  },
+  {
+    "name": "Sangam Merchants Pvt.Ltd.",
+    "shareHoldings": [
+      {
+        "companyName": "U. Y. Fincorp",
+        "result": [
+          {
+            "Jun 2023": 2.1,
+            "Mar 2023": 2.1,
+            "Dec 2022": 2.17,
+            "Sep 2022": 2.17,
+            "Jun 2022": 2.31,
+            "Mar 2022": 2.73,
+            "Dec 2021": 3.05,
+            "Sep 2021": 3.15,
+            "Jun 2021": 3.53,
+            "Mar 2021": 3.53,
+            "Dec 2020": 3.53,
+            "Sep 2020": 3.53,
+            "Jun 2020": 3.53,
+            "Mar 2020": 3.53,
+            "Dec 2019": 3.53,
+            "Sep 2019": 3.53,
+            "Jun 2019": 3.53,
+            "Mar 2019": 3.53,
+            "Dec 2018": 3.01,
+            "Sep 2018": 3.53,
+            "Jun 2018": 3.53,
+            "Mar 2018": 3.53,
+            "Dec 2017": 3.53,
+            "Sep 2017": 3.46,
+            "Jun 2017": 3.53,
+            "Mar 2017": 3.53,
+            "Dec 2016": 3.53,
+            "Sep 2016": 3.53,
+            "Jun 2016": 3.36
+          }
+        ]
+      }
+    ],
+    "id": 6167
+  },
+  {
+    "name": "Ratnanandan Commercials Pvt Ltd.",
+    "shareHoldings": [
+      {
+        "companyName": "U. Y. Fincorp",
+        "result": [
+          {
+            "Mar 2018": 2.57,
+            "Dec 2017": 2.57,
+            "Sep 2017": 2.57,
+            "Jun 2017": 2.57,
+            "Mar 2017": 2.57,
+            "Dec 2016": 2.57,
+            "Sep 2016": 2.57,
+            "Jun 2016": 2.57
+          }
+        ]
+      }
+    ],
+    "id": 6168
+  },
+  {
+    "name": "Anchor Vinimay Private Limited",
+    "shareHoldings": [
+      {
+        "companyName": "U. Y. Fincorp",
+        "result": [
+          {
+            "Jun 2018": 1.76,
+            "Mar 2018": 1.76,
+            "Dec 2017": 1.76,
+            "Sep 2017": 1.76,
+            "Jun 2017": 1.76,
+            "Mar 2017": 1.76,
+            "Dec 2016": 1.76,
+            "Sep 2016": 1.76,
+            "Jun 2016": 1.76
+          }
+        ]
+      }
+    ],
+    "id": 6169
+  },
+  {
+    "name": "J.N.B. Sidhu Finance Pvt Ltd",
+    "bulkDealsData": [
+      {
+        "date": "Hindcon Chemical\n13 Mar, 2018",
+        "orderType": "BUY",
+        "quantity": "64,000",
+        "price": "28.0"
+      },
+      {
+        "date": "IM+ Capitals\n17 Dec, 2014",
+        "orderType": "Buy",
+        "quantity": "25,000",
+        "price": "39.6"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "U. Y. Fincorp",
+        "result": [
+          {
+            "Jun 2018": 1.62,
+            "Mar 2018": 1.65,
+            "Dec 2017": 1.65,
+            "Sep 2017": 1.65,
+            "Jun 2017": 1.65,
+            "Mar 2017": 1.65,
+            "Dec 2016": 1.67,
+            "Sep 2016": 1.69,
+            "Jun 2016": 1.66
+          }
+        ]
+      },
+      {
+        "companyName": "Visco Trade",
+        "result": [
+          {
+            "Jun 2022": 4.54,
+            "Mar 2022": 4.54,
+            "Dec 2021": 4.54,
+            "Sep 2021": 4.54,
+            "Jun 2021": 4.54,
+            "Mar 2021": 4.54,
+            "Dec 2020": 4.54,
+            "Sep 2020": 4.54,
+            "Jun 2020": 4.54,
+            "Mar 2020": 4.54,
+            "Dec 2019": 4.54,
+            "Sep 2019": 4.54,
+            "Jun 2019": 4.54,
+            "Mar 2019": 4.54,
+            "Dec 2018": 4.54,
+            "Jun 2018": 4.54,
+            "Mar 2018": 4.54,
+            "Dec 2017": 4.54,
+            "Sep 2017": 4.75,
+            "Jun 2017": 4.75,
+            "Mar 2017": 4.75,
+            "Dec 2016": 4.75,
+            "Sep 2016": 4.75
+          }
+        ]
+      }
+    ],
+    "id": 6170
+  },
+  {
+    "name": "Pmb Holdings Pvt Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "U. Y. Fincorp",
+        "result": [
+          {
+            "Mar 2022": 1.24,
+            "Dec 2021": 1.46,
+            "Sep 2021": 1.46,
+            "Jun 2021": 1.57,
+            "Mar 2021": 1.57,
+            "Dec 2020": 1.57,
+            "Sep 2020": 1.57,
+            "Jun 2020": 1.57,
+            "Mar 2020": 1.57,
+            "Dec 2019": 1.57,
+            "Sep 2019": 1.57,
+            "Jun 2019": 1.57,
+            "Mar 2019": 1.57,
+            "Dec 2018": 1.57,
+            "Sep 2018": 1.57,
+            "Jun 2018": 1.57,
+            "Mar 2018": 1.57,
+            "Dec 2017": 1.57,
+            "Sep 2017": 1.57,
+            "Jun 2017": 1.57,
+            "Mar 2017": 1.57,
+            "Dec 2016": 1.57,
+            "Sep 2016": 1.57,
+            "Jun 2016": 1.57
+          }
+        ]
+      }
+    ],
+    "id": 6171
+  },
+  {
+    "name": "Wrinkle Marketing Pvt Ltd .",
+    "shareHoldings": [
+      {
+        "companyName": "U. Y. Fincorp",
+        "result": [
+          {
+            "Sep 2018": 1.21,
+            "Jun 2018": 1.21,
+            "Mar 2018": 1.21,
+            "Dec 2017": 1.21,
+            "Sep 2017": 1.21,
+            "Jun 2017": 1.21,
+            "Mar 2017": 1.21,
+            "Dec 2016": 1.21,
+            "Sep 2016": 1.21,
+            "Jun 2016": 1.21
+          }
+        ]
+      }
+    ],
+    "id": 6172
+  },
+  {
+    "name": "Girdhari Lal Goenka",
+    "shareHoldings": [
+      {
+        "companyName": "U. Y. Fincorp",
+        "result": [
+          {
+            "Jun 2017": 0.66,
+            "Mar 2017": 0.66,
+            "Dec 2016": 0.66,
+            "Sep 2016": 0.66,
+            "Jun 2016": 0.66
+          }
+        ]
+      }
+    ],
+    "id": 6173
+  },
+  {
+    "name": "Golden Goenka Credit Pvt Ltd (Formerly Known As Risewell Credit Pvt Ltd)",
+    "shareHoldings": [
+      {
+        "companyName": "U. Y. Fincorp",
+        "result": [
+          {
+            "Mar 2017": 37.36,
+            "Dec 2016": 37.76
+          }
+        ]
+      }
+    ],
+    "id": 6174
+  },
+  {
+    "name": "Golden Goenka Commerce Pvt Ltd (Formerly Known As Rajgaj Traders Pvt Ltd)",
+    "shareHoldings": [
+      {
+        "companyName": "U. Y. Fincorp",
+        "result": [
+          {
+            "Mar 2017": 5.09,
+            "Dec 2016": 5.09
+          }
+        ]
+      }
+    ],
+    "id": 6175
+  },
+  {
+    "name": "Golden Goenka Credit Private Limited",
+    "bulkDealsData": [
+      {
+        "date": "Lokesh Mach.\n03 Jun, 2020",
+        "orderType": "BUY",
+        "quantity": "1,52,000",
+        "price": "18.3"
+      },
+      {
+        "date": "Visco Trade\n23 Apr, 2018",
+        "orderType": "Buy",
+        "quantity": "50,000",
+        "price": "14.6"
+      },
+      {
+        "date": "Visco Trade\n17 Apr, 2018",
+        "orderType": "Buy",
+        "quantity": "41,250",
+        "price": "13.9"
+      },
+      {
+        "date": "Visco Trade\n13 Apr, 2018",
+        "orderType": "Buy",
+        "quantity": "67,500",
+        "price": "14.3"
+      },
+      {
+        "date": "Visco Trade\n12 Apr, 2018",
+        "orderType": "Buy",
+        "quantity": "64,000",
+        "price": "14.0"
+      },
+      {
+        "date": "Visco Trade\n11 Apr, 2018",
+        "orderType": "Buy",
+        "quantity": "44,000",
+        "price": "14.0"
+      },
+      {
+        "date": "Visco Trade\n10 Apr, 2018",
+        "orderType": "Buy",
+        "quantity": "40,500",
+        "price": "14.0"
+      },
+      {
+        "date": "Visco Trade\n05 Apr, 2018",
+        "orderType": "Buy",
+        "quantity": "79,000",
+        "price": "14.4"
+      },
+      {
+        "date": "Visco Trade\n03 Apr, 2018",
+        "orderType": "Buy",
+        "quantity": "49,000",
+        "price": "14.0"
+      },
+      {
+        "date": "Visco Trade\n28 Mar, 2018",
+        "orderType": "Buy",
+        "quantity": "64,700",
+        "price": "14.0"
+      },
+      {
+        "date": "Visco Trade\n27 Mar, 2018",
+        "orderType": "Buy",
+        "quantity": "31,780",
+        "price": "14.0"
+      },
+      {
+        "date": "Visco Trade\n07 Mar, 2018",
+        "orderType": "Buy",
+        "quantity": "28,000",
+        "price": "16.0"
+      },
+      {
+        "date": "Visco Trade\n28 Feb, 2018",
+        "orderType": "Buy",
+        "quantity": "25,000",
+        "price": "16.8"
+      },
+      {
+        "date": "Visco Trade\n27 Feb, 2018",
+        "orderType": "Buy",
+        "quantity": "31,000",
+        "price": "16.5"
+      },
+      {
+        "date": "Polo Hotels\n03 Jan, 2018",
+        "orderType": "Buy",
+        "quantity": "70,000",
+        "price": "11.1"
+      },
+      {
+        "date": "SMVD Poly Pack\n26 Dec, 2017",
+        "orderType": "BUY",
+        "quantity": "1,60,000",
+        "price": "54.0"
+      },
+      {
+        "date": "TAAL Enterprises\n07 Jul, 2017",
+        "orderType": "Sell",
+        "quantity": "16,000",
+        "price": "191"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "IM+ Capitals",
+        "result": [
+          {
+            "Mar 2018": 1.22,
+            "Dec 2017": 2.24,
+            "Mar 2017": 2.4
+          }
+        ]
+      },
+      {
+        "companyName": "Lokesh Mach.",
+        "result": [
+          {
+            "Dec 2021": 2.45,
+            "Sep 2021": 3.54,
+            "Jun 2021": 3.02,
+            "Mar 2021": 2.91,
+            "Dec 2020": 2.21,
+            "Sep 2020": 1.7,
+            "Jun 2020": 1.83,
+            "Dec 2019": 1.01,
+            "Sep 2019": 1.01
+          }
+        ]
+      },
+      {
+        "companyName": "SMVD Poly Pack",
+        "result": [
+          {
+            "Mar 2023": 3.14,
+            "Dec 2022": 3.14,
+            "Sep 2022": 3.3,
+            "Mar 2022": 3.3,
+            "Sep 2021": 3.3,
+            "Mar 2021": 3.3,
+            "Sep 2020": 3.3,
+            "Mar 2020": 3.3,
+            "Sep 2019": 3.3,
+            "Mar 2019": 3.3,
+            "Sep 2018": 3.3,
+            "Mar 2018": 3.38
+          }
+        ]
+      },
+      {
+        "companyName": "U. Y. Fincorp",
+        "result": [
+          {
+            "Jun 2017": 37.36
+          }
+        ]
+      },
+      {
+        "companyName": "Visco Trade",
+        "result": [
+          {
+            "Jun 2023": 42.5,
+            "Mar 2023": 42.5,
+            "Dec 2022": 42.5,
+            "Sep 2022": 42.5,
+            "Jun 2022": 22.96,
+            "Mar 2022": 22.96,
+            "Dec 2021": 22.96,
+            "Sep 2021": 22.96,
+            "Jun 2021": 22.96,
+            "Mar 2021": 22.96,
+            "Dec 2020": 18.94,
+            "Sep 2020": 22.96,
+            "Jun 2020": 22.96,
+            "Mar 2020": 22.96,
+            "Dec 2019": 22.96,
+            "Sep 2019": 22.96,
+            "Jun 2019": 22.96,
+            "Mar 2019": 22.96,
+            "Sep 2018": 22.96,
+            "Jun 2018": 36.59,
+            "Mar 2018": 8.71,
+            "Dec 2017": 4.16,
+            "Sep 2017": 4.58,
+            "Jun 2017": 4.16,
+            "Mar 2017": 4.16,
+            "Dec 2016": 4.16
+          }
+        ]
+      }
+    ],
+    "id": 6176
+  },
+  {
+    "name": "Golden Goenka Commerce Private Limited",
+    "bulkDealsData": [
+      {
+        "date": "A R C Finance\n28 Mar, 2022",
+        "orderType": "Sell",
+        "quantity": "9,00,000",
+        "price": "23.7"
+      },
+      {
+        "date": "Lokesh Mach.\n03 Jun, 2020",
+        "orderType": "SELL",
+        "quantity": "1,52,000",
+        "price": "18.3"
+      },
+      {
+        "date": "Lokesh Mach.\n29 May, 2020",
+        "orderType": "BUY",
+        "quantity": "1,52,000",
+        "price": "19.9"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "U. Y. Fincorp",
+        "result": [
+          {
+            "Jun 2017": 5.09
+          }
+        ]
+      }
+    ],
+    "id": 6177
+  },
+  {
+    "name": "Udai Kothari",
+    "shareHoldings": [
+      {
+        "companyName": "U. Y. Fincorp",
+        "result": [
+          {
+            "Jun 2023": 23.04,
+            "Mar 2023": 23.04,
+            "Dec 2022": 20.94,
+            "Sep 2022": 20.85,
+            "Jun 2022": 20.57,
+            "Mar 2022": 18.92,
+            "Dec 2021": 17.6,
+            "Sep 2021": 17.6,
+            "Jun 2021": 17.6,
+            "Mar 2021": 17.6,
+            "Dec 2020": 17.6,
+            "Sep 2020": 17.6,
+            "Jun 2020": 17.6,
+            "Mar 2020": 17.6,
+            "Dec 2019": 17.6,
+            "Sep 2019": 17.6,
+            "Jun 2019": 17.6,
+            "Mar 2019": 17.6,
+            "Dec 2018": 17.6,
+            "Sep 2018": 17.6,
+            "Jun 2018": 17.6,
+            "Mar 2018": 17.6,
+            "Dec 2017": 17.6,
+            "Sep 2017": 17.6
+          }
+        ]
+      }
+    ],
+    "id": 6178
+  },
+  {
+    "name": "Deepak Kothari",
+    "shareHoldings": [
+      {
+        "companyName": "Kothari Products",
+        "result": [
+          {
+            "Jun 2023": 55.54,
+            "Mar 2023": 55.54,
+            "Dec 2022": 55.54,
+            "Sep 2022": 55.54,
+            "Jun 2022": 55.54,
+            "Mar 2022": 55.54,
+            "Dec 2021": 55.54,
+            "Sep 2021": 55.54,
+            "Jun 2021": 55.54,
+            "Mar 2021": 55.54,
+            "Dec 2020": 55.54,
+            "Sep 2020": 55.54,
+            "Jun 2020": 55.54,
+            "Mar 2020": 55.54,
+            "Dec 2019": 55.54,
+            "Sep 2019": 55.54,
+            "Jun 2019": 55.54,
+            "Mar 2019": 55.54,
+            "Dec 2018": 55.54,
+            "Sep 2018": 55.54,
+            "Jun 2018": 55.54,
+            "Mar 2018": 55.54,
+            "Dec 2017": 55.54,
+            "Mar 2017": 55.54,
+            "Dec 2016": 55.54,
+            "Sep 2016": 55.54,
+            "Jun 2016": 55.54
+          }
+        ]
+      },
+      {
+        "companyName": "U. Y. Fincorp",
+        "result": [
+          {
+            "Jun 2023": 19.68,
+            "Mar 2023": 19.68,
+            "Dec 2022": 19.68,
+            "Sep 2022": 19.68,
+            "Jun 2022": 19.62,
+            "Mar 2022": 19,
+            "Dec 2021": 17.58,
+            "Sep 2021": 17.58,
+            "Jun 2021": 17.58,
+            "Mar 2021": 17.58,
+            "Dec 2020": 17.58,
+            "Sep 2020": 17.58,
+            "Jun 2020": 17.58,
+            "Mar 2020": 17.58,
+            "Dec 2019": 17.58,
+            "Sep 2019": 17.58,
+            "Jun 2019": 17.58,
+            "Mar 2019": 17.58,
+            "Dec 2018": 17.58,
+            "Sep 2018": 17.58,
+            "Jun 2018": 17.58,
+            "Mar 2018": 17.58,
+            "Dec 2017": 17.58,
+            "Sep 2017": 17.58
+          }
+        ]
+      },
+      {
+        "companyName": "Viaan Industries",
+        "result": [
+          {
+            "Dec 2021": 2.42,
+            "Sep 2021": 2.42,
+            "Jun 2021": 2.42,
+            "Mar 2021": 2.42,
+            "Dec 2020": 2.42,
+            "Sep 2020": 2.42,
+            "Jun 2020": 2.42,
+            "Mar 2020": 2.43,
+            "Dec 2019": 2.43,
+            "Sep 2019": 2.43,
+            "Jun 2019": 2.43,
+            "Mar 2019": 2.43,
+            "Dec 2018": 2.43,
+            "Sep 2018": 2.47,
+            "Jun 2018": 2.47,
+            "Mar 2018": 2.47,
+            "Dec 2017": 2.47,
+            "Sep 2017": 2.5,
+            "Jun 2017": 2.5,
+            "Mar 2017": 2.5,
+            "Dec 2016": 2.5,
+            "Sep 2016": 2.5,
+            "Jun 2016": 2.5
+          }
+        ]
+      }
+    ],
+    "id": 6179
+  },
+  {
+    "name": "Lotus Capital Financial Services Limited",
+    "bulkDealsData": [
+      {
+        "date": "Khaitan Elect.\n15 Jun, 2006",
+        "orderType": "BUY",
+        "quantity": "50,000",
+        "price": "98.6"
+      },
+      {
+        "date": "Thirumalai Chem.\n20 Sep, 2005",
+        "orderType": "BUY",
+        "quantity": "50,000",
+        "price": "179"
+      },
+      {
+        "date": "BAG Films\n20 Jul, 2005",
+        "orderType": "SELL",
+        "quantity": "3,10,000",
+        "price": "13.1"
+      },
+      {
+        "date": "Greenply Industr\n13 Jun, 2005",
+        "orderType": "BUY",
+        "quantity": "1,00,000",
+        "price": "94.0"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "U. Y. Fincorp",
+        "result": [
+          {
+            "Jun 2023": 19.47,
+            "Mar 2023": 19.47,
+            "Dec 2022": 19.47,
+            "Sep 2022": 19.47,
+            "Jun 2022": 19.47,
+            "Mar 2022": 19.47,
+            "Dec 2021": 19.47,
+            "Sep 2021": 19.47,
+            "Jun 2021": 19.47,
+            "Mar 2021": 19.47,
+            "Dec 2020": 19.47,
+            "Sep 2020": 19.47,
+            "Jun 2020": 19.47,
+            "Mar 2020": 19.47,
+            "Dec 2019": 19.47,
+            "Sep 2019": 19.47,
+            "Jun 2019": 19.47,
+            "Mar 2019": 19.47,
+            "Dec 2018": 19.47,
+            "Sep 2018": 16.65,
+            "Jun 2018": 15.07,
+            "Mar 2018": 15.07,
+            "Dec 2017": 15.07,
+            "Sep 2017": 15.07
+          }
+        ]
+      }
+    ],
+    "id": 6180
+  },
+  {
+    "name": "Deepak Kothari (Huf)",
+    "shareHoldings": [
+      {
+        "companyName": "U. Y. Fincorp",
+        "result": [
+          {
+            "Jun 2023": 0.01,
+            "Mar 2023": 0.01,
+            "Dec 2022": 0.01,
+            "Sep 2022": 0.01,
+            "Jun 2022": 0.01,
+            "Mar 2022": 0.01,
+            "Dec 2021": 0.01,
+            "Sep 2021": 0.01,
+            "Jun 2021": 0.01,
+            "Mar 2021": 0.01,
+            "Dec 2020": 0.01,
+            "Sep 2020": 0.01,
+            "Jun 2020": 0.01,
+            "Mar 2020": 0.01,
+            "Dec 2019": 0.01,
+            "Sep 2019": 0.01,
+            "Jun 2019": 0.01,
+            "Mar 2019": 0.01,
+            "Dec 2018": 0.01,
+            "Sep 2018": 0.01,
+            "Jun 2018": 0.01,
+            "Mar 2018": 0.01,
+            "Dec 2017": 0.01
+          }
+        ]
+      }
+    ],
+    "id": 6181
+  },
+  {
+    "name": "Mainland Finance Pvt. Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "U. Y. Fincorp",
+        "result": [
+          {
+            "Jun 2023": 2.28,
+            "Mar 2023": 2.31,
+            "Dec 2022": 2.31,
+            "Sep 2022": 2.31,
+            "Jun 2022": 2.31,
+            "Mar 2022": 2.31,
+            "Dec 2021": 2.31,
+            "Sep 2021": 2.34,
+            "Jun 2021": 2.92,
+            "Mar 2021": 2.74,
+            "Dec 2020": 2.48,
+            "Sep 2020": 2.48,
+            "Jun 2020": 2.48,
+            "Mar 2020": 2.48,
+            "Dec 2019": 2.45,
+            "Sep 2019": 2.29,
+            "Jun 2019": 2.18,
+            "Mar 2019": 1.52,
+            "Dec 2018": 1.51,
+            "Sep 2018": 1.46,
+            "Jun 2018": 1.14
+          }
+        ]
+      }
+    ],
+    "id": 6182
+  },
+  {
+    "name": "Onward Suppliers Private Limited .",
+    "shareHoldings": [
+      {
+        "companyName": "U. Y. Fincorp",
+        "result": [
+          {
+            "Dec 2021": 4.91,
+            "Sep 2021": 4.91,
+            "Jun 2021": 4.91,
+            "Mar 2021": 4.91,
+            "Dec 2020": 4.91,
+            "Sep 2020": 4.99,
+            "Jun 2020": 4.99,
+            "Mar 2020": 4.99,
+            "Dec 2019": 4.99,
+            "Sep 2019": 4.99,
+            "Jun 2019": 4.99,
+            "Mar 2019": 4.99,
+            "Dec 2018": 4.99,
+            "Sep 2018": 4.99
+          }
+        ]
+      }
+    ],
+    "id": 6183
+  },
+  {
+    "name": "Alltime Dealer Private Limited .",
+    "bulkDealsData": [
+      {
+        "date": "U. Y. Fincorp\n23 Mar, 2022",
+        "orderType": "Sell",
+        "quantity": "22,00,000",
+        "price": "8.44"
+      },
+      {
+        "date": "U. Y. Fincorp\n22 Mar, 2022",
+        "orderType": "Sell",
+        "quantity": "12,47,400",
+        "price": "10.4"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "U. Y. Fincorp",
+        "result": [
+          {
+            "Dec 2021": 3.78,
+            "Sep 2021": 4.54,
+            "Jun 2021": 4.19,
+            "Mar 2021": 4.43,
+            "Dec 2020": 4.43,
+            "Sep 2020": 4.43,
+            "Jun 2020": 4.43,
+            "Mar 2020": 4.43,
+            "Dec 2019": 4.43,
+            "Sep 2019": 4.43,
+            "Jun 2019": 4.05,
+            "Mar 2019": 3.18,
+            "Dec 2018": 3.18,
+            "Sep 2018": 3.18
+          }
+        ]
+      }
+    ],
+    "id": 6184
+  },
+  {
+    "name": "Dipti Deepak Kothari",
+    "shareHoldings": [
+      {
+        "companyName": "U. Y. Fincorp",
+        "result": [
+          {
+            "Jun 2023": 1.94,
+            "Mar 2023": 1.94,
+            "Dec 2022": 1.94,
+            "Sep 2022": 1.94,
+            "Jun 2022": 1.94,
+            "Mar 2022": 1.91,
+            "Dec 2021": 0.6,
+            "Sep 2021": 0.6,
+            "Jun 2021": 0.08,
+            "Mar 2021": 0.08
+          }
+        ]
+      }
+    ],
+    "id": 6185
+  },
+  {
+    "name": "Meena Kirti Shah",
+    "shareHoldings": [
+      {
+        "companyName": "Amerise BioScie",
+        "result": [
+          {
+            "Mar 2022": 1.29,
+            "Dec 2021": 6.39,
+            "Sep 2021": 4.12,
+            "Jun 2021": 4.12,
+            "Mar 2021": 4.12,
+            "Dec 2020": 4.12,
+            "Sep 2020": 4.12,
+            "Jun 2020": 4.12,
+            "Mar 2020": 4.12,
+            "Dec 2019": 4.12,
+            "Sep 2019": 4.12,
+            "Jun 2019": 4.12,
+            "Mar 2019": 4.12,
+            "Dec 2018": 4.12,
+            "Sep 2018": 4.12,
+            "Jun 2018": 4.12,
+            "Mar 2018": 4.12,
+            "Dec 2017": 4.12,
+            "Sep 2017": 4.12,
+            "Jun 2017": 4.12,
+            "Mar 2017": 4.12,
+            "Dec 2016": 4.12,
+            "Sep 2016": 4.12,
+            "Jun 2016": 4.12
+          }
+        ]
+      },
+      {
+        "companyName": "Amraworld Agrico",
+        "result": [
+          {
+            "Mar 2021": 2.38,
+            "Dec 2020": 2.38,
+            "Sep 2020": 2.38,
+            "Jun 2020": 2.38,
+            "Mar 2020": 2.38,
+            "Dec 2019": 2.38,
+            "Sep 2019": 2.38,
+            "Jun 2019": 2.38,
+            "Mar 2019": 2.38,
+            "Dec 2018": 2.38,
+            "Sep 2018": 2.38,
+            "Jun 2018": 2.38,
+            "Mar 2018": 2.38,
+            "Dec 2017": 2.38,
+            "Sep 2017": 2.38,
+            "Jun 2017": 2.38,
+            "Mar 2017": 2.38,
+            "Dec 2016": 2.38,
+            "Jun 2016": 2.38
+          }
+        ]
+      },
+      {
+        "companyName": "Artefact Project",
+        "result": [
+          {
+            "Jun 2023": 1.37,
+            "Mar 2023": 1.37,
+            "Dec 2022": 1.37,
+            "Jun 2022": 1.37,
+            "Mar 2022": 1.37,
+            "Dec 2021": 1.37,
+            "Sep 2021": 1.37,
+            "Jun 2021": 1.37,
+            "Mar 2021": 1.37
+          }
+        ]
+      },
+      {
+        "companyName": "Golden Legand Ls",
+        "result": [
+          {
+            "Jun 2020": 4.71,
+            "Mar 2020": 4.71,
+            "Dec 2019": 4.71,
+            "Sep 2019": 4.71,
+            "Mar 2019": 4.71,
+            "Dec 2018": 4.71,
+            "Sep 2018": 4.71,
+            "Jun 2018": 4.71,
+            "Mar 2018": 4.71,
+            "Dec 2017": 4.71,
+            "Sep 2017": 4.71,
+            "Jun 2017": 4.71,
+            "Mar 2017": 4.71,
+            "Dec 2016": 4.71,
+            "Sep 2016": 4.71,
+            "Jun 2016": 4.71
+          }
+        ]
+      },
+      {
+        "companyName": "Jyot Internatio.",
+        "result": [
+          {
+            "Sep 2020": 3,
+            "Jun 2020": 3,
+            "Mar 2020": 3,
+            "Dec 2019": 3,
+            "Sep 2019": 3,
+            "Jun 2019": 3,
+            "Mar 2019": 3
+          }
+        ]
+      },
+      {
+        "companyName": "Malabar Trading",
+        "result": [
+          {
+            "Sep 2020": 2.54,
+            "Jun 2020": 2.54,
+            "Mar 2020": 2.54,
+            "Dec 2019": 2.54,
+            "Sep 2019": 2.54,
+            "Jun 2019": 2.54,
+            "Mar 2019": 2.54,
+            "Dec 2018": 2.54,
+            "Sep 2018": 2.54,
+            "Jun 2018": 2.54,
+            "Mar 2018": 2.54,
+            "Dec 2017": 2.54,
+            "Sep 2017": 2.54,
+            "Jun 2017": 2.54,
+            "Mar 2017": 2.54,
+            "Dec 2016": 2.54,
+            "Sep 2016": 2.54
+          }
+        ]
+      },
+      {
+        "companyName": "NCL Industries",
+        "result": [
+          {
+            "Sep 2020": 0.03,
+            "Jun 2020": 0.03,
+            "Jun 2018": 0.03,
+            "Mar 2018": 0.03,
+            "Sep 2017": 0.04,
+            "Jun 2017": 0.04,
+            "Mar 2017": 0.06,
+            "Dec 2016": 0.06,
+            "Sep 2016": 0.06
+          }
+        ]
+      },
+      {
+        "companyName": "Shree Ganesh Bio",
+        "result": [
+          {
+            "Jun 2018": 4.64,
+            "Mar 2018": 4.64,
+            "Dec 2017": 4.64,
+            "Sep 2017": 4.64,
+            "Jun 2017": 4.64,
+            "Mar 2017": 4.64,
+            "Dec 2016": 4.64,
+            "Jun 2016": 4.64
+          }
+        ]
+      }
+    ],
+    "id": 6186
+  },
+  {
+    "name": "Ashok Hiralal Shah Huf",
+    "shareHoldings": [
+      {
+        "companyName": "Amerise BioScie",
+        "result": [
+          {
+            "Sep 2021": 2.27,
+            "Jun 2021": 2.27,
+            "Mar 2021": 2.27,
+            "Dec 2020": 2.27,
+            "Sep 2020": 2.27,
+            "Jun 2020": 2.27,
+            "Mar 2020": 2.27,
+            "Dec 2019": 2.27,
+            "Sep 2019": 2.27,
+            "Jun 2019": 2.27,
+            "Mar 2019": 2.27,
+            "Dec 2018": 2.27,
+            "Sep 2018": 2.27,
+            "Jun 2018": 2.27,
+            "Mar 2018": 2.27,
+            "Dec 2017": 2.27,
+            "Sep 2017": 2.27,
+            "Jun 2017": 2.27,
+            "Mar 2017": 2.27,
+            "Dec 2016": 2.27,
+            "Sep 2016": 2.27,
+            "Jun 2016": 2.27
+          }
+        ]
+      },
+      {
+        "companyName": "Amraworld Agrico",
+        "result": [
+          {
+            "Sep 2021": 2.38,
+            "Jun 2021": 2.38,
+            "Mar 2021": 2.38,
+            "Dec 2020": 2.38,
+            "Sep 2020": 2.38,
+            "Jun 2020": 2.38,
+            "Mar 2020": 2.38,
+            "Dec 2019": 2.38,
+            "Sep 2019": 2.38,
+            "Jun 2019": 2.38,
+            "Mar 2019": 2.38,
+            "Dec 2018": 2.38,
+            "Sep 2018": 2.38,
+            "Jun 2018": 2.38,
+            "Mar 2018": 2.38,
+            "Dec 2017": 2.38,
+            "Sep 2017": 2.38,
+            "Jun 2017": 2.38,
+            "Mar 2017": 2.38,
+            "Dec 2016": 2.38,
+            "Jun 2016": 2.38
+          }
+        ]
+      },
+      {
+        "companyName": "Golden Legand Ls",
+        "result": [
+          {
+            "Jun 2020": 4.71,
+            "Mar 2020": 4.71,
+            "Dec 2019": 4.71,
+            "Sep 2019": 4.71,
+            "Mar 2019": 4.71,
+            "Dec 2018": 4.71,
+            "Sep 2018": 4.71,
+            "Jun 2018": 4.71,
+            "Mar 2018": 4.71,
+            "Dec 2017": 4.71,
+            "Sep 2017": 4.71,
+            "Jun 2017": 4.71,
+            "Mar 2017": 4.71,
+            "Dec 2016": 4.71,
+            "Sep 2016": 4.71,
+            "Jun 2016": 4.71
+          }
+        ]
+      },
+      {
+        "companyName": "Regis Industries",
+        "result": [
+          {
+            "Sep 2021": 4.32,
+            "Jun 2021": 4.32,
+            "Mar 2021": 4.32,
+            "Dec 2020": 4.32,
+            "Sep 2020": 4.32,
+            "Jun 2020": 4.32
+          }
+        ]
+      },
+      {
+        "companyName": "Seven Hill Inds.",
+        "result": [
+          {
+            "Mar 2021": 13.84,
+            "Dec 2020": 13.84,
+            "Sep 2020": 13.84,
+            "Jun 2020": 13.84,
+            "Mar 2020": 13.84,
+            "Dec 2019": 13.84,
+            "Sep 2019": 13.84,
+            "Jun 2019": 13.84,
+            "Mar 2019": 13.84,
+            "Dec 2018": 13.84,
+            "Sep 2018": 13.84,
+            "Jun 2018": 13.84,
+            "Mar 2018": 13.84,
+            "Dec 2017": 13.84,
+            "Sep 2017": 13.84,
+            "Jun 2017": 13.84,
+            "Mar 2017": 13.84,
+            "Dec 2016": 13.84,
+            "Sep 2016": 13.84,
+            "Jun 2016": 13.84
+          }
+        ]
+      },
+      {
+        "companyName": "Shree Ganesh Bio",
+        "result": [
+          {
+            "Jun 2018": 4.64,
+            "Mar 2018": 4.64,
+            "Dec 2017": 4.64,
+            "Sep 2017": 4.64,
+            "Jun 2017": 4.64,
+            "Mar 2017": 4.64,
+            "Dec 2016": 4.64,
+            "Jun 2016": 4.64
+          }
+        ]
+      }
+    ],
+    "id": 6187
+  },
+  {
+    "name": "Simplex Trading And Agencies Limited",
+    "bulkDealsData": [
+      {
+        "date": "Madhav Infra\n25 Jan, 2022",
+        "orderType": "Sell",
+        "quantity": "12,92,000",
+        "price": "6.91"
+      },
+      {
+        "date": "Madhav Infra\n21 Jan, 2022",
+        "orderType": "Sell",
+        "quantity": "25,32,165",
+        "price": "6.12"
+      },
+      {
+        "date": "Anand Rayons\n24 Sep, 2021",
+        "orderType": "Sell",
+        "quantity": "1,00,000",
+        "price": "49.2"
+      },
+      {
+        "date": "Biogen Pharma\n29 Jan, 2021",
+        "orderType": "Sell",
+        "quantity": "99,30,000",
+        "price": "0.20"
+      },
+      {
+        "date": "Biogen Pharma\n20 Jan, 2021",
+        "orderType": "Sell",
+        "quantity": "1,22,00,000",
+        "price": "0.21"
+      },
+      {
+        "date": "Lypsa Gems\n16 Oct, 2020",
+        "orderType": "Sell",
+        "quantity": "2,94,000",
+        "price": "2.75"
+      },
+      {
+        "date": "Anand Rayons\n11 Oct, 2019",
+        "orderType": "Buy",
+        "quantity": "80,000",
+        "price": "34.0"
+      },
+      {
+        "date": "Anand Rayons\n10 Oct, 2019",
+        "orderType": "Buy",
+        "quantity": "80,000",
+        "price": "33.5"
+      },
+      {
+        "date": "Anand Rayons\n09 Oct, 2019",
+        "orderType": "Buy",
+        "quantity": "80,000",
+        "price": "33.0"
+      },
+      {
+        "date": "Shree Ganesh Bio\n11 Oct, 2017",
+        "orderType": "Sell",
+        "quantity": "9,333",
+        "price": "153"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Amerise BioScie",
+        "result": [
+          {
+            "Dec 2021": 4.51,
+            "Sep 2021": 4.51,
+            "Jun 2021": 4.51,
+            "Mar 2021": 4.51,
+            "Dec 2020": 4.51,
+            "Sep 2020": 4.51
+          }
+        ]
+      },
+      {
+        "companyName": "Anand Rayons",
+        "result": [
+          {
+            "Dec 2019": 1.6
+          }
+        ]
+      },
+      {
+        "companyName": "Biogen Pharma",
+        "result": [
+          {
+            "Dec 2020": 8.32,
+            "Sep 2020": 1.53,
+            "Jun 2020": 1.53,
+            "Mar 2020": 1.53,
+            "Dec 2019": 1.53,
+            "Sep 2019": 1.53,
+            "Jun 2019": 1.53,
+            "Mar 2019": 1.53,
+            "Dec 2018": 1.53,
+            "Sep 2018": 1.53,
+            "Jun 2018": 1.53,
+            "Mar 2018": 1.53,
+            "Dec 2017": 1.53,
+            "Sep 2017": 1.53,
+            "Jun 2017": 1.53,
+            "Mar 2017": 1.53,
+            "Dec 2016": 1.53,
+            "Sep 2016": 1.53,
+            "Jun 2016": 1.53
+          }
+        ]
+      },
+      {
+        "companyName": "Camex",
+        "result": [
+          {
+            "Sep 2016": 1.22,
+            "Jun 2016": 1.6
+          }
+        ]
+      },
+      {
+        "companyName": "Colab Cloud",
+        "result": [
+          {
+            "Sep 2021": 5.85,
+            "Jun 2021": 5.85,
+            "Mar 2021": 5.88,
+            "Dec 2020": 5.88,
+            "Sep 2020": 2.5,
+            "Jun 2020": 2.5,
+            "Mar 2020": 2.5,
+            "Dec 2019": 2.5
+          }
+        ]
+      },
+      {
+        "companyName": "Devine Impex",
+        "result": [
+          {
+            "Jun 2023": 7.55,
+            "Mar 2023": 7.55,
+            "Dec 2022": 7.55,
+            "Sep 2022": 7.55,
+            "Jun 2022": 7.55,
+            "Mar 2022": 7.55,
+            "Dec 2021": 7.55,
+            "Sep 2021": 7.55,
+            "Jun 2021": 7.55,
+            "Mar 2021": 7.55,
+            "Dec 2020": 7.55,
+            "Sep 2020": 7.55,
+            "Jun 2020": 7.55,
+            "Mar 2020": 7.55,
+            "Dec 2019": 7.55,
+            "Sep 2019": 7.55,
+            "Jun 2019": 7.55,
+            "Mar 2019": 7.55,
+            "Dec 2018": 7.55,
+            "Sep 2018": 7.55,
+            "Jun 2018": 7.55,
+            "Mar 2018": 7.55,
+            "Dec 2017": 7.55,
+            "Sep 2017": 7.55,
+            "Jun 2017": 7.55,
+            "Mar 2017": 7.55,
+            "Dec 2016": 7.55,
+            "Sep 2016": 7.55
+          }
+        ]
+      },
+      {
+        "companyName": "Golden Legand Ls",
+        "result": [
+          {
+            "Jun 2020": 3.36,
+            "Mar 2020": 2.69,
+            "Dec 2019": 3.36,
+            "Sep 2019": 3.36,
+            "Mar 2019": 3.36,
+            "Dec 2018": 3.36,
+            "Sep 2018": 3.36,
+            "Jun 2018": 3.36,
+            "Mar 2018": 3.36,
+            "Dec 2017": 3.36,
+            "Sep 2017": 3.36,
+            "Jun 2017": 3.36,
+            "Mar 2017": 3.36,
+            "Dec 2016": 3.36,
+            "Sep 2016": 3.36,
+            "Jun 2016": 3.36
+          }
+        ]
+      },
+      {
+        "companyName": "Madhav Infra",
+        "result": [
+          {
+            "Jun 2023": 1.75,
+            "Mar 2023": 2.14,
+            "Dec 2022": 2.14,
+            "Sep 2022": 2.16,
+            "Jun 2022": 2.16,
+            "Mar 2022": 2.27,
+            "Dec 2021": 4.6,
+            "Sep 2021": 4.6,
+            "Jun 2021": 4.6,
+            "Mar 2021": 4.6,
+            "Dec 2020": 4.6,
+            "Sep 2020": 4.6,
+            "Jun 2020": 4.6
+          }
+        ]
+      },
+      {
+        "companyName": "Malabar Trading",
+        "result": [
+          {
+            "Dec 2021": 1.37,
+            "Sep 2021": 1.37,
+            "Jun 2021": 1.37,
+            "Mar 2021": 1.37,
+            "Dec 2020": 1.37,
+            "Sep 2020": 1.37,
+            "Jun 2020": 1.37,
+            "Mar 2020": 1.37,
+            "Dec 2019": 1.37,
+            "Sep 2019": 1.37,
+            "Jun 2019": 1.37,
+            "Mar 2019": 1.37,
+            "Dec 2018": 1.37,
+            "Sep 2018": 1.37,
+            "Jun 2018": 1.37,
+            "Mar 2018": 1.37,
+            "Dec 2017": 1.37,
+            "Sep 2017": 1.37,
+            "Jun 2017": 1.37,
+            "Mar 2017": 1.37,
+            "Dec 2016": 1.37,
+            "Sep 2016": 1.37
+          }
+        ]
+      },
+      {
+        "companyName": "MFS Intercorp",
+        "result": [
+          {
+            "Mar 2021": 4,
+            "Dec 2020": 4,
+            "Sep 2020": 4,
+            "Jun 2020": 4,
+            "Mar 2020": 4,
+            "Dec 2019": 4,
+            "Sep 2019": 4,
+            "Jun 2019": 4,
+            "Mar 2019": 4,
+            "Dec 2018": 4
+          }
+        ]
+      },
+      {
+        "companyName": "Press. Senstive",
+        "result": [
+          {
+            "Dec 2019": 2.7
+          }
+        ]
+      },
+      {
+        "companyName": "Regent Enterp.",
+        "result": [
+          {
+            "Dec 2020": 2.99,
+            "Sep 2020": 2.99,
+            "Jun 2020": 2.99,
+            "Mar 2020": 2.99,
+            "Dec 2019": 2.99,
+            "Sep 2019": 2.99,
+            "Jun 2019": 2.99,
+            "Mar 2019": 2.99,
+            "Dec 2018": 2.99,
+            "Sep 2018": 2.99
+          }
+        ]
+      },
+      {
+        "companyName": "Regis Industries",
+        "result": [
+          {
+            "Jun 2023": 4.54,
+            "Mar 2023": 4.54,
+            "Dec 2022": 4.54,
+            "Sep 2022": 4.54,
+            "Jun 2022": 4.54,
+            "Mar 2022": 4.54,
+            "Dec 2021": 4.54,
+            "Sep 2021": 4.54,
+            "Jun 2021": 4.54,
+            "Mar 2021": 4.54,
+            "Dec 2020": 4.54,
+            "Sep 2020": 4.54,
+            "Jun 2020": 4.54
+          }
+        ]
+      },
+      {
+        "companyName": "Saianand Commer.",
+        "result": [
+          {
+            "Jun 2023": 7.06,
+            "Mar 2023": 7.06,
+            "Dec 2022": 7.06,
+            "Sep 2022": 7.35,
+            "Jun 2022": 8.8,
+            "Mar 2022": 8.8,
+            "Dec 2021": 8.8,
+            "Sep 2021": 8.8,
+            "Jun 2021": 8.8,
+            "Mar 2021": 8.8,
+            "Dec 2019": 8.8,
+            "Sep 2019": 8.8,
+            "Jun 2019": 8.8,
+            "Mar 2019": 8.8,
+            "Dec 2018": 8.8,
+            "Sep 2018": 8.8
+          }
+        ]
+      },
+      {
+        "companyName": "Saral Mining",
+        "result": [
+          {
+            "Jun 2023": 2.91,
+            "Mar 2023": 2.91,
+            "Dec 2022": 2.91,
+            "Sep 2022": 2.91,
+            "Jun 2022": 2.91,
+            "Mar 2022": 2.91,
+            "Dec 2021": 2.91,
+            "Sep 2021": 2.91,
+            "Jun 2021": 2.91,
+            "Dec 2020": 2.91,
+            "Sep 2020": 2.91,
+            "Jun 2020": 2.58,
+            "Mar 2020": 2.91,
+            "Dec 2019": 2.58,
+            "Sep 2019": 2.58,
+            "Jun 2019": 2.58,
+            "Mar 2019": 2.58,
+            "Dec 2018": 2.58,
+            "Sep 2018": 2.58,
+            "Jun 2018": 2.58,
+            "Mar 2018": 2.58,
+            "Dec 2017": 2.58,
+            "Sep 2017": 2.58,
+            "Jun 2017": 2.58,
+            "Mar 2017": 2.58,
+            "Dec 2016": 2.58,
+            "Sep 2016": 2.58,
+            "Jun 2016": 2.58
+          }
+        ]
+      },
+      {
+        "companyName": "Seven Hill Inds.",
+        "result": [
+          {
+            "Dec 2021": 12,
+            "Sep 2021": 13.84,
+            "Jun 2021": 13.84,
+            "Mar 2021": 13.84,
+            "Dec 2020": 13.84,
+            "Sep 2020": 13.84,
+            "Jun 2020": 13.84,
+            "Mar 2020": 13.84,
+            "Dec 2019": 13.84,
+            "Sep 2019": 13.84,
+            "Jun 2019": 13.84,
+            "Mar 2019": 13.84,
+            "Dec 2018": 13.84,
+            "Sep 2018": 13.84,
+            "Jun 2018": 13.84,
+            "Mar 2018": 13.84,
+            "Dec 2017": 13.84,
+            "Sep 2017": 13.84,
+            "Jun 2017": 13.84,
+            "Mar 2017": 13.84,
+            "Dec 2016": 13.84,
+            "Sep 2016": 13.84,
+            "Jun 2016": 13.84
+          }
+        ]
+      },
+      {
+        "companyName": "Shiv Om Invst &",
+        "result": [
+          {
+            "Mar 2021": 2.47,
+            "Dec 2020": 2.47,
+            "Sep 2020": 2.47,
+            "Jun 2020": 2.47,
+            "Mar 2020": 2.47,
+            "Dec 2019": 2.47,
+            "Sep 2019": 2.47,
+            "Jun 2019": 2.47,
+            "Mar 2019": 2.27,
+            "Dec 2018": 1.96
+          }
+        ]
+      },
+      {
+        "companyName": "Shree Ganesh Bio",
+        "result": [
+          {
+            "Jun 2022": 1.96,
+            "Sep 2021": 1.28,
+            "Jun 2021": 1.28,
+            "Jun 2018": 4.33,
+            "Mar 2018": 4.33,
+            "Dec 2017": 4.39,
+            "Sep 2017": 4.91
+          }
+        ]
+      }
+    ],
+    "id": 6188
+  },
+  {
+    "name": "Brij Bhushan Singal",
+    "bulkDealsData": [
+      {
+        "date": "Radford Global\n15 Apr, 2013",
+        "orderType": "Sell",
+        "quantity": "4,00,000",
+        "price": "78.2"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Anukaran Commerc",
+        "result": [
+          {
+            "Jun 2019": 1.96,
+            "Mar 2019": 1.96,
+            "Dec 2018": 1.96,
+            "Sep 2018": 1.96,
+            "Jun 2018": 1.96,
+            "Mar 2018": 1.96,
+            "Dec 2017": 1.96,
+            "Sep 2017": 1.96,
+            "Jun 2017": 1.96,
+            "Mar 2017": 1.96,
+            "Dec 2016": 1.96,
+            "Sep 2016": 1.96,
+            "Jun 2016": 1.96,
+            "Mar 2016": 1.96
+          }
+        ]
+      },
+      {
+        "companyName": "Dee Kartavya Fin",
+        "result": [
+          {
+            "Jun 2020": 1.55,
+            "Mar 2020": 1.55,
+            "Dec 2019": 1.55,
+            "Sep 2019": 1.55,
+            "Jun 2019": 1.55,
+            "Mar 2019": 1.55,
+            "Dec 2018": 1.55,
+            "Sep 2018": 1.55,
+            "Jun 2018": 1.55,
+            "Mar 2018": 1.55,
+            "Dec 2017": 1.55,
+            "Sep 2017": 1.55,
+            "Jun 2017": 1.55,
+            "Mar 2017": 1.55,
+            "Dec 2016": 1.55,
+            "Sep 2016": 1.55,
+            "Jun 2016": 1.55,
+            "Mar 2016": 1.55
+          }
+        ]
+      },
+      {
+        "companyName": "Dhanleela Invest",
+        "result": [
+          {
+            "Dec 2017": 5.02,
+            "Sep 2017": 5.02,
+            "Jun 2017": 5.02,
+            "Dec 2016": 5.02,
+            "Sep 2016": 5.02,
+            "Jun 2016": 5.02,
+            "Mar 2016": 5.02
+          }
+        ]
+      },
+      {
+        "companyName": "Effingo Textile",
+        "result": [
+          {
+            "Dec 2022": 4.55,
+            "Sep 2022": 4.55,
+            "Dec 2018": 4.55,
+            "Sep 2018": 4.55,
+            "Jun 2018": 4.55
+          }
+        ]
+      },
+      {
+        "companyName": "Golden Legand Ls",
+        "result": [
+          {
+            "Sep 2022": 2.02,
+            "Jun 2022": 2.02,
+            "Jun 2020": 2.02,
+            "Mar 2020": 2.02,
+            "Dec 2019": 2.02,
+            "Sep 2019": 2.02,
+            "Mar 2019": 2.02,
+            "Dec 2018": 2.02,
+            "Sep 2018": 2.02,
+            "Jun 2018": 2.02,
+            "Mar 2018": 2.02,
+            "Dec 2017": 2.02,
+            "Sep 2017": 2.02,
+            "Jun 2017": 2.02,
+            "Mar 2017": 2.02,
+            "Dec 2016": 2.02,
+            "Sep 2016": 2.02,
+            "Jun 2016": 2.02
+          }
+        ]
+      },
+      {
+        "companyName": "LN Industries",
+        "result": [
+          {
+            "Mar 2023": 2.46
+          }
+        ]
+      },
+      {
+        "companyName": "Mega Fin (India)",
+        "result": [
+          {
+            "Mar 2023": 2.53,
+            "Dec 2022": 2.54,
+            "Sep 2022": 2.54,
+            "Jun 2022": 2.54,
+            "Mar 2022": 2.54,
+            "Dec 2021": 2.54,
+            "Sep 2021": 2.54,
+            "Jun 2021": 2.54,
+            "Mar 2021": 2.54,
+            "Dec 2020": 2.54,
+            "Sep 2020": 2.54,
+            "Mar 2020": 2.54,
+            "Dec 2017": 2.54,
+            "Sep 2017": 2.54
+          }
+        ]
+      },
+      {
+        "companyName": "Mishka Finance",
+        "result": [
+          {
+            "Jun 2018": 3.68,
+            "Mar 2018": 3.68,
+            "Dec 2017": 3.68,
+            "Sep 2017": 3.68,
+            "Jun 2017": 3.68,
+            "Mar 2017": 3.68,
+            "Dec 2016": 3.68,
+            "Sep 2016": 3.68,
+            "Jun 2016": 3.68
+          }
+        ]
+      },
+      {
+        "companyName": "Pine Animation",
+        "result": [
+          {
+            "Jun 2016": 4.29
+          }
+        ]
+      },
+      {
+        "companyName": "Rajlaxmi Inds.",
+        "result": [
+          {
+            "Dec 2016": 3.23,
+            "Sep 2016": 3.23,
+            "Jun 2016": 3.23
+          }
+        ]
+      },
+      {
+        "companyName": "Superior Indus.",
+        "result": [
+          {
+            "Jun 2019": 3.25,
+            "Dec 2018": 3.25,
+            "Jun 2018": 3.25,
+            "Dec 2017": 3.25,
+            "Jun 2017": 3.25,
+            "Mar 2017": 3.25,
+            "Dec 2016": 3.25,
+            "Sep 2016": 3.25
+          }
+        ]
+      },
+      {
+        "companyName": "Tata Steel BSL",
+        "result": [
+          {
+            "Mar 2018": 13.8,
+            "Dec 2017": 17.49,
+            "Sep 2017": 17.49,
+            "Jun 2017": 17.49,
+            "Mar 2017": 18.15,
+            "Dec 2016": 18.15,
+            "Sep 2016": 18.15,
+            "Jun 2016": 18.15
+          }
+        ]
+      }
+    ],
+    "id": 6189
+  },
+  {
+    "name": "Ritu Singal",
+    "bulkDealsData": [
+      {
+        "date": "Rander Corpn.\n12 Apr, 2023",
+        "orderType": "Sell",
+        "quantity": "68,875",
+        "price": "4.71"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Anukaran Commerc",
+        "result": [
+          {
+            "Mar 2019": 2.45,
+            "Dec 2018": 2.45,
+            "Sep 2018": 2.45,
+            "Jun 2018": 2.45,
+            "Mar 2018": 2.45,
+            "Dec 2017": 2.45,
+            "Sep 2017": 2.45,
+            "Jun 2017": 2.45,
+            "Mar 2017": 2.45,
+            "Dec 2016": 2.45,
+            "Sep 2016": 2.45,
+            "Jun 2016": 2.45,
+            "Mar 2016": 2.45
+          }
+        ]
+      },
+      {
+        "companyName": "Dee Kartavya Fin",
+        "result": [
+          {
+            "Jun 2020": 1.55,
+            "Mar 2020": 1.55,
+            "Dec 2019": 1.55,
+            "Sep 2019": 1.55,
+            "Jun 2019": 1.55,
+            "Mar 2019": 1.55,
+            "Dec 2018": 1.55,
+            "Sep 2018": 1.55,
+            "Jun 2018": 1.55,
+            "Mar 2018": 1.55,
+            "Dec 2017": 1.55,
+            "Sep 2017": 1.55,
+            "Jun 2017": 1.55,
+            "Mar 2017": 1.55,
+            "Dec 2016": 1.55,
+            "Sep 2016": 1.55,
+            "Jun 2016": 1.55,
+            "Mar 2016": 1.55
+          }
+        ]
+      },
+      {
+        "companyName": "Dhanleela Invest",
+        "result": [
+          {
+            "Dec 2017": 5.02,
+            "Sep 2017": 5.02,
+            "Jun 2017": 5.02,
+            "Dec 2016": 5.02,
+            "Sep 2016": 5.02,
+            "Jun 2016": 5.02,
+            "Mar 2016": 5.02
+          }
+        ]
+      },
+      {
+        "companyName": "Effingo Textile",
+        "result": [
+          {
+            "Dec 2022": 4.55,
+            "Sep 2022": 4.55,
+            "Dec 2018": 4.55,
+            "Sep 2018": 4.55,
+            "Jun 2018": 4.55
+          }
+        ]
+      },
+      {
+        "companyName": "Golden Legand Ls",
+        "result": [
+          {
+            "Sep 2022": 2.02,
+            "Jun 2022": 2.02,
+            "Jun 2020": 2.02,
+            "Mar 2020": 2.02,
+            "Dec 2019": 2.02,
+            "Sep 2019": 2.02,
+            "Mar 2019": 2.02,
+            "Dec 2018": 2.02,
+            "Sep 2018": 2.02,
+            "Jun 2018": 2.02,
+            "Mar 2018": 2.02,
+            "Dec 2017": 2.02,
+            "Sep 2017": 2.02,
+            "Jun 2017": 2.02,
+            "Mar 2017": 2.02,
+            "Dec 2016": 2.02,
+            "Sep 2016": 2.02,
+            "Jun 2016": 2.02
+          }
+        ]
+      },
+      {
+        "companyName": "Mishka Finance",
+        "result": [
+          {
+            "Jun 2018": 3.79,
+            "Mar 2018": 3.79,
+            "Dec 2017": 3.79,
+            "Sep 2017": 3.79,
+            "Jun 2017": 3.79,
+            "Mar 2017": 3.79,
+            "Dec 2016": 3.79,
+            "Sep 2016": 3.79,
+            "Jun 2016": 3.79
+          }
+        ]
+      },
+      {
+        "companyName": "Pine Animation",
+        "result": [
+          {
+            "Jun 2016": 4.33
+          }
+        ]
+      },
+      {
+        "companyName": "PS IT Infra",
+        "result": [
+          {
+            "Jun 2023": 2.19,
+            "Mar 2023": 2.19,
+            "Dec 2022": 2.19,
+            "Sep 2022": 2.19
+          }
+        ]
+      },
+      {
+        "companyName": "Rajlaxmi Inds.",
+        "result": [
+          {
+            "Dec 2016": 2.9,
+            "Sep 2016": 2.9,
+            "Jun 2016": 2.58
+          }
+        ]
+      },
+      {
+        "companyName": "Rander Corpn.",
+        "result": [
+          {
+            "Mar 2023": 1.94,
+            "Dec 2022": 2.54,
+            "Sep 2022": 3.24,
+            "Jun 2022": 1.4,
+            "Dec 2021": 1.4,
+            "Sep 2021": 1.4,
+            "Jun 2021": 1.4,
+            "Mar 2021": 1.4,
+            "Dec 2020": 1.4,
+            "Sep 2020": 1.4,
+            "Jun 2020": 1.4,
+            "Mar 2020": 1.4,
+            "Dec 2019": 1.4,
+            "Sep 2019": 1.4,
+            "Jun 2019": 1.4,
+            "Mar 2019": 1.4,
+            "Dec 2018": 1.4,
+            "Sep 2018": 1.4,
+            "Jun 2018": 1.4,
+            "Mar 2018": 1.4,
+            "Dec 2017": 1.4,
+            "Sep 2017": 1.4,
+            "Jun 2017": 1.4,
+            "Mar 2017": 1.4,
+            "Dec 2016": 1.4,
+            "Sep 2016": 1.4,
+            "Jun 2016": 1.4
+          }
+        ]
+      },
+      {
+        "companyName": "Superior Indus.",
+        "result": [
+          {
+            "Jun 2023": 9.75,
+            "Mar 2023": 9.75,
+            "Dec 2022": 9.75,
+            "Sep 2022": 9.75,
+            "Jun 2022": 3.25,
+            "Mar 2022": 3.25,
+            "Dec 2021": 3.25,
+            "Sep 2021": 3.25,
+            "Jun 2021": 3.25,
+            "Mar 2021": 3.25,
+            "Dec 2020": 3.25,
+            "Sep 2020": 3.25,
+            "Jun 2020": 3.25,
+            "Mar 2020": 3.25,
+            "Dec 2019": 3.25,
+            "Sep 2019": 3.25,
+            "Jun 2019": 3.25,
+            "Mar 2019": 3.25,
+            "Dec 2018": 3.25,
+            "Sep 2018": 3.25,
+            "Jun 2018": 3.25,
+            "Mar 2018": 3.25,
+            "Dec 2017": 3.25,
+            "Sep 2017": 3.25,
+            "Jun 2017": 3.25,
+            "Mar 2017": 3.25,
+            "Dec 2016": 3.25,
+            "Sep 2016": 3.25,
+            "Jun 2016": 3.25
+          }
+        ]
+      },
+      {
+        "companyName": "Tata Steel BSL",
+        "result": [
+          {
+            "Mar 2018": 2,
+            "Dec 2017": 2.53,
+            "Sep 2017": 2.53,
+            "Jun 2017": 2.53,
+            "Mar 2017": 2.66,
+            "Dec 2016": 2.66,
+            "Sep 2016": 2.66,
+            "Jun 2016": 2.66
+          }
+        ]
+      }
+    ],
+    "id": 6190
+  },
+  {
+    "name": "Neeraj Singal",
+    "shareHoldings": [
+      {
+        "companyName": "Anukaran Commerc",
+        "result": [
+          {
+            "Jun 2019": 1.98,
+            "Mar 2019": 1.98,
+            "Dec 2018": 1.98,
+            "Sep 2018": 1.98,
+            "Jun 2018": 1.98,
+            "Mar 2018": 1.98,
+            "Dec 2017": 1.98,
+            "Sep 2017": 1.98,
+            "Jun 2017": 1.98,
+            "Mar 2017": 1.98,
+            "Dec 2016": 1.98,
+            "Sep 2016": 1.98,
+            "Jun 2016": 1.98,
+            "Mar 2016": 1.98
+          }
+        ]
+      },
+      {
+        "companyName": "Dee Kartavya Fin",
+        "result": [
+          {
+            "Jun 2020": 1.55,
+            "Mar 2020": 1.55,
+            "Dec 2019": 1.55,
+            "Sep 2019": 1.55,
+            "Jun 2019": 1.55,
+            "Mar 2019": 1.55,
+            "Dec 2018": 1.55,
+            "Sep 2018": 1.55,
+            "Jun 2018": 1.55,
+            "Mar 2018": 1.55,
+            "Dec 2017": 1.55,
+            "Sep 2017": 1.55,
+            "Jun 2017": 1.55,
+            "Mar 2017": 1.55,
+            "Dec 2016": 1.55,
+            "Sep 2016": 1.55,
+            "Jun 2016": 1.55,
+            "Mar 2016": 1.55
+          }
+        ]
+      },
+      {
+        "companyName": "Dhanleela Invest",
+        "result": [
+          {
+            "Dec 2017": 5.02,
+            "Sep 2017": 5.02,
+            "Jun 2017": 5.02,
+            "Dec 2016": 5.02,
+            "Sep 2016": 5.02,
+            "Jun 2016": 5.02,
+            "Mar 2016": 5.02
+          }
+        ]
+      },
+      {
+        "companyName": "Effingo Textile",
+        "result": [
+          {
+            "Dec 2022": 4.55,
+            "Sep 2022": 4.55,
+            "Dec 2018": 4.55,
+            "Sep 2018": 4.55,
+            "Jun 2018": 4.55
+          }
+        ]
+      },
+      {
+        "companyName": "Golden Legand Ls",
+        "result": [
+          {
+            "Sep 2022": 2.02,
+            "Jun 2022": 2.02,
+            "Jun 2020": 2.02,
+            "Mar 2020": 2.02,
+            "Dec 2019": 2.02,
+            "Sep 2019": 2.02,
+            "Mar 2019": 2.02,
+            "Dec 2018": 2.02,
+            "Sep 2018": 2.02,
+            "Jun 2018": 2.02,
+            "Mar 2018": 2.02,
+            "Dec 2017": 2.02,
+            "Sep 2017": 2.02,
+            "Jun 2017": 2.02,
+            "Mar 2017": 2.02,
+            "Dec 2016": 2.02,
+            "Sep 2016": 2.02,
+            "Jun 2016": 2.02
+          }
+        ]
+      },
+      {
+        "companyName": "LN Industries",
+        "result": [
+          {
+            "Mar 2023": 2.95
+          }
+        ]
+      },
+      {
+        "companyName": "Mega Fin (India)",
+        "result": [
+          {
+            "Mar 2023": 2.51,
+            "Dec 2022": 2.51,
+            "Sep 2022": 2.51,
+            "Jun 2022": 2.51,
+            "Mar 2022": 2.51,
+            "Dec 2021": 2.51,
+            "Sep 2021": 2.51,
+            "Jun 2021": 2.51,
+            "Mar 2021": 2.51,
+            "Dec 2020": 2.51,
+            "Sep 2020": 2.51,
+            "Mar 2020": 2.51,
+            "Dec 2017": 2.51,
+            "Sep 2017": 2.51
+          }
+        ]
+      },
+      {
+        "companyName": "Mishka Finance",
+        "result": [
+          {
+            "Jun 2018": 3.79,
+            "Mar 2018": 3.79,
+            "Dec 2017": 3.79,
+            "Sep 2017": 3.79,
+            "Jun 2017": 3.79,
+            "Mar 2017": 3.79,
+            "Dec 2016": 3.79,
+            "Sep 2016": 3.79,
+            "Jun 2016": 3.79
+          }
+        ]
+      },
+      {
+        "companyName": "Pine Animation",
+        "result": [
+          {
+            "Jun 2016": 4.33
+          }
+        ]
+      },
+      {
+        "companyName": "Rajlaxmi Inds.",
+        "result": [
+          {
+            "Dec 2016": 2.26,
+            "Sep 2016": 2.26,
+            "Jun 2016": 2.26
+          }
+        ]
+      },
+      {
+        "companyName": "Rander Corpn.",
+        "result": [
+          {
+            "Jun 2022": 1.38,
+            "Dec 2021": 1.38,
+            "Sep 2021": 1.38,
+            "Jun 2021": 1.38,
+            "Mar 2021": 1.38,
+            "Dec 2020": 1.38,
+            "Sep 2020": 1.38,
+            "Jun 2020": 1.38,
+            "Mar 2020": 1.38,
+            "Dec 2019": 1.38,
+            "Sep 2019": 1.38,
+            "Jun 2019": 1.38,
+            "Mar 2019": 1.38,
+            "Dec 2018": 1.38,
+            "Sep 2018": 1.38,
+            "Jun 2018": 1.38,
+            "Mar 2018": 1.38,
+            "Dec 2017": 1.38,
+            "Sep 2017": 1.38,
+            "Jun 2017": 1.38,
+            "Mar 2017": 1.38,
+            "Dec 2016": 1.38,
+            "Sep 2016": 1.38,
+            "Jun 2016": 1.38
+          }
+        ]
+      },
+      {
+        "companyName": "Superior Indus.",
+        "result": [
+          {
+            "Dec 2018": 3.25,
+            "Sep 2018": 3.25,
+            "Jun 2018": 3.25,
+            "Dec 2017": 3.25,
+            "Jun 2017": 3.25,
+            "Mar 2017": 3.25,
+            "Dec 2016": 3.25,
+            "Sep 2016": 3.25,
+            "Jun 2016": 3.25
+          }
+        ]
+      },
+      {
+        "companyName": "Tata Steel BSL",
+        "result": [
+          {
+            "Sep 2021": 1.77,
+            "Jun 2021": 1.77,
+            "Mar 2021": 1.77,
+            "Dec 2020": 1.77,
+            "Sep 2020": 1.77,
+            "Jun 2020": 1.77,
+            "Mar 2020": 1.77,
+            "Dec 2019": 1.77,
+            "Sep 2019": 1.77,
+            "Jun 2019": 1.77,
+            "Mar 2019": 1.77,
+            "Dec 2018": 1.77,
+            "Sep 2018": 1.77,
+            "Jun 2018": 1.77,
+            "Mar 2018": 22,
+            "Dec 2017": 22.73,
+            "Sep 2017": 22.73,
+            "Jun 2017": 22.73,
+            "Mar 2017": 22.73,
+            "Dec 2016": 22.73,
+            "Sep 2016": 22.73,
+            "Jun 2016": 22.73
+          }
+        ]
+      }
+    ],
+    "id": 6191
+  },
+  {
+    "name": "Shivani Ashokbhai Shah",
+    "shareHoldings": [
+      {
+        "companyName": "Golden Legand Ls",
+        "result": [
+          {
+            "Sep 2022": 2.02,
+            "Jun 2022": 2.02,
+            "Jun 2020": 2.02,
+            "Mar 2020": 2.02,
+            "Dec 2019": 2.02,
+            "Sep 2019": 2.02,
+            "Mar 2019": 2.02,
+            "Dec 2018": 2.02,
+            "Sep 2018": 2.02,
+            "Jun 2018": 2.02,
+            "Mar 2018": 2.02,
+            "Dec 2017": 2.02,
+            "Sep 2017": 2.02,
+            "Jun 2017": 2.02,
+            "Mar 2017": 2.02,
+            "Dec 2016": 2.02,
+            "Sep 2016": 2.02,
+            "Jun 2016": 2.02
+          }
+        ]
+      },
+      {
+        "companyName": "Shree Ganesh Bio",
+        "result": [
+          {
+            "Jun 2018": 4.64,
+            "Mar 2018": 4.64,
+            "Dec 2017": 4.64,
+            "Sep 2017": 4.64,
+            "Jun 2017": 4.64,
+            "Mar 2017": 4.64,
+            "Dec 2016": 4.64,
+            "Jun 2016": 4.64
+          }
+        ]
+      }
+    ],
+    "id": 6192
+  },
+  {
+    "name": "Neeraj Singhal",
+    "shareHoldings": [
+      {
+        "companyName": "Dee Kartavya Fin",
+        "result": [
+          {
+            "Jun 2020": 1.24,
+            "Mar 2020": 1.24,
+            "Dec 2019": 1.24,
+            "Sep 2019": 1.24,
+            "Jun 2019": 1.24,
+            "Mar 2019": 1.24,
+            "Dec 2018": 1.24,
+            "Sep 2018": 1.24,
+            "Jun 2018": 1.24,
+            "Mar 2018": 1.24,
+            "Dec 2017": 1.24,
+            "Sep 2017": 1.24,
+            "Jun 2017": 1.24,
+            "Mar 2017": 1.24,
+            "Dec 2016": 1.24,
+            "Sep 2016": 1.24
+          }
+        ]
+      },
+      {
+        "companyName": "Golden Legand Ls",
+        "result": [
+          {
+            "Sep 2022": 2.02,
+            "Jun 2022": 2.02,
+            "Jun 2020": 2.02,
+            "Mar 2020": 2.02,
+            "Dec 2019": 2.02,
+            "Mar 2019": 2.02,
+            "Dec 2018": 2.02,
+            "Sep 2018": 2.02,
+            "Jun 2018": 2.02,
+            "Mar 2018": 2.02,
+            "Dec 2017": 2.02,
+            "Sep 2017": 2.02,
+            "Jun 2017": 2.02,
+            "Mar 2017": 2.02,
+            "Dec 2016": 2.02,
+            "Sep 2016": 2.02,
+            "Jun 2016": 2.02
+          }
+        ]
+      },
+      {
+        "companyName": "IFL Promoters",
+        "result": [
+          {
+            "Mar 2023": 6.2,
+            "Dec 2022": 6.54,
+            "Sep 2022": 6.2,
+            "Jun 2022": 6.2,
+            "Mar 2022": 6.2,
+            "Dec 2021": 6.2,
+            "Sep 2021": 6.2,
+            "Jun 2021": 6.2,
+            "Mar 2021": 6.2,
+            "Dec 2020": 6.2,
+            "Sep 2020": 6.2,
+            "Jun 2020": 6.2,
+            "Mar 2020": 6.2,
+            "Dec 2019": 6.2,
+            "Sep 2019": 6.2,
+            "Jun 2019": 6.2,
+            "Dec 2018": 6.2,
+            "Sep 2018": 6.2,
+            "Jun 2018": 6.2,
+            "Mar 2018": 6.2,
+            "Dec 2017": 6.2,
+            "Sep 2017": 6.2,
+            "Jun 2017": 6.2,
+            "Mar 2017": 6.2,
+            "Dec 2016": 6.2,
+            "Sep 2016": 6.2,
+            "Jun 2016": 6.2
+          }
+        ]
+      },
+      {
+        "companyName": "Mishka Finance",
+        "result": [
+          {
+            "Mar 2017": 1.94,
+            "Dec 2016": 1.94,
+            "Sep 2016": 1.94
+          }
+        ]
+      },
+      {
+        "companyName": "Rajlaxmi Inds.",
+        "result": [
+          {
+            "Dec 2016": 2.9,
+            "Sep 2016": 2.9,
+            "Jun 2016": 2.9
+          }
+        ]
+      },
+      {
+        "companyName": "Sunshine Capital",
+        "result": [
+          {
+            "Dec 2018": 1.65,
+            "Sep 2018": 1.65,
+            "Jun 2018": 1.65,
+            "Mar 2018": 1.65,
+            "Dec 2017": 1.65,
+            "Sep 2017": 1.65,
+            "Jun 2017": 1.65,
+            "Mar 2017": 1.65,
+            "Dec 2016": 1.65,
+            "Sep 2016": 1.65,
+            "Jun 2016": 1.65
+          }
+        ]
+      },
+      {
+        "companyName": "Superior Indus.",
+        "result": [
+          {
+            "Jun 2022": 3.25,
+            "Mar 2022": 3.25,
+            "Dec 2021": 3.25,
+            "Sep 2021": 3.25,
+            "Jun 2021": 3.25,
+            "Mar 2021": 3.25,
+            "Dec 2020": 3.25,
+            "Sep 2020": 3.25,
+            "Jun 2020": 3.25,
+            "Mar 2020": 3.25,
+            "Dec 2019": 3.25,
+            "Sep 2019": 3.25,
+            "Jun 2019": 3.25,
+            "Mar 2019": 3.25,
+            "Dec 2018": 3.25,
+            "Sep 2018": 3.25,
+            "Jun 2018": 3.25,
+            "Mar 2018": 3.25,
+            "Sep 2017": 3.25,
+            "Jun 2017": 3.25,
+            "Dec 2016": 3.25,
+            "Sep 2016": 3.25,
+            "Jun 2016": 3.25
+          }
+        ]
+      }
+    ],
+    "id": 6193
+  },
+  {
+    "name": "Bhadresh Bharatbhai Shah",
+    "shareHoldings": [
+      {
+        "companyName": "Golden Legand Ls",
+        "result": [
+          {
+            "Sep 2022": 1.86,
+            "Jun 2022": 1.86,
+            "Jun 2020": 1.86,
+            "Mar 2020": 1.86,
+            "Dec 2019": 1.86,
+            "Sep 2019": 1.86,
+            "Mar 2019": 1.86,
+            "Dec 2018": 1.86,
+            "Sep 2018": 1.86,
+            "Jun 2018": 1.86,
+            "Mar 2018": 1.86,
+            "Dec 2017": 1.86,
+            "Sep 2017": 1.86,
+            "Jun 2017": 1.86,
+            "Mar 2017": 1.86,
+            "Dec 2016": 1.86,
+            "Sep 2016": 1.86,
+            "Jun 2016": 1.86
+          }
+        ]
+      }
+    ],
+    "id": 6194
+  },
+  {
+    "name": "Rainbow Housing Development & Finance Co",
+    "bulkDealsData": [
+      {
+        "date": "Suncare Traders\n01 Jun, 2016",
+        "orderType": "Buy",
+        "quantity": "50,000",
+        "price": "26.0"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Golden Legand Ls",
+        "result": [
+          {
+            "Jun 2020": 1.69,
+            "Mar 2020": 1.69,
+            "Dec 2019": 1.69,
+            "Sep 2019": 1.69,
+            "Mar 2019": 1.69,
+            "Dec 2018": 1.69,
+            "Sep 2018": 1.69,
+            "Jun 2018": 1.69,
+            "Mar 2018": 1.69,
+            "Dec 2017": 1.69,
+            "Sep 2017": 1.69,
+            "Jun 2017": 1.69,
+            "Mar 2017": 1.69,
+            "Dec 2016": 1.69,
+            "Sep 2016": 1.69,
+            "Jun 2016": 1.69
+          }
+        ]
+      },
+      {
+        "companyName": "Suncare Traders",
+        "result": [
+          {
+            "Dec 2020": 1.85,
+            "Sep 2020": 1.85,
+            "Jun 2020": 1.85,
+            "Mar 2020": 1.85,
+            "Dec 2019": 1.85,
+            "Sep 2019": 1.85,
+            "Jun 2019": 1.85,
+            "Mar 2019": 1.85,
+            "Sep 2018": 1.85,
+            "Mar 2018": 1.85,
+            "Sep 2017": 1.85,
+            "Mar 2017": 1.85,
+            "Sep 2016": 1.85
+          }
+        ]
+      }
+    ],
+    "id": 6195
+  },
+  {
+    "name": "Gurcharan Singh Baweja",
+    "shareHoldings": [
+      {
+        "companyName": "Golden Legand Ls",
+        "result": [
+          {
+            "Sep 2022": 1.43,
+            "Jun 2022": 1.43,
+            "Jun 2020": 1.43,
+            "Mar 2020": 1.43,
+            "Dec 2019": 1.43,
+            "Sep 2019": 1.43,
+            "Mar 2019": 1.43,
+            "Dec 2018": 1.43,
+            "Sep 2018": 1.43,
+            "Jun 2018": 1.43,
+            "Mar 2018": 1.43,
+            "Dec 2017": 1.43,
+            "Sep 2017": 1.43,
+            "Jun 2017": 1.43,
+            "Mar 2017": 1.43,
+            "Dec 2016": 1.43,
+            "Sep 2016": 1.43,
+            "Jun 2016": 1.43
+          }
+        ]
+      }
+    ],
+    "id": 6196
+  },
+  {
+    "name": "Gurukul Enclave Private Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Arihant Multi",
+        "result": [
+          {
+            "Mar 2018": 1.88,
+            "Dec 2017": 1.88,
+            "Sep 2017": 1.88,
+            "Jun 2017": 1.88,
+            "Mar 2017": 1.88,
+            "Dec 2016": 1.88,
+            "Sep 2016": 1.88,
+            "Jun 2016": 1.88
+          }
+        ]
+      },
+      {
+        "companyName": "Cubical Finan",
+        "result": [
+          {
+            "Dec 2016": 1.49,
+            "Sep 2016": 1.49,
+            "Jun 2016": 1.49
+          }
+        ]
+      },
+      {
+        "companyName": "Golden Legand Ls",
+        "result": [
+          {
+            "Sep 2022": 1.4,
+            "Jun 2022": 1.4,
+            "Jun 2020": 1.4,
+            "Mar 2020": 1.4,
+            "Dec 2019": 1.4,
+            "Sep 2019": 1.4,
+            "Mar 2019": 1.4,
+            "Dec 2018": 1.4,
+            "Sep 2018": 1.4,
+            "Jun 2018": 1.4,
+            "Mar 2018": 1.4,
+            "Dec 2017": 1.4,
+            "Sep 2017": 1.4,
+            "Jun 2017": 1.4,
+            "Mar 2017": 1.4,
+            "Dec 2016": 1.4,
+            "Sep 2016": 1.4,
+            "Jun 2016": 1.4
+          }
+        ]
+      }
+    ],
+    "id": 6197
+  },
+  {
+    "name": "Ketaki Benara",
+    "shareHoldings": [
+      {
+        "companyName": "Benara Bearings",
+        "result": [
+          {
+            "Jun 2023": 11.56,
+            "Mar 2023": 11.56,
+            "Dec 2022": 11.56,
+            "Sep 2022": 11.56,
+            "Jun 2022": 11.56,
+            "Mar 2022": 11.56,
+            "Dec 2021": 11.56,
+            "Sep 2021": 11.56,
+            "Jun 2021": 11.56,
+            "Mar 2021": 11.56,
+            "Dec 2020": 11.56,
+            "Sep 2020": 11.56,
+            "Jun 2020": 11.56,
+            "Mar 2020": 11.56,
+            "Sep 2019": 11.56,
+            "Mar 2019": 11.56,
+            "Sep 2018": 11.56,
+            "Mar 2018": 11.56
+          }
+        ]
+      },
+      {
+        "companyName": "Golden Legand Ls",
+        "result": [
+          {
+            "Sep 2022": 1.34,
+            "Jun 2022": 1.34,
+            "Jun 2020": 1.34,
+            "Mar 2020": 1.34,
+            "Dec 2019": 1.34,
+            "Sep 2019": 1.34,
+            "Mar 2019": 1.34,
+            "Dec 2018": 1.34,
+            "Sep 2018": 1.34,
+            "Jun 2018": 1.34,
+            "Mar 2018": 1.34,
+            "Dec 2017": 1.34,
+            "Sep 2017": 1.34,
+            "Jun 2017": 1.34,
+            "Mar 2017": 1.34,
+            "Dec 2016": 1.34,
+            "Sep 2016": 1.34,
+            "Jun 2016": 1.34
+          }
+        ]
+      }
+    ],
+    "id": 6198
+  },
+  {
+    "name": "Panna Lal Jain",
+    "shareHoldings": [
+      {
+        "companyName": "Benara Bearings",
+        "result": [
+          {
+            "Jun 2023": 12.79,
+            "Mar 2023": 12.79,
+            "Dec 2022": 12.79,
+            "Sep 2022": 12.79,
+            "Jun 2022": 12.79,
+            "Mar 2022": 12.79,
+            "Dec 2021": 12.79,
+            "Sep 2021": 12.79,
+            "Jun 2021": 12.79,
+            "Mar 2021": 12.79,
+            "Dec 2020": 12.79,
+            "Sep 2020": 12.79,
+            "Jun 2020": 12.79,
+            "Mar 2020": 12.79,
+            "Sep 2019": 12.79,
+            "Mar 2019": 12.79,
+            "Sep 2018": 12.79,
+            "Mar 2018": 12.79
+          }
+        ]
+      },
+      {
+        "companyName": "Golden Legand Ls",
+        "result": [
+          {
+            "Sep 2022": 1.34,
+            "Jun 2022": 1.34,
+            "Jun 2020": 1.34,
+            "Mar 2020": 1.34,
+            "Dec 2019": 1.34,
+            "Sep 2019": 1.34,
+            "Mar 2019": 1.34,
+            "Dec 2018": 1.34,
+            "Sep 2018": 1.34,
+            "Jun 2018": 1.34,
+            "Mar 2018": 1.34,
+            "Dec 2017": 1.34,
+            "Sep 2017": 1.34,
+            "Jun 2017": 1.34,
+            "Mar 2017": 1.34,
+            "Dec 2016": 1.34,
+            "Sep 2016": 1.34,
+            "Jun 2016": 1.34
+          }
+        ]
+      },
+      {
+        "companyName": "Star Housing Fin",
+        "result": [
+          {
+            "Dec 2020": 1.04,
+            "Sep 2020": 1.04,
+            "Jun 2020": 1.04,
+            "Mar 2020": 1.04,
+            "Sep 2019": 1.75,
+            "Mar 2019": 1.75,
+            "Dec 2018": 1.75,
+            "Sep 2018": 1.75,
+            "Jun 2018": 1.38,
+            "Mar 2018": 1.75,
+            "Dec 2017": 1.78,
+            "Sep 2017": 1.78,
+            "Jun 2017": 1.78,
+            "Mar 2017": 1.78,
+            "Sep 2016": 1.78
+          }
+        ]
+      }
+    ],
+    "id": 6199
+  },
+  {
+    "name": "Sarla Jain",
+    "shareHoldings": [
+      {
+        "companyName": "Benara Bearings",
+        "result": [
+          {
+            "Jun 2023": 15.16,
+            "Mar 2023": 15.16,
+            "Dec 2022": 15.16,
+            "Sep 2022": 15.16,
+            "Jun 2022": 15.16,
+            "Mar 2022": 15.16,
+            "Dec 2021": 15.16,
+            "Sep 2021": 15.16,
+            "Jun 2021": 15.16,
+            "Mar 2021": 15.16,
+            "Dec 2020": 15.16,
+            "Sep 2020": 15.16,
+            "Jun 2020": 15.16,
+            "Mar 2020": 15.16,
+            "Sep 2019": 15.16,
+            "Mar 2019": 15.16,
+            "Sep 2018": 15.16,
+            "Mar 2018": 15.16
+          }
+        ]
+      },
+      {
+        "companyName": "Golden Legand Ls",
+        "result": [
+          {
+            "Sep 2022": 1.34,
+            "Jun 2022": 1.34,
+            "Jun 2020": 1.34,
+            "Mar 2020": 1.34,
+            "Dec 2019": 1.34,
+            "Sep 2019": 1.34,
+            "Mar 2019": 1.34,
+            "Dec 2018": 1.34,
+            "Sep 2018": 1.34,
+            "Jun 2018": 1.34,
+            "Mar 2018": 1.34,
+            "Dec 2017": 1.34,
+            "Sep 2017": 1.34,
+            "Jun 2017": 1.34,
+            "Mar 2017": 1.34,
+            "Dec 2016": 1.34,
+            "Sep 2016": 1.34,
+            "Jun 2016": 1.34
+          }
+        ]
+      },
+      {
+        "companyName": "Shree Tulsi Onli",
+        "result": [
+          {
+            "Jun 2023": 3.34,
+            "Mar 2023": 3.34,
+            "Dec 2022": 3.34,
+            "Sep 2022": 3.34,
+            "Jun 2022": 3.34,
+            "Mar 2022": 3.34,
+            "Dec 2021": 3.34,
+            "Sep 2021": 3.34,
+            "Jun 2021": 3.34,
+            "Mar 2021": 3.34,
+            "Dec 2020": 3.34,
+            "Sep 2020": 3.34,
+            "Jun 2020": 3.34,
+            "Mar 2020": 3.34,
+            "Dec 2019": 3.34,
+            "Sep 2019": 3.34,
+            "Jun 2019": 3.34,
+            "Mar 2019": 3.34,
+            "Dec 2018": 3.34,
+            "Sep 2018": 3.34,
+            "Jun 2018": 3.34,
+            "Mar 2018": 3.34,
+            "Dec 2017": 3.34,
+            "Jun 2017": 3.34,
+            "Dec 2016": 3.34,
+            "Sep 2016": 3.34,
+            "Jun 2016": 3.34
+          }
+        ]
+      },
+      {
+        "companyName": "SPS Intl.",
+        "result": [
+          {
+            "Mar 2022": 0.44,
+            "Dec 2021": 0.44,
+            "Sep 2021": 0.44,
+            "Jun 2021": 0.44,
+            "Mar 2021": 0.44,
+            "Dec 2020": 0.44,
+            "Sep 2020": 0.44,
+            "Jun 2020": 0.44,
+            "Mar 2020": 0.44,
+            "Dec 2019": 0.44,
+            "Sep 2019": 0.44,
+            "Jun 2019": 0.44,
+            "Mar 2019": 0.44,
+            "Dec 2018": 0.44,
+            "Sep 2018": 0.44,
+            "Jun 2018": 0.44,
+            "Mar 2018": 0.44,
+            "Dec 2017": 0.41,
+            "Sep 2017": 0.41,
+            "Jun 2017": 0.41,
+            "Mar 2017": 0.41,
+            "Dec 2016": 0.41,
+            "Sep 2016": 0.41,
+            "Jun 2016": 0.41
+          }
+        ]
+      }
+    ],
+    "id": 6200
+  }
+]

@@ -1,0 +1,1744 @@
+[
+  {
+    "name": "Godrej Africa Holdings Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5901
+  },
+  {
+    "name": "Godrej Consumer Holdings (Netherlands) B.V",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5902
+  },
+  {
+    "name": "Godrej Consumer Investments (Chile) Spa",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5903
+  },
+  {
+    "name": "Godrej Consumer Products (Netherlands) B.V",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5904
+  },
+  {
+    "name": "Godrej Consumer Products (Uk) Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5905
+  },
+  {
+    "name": "Godrej Consumer Products Bangladesh Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5906
+  },
+  {
+    "name": "Godrej Consumer Products Dutch Cooperatief U.A",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5907
+  },
+  {
+    "name": "Godrej Consumer Products Holding (Mauritius) Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5908
+  },
+  {
+    "name": "Godrej Consumer Products Mauritius Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5909
+  },
+  {
+    "name": "Godrej East Africa Holdings Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5910
+  },
+  {
+    "name": "Godrej Global Mideast Fze",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5911
+  },
+  {
+    "name": "Godrej Holdings (Chile) Limitada",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5912
+  },
+  {
+    "name": "JP Morgan Sicav Investment Company (Mauritius) Limited",
+    "shareHoldings": [
+      {
+        "companyName": "ACC",
+        "result": [
+          {
+            "Jun 2017": 1.13,
+            "Mar 2017": 1.21,
+            "Dec 2016": 1.21,
+            "Sep 2016": 1.21,
+            "Jun 2016": 1.22
+          }
+        ]
+      },
+      {
+        "companyName": "Ashok Leyland",
+        "result": [
+          {
+            "Sep 2017": 1.11,
+            "Jun 2017": 1.18,
+            "Mar 2017": 1.22,
+            "Dec 2016": 1.22,
+            "Sep 2016": 1.22
+          }
+        ]
+      },
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {
+            "Mar 2017": 1.04,
+            "Dec 2016": 1.15,
+            "Sep 2016": 1.15
+          }
+        ]
+      },
+      {
+        "companyName": "Guj Pipavav Port",
+        "result": [
+          {
+            "Mar 2020": 1.3,
+            "Dec 2019": 1.31,
+            "Sep 2019": 1.31,
+            "Jun 2019": 1.31,
+            "Mar 2019": 1.56,
+            "Dec 2018": 1.56,
+            "Sep 2018": 1.56,
+            "Jun 2018": 1.56,
+            "Mar 2018": 1.56,
+            "Dec 2017": 1.56,
+            "Sep 2017": 1.56,
+            "Jun 2017": 1.56,
+            "Mar 2017": 1.56,
+            "Dec 2016": 1.56,
+            "Sep 2016": 1.56,
+            "Jun 2016": 1.56
+          }
+        ]
+      },
+      {
+        "companyName": "Jubilant Food.",
+        "result": [
+          {
+            "Sep 2018": 1.16,
+            "Jun 2018": 1.16,
+            "Mar 2018": 1.16,
+            "Dec 2017": 1.6,
+            "Sep 2017": 1.6,
+            "Jun 2017": 1.6,
+            "Mar 2017": 1.6,
+            "Dec 2016": 1.6,
+            "Sep 2016": 1.6,
+            "Jun 2016": 1.6
+          }
+        ]
+      }
+    ],
+    "id": 5913
+  },
+  {
+    "name": "JP Morgan India Fund",
+    "shareHoldings": [
+      {
+        "companyName": "ACC",
+        "result": [
+          {
+            "Jun 2017": 1.07,
+            "Mar 2017": 1.07,
+            "Dec 2016": 1.07,
+            "Sep 2016": 1.11,
+            "Jun 2016": 1.13
+          }
+        ]
+      },
+      {
+        "companyName": "Ashok Leyland",
+        "result": [
+          {
+            "Jun 2017": 1.02,
+            "Mar 2017": 1.04,
+            "Dec 2016": 1.04,
+            "Sep 2016": 1.04
+          }
+        ]
+      },
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {
+            "Dec 2016": 1.05,
+            "Sep 2016": 1.05
+          }
+        ]
+      },
+      {
+        "companyName": "Guj Pipavav Port",
+        "result": [
+          {
+            "Mar 2020": 1.27,
+            "Dec 2019": 1.27,
+            "Sep 2019": 1.27,
+            "Jun 2019": 1.27,
+            "Mar 2019": 1.27,
+            "Dec 2018": 1.27,
+            "Sep 2018": 1.27,
+            "Jun 2018": 1.27,
+            "Mar 2018": 1.27,
+            "Dec 2017": 1.27,
+            "Sep 2017": 1.27,
+            "Jun 2017": 1.27,
+            "Mar 2017": 1.27,
+            "Dec 2016": 1.27,
+            "Sep 2016": 1.27,
+            "Jun 2016": 1.3
+          }
+        ]
+      },
+      {
+        "companyName": "Jubilant Food.",
+        "result": [
+          {
+            "Dec 2017": 1.24,
+            "Sep 2017": 1.24,
+            "Jun 2017": 1.24,
+            "Mar 2017": 1.24,
+            "Dec 2016": 1.24,
+            "Sep 2016": 1.24,
+            "Jun 2016": 1.24
+          }
+        ]
+      },
+      {
+        "companyName": "Lemon Tree Hotel",
+        "result": [
+          {
+            "Sep 2022": 1.13,
+            "Jun 2022": 1.13,
+            "Mar 2022": 1.13
+          }
+        ]
+      },
+      {
+        "companyName": "SPARC",
+        "result": [
+          {
+            "Jun 2016": 1.16
+          }
+        ]
+      }
+    ],
+    "id": 5914
+  },
+  {
+    "name": "RISHAD KAIKHUSHRU NAOROJI (Partner of M/s RKN Enterprises)",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {
+            "Jun 2023": 12.65,
+            "Mar 2023": 12.65,
+            "Dec 2022": 12.65,
+            "Sep 2022": 12.65,
+            "Jun 2022": 12.65,
+            "Mar 2022": 12.65,
+            "Dec 2021": 12.65,
+            "Sep 2021": 12.65,
+            "Jun 2021": 12.65,
+            "Mar 2021": 12.65,
+            "Dec 2020": 12.65,
+            "Sep 2020": 12.65,
+            "Jun 2020": 12.65,
+            "Mar 2020": 12.66,
+            "Dec 2019": 12.66,
+            "Sep 2019": 12.66,
+            "Jun 2019": 12.66,
+            "Mar 2019": 12.66,
+            "Dec 2018": 3.81,
+            "Sep 2018": 3.81,
+            "Jun 2018": 3.81,
+            "Mar 2018": 3.81,
+            "Dec 2017": 3.81,
+            "Sep 2017": 3.81,
+            "Jun 2017": 3.81,
+            "Mar 2017": 3.81,
+            "Dec 2016": 3.81
+          }
+        ]
+      },
+      {
+        "companyName": "Godrej Propert.",
+        "result": [
+          {
+            "Dec 2018": 1.74,
+            "Sep 2018": 1.74,
+            "Jun 2018": 1.74,
+            "Mar 2018": 1.84,
+            "Dec 2017": 1.84,
+            "Sep 2017": 1.84,
+            "Jun 2017": 1.84,
+            "Mar 2017": 1.84,
+            "Dec 2016": 1.84
+          }
+        ]
+      }
+    ],
+    "id": 5915
+  },
+  {
+    "name": "Jamshyd Godrej, Pheroza Godrej And Navroze Godrej [(Trustees Of Raika Godrej Family Trust) (Beneficial Interest Is Of Raika Godrej)",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {
+            "Dec 2021": 0.3,
+            "Sep 2021": 0.3,
+            "Jun 2021": 0.3,
+            "Mar 2021": 0.3,
+            "Dec 2020": 0.3,
+            "Sep 2020": 0.3,
+            "Jun 2020": 0.3,
+            "Mar 2020": 0.3,
+            "Dec 2019": 0.3,
+            "Sep 2019": 0.3,
+            "Jun 2019": 0.3,
+            "Mar 2019": 0.3,
+            "Sep 2018": 0.3,
+            "Jun 2018": 0.3,
+            "Mar 2018": 0.3,
+            "Dec 2017": 1.9,
+            "Sep 2017": 1.9,
+            "Jun 2017": 1.9,
+            "Mar 2017": 1.9
+          }
+        ]
+      }
+    ],
+    "id": 5916
+  },
+  {
+    "name": "Godrej Megasari Holdings Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5917
+  },
+  {
+    "name": "Godrej Netherlands Argentina B.V",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5918
+  },
+  {
+    "name": "Godrej Netherlands Argentina Holding B.V",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5919
+  },
+  {
+    "name": "Godrej Weave Holdings Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5920
+  },
+  {
+    "name": "Inecto Manufacturing Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5921
+  },
+  {
+    "name": "Issue Group Uruguay S.A",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5922
+  },
+  {
+    "name": "Ramaiah Ventures Llp",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5923
+  },
+  {
+    "name": "Strength Of Nature South Africa Proprietary Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5924
+  },
+  {
+    "name": "Style Industries Uganda Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5925
+  },
+  {
+    "name": "Weave Business Holdings Mauritius Pvt Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5926
+  },
+  {
+    "name": "Weave Senegal Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5927
+  },
+  {
+    "name": "Proboscis Inc, Usa 19.61%",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5928
+  },
+  {
+    "name": "Bavdhan Realty @ Pune 21 Llp",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Agrovet",
+        "result": [
+          {}
+        ]
+      },
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      },
+      {
+        "companyName": "Godrej Propert.",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5929
+  },
+  {
+    "name": "Canon Chemicals Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5930
+  },
+  {
+    "name": "Darling Trading Company Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5931
+  },
+  {
+    "name": "Dgh Angola",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5932
+  },
+  {
+    "name": "Dgh Mauritius Pvt Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5933
+  },
+  {
+    "name": "Dgh Phase 3 Mauritius",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5934
+  },
+  {
+    "name": "Dgh Uganda",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5935
+  },
+  {
+    "name": "Frika Pty Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5936
+  },
+  {
+    "name": "Godrej (Singapore) Pte. Ltd. (100%)",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5937
+  },
+  {
+    "name": "Godrej Argentina Dutch Cooperatief U.A",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5938
+  },
+  {
+    "name": "Godrej Consumer  Investments Holding Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5939
+  },
+  {
+    "name": "Godrej Consumer Products International Fzco",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5940
+  },
+  {
+    "name": "Godrej Easy  Ip Holding",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5941
+  },
+  {
+    "name": "Godrej Hair Weave Nigeria Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5942
+  },
+  {
+    "name": "Mr. Adi Godrej, Ms. Tanya Dubash, Ms. Nisaba Godrej And Mr. Pirojsha Godrej (Trustees Of Abg Family Trust)",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {
+            "Jun 2023": 3.42,
+            "Mar 2023": 3.42,
+            "Dec 2022": 3.42,
+            "Sep 2022": 3.42,
+            "Jun 2022": 3.42,
+            "Mar 2022": 3.42,
+            "Dec 2021": 3.42,
+            "Sep 2021": 3.42,
+            "Jun 2021": 3.42,
+            "Mar 2021": 3.42,
+            "Dec 2020": 3.42,
+            "Sep 2020": 3.42,
+            "Jun 2020": 3.42,
+            "Mar 2020": 3.42,
+            "Dec 2019": 3.42,
+            "Sep 2019": 3.42,
+            "Jun 2019": 3.42,
+            "Mar 2019": 3.42
+          }
+        ]
+      },
+      {
+        "companyName": "Godrej Propert.",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5943
+  },
+  {
+    "name": "Mr. Nadir Godrej, Mr. Hormazd Godrej And Mrs. Rati Godrej (Trustees Of Bng Family Trust)",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {
+            "Jun 2023": 2.38,
+            "Mar 2023": 2.38,
+            "Dec 2022": 2.38,
+            "Sep 2022": 2.38,
+            "Jun 2022": 2.38,
+            "Mar 2022": 2.38,
+            "Dec 2021": 2.38,
+            "Sep 2021": 2.38,
+            "Jun 2021": 2.38,
+            "Mar 2021": 1.63,
+            "Dec 2020": 1.63,
+            "Sep 2020": 1.63,
+            "Jun 2020": 1.63,
+            "Mar 2020": 1.63,
+            "Dec 2019": 1.63,
+            "Sep 2019": 1.63,
+            "Jun 2019": 1.63,
+            "Mar 2019": 1.63
+          }
+        ]
+      }
+    ],
+    "id": 5944
+  },
+  {
+    "name": "Nadir Godrej, HormazdGodrejand RatiGodrej (TrusteesofSNGSuccessorTrust)",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      },
+      {
+        "companyName": "Godrej Propert.",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5945
+  },
+  {
+    "name": "Mr. Nadir Godrej, Mr. Hormazd Godrej And Mrs. Rati Godrej (Trustees Of Sng Family Trust)",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {
+            "Jun 2023": 2.49,
+            "Mar 2023": 2.49,
+            "Dec 2022": 2.49,
+            "Sep 2022": 2.49,
+            "Jun 2022": 2.49,
+            "Mar 2022": 2.49,
+            "Dec 2021": 2.49,
+            "Sep 2021": 2.49,
+            "Jun 2021": 2.49,
+            "Mar 2021": 1.75,
+            "Dec 2020": 1.75,
+            "Sep 2020": 1.75,
+            "Jun 2020": 1.75,
+            "Mar 2020": 1.75,
+            "Dec 2019": 1.75,
+            "Sep 2019": 1.75,
+            "Jun 2019": 1.75,
+            "Mar 2019": 1.75
+          }
+        ]
+      }
+    ],
+    "id": 5946
+  },
+  {
+    "name": "Mr. Nadir Godrej, Mr. Hormazd Godrej And Mrs. Rati Godrej (Trustees Of Bng Successor Trust)",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      },
+      {
+        "companyName": "Godrej Propert.",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5947
+  },
+  {
+    "name": "Mrs. Smita Godrej Crishna, Mrs. Freyan Crishna Bieri And Mrs. Nyrika Holkar (Trustees Of Fvc Family Trust)",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {
+            "Jun 2023": 2.5,
+            "Mar 2023": 2.5,
+            "Dec 2022": 2.5,
+            "Sep 2022": 2.5,
+            "Jun 2022": 2.5,
+            "Mar 2022": 3.79,
+            "Dec 2021": 3.79,
+            "Sep 2021": 3.79,
+            "Jun 2021": 3.79,
+            "Mar 2021": 3.79,
+            "Dec 2020": 3.79,
+            "Sep 2020": 3.79,
+            "Jun 2020": 3.79,
+            "Mar 2020": 3.79,
+            "Dec 2019": 3.79,
+            "Sep 2019": 3.79,
+            "Jun 2019": 3.79,
+            "Mar 2019": 3.79,
+            "Sep 2018": 0.8,
+            "Jun 2018": 0.8,
+            "Mar 2018": 0.8
+          }
+        ]
+      }
+    ],
+    "id": 5948
+  },
+  {
+    "name": "Mrs. Smita Godrej Crishna, Mrs. Freyan Crishna Bieri And Mrs. Nyrika Holkar (Trustees Of Nvc Family Trust)",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {
+            "Dec 2021": 3.79,
+            "Sep 2021": 3.79,
+            "Jun 2021": 3.79,
+            "Mar 2021": 3.79,
+            "Dec 2020": 3.79,
+            "Sep 2020": 3.79,
+            "Jun 2020": 3.79,
+            "Mar 2020": 3.79,
+            "Dec 2019": 3.79,
+            "Sep 2019": 3.79,
+            "Jun 2019": 3.79,
+            "Mar 2019": 3.79,
+            "Sep 2018": 0.8,
+            "Jun 2018": 0.8,
+            "Mar 2018": 0.8
+          }
+        ]
+      }
+    ],
+    "id": 5949
+  },
+  {
+    "name": "Godrej International Trading Company",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5950
+  },
+  {
+    "name": "Strength Of Nature Llc",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5951
+  },
+  {
+    "name": "Godrej Peru Sac",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5952
+  },
+  {
+    "name": "Mrs. Smita Godrej Crishna, Mrs. Freyan Crishna Bieri And Mrs. Nyrika Holkar (Trustees Of Nvc Children Trust)",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5953
+  },
+  {
+    "name": "Smita Crishna, Vm Crishna, Freyan Crishna Bieri & Nyrika Holkar (Trustees Of Sgc Family Trust)",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {
+            "Dec 2021": 2.94,
+            "Sep 2021": 2.94,
+            "Jun 2021": 2.94,
+            "Mar 2021": 2.94,
+            "Dec 2020": 2.94,
+            "Sep 2020": 2.94,
+            "Jun 2020": 2.94,
+            "Mar 2020": 2.94,
+            "Dec 2019": 2.94,
+            "Sep 2019": 2.94,
+            "Jun 2019": 2.94,
+            "Mar 2019": 2.94
+          }
+        ]
+      }
+    ],
+    "id": 5954
+  },
+  {
+    "name": "Smita Crishna, Vm Crishna, Freyan Crishna Bieri & Nyrika Holkar (Trustees Of Vmc Family Trust)",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5955
+  },
+  {
+    "name": "Mrs. Smita Godrej Crishna, Mrs. Freyan Crishna Bieri And Mrs. Nyrika Holkar (Trustees Of Fvc Children Trust)",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5956
+  },
+  {
+    "name": "Mr. Jamshyd Godrej, Mrs. Pheroza Godrej And Mr. Navroze Godrej (Trustees Of Rjg Family Trust)",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {
+            "Dec 2021": 2.72,
+            "Sep 2021": 2.72,
+            "Jun 2021": 2.72,
+            "Mar 2021": 2.72,
+            "Dec 2020": 2.72,
+            "Sep 2020": 2.72,
+            "Jun 2020": 2.72,
+            "Mar 2020": 2.72,
+            "Dec 2019": 2.72,
+            "Sep 2019": 2.72,
+            "Jun 2019": 2.72,
+            "Mar 2019": 2.72
+          }
+        ]
+      },
+      {
+        "companyName": "Godrej Propert.",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5957
+  },
+  {
+    "name": "JamshydGodrej, PherozaGodrejandNavroze Godrej (TrusteesofRaika LineageTrust)",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {
+            "Dec 2021": 4.64,
+            "Sep 2021": 4.64,
+            "Jun 2021": 4.64,
+            "Mar 2021": 4.64,
+            "Dec 2020": 4.64,
+            "Sep 2020": 4.64,
+            "Jun 2020": 4.64,
+            "Mar 2020": 4.64,
+            "Dec 2019": 4.64,
+            "Sep 2019": 4.64,
+            "Jun 2019": 2.97,
+            "Mar 2019": 2.97
+          }
+        ]
+      },
+      {
+        "companyName": "Godrej Propert.",
+        "result": [
+          {
+            "Jun 2023": 0.69,
+            "Mar 2023": 0.69,
+            "Dec 2022": 0.69,
+            "Sep 2022": 0.69,
+            "Jun 2022": 0.69,
+            "Mar 2022": 0.69,
+            "Dec 2021": 0.69,
+            "Sep 2021": 0.69,
+            "Jun 2021": 0.69,
+            "Mar 2021": 0.69,
+            "Dec 2020": 0.76,
+            "Sep 2020": 0.76,
+            "Jun 2020": 0.76,
+            "Mar 2020": 0.76,
+            "Dec 2019": 0.76,
+            "Sep 2019": 0.76,
+            "Jun 2019": 0.76,
+            "Mar 2019": 0.83
+          }
+        ]
+      }
+    ],
+    "id": 5958
+  },
+  {
+    "name": "Jamshyd Godrej,Pheroza Godrejand Navroze Godrej(TrusteesofNavroze Lineage Trust)",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {
+            "Dec 2021": 4.64,
+            "Sep 2021": 4.64,
+            "Jun 2021": 4.64,
+            "Mar 2021": 4.64,
+            "Dec 2020": 4.64,
+            "Sep 2020": 4.64,
+            "Jun 2020": 4.64,
+            "Mar 2020": 4.64,
+            "Dec 2019": 4.64,
+            "Sep 2019": 4.64,
+            "Jun 2019": 2.97,
+            "Mar 2019": 2.97
+          }
+        ]
+      },
+      {
+        "companyName": "Godrej Propert.",
+        "result": [
+          {
+            "Jun 2023": 0.75,
+            "Mar 2023": 0.75,
+            "Dec 2022": 0.75,
+            "Sep 2022": 0.75,
+            "Jun 2022": 0.75,
+            "Mar 2022": 0.75,
+            "Dec 2021": 0.75,
+            "Sep 2021": 0.75,
+            "Jun 2021": 0.75,
+            "Mar 2021": 0.75,
+            "Dec 2020": 0.83,
+            "Sep 2020": 0.83,
+            "Jun 2020": 0.83,
+            "Mar 2020": 0.83,
+            "Dec 2019": 0.83,
+            "Sep 2019": 0.83,
+            "Jun 2019": 0.83,
+            "Mar 2019": 0.91
+          }
+        ]
+      }
+    ],
+    "id": 5959
+  },
+  {
+    "name": "Mr. Jamshyd Godrej, Mrs. Pheroza Godrej And Mr. Navroze Godrej (Trustees Of Pjg Family Trust )",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      },
+      {
+        "companyName": "Godrej Propert.",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5960
+  },
+  {
+    "name": "Mr. Jamshyd Godrej, Mrs. Pheroza Godrej And Mr. Navroze Godrej (Trustees Of Jng Family Trust)",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      },
+      {
+        "companyName": "Godrej Propert.",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5961
+  },
+  {
+    "name": "Mr. Jamshyd Godrej, Mrs. Pheroza Godrej And Mr. Navroze Godrej (Trustees Of Njg Family Trust)",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      },
+      {
+        "companyName": "Godrej Propert.",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5962
+  },
+  {
+    "name": "Deciral Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5963
+  },
+  {
+    "name": "Freyan Vijay Crishna Family Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {
+            "Dec 2018": 0.8
+          }
+        ]
+      }
+    ],
+    "id": 5964
+  },
+  {
+    "name": "Nyrika Vijay Crishna Family Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {
+            "Dec 2018": 0.8
+          }
+        ]
+      }
+    ],
+    "id": 5965
+  },
+  {
+    "name": "Nisaba Godrej Family Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {
+            "Dec 2018": 0.54
+          }
+        ]
+      }
+    ],
+    "id": 5966
+  },
+  {
+    "name": "Pirojsha Godrej Family Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {
+            "Dec 2018": 0.54
+          }
+        ]
+      }
+    ],
+    "id": 5967
+  },
+  {
+    "name": "Tanya Arvind Dubash Family Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {
+            "Dec 2018": 0.54
+          }
+        ]
+      }
+    ],
+    "id": 5968
+  },
+  {
+    "name": "Raika Godrej Family Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {
+            "Dec 2018": 0.3
+          }
+        ]
+      }
+    ],
+    "id": 5969
+  },
+  {
+    "name": "Hormazd Nadir Godrej Family Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {
+            "Dec 2018": 0.16
+          }
+        ]
+      }
+    ],
+    "id": 5970
+  },
+  {
+    "name": "Adi Barjorji Godrej Family Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5971
+  },
+  {
+    "name": "Tanya Arvind Dubash Children Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5972
+  },
+  {
+    "name": "Nisaba Godrej Children Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5973
+  },
+  {
+    "name": "Pirojsha Godrej Children Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5974
+  },
+  {
+    "name": "Pirojsha Godrej Lineage Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5975
+  },
+  {
+    "name": "Nadir Burjor Godrej Family Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5976
+  },
+  {
+    "name": "Rati Nadir Godrej Family Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5977
+  },
+  {
+    "name": "Burjis Nadir Godrej Family Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5978
+  },
+  {
+    "name": "Burjis Nadir Godrej Successor Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5979
+  },
+  {
+    "name": "Burjis Nadir Godrej Lineage Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5980
+  },
+  {
+    "name": "Sohrab Nadir Godrej Family Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5981
+  },
+  {
+    "name": "Sohrab Nadir Godrej Successor Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5982
+  },
+  {
+    "name": "Sohrab Nadir Godrej Lineage Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5983
+  },
+  {
+    "name": "Nyrika Vijay Crishna Children Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5984
+  },
+  {
+    "name": "Smita Godrej Crishna Family Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5985
+  },
+  {
+    "name": "Vijay Mohan Crishna Family Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5986
+  },
+  {
+    "name": "Freyan Vijay Crishna Children Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5987
+  },
+  {
+    "name": "Jamshyd Naoroji Godrej Family Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5988
+  },
+  {
+    "name": "Raika Lineage Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5989
+  },
+  {
+    "name": "Navroze Lineage Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5990
+  },
+  {
+    "name": "Pheroza Jamshyd Godrej Family Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5991
+  },
+  {
+    "name": "Navroze Jamshyd Godrej Family Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5992
+  },
+  {
+    "name": "Raika Jamshyd Godrej Family Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5993
+  },
+  {
+    "name": "Godrej Foundation",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {
+            "Sep 2019": 13.38,
+            "Jun 2019": 13.38,
+            "Mar 2019": 13.38
+          }
+        ]
+      }
+    ],
+    "id": 5994
+  },
+  {
+    "name": "Dr. Aspi F. Golwalla, Mr. Phiroze D. Lam And Mr. Behram Minoo Wadia (Trustees Of Godrej Foundation)",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {
+            "Sep 2021": 13.37,
+            "Jun 2021": 13.37,
+            "Mar 2021": 13.38,
+            "Dec 2020": 13.38,
+            "Sep 2020": 13.38,
+            "Jun 2020": 13.38,
+            "Mar 2020": 13.38,
+            "Dec 2019": 13.38
+          }
+        ]
+      }
+    ],
+    "id": 5995
+  },
+  {
+    "name": "British Empire Trust PLC",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {
+            "Dec 2019": 1.43
+          }
+        ]
+      }
+    ],
+    "id": 5996
+  },
+  {
+    "name": "AVI Global Trust Plc",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {
+            "Jun 2023": 1.8,
+            "Mar 2023": 1.8,
+            "Dec 2022": 2.09,
+            "Sep 2022": 2.09,
+            "Jun 2022": 2.09,
+            "Mar 2022": 2.09,
+            "Dec 2021": 2,
+            "Sep 2021": 2,
+            "Jun 2021": 2,
+            "Mar 2021": 2.03,
+            "Dec 2020": 1.74,
+            "Sep 2020": 1.74,
+            "Jun 2020": 1.74,
+            "Mar 2020": 1.74
+          }
+        ]
+      }
+    ],
+    "id": 5997
+  },
+  {
+    "name": "Arianne Holkar",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 5998
+  },
+  {
+    "name": "Mr. Phiroze D. Lam, Mr. Behram M. Wadia, Mr. Burzin J. Wadia And Mr. Kaiwan D. Kalyaniwalla (Trustees Of Godrej Foundation)",
+    "shareHoldings": [
+      {
+        "companyName": "Godrej Industrie",
+        "result": [
+          {
+            "Sep 2022": 13.37,
+            "Jun 2022": 13.37,
+            "Mar 2022": 13.37,
+            "Dec 2021": 13.37
+          }
+        ]
+      }
+    ],
+    "id": 5999
+  },
+  {
+    "name": "Navneet Goenka",
+    "shareHoldings": [
+      {
+        "companyName": "Goenka Diamond",
+        "result": [
+          {
+            "Mar 2023": 28.75,
+            "Dec 2022": 28.75,
+            "Sep 2022": 28.75,
+            "Jun 2022": 28.75,
+            "Mar 2022": 28.75,
+            "Dec 2021": 28.75,
+            "Sep 2021": 28.75,
+            "Jun 2021": 28.75,
+            "Mar 2021": 28.75,
+            "Dec 2020": 28.75,
+            "Sep 2020": 28.75,
+            "Jun 2020": 28.75,
+            "Mar 2020": 28.75,
+            "Dec 2019": 28.75,
+            "Sep 2019": 28.75,
+            "Jun 2019": 28.75,
+            "Mar 2019": 28.75,
+            "Dec 2018": 28.75,
+            "Sep 2018": 28.75,
+            "Jun 2018": 28.75,
+            "Mar 2018": 28.75,
+            "Dec 2017": 28.75,
+            "Sep 2017": 28.75,
+            "Jun 2017": 28.75,
+            "Mar 2017": 35.21,
+            "Dec 2016": 35.21,
+            "Sep 2016": 35.21,
+            "Jun 2016": 34.76
+          }
+        ]
+      }
+    ],
+    "id": 6000
+  }
+]

@@ -1,0 +1,3426 @@
+[
+  {
+    "name": "Industrial Finance Corp. of India",
+    "shareHoldings": [
+      {
+        "companyName": "Saptak Chem &",
+        "result": [
+          {
+            "Dec 2022": 1.98,
+            "Jun 2020": 1.98,
+            "Mar 2020": 1.98,
+            "Jun 2019": 1.98,
+            "Mar 2019": 1.98,
+            "Dec 2018": 1.98,
+            "Sep 2018": 1.98,
+            "Jun 2018": 1.98,
+            "Mar 2018": 1.98,
+            "Dec 2017": 1.98,
+            "Sep 2017": 1.98,
+            "Jun 2017": 1.98,
+            "Mar 2017": 1.98,
+            "Dec 2016": 1.98,
+            "Sep 2016": 1.98,
+            "Jun 2016": 1.98,
+            "Mar 2016": 1.98,
+            "Dec 2015": 1.98
+          }
+        ]
+      }
+    ],
+    "id": 9901
+  },
+  {
+    "name": "Icici Trusteeship Services Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Saptak Chem &",
+        "result": [
+          {
+            "Dec 2018": 1.86,
+            "Sep 2018": 1.86,
+            "Jun 2018": 1.86,
+            "Mar 2018": 1.86,
+            "Dec 2017": 1.86,
+            "Sep 2017": 1.86,
+            "Jun 2017": 1.86,
+            "Mar 2017": 1.86,
+            "Dec 2016": 1.86,
+            "Sep 2016": 1.86,
+            "Jun 2016": 1.86,
+            "Mar 2016": 1.86,
+            "Dec 2015": 1.86
+          }
+        ]
+      },
+      {
+        "companyName": "Sh. Narmada Alum",
+        "result": [
+          {
+            "Jun 2023": 2.88,
+            "Mar 2023": 2.88,
+            "Dec 2022": 2.88,
+            "Sep 2022": 2.88,
+            "Jun 2022": 2.88,
+            "Mar 2022": 2.88,
+            "Dec 2021": 2.88,
+            "Sep 2021": 2.88
+          }
+        ]
+      },
+      {
+        "companyName": "Veena Textiles",
+        "result": [
+          {
+            "Mar 2018": 4.49,
+            "Dec 2017": 4.49,
+            "Sep 2017": 4.49,
+            "Jun 2017": 4.49,
+            "Mar 2017": 4.49,
+            "Dec 2016": 4.49,
+            "Mar 2016": 4.49
+          }
+        ]
+      }
+    ],
+    "id": 9902
+  },
+  {
+    "name": "Kesho Ram Leasing Ltd.",
+    "bulkDealsData": [
+      {
+        "date": "Saptak Chem &\n21 Nov, 2022",
+        "orderType": "Sell",
+        "quantity": "1,00,000",
+        "price": "5.22"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Saptak Chem &",
+        "result": [
+          {
+            "Sep 2022": 1.4,
+            "Jun 2022": 1.4,
+            "Mar 2022": 1.4,
+            "Dec 2021": 1.4,
+            "Sep 2021": 1.4,
+            "Jun 2021": 1.4,
+            "Mar 2021": 1.4,
+            "Dec 2020": 1.4,
+            "Sep 2020": 1.4,
+            "Jun 2020": 1.4,
+            "Mar 2020": 1.4,
+            "Dec 2019": 1.4,
+            "Sep 2019": 1.4,
+            "Jun 2019": 1.4,
+            "Mar 2019": 1.4,
+            "Dec 2018": 1.4,
+            "Sep 2018": 1.4,
+            "Jun 2018": 1.4,
+            "Mar 2018": 1.4,
+            "Dec 2017": 1.4,
+            "Sep 2017": 1.4,
+            "Jun 2017": 1.4,
+            "Mar 2017": 1.4,
+            "Dec 2016": 1.4,
+            "Sep 2016": 1.4,
+            "Jun 2016": 1.4,
+            "Mar 2016": 1.4,
+            "Dec 2015": 1.4
+          }
+        ]
+      }
+    ],
+    "id": 9903
+  },
+  {
+    "name": "Rita Garg",
+    "bulkDealsData": [
+      {
+        "date": "Prism Medico\n11 Feb, 2015",
+        "orderType": "Sell",
+        "quantity": "42,500",
+        "price": "20.1"
+      },
+      {
+        "date": "Prism Medico\n03 Feb, 2015",
+        "orderType": "Buy",
+        "quantity": "50,000",
+        "price": "26.4"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Saptak Chem &",
+        "result": [
+          {
+            "Sep 2022": 0.43,
+            "Jun 2022": 0.43,
+            "Mar 2022": 0.43,
+            "Dec 2021": 0.43,
+            "Sep 2021": 0.43,
+            "Jun 2021": 0.43,
+            "Mar 2021": 0.43,
+            "Dec 2020": 0.43,
+            "Sep 2020": 0.43,
+            "Jun 2020": 0.43,
+            "Mar 2020": 0.43,
+            "Dec 2019": 0.43,
+            "Sep 2019": 0.43,
+            "Jun 2019": 0.43,
+            "Mar 2019": 0.43,
+            "Dec 2018": 0.43,
+            "Sep 2018": 0.43,
+            "Jun 2018": 0.43,
+            "Mar 2018": 0.43,
+            "Dec 2017": 0.43,
+            "Sep 2017": 0.43,
+            "Jun 2017": 0.43,
+            "Mar 2017": 0.43,
+            "Dec 2016": 0.43,
+            "Sep 2016": 0.43,
+            "Jun 2016": 0.43,
+            "Mar 2016": 0.43,
+            "Dec 2015": 0.43
+          }
+        ]
+      }
+    ],
+    "id": 9904
+  },
+  {
+    "name": "Keyur S Shah",
+    "shareHoldings": [
+      {
+        "companyName": "Natural Biocon",
+        "result": [
+          {
+            "Sep 2021": 1.89,
+            "Jun 2021": 3.08,
+            "Mar 2021": 3.08,
+            "Dec 2020": 3.08,
+            "Sep 2020": 3.08,
+            "Jun 2020": 3.08,
+            "Mar 2020": 3.08
+          }
+        ]
+      },
+      {
+        "companyName": "Saptak Chem &",
+        "result": [
+          {
+            "Sep 2022": 1.86,
+            "Jun 2022": 1.86,
+            "Mar 2022": 1.86,
+            "Dec 2021": 1.86,
+            "Jun 2021": 1.86,
+            "Mar 2021": 1.86,
+            "Dec 2020": 1.86,
+            "Sep 2020": 1.86,
+            "Jun 2020": 1.86,
+            "Mar 2020": 1.86,
+            "Dec 2019": 1.86,
+            "Sep 2019": 1.86,
+            "Jun 2019": 1.86,
+            "Mar 2019": 1.86,
+            "Dec 2018": 2.79,
+            "Sep 2018": 3.91,
+            "Jun 2018": 4.86,
+            "Mar 2018": 4.86,
+            "Dec 2017": 4.86
+          }
+        ]
+      }
+    ],
+    "id": 9905
+  },
+  {
+    "name": "Devrup Trading Limited",
+    "bulkDealsData": [
+      {
+        "date": "Saptak Chem &\n09 Nov, 2022",
+        "orderType": "Sell",
+        "quantity": "1,90,000",
+        "price": "6.70"
+      },
+      {
+        "date": "Sharanam Infra\n09 Aug, 2021",
+        "orderType": "Sell",
+        "quantity": "4,24,000",
+        "price": "1.26"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Natural Biocon",
+        "result": [
+          {
+            "Sep 2021": 4.65,
+            "Jun 2021": 4.96,
+            "Mar 2021": 4.96,
+            "Dec 2020": 4.96,
+            "Sep 2020": 4.96,
+            "Jun 2020": 4.96,
+            "Mar 2020": 4.96
+          }
+        ]
+      },
+      {
+        "companyName": "Saptak Chem &",
+        "result": [
+          {
+            "Sep 2022": 3.5,
+            "Jun 2022": 3.5,
+            "Mar 2022": 3.5,
+            "Dec 2021": 3.5,
+            "Sep 2021": 3.5,
+            "Jun 2021": 3.5,
+            "Mar 2021": 3.5,
+            "Dec 2020": 3.5,
+            "Sep 2020": 3.5,
+            "Jun 2020": 3.5,
+            "Mar 2020": 3.5,
+            "Dec 2019": 3.5,
+            "Sep 2019": 3.5,
+            "Jun 2019": 3.5,
+            "Mar 2019": 3.5,
+            "Dec 2018": 3.5,
+            "Sep 2018": 4.29,
+            "Jun 2018": 4.81,
+            "Mar 2018": 4.81,
+            "Dec 2017": 4.81
+          }
+        ]
+      },
+      {
+        "companyName": "Trombo Extractn.",
+        "result": [
+          {
+            "Jun 2022": 8.43,
+            "Mar 2022": 8.43,
+            "Dec 2021": 8.43,
+            "Sep 2021": 8.43,
+            "Jun 2021": 8.43,
+            "Mar 2021": 8.43,
+            "Dec 2020": 8.43,
+            "Sep 2020": 8.43,
+            "Jun 2020": 8.43,
+            "Mar 2020": 8.43,
+            "Dec 2019": 8.43,
+            "Sep 2019": 8.43,
+            "Jun 2019": 8.43,
+            "Mar 2019": 8.43
+          }
+        ]
+      }
+    ],
+    "id": 9906
+  },
+  {
+    "name": "Rp Advisors Private Limited",
+    "bulkDealsData": [
+      {
+        "date": "Saptak Chem &\n24 Oct, 2022",
+        "orderType": "Sell",
+        "quantity": "1,90,400",
+        "price": "5.46"
+      },
+      {
+        "date": "Sharanam Infra\n09 Aug, 2021",
+        "orderType": "Sell",
+        "quantity": "24,20,000",
+        "price": "1.26"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Natural Biocon",
+        "result": [
+          {
+            "Sep 2021": 3.17,
+            "Jun 2021": 3.48,
+            "Mar 2021": 3.48,
+            "Dec 2020": 3.48,
+            "Sep 2020": 3.48,
+            "Jun 2020": 3.48,
+            "Mar 2020": 3.48
+          }
+        ]
+      },
+      {
+        "companyName": "Saptak Chem &",
+        "result": [
+          {
+            "Sep 2022": 1.77,
+            "Jun 2022": 1.77,
+            "Mar 2022": 1.77,
+            "Dec 2021": 1.77,
+            "Sep 2021": 1.77,
+            "Jun 2021": 1.77,
+            "Mar 2021": 1.77,
+            "Dec 2020": 1.77,
+            "Sep 2020": 1.77,
+            "Jun 2020": 1.77,
+            "Mar 2020": 1.77,
+            "Dec 2019": 1.77,
+            "Sep 2019": 1.77,
+            "Jun 2019": 1.77,
+            "Mar 2019": 1.77,
+            "Dec 2018": 2.71,
+            "Sep 2018": 3.66,
+            "Jun 2018": 4.16,
+            "Mar 2018": 4.16,
+            "Dec 2017": 4.16
+          }
+        ]
+      },
+      {
+        "companyName": "Sharanam Infra",
+        "result": [
+          {
+            "Jun 2021": 4.84,
+            "Mar 2021": 4.84,
+            "Dec 2020": 4.84,
+            "Sep 2020": 4.84,
+            "Jun 2020": 4.84,
+            "Mar 2020": 4.84,
+            "Dec 2019": 4.84,
+            "Sep 2019": 4.84,
+            "Jun 2019": 4.84,
+            "Mar 2019": 4.84,
+            "Dec 2018": 4.84,
+            "Sep 2018": 4.84,
+            "Jun 2018": 4.84,
+            "Mar 2018": 4.84,
+            "Dec 2017": 4.84,
+            "Sep 2017": 4.84,
+            "Jun 2017": 4.84,
+            "Mar 2017": 4.84,
+            "Dec 2016": 4.84,
+            "Sep 2016": 4.84,
+            "Jun 2016": 4.84
+          }
+        ]
+      },
+      {
+        "companyName": "Trombo Extractn.",
+        "result": [
+          {
+            "Jun 2022": 2.59,
+            "Mar 2022": 2.59,
+            "Dec 2021": 2.59,
+            "Sep 2021": 2.59,
+            "Jun 2021": 2.59,
+            "Mar 2021": 2.59,
+            "Dec 2020": 2.59,
+            "Sep 2020": 2.59,
+            "Jun 2020": 2.59,
+            "Mar 2020": 2.59,
+            "Dec 2019": 2.59,
+            "Sep 2019": 2.59,
+            "Jun 2019": 2.59,
+            "Mar 2019": 2.59
+          }
+        ]
+      }
+    ],
+    "id": 9907
+  },
+  {
+    "name": "Aartiben Hiteshbhai Patel",
+    "shareHoldings": [
+      {
+        "companyName": "Saptak Chem &",
+        "result": [
+          {
+            "Dec 2018": 3.73,
+            "Sep 2018": 3.73,
+            "Jun 2018": 3.73,
+            "Mar 2018": 3.73,
+            "Dec 2017": 3.73
+          }
+        ]
+      }
+    ],
+    "id": 9908
+  },
+  {
+    "name": "Pranav Chandresh Patel",
+    "bulkDealsData": [
+      {
+        "date": "Saptak Chem &\n10 Nov, 2022",
+        "orderType": "Sell",
+        "quantity": "1,55,000",
+        "price": "7.11"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Natural Biocon",
+        "result": [
+          {
+            "Sep 2021": 1.26,
+            "Jun 2021": 1.7,
+            "Mar 2021": 1.7,
+            "Dec 2020": 1.7,
+            "Sep 2020": 1.7,
+            "Jun 2020": 1.7,
+            "Mar 2020": 1.71
+          }
+        ]
+      },
+      {
+        "companyName": "Saptak Chem &",
+        "result": [
+          {
+            "Sep 2022": 3.75,
+            "Jun 2022": 3.75,
+            "Mar 2022": 3.75,
+            "Dec 2021": 3.75,
+            "Jun 2021": 3.75,
+            "Mar 2021": 3.75,
+            "Dec 2020": 3.75,
+            "Sep 2020": 3.75,
+            "Jun 2020": 3.75,
+            "Mar 2020": 3.75,
+            "Dec 2019": 3.75,
+            "Sep 2019": 3.75,
+            "Jun 2019": 3.75,
+            "Mar 2019": 3.84,
+            "Dec 2018": 5.85,
+            "Sep 2018": 8.63
+          }
+        ]
+      }
+    ],
+    "id": 9909
+  },
+  {
+    "name": "Abhipra Capital Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Amber Fabrics",
+        "result": [
+          {
+            "Dec 2016": 1.9
+          }
+        ]
+      },
+      {
+        "companyName": "Saptak Chem &",
+        "result": [
+          {
+            "Dec 2018": 1.51
+          }
+        ]
+      },
+      {
+        "companyName": "TCI Developers",
+        "result": [
+          {
+            "Mar 2021": 2.68
+          }
+        ]
+      }
+    ],
+    "id": 9910
+  },
+  {
+    "name": "Mannish Talwaar",
+    "bulkDealsData": [
+      {
+        "date": "Saptak Chem &\n25 Oct, 2022",
+        "orderType": "Sell",
+        "quantity": "1,13,737",
+        "price": "5.73"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Saptak Chem &",
+        "result": [
+          {
+            "Sep 2022": 1.06,
+            "Jun 2022": 1.06,
+            "Mar 2022": 1.06,
+            "Dec 2021": 1.06,
+            "Jun 2021": 1.06,
+            "Mar 2021": 1.06,
+            "Dec 2020": 1.06,
+            "Sep 2020": 1.06,
+            "Jun 2020": 1.06,
+            "Mar 2020": 1.06,
+            "Dec 2019": 1.06,
+            "Sep 2019": 1.06,
+            "Jun 2019": 1.06,
+            "Mar 2019": 1.06,
+            "Dec 2018": 1.06
+          }
+        ]
+      }
+    ],
+    "id": 9911
+  },
+  {
+    "name": "Gcl Securities Pvt. Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "Natco Economical",
+        "result": [
+          {
+            "Sep 2018": 1.49,
+            "Jun 2018": 2.17,
+            "Mar 2018": 3.02,
+            "Dec 2017": 2.39,
+            "Sep 2017": 1,
+            "Jun 2017": 1.32,
+            "Mar 2017": 1.99,
+            "Dec 2016": 1.28
+          }
+        ]
+      },
+      {
+        "companyName": "Saptak Chem &",
+        "result": [
+          {
+            "Dec 2018": 1.02
+          }
+        ]
+      }
+    ],
+    "id": 9912
+  },
+  {
+    "name": "Parag Dinesh Sanghvi (Huf)",
+    "bulkDealsData": [
+      {
+        "date": "Saptak Chem &\n12 Apr, 2019",
+        "orderType": "Buy",
+        "quantity": "32,052",
+        "price": "7.90"
+      },
+      {
+        "date": "Saptak Chem &\n12 Apr, 2019",
+        "orderType": "Sell",
+        "quantity": "85,764",
+        "price": "7.85"
+      },
+      {
+        "date": "Saptak Chem &\n09 Apr, 2019",
+        "orderType": "Sell",
+        "quantity": "40,000",
+        "price": "7.02"
+      },
+      {
+        "date": "Saptak Chem &\n09 Apr, 2019",
+        "orderType": "Buy",
+        "quantity": "68,639",
+        "price": "7.14"
+      },
+      {
+        "date": "Saptak Chem &\n08 Apr, 2019",
+        "orderType": "Buy",
+        "quantity": "36,175",
+        "price": "6.98"
+      },
+      {
+        "date": "Saptak Chem &\n08 Apr, 2019",
+        "orderType": "Sell",
+        "quantity": "91,403",
+        "price": "6.88"
+      },
+      {
+        "date": "Saptak Chem &\n25 Mar, 2019",
+        "orderType": "Sell",
+        "quantity": "51,000",
+        "price": "6.63"
+      },
+      {
+        "date": "Saptak Chem &\n25 Mar, 2019",
+        "orderType": "Buy",
+        "quantity": "68,542",
+        "price": "6.51"
+      },
+      {
+        "date": "Saptak Chem &\n22 Feb, 2019",
+        "orderType": "Buy",
+        "quantity": "1,42,885",
+        "price": "7.75"
+      },
+      {
+        "date": "Saptak Chem &\n22 Feb, 2019",
+        "orderType": "Sell",
+        "quantity": "1,44,247",
+        "price": "7.76"
+      },
+      {
+        "date": "Saptak Chem &\n06 Feb, 2019",
+        "orderType": "Buy",
+        "quantity": "260",
+        "price": "8.04"
+      },
+      {
+        "date": "Saptak Chem &\n06 Feb, 2019",
+        "orderType": "Sell",
+        "quantity": "56,102",
+        "price": "8.33"
+      },
+      {
+        "date": "Saptak Chem &\n25 Jan, 2019",
+        "orderType": "Sell",
+        "quantity": "1,07,000",
+        "price": "8.48"
+      },
+      {
+        "date": "Saptak Chem &\n23 Jan, 2019",
+        "orderType": "Sell",
+        "quantity": "16,829",
+        "price": "8.77"
+      },
+      {
+        "date": "Saptak Chem &\n23 Jan, 2019",
+        "orderType": "Buy",
+        "quantity": "1,49,443",
+        "price": "8.65"
+      },
+      {
+        "date": "Saptak Chem &\n22 Jan, 2019",
+        "orderType": "Buy",
+        "quantity": "71,449",
+        "price": "7.96"
+      },
+      {
+        "date": "Saptak Chem &\n22 Jan, 2019",
+        "orderType": "Sell",
+        "quantity": "1,49,827",
+        "price": "8.46"
+      },
+      {
+        "date": "Saptak Chem &\n21 Jan, 2019",
+        "orderType": "Sell",
+        "quantity": "82,701",
+        "price": "8.78"
+      },
+      {
+        "date": "Saptak Chem &\n21 Jan, 2019",
+        "orderType": "Buy",
+        "quantity": "1,67,002",
+        "price": "8.51"
+      },
+      {
+        "date": "Saptak Chem &\n18 Jan, 2019",
+        "orderType": "Buy",
+        "quantity": "1,72,052",
+        "price": "8.60"
+      },
+      {
+        "date": "Saptak Chem &\n18 Jan, 2019",
+        "orderType": "Sell",
+        "quantity": "2,11,094",
+        "price": "8.60"
+      },
+      {
+        "date": "Saptak Chem &\n17 Jan, 2019",
+        "orderType": "Sell",
+        "quantity": "45,021",
+        "price": "8.67"
+      },
+      {
+        "date": "Saptak Chem &\n17 Jan, 2019",
+        "orderType": "Buy",
+        "quantity": "64,922",
+        "price": "8.58"
+      },
+      {
+        "date": "Saptak Chem &\n16 Jan, 2019",
+        "orderType": "Buy",
+        "quantity": "1,13,497",
+        "price": "8.73"
+      },
+      {
+        "date": "Saptak Chem &\n16 Jan, 2019",
+        "orderType": "Sell",
+        "quantity": "20,000",
+        "price": "8.65"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Saptak Chem &",
+        "result": [
+          {
+            "Jun 2023": 8.38,
+            "Mar 2023": 8.38,
+            "Dec 2022": 8.05,
+            "Sep 2022": 1.8,
+            "Jun 2022": 1.8,
+            "Mar 2022": 1.8,
+            "Dec 2021": 8.19,
+            "Sep 2021": 8.19,
+            "Jun 2021": 8.19,
+            "Mar 2021": 8.19,
+            "Dec 2020": 8.19,
+            "Sep 2020": 8.19,
+            "Jun 2020": 8.19,
+            "Mar 2020": 7.86,
+            "Dec 2019": 7.86,
+            "Sep 2019": 7.86,
+            "Jun 2019": 7.86,
+            "Mar 2019": 7.66
+          }
+        ]
+      }
+    ],
+    "id": 9913
+  },
+  {
+    "name": "Amrex Marketing Pvt. Ltd.",
+    "bulkDealsData": [
+      {
+        "date": "Containerway Int\n30 Jun, 2023",
+        "orderType": "Sell",
+        "quantity": "2,05,000",
+        "price": "6.00"
+      },
+      {
+        "date": "Evergreen Tex.\n19 Jun, 2023",
+        "orderType": "Sell",
+        "quantity": "35,300",
+        "price": "27.0"
+      },
+      {
+        "date": "Containerway Int\n11 Apr, 2022",
+        "orderType": "Sell",
+        "quantity": "35,000",
+        "price": "6.41"
+      },
+      {
+        "date": "Containerway Int\n07 Mar, 2022",
+        "orderType": "Sell",
+        "quantity": "3,02,000",
+        "price": "2.91"
+      },
+      {
+        "date": "B & A\n18 Dec, 2015",
+        "orderType": "Sell",
+        "quantity": "16,951",
+        "price": "240"
+      },
+      {
+        "date": "Sibar Auto Parts\n12 Jun, 2014",
+        "orderType": "Sell",
+        "quantity": "28,000",
+        "price": "6.77"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "B & A Packaging",
+        "result": [
+          {
+            "Jun 2023": 2.6,
+            "Mar 2023": 2.6,
+            "Dec 2022": 2.6,
+            "Sep 2022": 2.6,
+            "Jun 2022": 2.6,
+            "Mar 2022": 2.6,
+            "Dec 2021": 2.6,
+            "Sep 2021": 2.6,
+            "Jun 2021": 2.6,
+            "Mar 2021": 2.6,
+            "Dec 2020": 2.6,
+            "Sep 2020": 2.6,
+            "Jun 2020": 2.6,
+            "Mar 2020": 2.6,
+            "Dec 2019": 2.6,
+            "Sep 2019": 2.6,
+            "Jun 2019": 2.6,
+            "Mar 2019": 2.6,
+            "Dec 2018": 2.6,
+            "Sep 2018": 2.6,
+            "Jun 2018": 2.6,
+            "Mar 2018": 2.6,
+            "Dec 2017": 2.6,
+            "Sep 2017": 2.6,
+            "Jun 2017": 2.6,
+            "Mar 2017": 2.6,
+            "Dec 2016": 2.6,
+            "Sep 2016": 2.6,
+            "Jun 2016": 2.6
+          }
+        ]
+      },
+      {
+        "companyName": "Chokhani Intl.",
+        "result": [
+          {
+            "Sep 2017": 5,
+            "Jun 2017": 5,
+            "Mar 2017": 5,
+            "Dec 2016": 5,
+            "Sep 2016": 5,
+            "Jun 2016": 5
+          }
+        ]
+      },
+      {
+        "companyName": "Containerway Int",
+        "result": [
+          {
+            "Jun 2023": 3.29,
+            "Dec 2022": 4.68,
+            "Mar 2022": 7.95,
+            "Mar 2021": 14.33,
+            "Dec 2020": 14.33,
+            "Sep 2020": 14.33,
+            "Jun 2020": 14.33,
+            "Mar 2020": 14.33,
+            "Dec 2019": 14.33,
+            "Sep 2019": 14.33,
+            "Jun 2019": 14.33
+          }
+        ]
+      },
+      {
+        "companyName": "Evergreen Tex.",
+        "result": [
+          {
+            "Mar 2023": 2.75,
+            "Dec 2022": 2.96,
+            "Sep 2022": 2.96,
+            "Jun 2022": 2.96,
+            "Mar 2022": 2.96,
+            "Dec 2021": 2.96,
+            "Sep 2021": 2.96,
+            "Jun 2021": 2.96,
+            "Mar 2021": 2.96,
+            "Dec 2020": 2.96,
+            "Sep 2020": 2.96,
+            "Jun 2020": 2.96,
+            "Mar 2020": 2.96,
+            "Dec 2019": 2.96,
+            "Sep 2019": 2.96,
+            "Jun 2019": 2.96,
+            "Mar 2019": 2.96,
+            "Dec 2018": 2.96
+          }
+        ]
+      },
+      {
+        "companyName": "Modern Threads",
+        "result": [
+          {
+            "Jun 2023": 2.95,
+            "Mar 2023": 2.95,
+            "Dec 2022": 2.95,
+            "Sep 2022": 2.95,
+            "Jun 2022": 2.95,
+            "Mar 2022": 2.95,
+            "Dec 2021": 2.95,
+            "Sep 2021": 2.95,
+            "Jun 2021": 2.95,
+            "Mar 2021": 2.95,
+            "Dec 2020": 2.95,
+            "Sep 2020": 2.95,
+            "Jun 2020": 2.95,
+            "Mar 2020": 2.95,
+            "Dec 2019": 2.95,
+            "Sep 2019": 2.95,
+            "Jun 2019": 2.95,
+            "Mar 2019": 2.95,
+            "Dec 2018": 2.95,
+            "Sep 2018": 2.95,
+            "Jun 2018": 2.95,
+            "Mar 2018": 2.95,
+            "Dec 2017": 2.95,
+            "Sep 2017": 2.95,
+            "Jun 2017": 2.95,
+            "Mar 2017": 2.95,
+            "Dec 2016": 2.95,
+            "Sep 2016": 2.95,
+            "Jun 2016": 2.95,
+            "Mar 2016": 2.95,
+            "Dec 2015": 2.95
+          }
+        ]
+      },
+      {
+        "companyName": "Natl. Plywood",
+        "result": [
+          {
+            "Dec 2017": 10.23,
+            "Sep 2017": 10.23,
+            "Jun 2017": 10.23,
+            "Mar 2017": 10.23,
+            "Dec 2016": 10.23,
+            "Sep 2016": 10.23
+          }
+        ]
+      },
+      {
+        "companyName": "Rajas. Petro Syn",
+        "result": [
+          {
+            "Jun 2019": 2.97
+          }
+        ]
+      },
+      {
+        "companyName": "Samrat Forgings",
+        "result": [
+          {
+            "Jun 2023": 1.28,
+            "Mar 2023": 1.33,
+            "Dec 2022": 1.34,
+            "Sep 2022": 1.35,
+            "Jun 2022": 1.35,
+            "Mar 2022": 1.35,
+            "Dec 2021": 1.35,
+            "Sep 2021": 1.35,
+            "Jun 2021": 1.36,
+            "Mar 2021": 1.36,
+            "Dec 2020": 1.36
+          }
+        ]
+      },
+      {
+        "companyName": "Saptak Chem &",
+        "result": [
+          {
+            "Mar 2019": 1.86
+          }
+        ]
+      },
+      {
+        "companyName": "Sh. Benzophen",
+        "result": [
+          {
+            "Dec 2017": 7.24,
+            "Jun 2017": 7.24,
+            "Mar 2017": 7.24,
+            "Dec 2016": 7.24,
+            "Sep 2016": 7.24,
+            "Jun 2016": 7.24
+          }
+        ]
+      },
+      {
+        "companyName": "Sibar Auto Parts",
+        "result": [
+          {
+            "Dec 2017": 1.68,
+            "Sep 2017": 1.68,
+            "Jun 2017": 1.68,
+            "Mar 2017": 1.68,
+            "Dec 2016": 1.88,
+            "Sep 2016": 2.89,
+            "Jun 2016": 2.89
+          }
+        ]
+      },
+      {
+        "companyName": "Suncity Synth.",
+        "result": [
+          {
+            "Jun 2021": 2,
+            "Mar 2021": 2,
+            "Dec 2020": 2,
+            "Sep 2020": 2,
+            "Jun 2020": 2,
+            "Mar 2020": 2,
+            "Dec 2019": 2,
+            "Sep 2019": 2,
+            "Jun 2019": 2,
+            "Mar 2019": 2,
+            "Dec 2018": 2,
+            "Sep 2018": 2,
+            "Jun 2018": 2,
+            "Mar 2018": 2,
+            "Dec 2017": 2,
+            "Sep 2017": 2,
+            "Jun 2017": 2.02,
+            "Mar 2017": 2.02,
+            "Dec 2016": 2.02,
+            "Sep 2016": 2.02,
+            "Jun 2016": 2.02
+          }
+        ]
+      }
+    ],
+    "id": 9914
+  },
+  {
+    "name": "Parag Dinesh Sanghvi",
+    "bulkDealsData": [
+      {
+        "date": "Saptak Chem &\n18 Jun, 2019",
+        "orderType": "Buy",
+        "quantity": "63,402",
+        "price": "5.25"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Saptak Chem &",
+        "result": [
+          {
+            "Jun 2023": 2.63,
+            "Mar 2023": 2.63,
+            "Dec 2022": 2.42,
+            "Sep 2022": 2.42,
+            "Jun 2022": 2.42,
+            "Mar 2022": 2.42,
+            "Dec 2021": 2.42,
+            "Jun 2021": 2.42,
+            "Mar 2021": 2.42,
+            "Dec 2020": 2.42,
+            "Sep 2020": 2.42,
+            "Jun 2020": 2.42,
+            "Mar 2020": 2.42,
+            "Dec 2019": 2.17,
+            "Sep 2019": 2.17,
+            "Jun 2019": 2.17
+          }
+        ]
+      }
+    ],
+    "id": 9915
+  },
+  {
+    "name": "Ali Asgar Roshan Ali Worliwala",
+    "shareHoldings": [
+      {
+        "companyName": "Saptak Chem &",
+        "result": [
+          {
+            "Jun 2023": 1.12,
+            "Mar 2023": 1.12,
+            "Dec 2022": 1.02,
+            "Sep 2022": 1.19,
+            "Jun 2022": 1.19,
+            "Mar 2022": 1.19,
+            "Dec 2021": 1.19,
+            "Jun 2021": 1.19,
+            "Mar 2021": 1.19,
+            "Dec 2020": 1.19,
+            "Sep 2020": 1.19,
+            "Jun 2020": 1.19,
+            "Mar 2020": 1.19,
+            "Dec 2019": 1.26,
+            "Sep 2019": 1.26,
+            "Jun 2019": 1.26
+          }
+        ]
+      }
+    ],
+    "id": 9916
+  },
+  {
+    "name": "Forum Parag Sanghvi",
+    "shareHoldings": [
+      {
+        "companyName": "Navketan Merchan",
+        "result": [
+          {
+            "Dec 2016": 1.22
+          }
+        ]
+      },
+      {
+        "companyName": "Saptak Chem &",
+        "result": [
+          {
+            "Jun 2023": 1.35,
+            "Mar 2023": 1.35,
+            "Dec 2022": 1.26,
+            "Sep 2022": 1.26,
+            "Jun 2022": 1.26,
+            "Mar 2022": 1.26,
+            "Dec 2021": 1.26,
+            "Jun 2021": 1.26,
+            "Mar 2021": 1.26,
+            "Dec 2020": 1.26,
+            "Sep 2020": 1.26,
+            "Jun 2020": 1.26,
+            "Mar 2020": 1.26,
+            "Dec 2019": 1.02,
+            "Sep 2019": 1.02,
+            "Jun 2019": 1.02
+          }
+        ]
+      }
+    ],
+    "id": 9917
+  },
+  {
+    "name": "Vishnu Banwarilal Sharma",
+    "bulkDealsData": [
+      {
+        "date": "Saptak Chem &\n08 Jan, 2019",
+        "orderType": "Buy",
+        "quantity": "1,19,798",
+        "price": "9.25"
+      },
+      {
+        "date": "Saptak Chem &\n08 Jan, 2019",
+        "orderType": "Sell",
+        "quantity": "1,43,942",
+        "price": "9.24"
+      },
+      {
+        "date": "Saptak Chem &\n02 Jan, 2019",
+        "orderType": "Sell",
+        "quantity": "60,584",
+        "price": "9.74"
+      },
+      {
+        "date": "Saptak Chem &\n02 Jan, 2019",
+        "orderType": "Buy",
+        "quantity": "63,585",
+        "price": "9.85"
+      },
+      {
+        "date": "Saptak Chem &\n01 Jan, 2019",
+        "orderType": "Sell",
+        "quantity": "1,31,023",
+        "price": "10.0"
+      },
+      {
+        "date": "Saptak Chem &\n01 Jan, 2019",
+        "orderType": "Buy",
+        "quantity": "1,90,018",
+        "price": "9.84"
+      },
+      {
+        "date": "Saptak Chem &\n31 Dec, 2018",
+        "orderType": "Buy",
+        "quantity": "1,35,985",
+        "price": "9.20"
+      },
+      {
+        "date": "Saptak Chem &\n31 Dec, 2018",
+        "orderType": "Sell",
+        "quantity": "1,99,683",
+        "price": "9.35"
+      },
+      {
+        "date": "Saptak Chem &\n26 Dec, 2018",
+        "orderType": "Sell",
+        "quantity": "10,850",
+        "price": "8.12"
+      },
+      {
+        "date": "Saptak Chem &\n26 Dec, 2018",
+        "orderType": "Buy",
+        "quantity": "68,897",
+        "price": "8.88"
+      },
+      {
+        "date": "Saptak Chem &\n26 Nov, 2018",
+        "orderType": "Buy",
+        "quantity": "87,208",
+        "price": "9.83"
+      },
+      {
+        "date": "Saptak Chem &\n26 Nov, 2018",
+        "orderType": "Sell",
+        "quantity": "40,001",
+        "price": "9.75"
+      },
+      {
+        "date": "Saptak Chem &\n05 Nov, 2018",
+        "orderType": "Sell",
+        "quantity": "52,596",
+        "price": "10.8"
+      },
+      {
+        "date": "Saptak Chem &\n05 Nov, 2018",
+        "orderType": "Buy",
+        "quantity": "74,517",
+        "price": "10.6"
+      },
+      {
+        "date": "Saptak Chem &\n01 Nov, 2018",
+        "orderType": "Buy",
+        "quantity": "1,04,167",
+        "price": "10.8"
+      },
+      {
+        "date": "Saptak Chem &\n01 Nov, 2018",
+        "orderType": "Sell",
+        "quantity": "1,05,000",
+        "price": "11.0"
+      },
+      {
+        "date": "Saptak Chem &\n31 Oct, 2018",
+        "orderType": "Buy",
+        "quantity": "48,892",
+        "price": "10.9"
+      },
+      {
+        "date": "Saptak Chem &\n31 Oct, 2018",
+        "orderType": "Sell",
+        "quantity": "58,462",
+        "price": "10.8"
+      },
+      {
+        "date": "Saptak Chem &\n29 Oct, 2018",
+        "orderType": "Sell",
+        "quantity": "63,212",
+        "price": "10.6"
+      },
+      {
+        "date": "Saptak Chem &\n29 Oct, 2018",
+        "orderType": "Buy",
+        "quantity": "90,007",
+        "price": "10.4"
+      },
+      {
+        "date": "Saptak Chem &\n26 Oct, 2018",
+        "orderType": "Buy",
+        "quantity": "1,11,135",
+        "price": "10.6"
+      },
+      {
+        "date": "Saptak Chem &\n26 Oct, 2018",
+        "orderType": "Sell",
+        "quantity": "1,26,487",
+        "price": "10.8"
+      },
+      {
+        "date": "Saptak Chem &\n17 Oct, 2018",
+        "orderType": "Sell",
+        "quantity": "68,890",
+        "price": "11.9"
+      },
+      {
+        "date": "Saptak Chem &\n17 Oct, 2018",
+        "orderType": "Buy",
+        "quantity": "68,489",
+        "price": "11.6"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Saptak Chem &",
+        "result": [
+          {
+            "Jun 2023": 1.36,
+            "Mar 2023": 1.36,
+            "Dec 2022": 1.36,
+            "Sep 2022": 1.36,
+            "Jun 2022": 1.36,
+            "Mar 2022": 1.36,
+            "Dec 2021": 1.36,
+            "Jun 2021": 1.36,
+            "Mar 2021": 1.36,
+            "Dec 2020": 1.36,
+            "Sep 2020": 1.36,
+            "Jun 2020": 1.36,
+            "Mar 2020": 1.36
+          }
+        ]
+      }
+    ],
+    "id": 9918
+  },
+  {
+    "name": "Naresh Kumar Chibba",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Chemicals",
+        "result": [
+          {
+            "Jun 2023": 5.92,
+            "Mar 2023": 5.92,
+            "Dec 2022": 5.92,
+            "Sep 2022": 5.92,
+            "Jun 2022": 5.92,
+            "Mar 2022": 5.92,
+            "Dec 2021": 5.92,
+            "Sep 2021": 5.92,
+            "Jun 2021": 5.92,
+            "Mar 2021": 5.92,
+            "Dec 2020": 5.92,
+            "Sep 2020": 5.92,
+            "Jun 2020": 5.92,
+            "Mar 2020": 5.92,
+            "Dec 2019": 5.92,
+            "Sep 2019": 13.32,
+            "Jun 2019": 13.32,
+            "Mar 2019": 13.32,
+            "Dec 2018": 13.32,
+            "Sep 2018": 13.32,
+            "Jun 2018": 13.32,
+            "Mar 2018": 13.32,
+            "Dec 2017": 13.32,
+            "Sep 2017": 13.32,
+            "Jun 2017": 13.32,
+            "Mar 2017": 13.32,
+            "Dec 2016": 13.32,
+            "Sep 2016": 13.32,
+            "Jun 2016": 13.32
+          }
+        ]
+      }
+    ],
+    "id": 9919
+  },
+  {
+    "name": "Interads Advertising P. Ltd.",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Chemicals",
+        "result": [
+          {
+            "Sep 2019": 1,
+            "Jun 2019": 1,
+            "Mar 2019": 1,
+            "Dec 2018": 1,
+            "Sep 2018": 1,
+            "Jun 2018": 1,
+            "Mar 2018": 1,
+            "Dec 2017": 1,
+            "Sep 2017": 1,
+            "Jun 2017": 1,
+            "Mar 2017": 1,
+            "Dec 2016": 1,
+            "Sep 2016": 1,
+            "Jun 2016": 1
+          }
+        ]
+      }
+    ],
+    "id": 9920
+  },
+  {
+    "name": "Aditya Vikram Chibba",
+    "shareHoldings": [
+      {
+        "companyName": "Cont. Chemicals",
+        "result": [
+          {
+            "Jun 2023": 55.66,
+            "Mar 2023": 55.66,
+            "Dec 2022": 55.66,
+            "Sep 2022": 55.66,
+            "Jun 2022": 55.66,
+            "Mar 2022": 55.66,
+            "Dec 2021": 55.66,
+            "Sep 2021": 55.66,
+            "Jun 2021": 55.66,
+            "Mar 2021": 55.66,
+            "Dec 2020": 55.66,
+            "Sep 2020": 55.66,
+            "Jun 2020": 55.66,
+            "Mar 2020": 55.66,
+            "Dec 2019": 55.58
+          }
+        ]
+      }
+    ],
+    "id": 9921
+  },
+  {
+    "name": "Balrampur Chini Mills Limited",
+    "bulkDealsData": [
+      {
+        "date": "Balrampur Chini\n06 Sep, 2021",
+        "orderType": "BUY",
+        "quantity": "11,29,869",
+        "price": "367"
+      },
+      {
+        "date": "Balrampur Chini\n30 Jun, 2011",
+        "orderType": "BUY",
+        "quantity": "22,00,000",
+        "price": "62.9"
+      },
+      {
+        "date": "Balrampur Chini\n05 May, 2011",
+        "orderType": "BUY",
+        "quantity": "20,77,888",
+        "price": "74.2"
+      },
+      {
+        "date": "Balrampur Chini\n28 Apr, 2011",
+        "orderType": "BUY",
+        "quantity": "13,46,968",
+        "price": "74.7"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "Balrampur Chini",
+        "result": [
+          {
+            "Sep 2021": 1.9
+          }
+        ]
+      },
+      {
+        "companyName": "Indo Gulf Inds.",
+        "result": [
+          {
+            "Mar 2017": 53.96,
+            "Dec 2016": 53.96,
+            "Sep 2016": 53.96,
+            "Jun 2016": 53.96,
+            "Mar 2016": 53.96
+          }
+        ]
+      }
+    ],
+    "id": 9922
+  },
+  {
+    "name": "Hb Stock Holdings Limited",
+    "bulkDealsData": [
+      {
+        "date": "Haryana Leather\n08 Dec, 2017",
+        "orderType": "Buy",
+        "quantity": "31,347",
+        "price": "53.6"
+      }
+    ],
+    "shareHoldings": [
+      {
+        "companyName": "DCM Shriram Inds",
+        "result": [
+          {
+            "Dec 2017": 19.52,
+            "Sep 2017": 21.19,
+            "Jun 2017": 22.08,
+            "Mar 2017": 22.39,
+            "Dec 2016": 24.45,
+            "Sep 2016": 24.82,
+            "Jun 2016": 24.98
+          }
+        ]
+      },
+      {
+        "companyName": "HB Estate Devel.",
+        "result": [
+          {
+            "Jun 2023": 0.64,
+            "Mar 2023": 0.64,
+            "Dec 2022": 0.64,
+            "Sep 2022": 0.64,
+            "Jun 2022": 0.64,
+            "Mar 2022": 0.64,
+            "Dec 2021": 0.64,
+            "Sep 2021": 0.64,
+            "Jun 2021": 0.64,
+            "Mar 2021": 0.64,
+            "Dec 2020": 0.64,
+            "Sep 2020": 0.64,
+            "Jun 2020": 0.64,
+            "Mar 2020": 0.64,
+            "Dec 2019": 0.64,
+            "Sep 2019": 0.64,
+            "Jun 2019": 0.64,
+            "Mar 2019": 0.64,
+            "Dec 2018": 0.64,
+            "Sep 2018": 0.64,
+            "Jun 2018": 0.64,
+            "Mar 2018": 0.64,
+            "Dec 2017": 10.01,
+            "Sep 2017": 10.01,
+            "Jun 2017": 10.01,
+            "Mar 2017": 10.01,
+            "Dec 2016": 10.01,
+            "Sep 2016": 10.01,
+            "Jun 2016": 10.01
+          }
+        ]
+      },
+      {
+        "companyName": "HB Leasing &Fin.",
+        "result": [
+          {
+            "Dec 2018": 0.39,
+            "Sep 2018": 0.39,
+            "Jun 2018": 0.39,
+            "Mar 2018": 0.39,
+            "Dec 2017": 0.39,
+            "Sep 2017": 0.39,
+            "Jun 2017": 0.39,
+            "Mar 2017": 0.39,
+            "Dec 2016": 0.39,
+            "Sep 2016": 0.39,
+            "Jun 2016": 0.39
+          }
+        ]
+      },
+      {
+        "companyName": "HB Portfolio",
+        "result": [
+          {
+            "Jun 2023": 0.56,
+            "Mar 2023": 0.56,
+            "Dec 2022": 0.56,
+            "Sep 2022": 0.56,
+            "Jun 2022": 0.56,
+            "Mar 2022": 0.56,
+            "Dec 2021": 0.56,
+            "Sep 2021": 0.56,
+            "Jun 2021": 0.56,
+            "Mar 2021": 0.56,
+            "Dec 2020": 0.56,
+            "Sep 2020": 0.56,
+            "Jun 2020": 0.56,
+            "Mar 2020": 0.56,
+            "Dec 2019": 0.56,
+            "Sep 2019": 0.56,
+            "Jun 2019": 0.56,
+            "Mar 2019": 0.56,
+            "Dec 2018": 0.56,
+            "Sep 2018": 0.56,
+            "Jun 2018": 0.56,
+            "Mar 2018": 0.56,
+            "Dec 2017": 0.83,
+            "Sep 2017": 0.83,
+            "Jun 2017": 0.83,
+            "Mar 2017": 0.83,
+            "Dec 2016": 0.83,
+            "Sep 2016": 0.83,
+            "Jun 2016": 0.83
+          }
+        ]
+      },
+      {
+        "companyName": "Indo Gulf Inds.",
+        "result": [
+          {
+            "Jun 2023": 1.79,
+            "Dec 2022": 1.77,
+            "Jun 2022": 1.79,
+            "Mar 2022": 1.79,
+            "Dec 2021": 1.79,
+            "Sep 2021": 1.79,
+            "Jun 2021": 1.79,
+            "Mar 2021": 1.79,
+            "Dec 2020": 1.79,
+            "Sep 2020": 1.79,
+            "Jun 2020": 1.79,
+            "Mar 2020": 1.79,
+            "Dec 2019": 1.79,
+            "Sep 2019": 1.79,
+            "Jun 2019": 1.79,
+            "Mar 2019": 1.79,
+            "Dec 2018": 1.79,
+            "Sep 2018": 1.79,
+            "Jun 2018": 1.79,
+            "Mar 2018": 1.79,
+            "Dec 2017": 1.79,
+            "Sep 2017": 1.79,
+            "Jun 2017": 1.79,
+            "Mar 2017": 1.79,
+            "Dec 2016": 1.79,
+            "Sep 2016": 1.79,
+            "Jun 2016": 1.79,
+            "Mar 2016": 1.79
+          }
+        ]
+      },
+      {
+        "companyName": "IST",
+        "result": [
+          {
+            "Jun 2023": 1.1,
+            "Mar 2023": 1.1,
+            "Dec 2022": 1.1,
+            "Sep 2022": 1.1,
+            "Jun 2022": 1.1,
+            "Mar 2022": 1.1,
+            "Dec 2021": 1.1
+          }
+        ]
+      }
+    ],
+    "id": 9923
+  },
+  {
+    "name": "Picup Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Indo Gulf Inds.",
+        "result": [
+          {
+            "Jun 2023": 1.75,
+            "Dec 2022": 1.73,
+            "Jun 2022": 1.75,
+            "Mar 2022": 1.75,
+            "Dec 2021": 1.75,
+            "Sep 2021": 1.75,
+            "Jun 2021": 1.75,
+            "Mar 2021": 1.75,
+            "Dec 2020": 1.75,
+            "Sep 2020": 1.75,
+            "Jun 2020": 1.75,
+            "Mar 2020": 1.75,
+            "Dec 2019": 1.75,
+            "Sep 2019": 1.75,
+            "Jun 2019": 1.75,
+            "Mar 2019": 1.75,
+            "Dec 2018": 1.75,
+            "Sep 2018": 1.75,
+            "Jun 2018": 1.75,
+            "Mar 2018": 1.75,
+            "Dec 2017": 1.75,
+            "Sep 2017": 1.75,
+            "Jun 2017": 1.75,
+            "Mar 2017": 1.75,
+            "Dec 2016": 1.75,
+            "Sep 2016": 1.75,
+            "Jun 2016": 1.75,
+            "Mar 2016": 1.75
+          }
+        ]
+      }
+    ],
+    "id": 9924
+  },
+  {
+    "name": "Mahendra Girdharila",
+    "shareHoldings": [
+      {
+        "companyName": "Indo Gulf Inds.",
+        "result": [
+          {
+            "Jun 2023": 1.39,
+            "Mar 2023": 1.39,
+            "Dec 2022": 1.38,
+            "Sep 2022": 1.39,
+            "Jun 2022": 1.39,
+            "Mar 2022": 1.39,
+            "Dec 2021": 1.39,
+            "Sep 2021": 1.39,
+            "Jun 2021": 1.39,
+            "Mar 2021": 1.39,
+            "Dec 2020": 1.39,
+            "Sep 2020": 1.39,
+            "Jun 2020": 1.39,
+            "Mar 2020": 1.39,
+            "Dec 2019": 1.39,
+            "Sep 2019": 1.39,
+            "Jun 2019": 1.39,
+            "Mar 2019": 1.39,
+            "Dec 2018": 1.39,
+            "Sep 2018": 1.39,
+            "Jun 2018": 1.39,
+            "Mar 2018": 1.39,
+            "Dec 2017": 1.39,
+            "Sep 2017": 1.39,
+            "Jun 2017": 1.39,
+            "Mar 2017": 1.39,
+            "Dec 2016": 1.39,
+            "Sep 2016": 1.39,
+            "Jun 2016": 1.39,
+            "Mar 2016": 1.39
+          }
+        ]
+      }
+    ],
+    "id": 9925
+  },
+  {
+    "name": "Hb Leasing And Finance Co. Ltd.",
+    "shareHoldings": [
+      {
+        "companyName": "Indo Gulf Inds.",
+        "result": [
+          {
+            "Jun 2023": 1.14,
+            "Dec 2022": 1.13,
+            "Jun 2022": 1.14,
+            "Mar 2022": 1.14,
+            "Dec 2021": 1.14,
+            "Sep 2021": 1.14,
+            "Jun 2021": 1.14,
+            "Mar 2021": 1.14,
+            "Dec 2020": 1.14,
+            "Sep 2020": 1.14,
+            "Jun 2020": 1.14,
+            "Mar 2020": 1.14,
+            "Dec 2019": 1.14,
+            "Sep 2019": 1.14,
+            "Jun 2019": 1.14,
+            "Mar 2019": 1.14,
+            "Dec 2018": 1.14,
+            "Jun 2018": 1.14,
+            "Mar 2018": 1.14,
+            "Dec 2017": 1.14,
+            "Sep 2017": 1.14,
+            "Jun 2017": 1.14,
+            "Mar 2017": 1.14,
+            "Dec 2016": 1.14,
+            "Sep 2016": 1.14,
+            "Jun 2016": 1.14,
+            "Mar 2016": 1.14
+          }
+        ]
+      }
+    ],
+    "id": 9926
+  },
+  {
+    "name": "Logic Infotech Ltd.",
+    "shareHoldings": [
+      {
+        "companyName": "Indo Gulf Inds.",
+        "result": [
+          {
+            "Jun 2023": 1.05,
+            "Dec 2022": 1.03,
+            "Jun 2022": 1.05,
+            "Mar 2022": 1.05,
+            "Dec 2021": 1.05,
+            "Sep 2021": 1.05,
+            "Jun 2021": 1.05,
+            "Mar 2021": 1.05,
+            "Dec 2020": 1.05,
+            "Sep 2020": 1.05,
+            "Jun 2020": 1.05,
+            "Mar 2020": 1.05,
+            "Dec 2019": 1.05,
+            "Sep 2019": 1.05,
+            "Jun 2019": 1.05,
+            "Mar 2019": 1.05,
+            "Dec 2018": 1.05,
+            "Sep 2018": 1.05,
+            "Jun 2018": 1.05,
+            "Mar 2018": 1.05,
+            "Dec 2017": 1.05,
+            "Sep 2017": 1.05,
+            "Jun 2017": 1.05,
+            "Mar 2017": 1.05,
+            "Dec 2016": 1.05,
+            "Sep 2016": 1.05,
+            "Jun 2016": 1.05,
+            "Mar 2016": 1.05
+          }
+        ]
+      }
+    ],
+    "id": 9927
+  },
+  {
+    "name": "Ganesh Explosives Private Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Indo Gulf Inds.",
+        "result": [
+          {
+            "Jun 2023": 53.96,
+            "Mar 2023": 53.96,
+            "Dec 2022": 53.43,
+            "Sep 2022": 53.96,
+            "Jun 2022": 53.96,
+            "Mar 2022": 53.96,
+            "Dec 2021": 53.96,
+            "Sep 2021": 53.96,
+            "Jun 2021": 53.96,
+            "Mar 2021": 53.96,
+            "Dec 2020": 53.96,
+            "Sep 2020": 53.96,
+            "Jun 2020": 53.96,
+            "Mar 2020": 53.96,
+            "Dec 2019": 53.96,
+            "Sep 2019": 53.96,
+            "Jun 2019": 53.96,
+            "Mar 2019": 53.96,
+            "Dec 2018": 53.96,
+            "Sep 2018": 53.96,
+            "Jun 2018": 53.96,
+            "Mar 2018": 53.96,
+            "Dec 2017": 53.96,
+            "Sep 2017": 53.96,
+            "Jun 2017": 53.96
+          }
+        ]
+      }
+    ],
+    "id": 9928
+  },
+  {
+    "name": "HB Leasing & Finance Co.Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Indo Gulf Inds.",
+        "result": [
+          {
+            "Sep 2018": 1.14
+          }
+        ]
+      }
+    ],
+    "id": 9929
+  },
+  {
+    "name": "Arvind Machhar",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 14.57,
+            "Mar 2023": 14.57,
+            "Dec 2022": 8.82,
+            "Sep 2022": 8.82,
+            "Dec 2017": 14.54
+          }
+        ]
+      }
+    ],
+    "id": 9930
+  },
+  {
+    "name": "Race Course Capital Markest Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 11.35,
+            "Mar 2023": 11.35,
+            "Dec 2022": 11.35,
+            "Sep 2022": 11.35,
+            "Dec 2017": 11.35
+          }
+        ]
+      }
+    ],
+    "id": 9931
+  },
+  {
+    "name": "Sunil Machhar",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 5.96,
+            "Mar 2023": 6.85,
+            "Dec 2022": 6.58,
+            "Sep 2022": 6.58,
+            "Dec 2017": 6.85
+          }
+        ]
+      }
+    ],
+    "id": 9932
+  },
+  {
+    "name": "Sunita Machhar",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 6.73,
+            "Mar 2023": 6.73,
+            "Dec 2022": 6.73,
+            "Sep 2022": 6.73,
+            "Dec 2017": 6.73
+          }
+        ]
+      }
+    ],
+    "id": 9933
+  },
+  {
+    "name": "Dimpi Machhar",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 5.94,
+            "Mar 2023": 5.94,
+            "Dec 2022": 5.94,
+            "Sep 2022": 5.94,
+            "Dec 2017": 5.94
+          }
+        ]
+      }
+    ],
+    "id": 9934
+  },
+  {
+    "name": "Prema Machhar",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 5.91,
+            "Mar 2023": 5.91,
+            "Dec 2022": 5.89,
+            "Sep 2022": 5.89,
+            "Dec 2017": 5.91
+          }
+        ]
+      }
+    ],
+    "id": 9935
+  },
+  {
+    "name": "Anil Machhar",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 4.4,
+            "Mar 2023": 4.4,
+            "Dec 2022": 4.4,
+            "Sep 2022": 4.4,
+            "Dec 2017": 4.4
+          }
+        ]
+      }
+    ],
+    "id": 9936
+  },
+  {
+    "name": "Kiran Machhar",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 3.47,
+            "Mar 2023": 3.47,
+            "Dec 2022": 3.42,
+            "Sep 2022": 3.42,
+            "Dec 2017": 3.51
+          }
+        ]
+      }
+    ],
+    "id": 9937
+  },
+  {
+    "name": "Sheetal Machhar",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 1.92,
+            "Mar 2023": 1.92,
+            "Dec 2022": 1.9,
+            "Sep 2022": 1.9,
+            "Dec 2017": 1.92
+          }
+        ]
+      }
+    ],
+    "id": 9938
+  },
+  {
+    "name": "Nagarjuna Finance Limited",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Dec 2017": 1.9
+          }
+        ]
+      },
+      {
+        "companyName": "Sover. Diamonds",
+        "result": [
+          {
+            "Jun 2023": 1.58,
+            "Mar 2023": 1.58,
+            "Dec 2022": 1.58,
+            "Sep 2022": 1.58,
+            "Jun 2022": 1.58,
+            "Mar 2022": 1.58,
+            "Dec 2021": 1.58,
+            "Sep 2021": 1.58,
+            "Jun 2021": 1.58,
+            "Mar 2021": 1.58,
+            "Dec 2020": 1.58,
+            "Sep 2020": 1.58,
+            "Jun 2020": 1.58,
+            "Mar 2020": 1.58,
+            "Dec 2019": 1.58,
+            "Sep 2019": 1.58,
+            "Jun 2019": 1.58,
+            "Mar 2019": 1.58,
+            "Dec 2018": 1.58,
+            "Sep 2018": 1.58,
+            "Jun 2018": 1.58,
+            "Mar 2018": 1.58,
+            "Dec 2017": 1.58,
+            "Sep 2017": 1.58,
+            "Jun 2017": 1.58,
+            "Mar 2017": 1.58,
+            "Dec 2016": 1.58,
+            "Sep 2016": 1.58,
+            "Jun 2016": 1.58
+          }
+        ]
+      }
+    ],
+    "id": 9939
+  },
+  {
+    "name": "Sandeep Machhar",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 1.65,
+            "Mar 2023": 0.95,
+            "Dec 2022": 0.95,
+            "Sep 2022": 0.95,
+            "Dec 2017": 1.65
+          }
+        ]
+      }
+    ],
+    "id": 9940
+  },
+  {
+    "name": "Utsav Machhar",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 1.53,
+            "Mar 2023": 1.53,
+            "Dec 2022": 0.95,
+            "Sep 2022": 0.95,
+            "Dec 2017": 1.5
+          }
+        ]
+      }
+    ],
+    "id": 9941
+  },
+  {
+    "name": "Suyog Machhar",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 0.92,
+            "Mar 2023": 1.18,
+            "Dec 2022": 0.81,
+            "Sep 2022": 0.81,
+            "Dec 2017": 1.18
+          }
+        ]
+      }
+    ],
+    "id": 9942
+  },
+  {
+    "name": "Parva Machhar",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Dec 2017": 1.17
+          }
+        ]
+      }
+    ],
+    "id": 9943
+  },
+  {
+    "name": "Ravi Machhar",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 2,
+            "Mar 2023": 1.17,
+            "Dec 2022": 1.17,
+            "Sep 2022": 1.17,
+            "Dec 2017": 1.17
+          }
+        ]
+      }
+    ],
+    "id": 9944
+  },
+  {
+    "name": "Nawnit Machhar",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Dec 2017": 0.98
+          }
+        ]
+      }
+    ],
+    "id": 9945
+  },
+  {
+    "name": "Arpit Machhar",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 0.78,
+            "Mar 2023": 0.78,
+            "Dec 2022": 0.42,
+            "Sep 2022": 0.42,
+            "Dec 2017": 0.78
+          }
+        ]
+      }
+    ],
+    "id": 9946
+  },
+  {
+    "name": "Garva Machhar",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Dec 2017": 0.7
+          }
+        ]
+      }
+    ],
+    "id": 9947
+  },
+  {
+    "name": "Suyog Beneficial Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 0.28,
+            "Mar 2023": 0.28,
+            "Dec 2022": 0.28,
+            "Sep 2022": 0.28,
+            "Dec 2017": 0.28
+          }
+        ]
+      },
+      {
+        "companyName": "Machhar Industri",
+        "result": [
+          {
+            "Jun 2023": 0.5
+          }
+        ]
+      }
+    ],
+    "id": 9948
+  },
+  {
+    "name": "Utkarsh Beneficial Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 0.25,
+            "Mar 2023": 0.25,
+            "Dec 2022": 0.25,
+            "Sep 2022": 0.25,
+            "Dec 2017": 0.25
+          }
+        ]
+      },
+      {
+        "companyName": "Machhar Industri",
+        "result": [
+          {
+            "Jun 2023": 0.44
+          }
+        ]
+      }
+    ],
+    "id": 9949
+  },
+  {
+    "name": "Arpit Beneficial Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 0.22,
+            "Mar 2023": 0.22,
+            "Dec 2022": 0.22,
+            "Sep 2022": 0.22,
+            "Dec 2017": 0.22
+          }
+        ]
+      },
+      {
+        "companyName": "Machhar Industri",
+        "result": [
+          {
+            "Jun 2023": 0.39
+          }
+        ]
+      }
+    ],
+    "id": 9950
+  },
+  {
+    "name": "Prabha Machhar",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 0.19,
+            "Mar 2023": 0.19,
+            "Dec 2022": 0.19,
+            "Sep 2022": 0.19,
+            "Dec 2017": 0.19
+          }
+        ]
+      }
+    ],
+    "id": 9951
+  },
+  {
+    "name": "Gautam Kabra",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 0.15,
+            "Mar 2023": 0.15,
+            "Dec 2022": 0.15,
+            "Sep 2022": 0.15,
+            "Dec 2017": 0.15
+          }
+        ]
+      }
+    ],
+    "id": 9952
+  },
+  {
+    "name": "Sandeep Machhar Huf",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 0.15,
+            "Mar 2023": 0.15,
+            "Dec 2022": 0.15,
+            "Sep 2022": 0.15,
+            "Dec 2017": 0.15
+          }
+        ]
+      },
+      {
+        "companyName": "Machhar Industri",
+        "result": [
+          {
+            "Jun 2023": 0.26
+          }
+        ]
+      }
+    ],
+    "id": 9953
+  },
+  {
+    "name": "Garva Beneficial Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 0.13,
+            "Mar 2023": 0.13,
+            "Dec 2022": 0.13,
+            "Sep 2022": 0.13,
+            "Dec 2017": 0.13
+          }
+        ]
+      }
+    ],
+    "id": 9954
+  },
+  {
+    "name": "Sunil Machhar (Sbm Trust)",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Mar 2023": 0.05,
+            "Dec 2022": 0.05,
+            "Sep 2022": 0.05,
+            "Dec 2017": 0.12
+          }
+        ]
+      }
+    ],
+    "id": 9955
+  },
+  {
+    "name": "O G Somani",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 0.11,
+            "Mar 2023": 0.11,
+            "Dec 2022": 0.11,
+            "Sep 2022": 0.11,
+            "Dec 2017": 0.11
+          }
+        ]
+      }
+    ],
+    "id": 9956
+  },
+  {
+    "name": "Anil Machhar (Trustee Of Sbm)",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 0.09,
+            "Mar 2023": 0.09,
+            "Dec 2022": 0.09,
+            "Sep 2022": 0.09,
+            "Dec 2017": 0.09
+          }
+        ]
+      }
+    ],
+    "id": 9957
+  },
+  {
+    "name": "Sarswati Devi Machhar",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 0.07,
+            "Mar 2023": 0.07,
+            "Dec 2022": 0.07,
+            "Sep 2022": 0.07,
+            "Dec 2017": 0.07
+          }
+        ]
+      },
+      {
+        "companyName": "Machhar Industri",
+        "result": [
+          {
+            "Jun 2023": 0.12
+          }
+        ]
+      }
+    ],
+    "id": 9958
+  },
+  {
+    "name": "Sunil Machhar Huf",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 0.06,
+            "Mar 2023": 0.06,
+            "Dec 2022": 0.06,
+            "Sep 2022": 0.06,
+            "Dec 2017": 0.06
+          }
+        ]
+      },
+      {
+        "companyName": "Machhar Industri",
+        "result": [
+          {
+            "Jun 2023": 0.1
+          }
+        ]
+      }
+    ],
+    "id": 9959
+  },
+  {
+    "name": "Ravi Machhar (Trsutee Of Rkm )",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 0.06,
+            "Mar 2023": 0.06,
+            "Dec 2022": 0.06,
+            "Sep 2022": 0.06,
+            "Dec 2017": 0.06
+          }
+        ]
+      }
+    ],
+    "id": 9960
+  },
+  {
+    "name": "Nawnit Machhar Huf",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 0.06,
+            "Mar 2023": 0.06,
+            "Dec 2022": 0.06,
+            "Sep 2022": 0.06,
+            "Dec 2017": 0.06
+          }
+        ]
+      }
+    ],
+    "id": 9961
+  },
+  {
+    "name": "Paarva Beneficial Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 0.05,
+            "Mar 2023": 0.05,
+            "Dec 2022": 0.05,
+            "Sep 2022": 0.05,
+            "Dec 2017": 0.05
+          }
+        ]
+      }
+    ],
+    "id": 9962
+  },
+  {
+    "name": "Master Parv R Machhar",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 0.04,
+            "Mar 2023": 0.04,
+            "Dec 2022": 0.04,
+            "Sep 2022": 0.04,
+            "Dec 2017": 0.04
+          }
+        ]
+      }
+    ],
+    "id": 9963
+  },
+  {
+    "name": "Master Nischint A Machhar",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Dec 2017": 0.04
+          }
+        ]
+      }
+    ],
+    "id": 9964
+  },
+  {
+    "name": "Master Garv N Machhar",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Mar 2023": 0.04,
+            "Dec 2022": 0.04,
+            "Sep 2022": 0.04,
+            "Dec 2017": 0.04
+          }
+        ]
+      }
+    ],
+    "id": 9965
+  },
+  {
+    "name": "Ankit Machhar",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 0.04,
+            "Mar 2023": 0.04,
+            "Dec 2022": 0.04,
+            "Sep 2022": 0.04,
+            "Dec 2017": 0.04
+          }
+        ]
+      },
+      {
+        "companyName": "Machhar Industri",
+        "result": [
+          {
+            "Jun 2023": 0.07
+          }
+        ]
+      }
+    ],
+    "id": 9966
+  },
+  {
+    "name": "Ravi Machhar Huf",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 0.03,
+            "Mar 2023": 0.03,
+            "Dec 2022": 0.03,
+            "Sep 2022": 0.03,
+            "Dec 2017": 0.03
+          }
+        ]
+      },
+      {
+        "companyName": "Machhar Industri",
+        "result": [
+          {
+            "Jun 2023": 0.06
+          }
+        ]
+      }
+    ],
+    "id": 9967
+  },
+  {
+    "name": "Master Utsav R Machhar",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Dec 2022": 0.03,
+            "Sep 2022": 0.03,
+            "Dec 2017": 0.03
+          }
+        ]
+      }
+    ],
+    "id": 9968
+  },
+  {
+    "name": "Ankit Beneficial Trust",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 0.03,
+            "Mar 2023": 0.03,
+            "Dec 2022": 0.03,
+            "Sep 2022": 0.03,
+            "Dec 2017": 0.03
+          }
+        ]
+      },
+      {
+        "companyName": "Machhar Industri",
+        "result": [
+          {
+            "Jun 2023": 0.05
+          }
+        ]
+      }
+    ],
+    "id": 9969
+  },
+  {
+    "name": "Anil Machhar Huf",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Jun 2023": 0.02,
+            "Mar 2023": 0.02,
+            "Dec 2022": 0.02,
+            "Sep 2022": 0.02,
+            "Dec 2017": 0.02
+          }
+        ]
+      }
+    ],
+    "id": 9970
+  },
+  {
+    "name": "Master Kaniya Machhar",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {
+            "Mar 2023": 0.01,
+            "Dec 2022": 0.01,
+            "Sep 2022": 0.01,
+            "Dec 2017": 0.01
+          }
+        ]
+      }
+    ],
+    "id": 9971
+  },
+  {
+    "name": "Gopikishan Machhar",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {}
+        ]
+      },
+      {
+        "companyName": "Machhar Industri",
+        "result": [
+          {
+            "Jun 2023": 0.01
+          }
+        ]
+      }
+    ],
+    "id": 9972
+  },
+  {
+    "name": "Master Suyash A Machhar",
+    "shareHoldings": [
+      {
+        "companyName": "Apt Packaging",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 9973
+  },
+  {
+    "name": "Sanil Prakash Sahu",
+    "shareHoldings": [
+      {
+        "companyName": "Gwalior Polypipe",
+        "result": [
+          {
+            "Mar 2018": 5.15,
+            "Dec 2017": 5.15,
+            "Sep 2017": 5.15,
+            "Jun 2017": 5.15,
+            "Mar 2017": 5.15,
+            "Dec 2016": 5.15,
+            "Sep 2016": 5.15,
+            "Jun 2016": 5.15
+          }
+        ]
+      }
+    ],
+    "id": 9974
+  },
+  {
+    "name": "Ram Niwas Sharma",
+    "shareHoldings": [
+      {
+        "companyName": "AMS Polymers",
+        "result": [
+          {
+            "Dec 2016": 4.6,
+            "Sep 2016": 4.6
+          }
+        ]
+      },
+      {
+        "companyName": "Gwalior Polypipe",
+        "result": [
+          {
+            "Mar 2018": 4.15,
+            "Dec 2017": 4.15,
+            "Sep 2017": 0.01,
+            "Jun 2017": 4.15,
+            "Mar 2017": 4.15,
+            "Dec 2016": 4.15,
+            "Sep 2016": 4.15,
+            "Jun 2016": 4.15
+          }
+        ]
+      }
+    ],
+    "id": 9975
+  },
+  {
+    "name": "Kajal Exports Pvt Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "Gwalior Polypipe",
+        "result": [
+          {
+            "Mar 2018": 3.6,
+            "Dec 2017": 3.6,
+            "Sep 2017": 3.6,
+            "Jun 2017": 3.6,
+            "Mar 2017": 3.6,
+            "Dec 2016": 3.6,
+            "Sep 2016": 3.6,
+            "Jun 2016": 3.6
+          }
+        ]
+      }
+    ],
+    "id": 9976
+  },
+  {
+    "name": "Harish Kumar Sahu",
+    "shareHoldings": [
+      {
+        "companyName": "Gwalior Polypipe",
+        "result": [
+          {
+            "Mar 2018": 2.78,
+            "Dec 2017": 2.78,
+            "Sep 2017": 2.78,
+            "Jun 2017": 2.78,
+            "Mar 2017": 2.78,
+            "Dec 2016": 2.78,
+            "Sep 2016": 2.78,
+            "Jun 2016": 2.78
+          }
+        ]
+      }
+    ],
+    "id": 9977
+  },
+  {
+    "name": "Devila Harish Sahu",
+    "shareHoldings": [
+      {
+        "companyName": "Gwalior Polypipe",
+        "result": [
+          {
+            "Mar 2018": 2.54,
+            "Dec 2017": 2.54,
+            "Sep 2017": 2.54,
+            "Jun 2017": 2.54,
+            "Mar 2017": 2.54,
+            "Dec 2016": 2.54,
+            "Sep 2016": 2.54,
+            "Jun 2016": 2.54
+          }
+        ]
+      }
+    ],
+    "id": 9978
+  },
+  {
+    "name": "Swati Sanil Sahu",
+    "shareHoldings": [
+      {
+        "companyName": "Gwalior Polypipe",
+        "result": [
+          {
+            "Mar 2018": 1.09,
+            "Dec 2017": 1.09,
+            "Sep 2017": 1.09,
+            "Jun 2017": 1.09,
+            "Mar 2017": 1.09,
+            "Dec 2016": 1.09,
+            "Sep 2016": 1.09,
+            "Jun 2016": 1.09
+          }
+        ]
+      }
+    ],
+    "id": 9979
+  },
+  {
+    "name": "Sanil Prakash Huf",
+    "shareHoldings": [
+      {
+        "companyName": "Gwalior Polypipe",
+        "result": [
+          {
+            "Mar 2018": 0.88,
+            "Dec 2017": 0.88,
+            "Sep 2017": 0.88,
+            "Jun 2017": 0.88,
+            "Mar 2017": 0.88,
+            "Dec 2016": 0.88,
+            "Sep 2016": 0.88,
+            "Jun 2016": 0.88
+          }
+        ]
+      }
+    ],
+    "id": 9980
+  },
+  {
+    "name": "Kajal Sahu",
+    "shareHoldings": [
+      {
+        "companyName": "Gwalior Polypipe",
+        "result": [
+          {
+            "Mar 2018": 0.6,
+            "Dec 2017": 0.6,
+            "Sep 2017": 0.6,
+            "Jun 2017": 0.6,
+            "Mar 2017": 0.6,
+            "Dec 2016": 0.6,
+            "Sep 2016": 0.6,
+            "Jun 2016": 0.6
+          }
+        ]
+      }
+    ],
+    "id": 9981
+  },
+  {
+    "name": "Sweta Sahu",
+    "shareHoldings": [
+      {
+        "companyName": "Gwalior Polypipe",
+        "result": [
+          {
+            "Mar 2018": 0.42,
+            "Dec 2017": 0.42,
+            "Sep 2017": 0.42,
+            "Jun 2017": 0.42,
+            "Mar 2017": 0.42,
+            "Dec 2016": 0.42,
+            "Sep 2016": 0.42,
+            "Jun 2016": 0.42
+          }
+        ]
+      }
+    ],
+    "id": 9982
+  },
+  {
+    "name": "Nisha Polymers Industries Ltd",
+    "shareHoldings": [
+      {
+        "companyName": "Gwalior Polypipe",
+        "result": [
+          {
+            "Mar 2018": 0.29,
+            "Dec 2017": 0.29,
+            "Sep 2017": 0.29,
+            "Jun 2017": 0.29,
+            "Mar 2017": 0.29,
+            "Dec 2016": 0.29,
+            "Sep 2016": 0.29,
+            "Jun 2016": 0.29
+          }
+        ]
+      }
+    ],
+    "id": 9983
+  },
+  {
+    "name": "Shivani Sanil Sahu",
+    "shareHoldings": [
+      {
+        "companyName": "Gwalior Polypipe",
+        "result": [
+          {
+            "Mar 2018": 0.23,
+            "Dec 2017": 0.23,
+            "Sep 2017": 4.37,
+            "Jun 2017": 0.23,
+            "Mar 2017": 0.23,
+            "Dec 2016": 0.23,
+            "Sep 2016": 0.23,
+            "Jun 2016": 0.23
+          }
+        ]
+      }
+    ],
+    "id": 9984
+  },
+  {
+    "name": "Anil Prakash Sahu",
+    "shareHoldings": [
+      {
+        "companyName": "Gwalior Polypipe",
+        "result": [
+          {
+            "Mar 2018": 0.19,
+            "Dec 2017": 0.19,
+            "Sep 2017": 0.19,
+            "Jun 2017": 0.19,
+            "Mar 2017": 0.19,
+            "Dec 2016": 0.19,
+            "Sep 2016": 0.19,
+            "Jun 2016": 0.19
+          }
+        ]
+      }
+    ],
+    "id": 9985
+  },
+  {
+    "name": "Harish Kumar Huf",
+    "shareHoldings": [
+      {
+        "companyName": "Gwalior Polypipe",
+        "result": [
+          {
+            "Mar 2018": 0.09,
+            "Dec 2017": 0.09,
+            "Sep 2017": 0.09,
+            "Jun 2017": 0.09,
+            "Mar 2017": 0.09,
+            "Dec 2016": 0.09,
+            "Sep 2016": 0.09,
+            "Jun 2016": 0.09
+          }
+        ]
+      },
+      {
+        "companyName": "Vitan Agro Inds.",
+        "result": [
+          {
+            "Dec 2018": 2.39,
+            "Sep 2018": 2.39,
+            "Jun 2018": 2.39,
+            "Mar 2018": 2.39,
+            "Dec 2016": 2.39
+          }
+        ]
+      }
+    ],
+    "id": 9986
+  },
+  {
+    "name": "Anil Prakash Huf",
+    "shareHoldings": [
+      {
+        "companyName": "Gwalior Polypipe",
+        "result": [
+          {
+            "Mar 2018": 0.01,
+            "Dec 2017": 0.01,
+            "Sep 2017": 0.01,
+            "Jun 2017": 0.01,
+            "Mar 2017": 0.01,
+            "Dec 2016": 0.01,
+            "Sep 2016": 0.01,
+            "Jun 2016": 0.01
+          }
+        ]
+      }
+    ],
+    "id": 9987
+  },
+  {
+    "name": "Priyanka Anil Sahu",
+    "shareHoldings": [
+      {
+        "companyName": "Gwalior Polypipe",
+        "result": [
+          {
+            "Mar 2018": 0.01,
+            "Dec 2017": 0.01,
+            "Sep 2017": 0.01,
+            "Jun 2017": 0.01,
+            "Mar 2017": 0.01,
+            "Dec 2016": 0.01,
+            "Sep 2016": 0.01,
+            "Jun 2016": 0.01
+          }
+        ]
+      }
+    ],
+    "id": 9988
+  },
+  {
+    "name": "Bindu Anil Sahu",
+    "shareHoldings": [
+      {
+        "companyName": "Gwalior Polypipe",
+        "result": [
+          {
+            "Mar 2018": 0.01,
+            "Dec 2017": 0.01,
+            "Sep 2017": 0.01,
+            "Jun 2017": 0.01,
+            "Mar 2017": 0.01,
+            "Dec 2016": 0.01,
+            "Sep 2016": 0.01,
+            "Jun 2016": 0.01
+          }
+        ]
+      }
+    ],
+    "id": 9989
+  },
+  {
+    "name": "Anu Anil Sahu",
+    "shareHoldings": [
+      {
+        "companyName": "Gwalior Polypipe",
+        "result": [
+          {
+            "Mar 2018": 0.01,
+            "Dec 2017": 0.01,
+            "Sep 2017": 0.01,
+            "Jun 2017": 0.01,
+            "Mar 2017": 0.01,
+            "Dec 2016": 0.01,
+            "Sep 2016": 0.01,
+            "Jun 2016": 0.01
+          }
+        ]
+      }
+    ],
+    "id": 9990
+  },
+  {
+    "name": "K V Viswamohan",
+    "shareHoldings": [
+      {
+        "companyName": "SDF Industries",
+        "result": [
+          {
+            "Jun 2023": 24.74,
+            "Mar 2023": 24.74,
+            "Dec 2022": 24.74,
+            "Sep 2022": 24.74,
+            "Jun 2022": 24.74,
+            "Mar 2022": 24.74,
+            "Dec 2021": 24.74,
+            "Sep 2021": 24.74,
+            "Jun 2021": 24.74,
+            "Mar 2021": 24.74,
+            "Dec 2020": 24.74,
+            "Sep 2020": 24.74,
+            "Jun 2020": 24.74,
+            "Mar 2020": 24.74,
+            "Dec 2019": 24.74,
+            "Sep 2019": 24.74,
+            "Jun 2019": 24.74,
+            "Mar 2019": 24.74,
+            "Dec 2018": 24.74,
+            "Sep 2018": 24.74,
+            "Jun 2018": 24.74,
+            "Mar 2018": 24.74,
+            "Dec 2017": 24.74,
+            "Sep 2017": 24.74,
+            "Jun 2017": 24.74,
+            "Mar 2017": 24.74,
+            "Dec 2016": 24.74,
+            "Sep 2016": 24.74,
+            "Jun 2016": 24.74
+          }
+        ]
+      }
+    ],
+    "id": 9991
+  },
+  {
+    "name": "Pradeep Menon K V",
+    "shareHoldings": [
+      {
+        "companyName": "SDF Industries",
+        "result": [
+          {
+            "Jun 2023": 5.62,
+            "Mar 2023": 5.62,
+            "Dec 2022": 5.62,
+            "Sep 2022": 5.62,
+            "Jun 2022": 5.62,
+            "Mar 2022": 5.62,
+            "Dec 2021": 5.62,
+            "Sep 2021": 5.62,
+            "Jun 2021": 5.62,
+            "Mar 2021": 5.62,
+            "Dec 2020": 5.62,
+            "Sep 2020": 5.62,
+            "Jun 2020": 5.62,
+            "Mar 2020": 5.62,
+            "Dec 2019": 5.62,
+            "Sep 2019": 5.62,
+            "Jun 2019": 5.62,
+            "Mar 2019": 5.62,
+            "Dec 2018": 5.62,
+            "Sep 2018": 5.62,
+            "Jun 2018": 5.62,
+            "Mar 2018": 5.62,
+            "Dec 2017": 5.62,
+            "Sep 2017": 5.62,
+            "Jun 2017": 5.62,
+            "Mar 2017": 5.62,
+            "Dec 2016": 5.62,
+            "Sep 2016": 5.62,
+            "Jun 2016": 5.62
+          }
+        ]
+      }
+    ],
+    "id": 9992
+  },
+  {
+    "name": "Balakrishnan C",
+    "shareHoldings": [
+      {
+        "companyName": "Sai Jeevadhara",
+        "result": [
+          {
+            "Dec 2018": 0.02,
+            "Sep 2018": 0.02,
+            "Jun 2018": 0.02,
+            "Dec 2017": 0.02,
+            "Mar 2017": 0.02,
+            "Dec 2016": 0.02
+          }
+        ]
+      },
+      {
+        "companyName": "SDF Industries",
+        "result": [
+          {
+            "Jun 2023": 2.22,
+            "Mar 2023": 2.22,
+            "Dec 2022": 2.22,
+            "Sep 2022": 2.22,
+            "Jun 2022": 2.22,
+            "Mar 2022": 2.22,
+            "Dec 2021": 2.22,
+            "Sep 2021": 2.22,
+            "Jun 2021": 2.22,
+            "Mar 2021": 2.22,
+            "Dec 2020": 2.22,
+            "Sep 2020": 2.22,
+            "Jun 2020": 2.22,
+            "Mar 2020": 2.22,
+            "Dec 2019": 2.22,
+            "Mar 2019": 2.22,
+            "Dec 2018": 2.22,
+            "Sep 2018": 2.22,
+            "Jun 2018": 2.22,
+            "Mar 2018": 2.22,
+            "Dec 2017": 2.22,
+            "Sep 2017": 2.22,
+            "Jun 2017": 2.22,
+            "Mar 2017": 2.22,
+            "Dec 2016": 2.22,
+            "Jun 2016": 2.22
+          }
+        ]
+      }
+    ],
+    "id": 9993
+  },
+  {
+    "name": "Champak Metals Private Limited",
+    "shareHoldings": [
+      {
+        "companyName": "SDF Industries",
+        "result": [
+          {
+            "Jun 2023": 1.48,
+            "Mar 2023": 1.48,
+            "Dec 2022": 1.48,
+            "Sep 2022": 1.48,
+            "Jun 2022": 1.48,
+            "Mar 2022": 1.48,
+            "Dec 2021": 1.48,
+            "Sep 2021": 1.48,
+            "Jun 2021": 1.48,
+            "Mar 2021": 1.48,
+            "Dec 2020": 1.48,
+            "Sep 2020": 1.48,
+            "Jun 2020": 1.48,
+            "Mar 2020": 1.48,
+            "Dec 2019": 1.48,
+            "Sep 2019": 1.48,
+            "Jun 2019": 1.48,
+            "Mar 2019": 1.48,
+            "Dec 2018": 1.48,
+            "Sep 2018": 1.48,
+            "Jun 2018": 1.48,
+            "Mar 2018": 1.48,
+            "Dec 2017": 1.48,
+            "Sep 2017": 1.48,
+            "Jun 2017": 1.48,
+            "Mar 2017": 1.48,
+            "Dec 2016": 1.48,
+            "Sep 2016": 1.48,
+            "Jun 2016": 1.48
+          }
+        ]
+      }
+    ],
+    "id": 9994
+  },
+  {
+    "name": "Kinjal Finance Limited",
+    "shareHoldings": [
+      {
+        "companyName": "SDF Industries",
+        "result": [
+          {
+            "Jun 2023": 1.29,
+            "Mar 2023": 1.29,
+            "Dec 2022": 1.29,
+            "Sep 2022": 1.29,
+            "Jun 2022": 1.29,
+            "Mar 2022": 1.29,
+            "Dec 2021": 1.29,
+            "Sep 2021": 1.29,
+            "Jun 2021": 1.29,
+            "Mar 2021": 1.29,
+            "Dec 2020": 1.29,
+            "Sep 2020": 1.29,
+            "Jun 2020": 1.29,
+            "Mar 2020": 1.29,
+            "Dec 2019": 1.29,
+            "Sep 2019": 1.29,
+            "Jun 2019": 1.29,
+            "Mar 2019": 1.29,
+            "Dec 2018": 1.29,
+            "Sep 2018": 1.29,
+            "Jun 2018": 1.29,
+            "Mar 2018": 1.29,
+            "Dec 2017": 1.29,
+            "Sep 2017": 1.29,
+            "Jun 2017": 1.29,
+            "Mar 2017": 1.29,
+            "Dec 2016": 1.29,
+            "Sep 2016": 1.29,
+            "Jun 2016": 1.29
+          }
+        ]
+      }
+    ],
+    "id": 9995
+  },
+  {
+    "name": "Usha Mohan Krishnan",
+    "shareHoldings": [
+      {
+        "companyName": "SDF Industries",
+        "result": [
+          {
+            "Jun 2023": 0.54,
+            "Mar 2023": 0.54,
+            "Dec 2022": 0.54,
+            "Sep 2022": 0.54,
+            "Jun 2022": 0.54,
+            "Mar 2022": 0.54,
+            "Dec 2021": 0.54,
+            "Sep 2021": 0.54,
+            "Jun 2021": 0.54,
+            "Mar 2021": 0.54,
+            "Dec 2020": 0.54,
+            "Sep 2020": 0.54,
+            "Jun 2020": 0.54,
+            "Mar 2020": 0.54,
+            "Dec 2019": 0.54,
+            "Sep 2019": 0.54,
+            "Jun 2019": 0.54,
+            "Mar 2019": 0.54,
+            "Dec 2018": 0.54,
+            "Sep 2018": 0.54,
+            "Jun 2018": 0.54,
+            "Mar 2018": 0.54,
+            "Dec 2017": 0.54,
+            "Sep 2017": 0.54,
+            "Jun 2017": 0.54,
+            "Mar 2017": 0.54,
+            "Dec 2016": 0.54,
+            "Sep 2016": 0.54,
+            "Jun 2016": 0.54
+          }
+        ]
+      }
+    ],
+    "id": 9996
+  },
+  {
+    "name": "Krishna Kumar K V",
+    "shareHoldings": [
+      {
+        "companyName": "SDF Industries",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 9997
+  },
+  {
+    "name": "Santosh K V",
+    "shareHoldings": [
+      {
+        "companyName": "SDF Industries",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 9998
+  },
+  {
+    "name": "Shalini Sivakumar K V",
+    "shareHoldings": [
+      {
+        "companyName": "SDF Industries",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 9999
+  },
+  {
+    "name": "Sivakumar K",
+    "shareHoldings": [
+      {
+        "companyName": "Sai Jeevadhara",
+        "result": [
+          {}
+        ]
+      },
+      {
+        "companyName": "SDF Industries",
+        "result": [
+          {}
+        ]
+      }
+    ],
+    "id": 10000
+  }
+]
